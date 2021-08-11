@@ -1,6 +1,6 @@
 # UX_Opportunities_2021-2022
 
-Here's the Job Board Resources
+Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a place for us up-and-coming designers and students to explore and meet people beyond our design bubble.
 
 New Grad
 | Company  | Location | Date Added
