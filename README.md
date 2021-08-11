@@ -8,7 +8,7 @@ New Grad
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | Content Cell | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | Content Cell | 8/6 
 | [Facebook - UX Researcher (New Grad)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
-| [EY - UX/UI Designer](https://careers.ey.com/ey/job/New-York-UXUI-Designer-Open-Location-NY-10003/701368301/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin)  | New York, NY | 8/6  
+| [Ernest & Young (EY) - UX/UI Designer](https://careers.ey.com/ey/job/New-York-UXUI-Designer-Open-Location-NY-10003/701368301/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin)  | New York, NY | 8/6  
 | [Grubhub - Product Designer](https://careers-grubhub.icims.com/jobs/12095/product-designer/job)  | Chicago, IL  | 8/6 
 | [Intuit - Product Designer Strategist](https://jobs.intuit.com/job/-/-/27595/19649695)  | Remote | 8/6 
 | [Playstation - Assistant UX Research Analyst](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3368016/?t=b8y5ha)  | San Mateo, CA  | 8/6  
