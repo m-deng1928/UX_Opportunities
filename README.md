@@ -25,6 +25,13 @@ New Grad
 | [Sidecar Health - Product Designer](https://boards.greenhouse.io/sidecarhealth/jobs/4030961004?s=LinkedIn&source=LinkedIn)| Los Angeles, CA | 8/7
 | [Allbirds - Junior Designer, Digital Product](https://www.allbirds.com/pages/careers?gh_jid=3194798&gh_src=083bd19f1us)  | San Francisco, CA  | 8/9
 | [BetterUp - Associate People Scientist](https://boards.greenhouse.io/betterup/jobs/3148967?gh_src=j6pt7f1&s=LinkedIn&source=LinkedIn)  | San Francisco, CA| 8/11
+| [KPMG - Associate, Digital Product Designer](https://us-jobs.kpmg.com/careers/JobDetail?jobId=66860&srcCat=Direct+Contact&specSrc=LinkedIn)  | Denver, CO/ Atlanta, GA/ Chicago, IL/ Baltimore, MD/ New York, NY/ Austin, TX/ Dallas, TX | 8/11
+| [Docusign - Product Designer](https://www.docusign.com/company/careers/open?gh_jid=3373755&gh_src=ua6xck)  | Chicago, IL | 8/11
+| [IBM - Entry Level Design Researcher](https://careers.ibm.com/job/13527880/entry-level-design-researcher-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Multiple Cities (not listed) | 8/12
+| [IBM - Entry Level Visual Designer](https://careers.ibm.com/job/13527925/entry-level-visual-designer-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn)| Multiple Cities (not listed) | 8/12
+| [IBM - Entry Level User Experience Designer](https://careers.ibm.com/job/13527882/entry-level-user-experience-designer-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn)| Multiple Cities (not listed) | 8/12
+| [Klarna - UX Researcher](https://jobs.lever.co/klarna/51d80137-44a6-4983-834f-c6a66c826698?s=LinkedIn)| New York | 8/12
+
 
 Intern
 | Company  | Location | Details | Date Added
@@ -51,3 +58,11 @@ Intern
 | [Datadog - Product Design](https://www.datadoghq.com/careers/detail/?gh_jid=3318297&gh_src=8363eca61) | New York, NY | Summer 2022 | 8/12
 | [Landor & Fitch - Motion Design](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Summer 2022 | 8/12
 | [Monigle - Digital Experience Design](https://monigle.hua.hrsmart.com/hr/ats/Posting/view/93) | Denver, CO | Summer 2022 (?) | 8/12
+| [Monigle - Digital Experience Design](https://monigle.hua.hrsmart.com/hr/ats/Posting/view/93) | Denver, CO | Summer 2022 (?) | 8/12
+| [Amazon - User Experience (UX) Researcher Intern](https://www.amazon.jobs/en/jobs/1629158/user-experience-ux-researcher-intern-summer-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
+| [Amazon - User Experience (UX) Designer Intern](https://www.amazon.jobs/en/jobs/1629157/user-experience-ux-designer-intern-summer-2022) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
+| [IBM - Content Design](https://careers.ibm.com/job/13522717/content-design-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
+| [IBM - Design Research](https://careers.ibm.com/job/13527879/design-research-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
+| [IBM - User Experience Designer](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
+
