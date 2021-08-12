@@ -59,9 +59,9 @@ Intern
 | [Landor & Fitch - Motion Design](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Summer 2022 | 8/12
 | [Monigle - Digital Experience Design](https://monigle.hua.hrsmart.com/hr/ats/Posting/view/93) | Denver, CO | Summer 2022 (?) | 8/12
 | [Monigle - Digital Experience Design](https://monigle.hua.hrsmart.com/hr/ats/Posting/view/93) | Denver, CO | Summer 2022 (?) | 8/12
-| [Amazon - User Experience (UX) Researcher Intern](https://www.amazon.jobs/en/jobs/1629158/user-experience-ux-researcher-intern-summer-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
-| [Amazon - User Experience (UX) Designer Intern](https://www.amazon.jobs/en/jobs/1629157/user-experience-ux-designer-intern-summer-2022) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
+| [Amazon - User Experience (UX) Research](https://www.amazon.jobs/en/jobs/1629158/user-experience-ux-researcher-intern-summer-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
+| [Amazon - User Experience (UX) Design](https://www.amazon.jobs/en/jobs/1629157/user-experience-ux-designer-intern-summer-2022) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
 | [IBM - Content Design](https://careers.ibm.com/job/13522717/content-design-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
 | [IBM - Design Research](https://careers.ibm.com/job/13527879/design-research-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
-| [IBM - User Experience Designer](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
+| [IBM - User Experience Design](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
 
