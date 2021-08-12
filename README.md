@@ -43,7 +43,10 @@ Intern
 | [iRobot-UX Design & Research Co-Op](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Fall-2021--UX-Design-Research-Co-op_R2368?APPLICANT_SOURCE-6-108)| Bedford, MA  | Fall 2021 | 8/7
 | [Amtrak - Market Research](https://careers.amtrak.com/job/Washington-Fall-2021-Marketing-Research-Intern-90295395-Washington-DC-20001/770747300/) | Washington D.C.  | Fall 2021 | 8/8
 | [TH Experiential - UI/UX Design](https://www.linkedin.com/jobs/view/2665033799) | New York, NY | Fall 2021 | 8/8
-| [Bxb Digital - UI/UX Design](https://careers.brambles.com/ShowJob/Id/2959575/BXB%20Digital%20%20%20Internship%20%20%20%20User%20Experience%20%20%20Interface%20Design) | Santa Clara, CA  | Summer 2021 | 8/9
+| [Bxb Digital - UI/UX Design](https://careers.brambles.com/ShowJob/Id/2959575/BXB%20Digital%20%20%20Internship%20%20%20%20User%20Experience%20%20%20Interface%20Design) | Santa Clara, CA  | Summer 2022 | 8/9
 | [Dolby Labs - UX Design Co-Op](https://careers.dolby.com/job/San-Francisco-UX-Design-Intern-%28Fall-2021%2C-6-month-position%29-CA-94101/761948700/&jobPipeline=LinkedIn) | San Francisco, CA | Fall 2021 | 8/9
-| [Facebook - UXR Intern (PhD)](https://www.facebook.com/careers/v2/jobs/313443447105309/) | San Francisco, CA | Summer 2021 | 8/9
-| [Cisco - User Experience Bachelor's](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Bachelor-s-Intern-United-States/1338396?source=LinkedIn) | San Jose, CA | Summer 2021 | 8/11
+| [Facebook - UXR Intern (PhD)](https://www.facebook.com/careers/v2/jobs/313443447105309/) | San Francisco, CA | Summer 2022 | 8/9
+| [Cisco - User Experience Bachelor's](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Bachelor-s-Intern-United-States/1338396?source=LinkedIn) | San Jose, CA | Summer 2022 | 8/11
+| [Cisco - UX Research & Design (Cisco Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/UX-Designer-UX-Researcher-Intern-Summer-2022-Internship-Meraki/1342801?source=LinkedIn) | San Francisco, CA | Summer 2022 | 8/12
+| [Datadog - Product Design)](https://www.datadoghq.com/careers/detail/?gh_jid=3318297&gh_src=8363eca61) | New York, NY | Summer 2022 | 8/12
+| [Landor & Fitch - Motion Design)](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Winter 2022 (?)/Summer 2022 | 8/12
