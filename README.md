@@ -30,8 +30,19 @@ New Grad
 | [IBM - Entry Level Design Researcher](https://careers.ibm.com/job/13527880/entry-level-design-researcher-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Multiple Cities (not listed) | 8/12
 | [IBM - Entry Level Visual Designer](https://careers.ibm.com/job/13527925/entry-level-visual-designer-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn)| Multiple Cities (not listed) | 8/12
 | [IBM - Entry Level User Experience Designer](https://careers.ibm.com/job/13527882/entry-level-user-experience-designer-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn)| Multiple Cities (not listed) | 8/12
-| [Klarna - UX Researcher](https://jobs.lever.co/klarna/51d80137-44a6-4983-834f-c6a66c826698?s=LinkedIn)| New York | 8/12
-
+| [Klarna - UX Researcher](https://jobs.lever.co/klarna/51d80137-44a6-4983-834f-c6a66c826698?s=LinkedIn)| New York, NY | 8/12
+| [Google - UX Staff Interaction Designer - Kernel](https://careers.google.com/jobs/results/82526264386036422-ux-staff-interaction-designer-kernel/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin)| Mountain View, CA | 8/12
+| [Microsoft - User Experience - Full time opportunities for University Grads](https://careers.microsoft.com/us/en/job/1129182/User-experience-Full-Time-Opportunities-for-University-Graduates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Redmond, WA | 8/12
+| [Airtable - Product Designer](https://boards.greenhouse.io/airtable/jobs/4236418002?gh_src=aef790d02us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 8/12
+| [Airtable - User Experience Researcher](https://boards.greenhouse.io/airtable/jobs/4927558002?gh_src=aef790d02us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 8/12
+| [Disney - Product Designer](https://www.linkedin.com/jobs/?section=jymbii)| Emeryville, CA | 8/12
+| [LinkedIn - Product Designer, LinkedIn Business Platform](https://www.linkedin.com/jobs/view/2676910130)| San Francisco, CA | 8/12
+| [Konrad Group - UI/UX Designer](https://boards.greenhouse.io/konradgroup/jobs/4653753003?gh_src=c6d82c983us)| New York, NY | 8/12
+| [Hubspot - Product Designer, Sandboxes](https://boards.greenhouse.io/embed/job_app?token=3328173&gh_src=240b46771&s=LinkedIn&source=LinkedIn)| Cambridge, MA | 8/12
+| [Glassdoor - Product Designer](https://boards.greenhouse.io/glassdoor/jobs/5311291002?gh_src=0dbdb06e2us)| Chicago, IL | 8/12
+| [Rad Power Bikes - Product Designer](https://jobs.lever.co/radpowerbikes-2/b0292718-fa52-46c8-ab97-6c6d11229063/apply?lever-source=LinkedIn)| Chicago, IL | 8/12
+| [Cisco - User Experience I - Interaction Designer](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-I-Full-Time-United-States/1339030?source=LinkedIn) | San Jose, CA | Summer 2022 | 8/12
+| [Amazon - Learning Experience Designer](https://www.amazon.jobs/en/jobs/1667977/learning-experience-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | Summer 2022 | 8/12
 
 Intern
 | Company  | Location | Details | Date Added
@@ -54,6 +65,7 @@ Intern
 | [Dolby Labs - UX Design Co-Op](https://careers.dolby.com/job/San-Francisco-UX-Design-Intern-%28Fall-2021%2C-6-month-position%29-CA-94101/761948700/&jobPipeline=LinkedIn) | San Francisco, CA | Fall 2021 | 8/9
 | [Facebook - UXR Intern (PhD)](https://www.facebook.com/careers/v2/jobs/313443447105309/) | San Francisco, CA | Summer 2022 | 8/9
 | [Cisco - User Experience Bachelor's](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Bachelor-s-Intern-United-States/1338396?source=LinkedIn) | San Jose, CA | Summer 2022 | 8/11
+| [Cisco - User Experience Masters](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Master-s-Intern-United-States/1338423?source=LinkedIn) | San Jose, CA | Summer 2022 | 8/12
 | [Cisco - UX Research & Design (Cisco Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/UX-Designer-UX-Researcher-Intern-Summer-2022-Internship-Meraki/1342801?source=LinkedIn) | San Francisco, CA | Summer 2022 | 8/12
 | [Datadog - Product Design](https://www.datadoghq.com/careers/detail/?gh_jid=3318297&gh_src=8363eca61) | New York, NY | Summer 2022 | 8/12
 | [Landor & Fitch - Motion Design](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Summer 2022 | 8/12
