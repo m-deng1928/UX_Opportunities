@@ -50,3 +50,4 @@ Intern
 | [Cisco - UX Research & Design (Cisco Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/UX-Designer-UX-Researcher-Intern-Summer-2022-Internship-Meraki/1342801?source=LinkedIn) | San Francisco, CA | Summer 2022 | 8/12
 | [Datadog - Product Design)](https://www.datadoghq.com/careers/detail/?gh_jid=3318297&gh_src=8363eca61) | New York, NY | Summer 2022 | 8/12
 | [Landor & Fitch - Motion Design)](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Summer 2022 | 8/12
+| [Monigle - Digital Experience Design)](https://monigle.hua.hrsmart.com/hr/ats/Posting/view/93) | Denver, CO | Summer 2022 (?) | 8/12
