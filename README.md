@@ -49,4 +49,4 @@ Intern
 | [Cisco - User Experience Bachelor's](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Bachelor-s-Intern-United-States/1338396?source=LinkedIn) | San Jose, CA | Summer 2022 | 8/11
 | [Cisco - UX Research & Design (Cisco Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/UX-Designer-UX-Researcher-Intern-Summer-2022-Internship-Meraki/1342801?source=LinkedIn) | San Francisco, CA | Summer 2022 | 8/12
 | [Datadog - Product Design)](https://www.datadoghq.com/careers/detail/?gh_jid=3318297&gh_src=8363eca61) | New York, NY | Summer 2022 | 8/12
-| [Landor & Fitch - Motion Design)](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Winter 2022 (?)/Summer 2022 | 8/12
+| [Landor & Fitch - Motion Design)](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Summer 2022 | 8/12
