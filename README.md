@@ -1,6 +1,7 @@
 # UX_Opportunities_2021-2022
 
 Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. - If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted).
+- IBM links died but will wait a few days and see if it refreshes.
 
 New Grad
 | Company  | Location | Date Added
@@ -75,4 +76,5 @@ Intern
 | [IBM - Content Design](https://careers.ibm.com/job/13522717/content-design-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
 | [IBM - Design Research](https://careers.ibm.com/job/13527879/design-research-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
 | [IBM - User Experience Design](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
-
+| [Bank of America - Experience Design](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-984e146c0e58/candidate/so/pm/1/pl/1/opp/7210-Experience-Design-Undergraduate-Summer-Intern-2022/en-GB) | Boston, MA  | Summer 2022 | 8/13
+| [Syapse - Product Design](https://boards.greenhouse.io/syapse/jobs/3243993?gh_src=584cb2261us) | Remote | Summer 2022 | 8/13
