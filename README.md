@@ -44,6 +44,8 @@ New Grad
 | [Rad Power Bikes - Product Designer](https://jobs.lever.co/radpowerbikes-2/b0292718-fa52-46c8-ab97-6c6d11229063/apply?lever-source=LinkedIn)| Chicago, IL | 8/12
 | [Cisco - User Experience I - Interaction Designer](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-I-Full-Time-United-States/1339030?source=LinkedIn) | San Jose, CA | 8/12
 | [Amazon - Learning Experience Designer](https://www.amazon.jobs/en/jobs/1667977/learning-experience-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/12
+| [County of Santa Clara - Associate User Experience (UX) Designer](https://www.governmentjobs.com/careers/santaclara/jobs/3151623/associate-user-experience-ux-designer) | San Jose, CA | 8/13
+| [Cisco - User Experience Designer](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Designer/1332864?source=LinkedIn) | North Carolina | 8/13
 
 Intern
 | Company  | Location | Details | Date Added
