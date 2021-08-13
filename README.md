@@ -78,3 +78,6 @@ Intern
 | [IBM - User Experience Design](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
 | [Bank of America - Experience Design](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-984e146c0e58/candidate/so/pm/1/pl/1/opp/7210-Experience-Design-Undergraduate-Summer-Intern-2022/en-GB) | Boston, MA  | Summer 2022 | 8/13
 | [Syapse - Product Design](https://boards.greenhouse.io/syapse/jobs/3243993?gh_src=584cb2261us) | Remote | Summer 2022 | 8/13
+| [ChaiOne - User Research](https://boards.greenhouse.io/chaione/jobs/4657397003?gh_src=a9a5ae863us) | Houston, TX | Summer 2022 | 8/13
+| [Wish - Design Program Manager](https://jobs.smartrecruiters.com/Wish/743999763365292-intern-design-program-manager-fall-2021-?lever-origin=applied&lever-source%5B%5D=LINKEDIN&source=Linkedin) | San Francisco, CA | Summer 2022 | 8/13 - listings posted a while back
+| [Tesla - Design/Internal Content](https://www.tesla.com/careers/search/job/design-internal-content-internship-fall-2021-94129?source=LinkedIn) | San Francisco, CA | Fall 2021 | 8/13 - listings posted a while back
