@@ -46,10 +46,10 @@ New Grad
 | [Amazon - Learning Experience Designer](https://www.amazon.jobs/en/jobs/1667977/learning-experience-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/12
 | [County of Santa Clara - Associate User Experience (UX) Designer](https://www.governmentjobs.com/careers/santaclara/jobs/3151623/associate-user-experience-ux-designer) | San Jose, CA | 8/13
 | [Cisco - User Experience Designer](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Designer/1332864?source=LinkedIn) | North Carolina | 8/13
-| [Figma - Product Design (New Grad)](https://jobs.lever.co/figma/a57f4982-278b-4574-b2bf-d7ad3021153a) | San Francisco, CA | 8/15
-| [Figma - Education Designer, Product Education](https://jobs.lever.co/figma/f9edf733-874b-4141-8913-8bc7562d2ab5) | San Francisco, CA | 8/15
-| [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/15
-
+| [Figma - Product Design (New Grad)](https://jobs.lever.co/figma/a57f4982-278b-4574-b2bf-d7ad3021153a) | San Francisco, CA | 8/16
+| [Figma - Education Designer, Product Education](https://jobs.lever.co/figma/f9edf733-874b-4141-8913-8bc7562d2ab5) | San Francisco, CA | 8/16
+| [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/16
+| [Peloton - Product Designer, UI, Freelance](https://boards.greenhouse.io/peloton/jobs/2324549?gh_src=a1942ad01us) | New York, NY | 8/16
 
 Intern
 | Company  | Location | Details | Date Added
@@ -87,11 +87,18 @@ Intern
 | [ChaiOne - User Research](https://boards.greenhouse.io/chaione/jobs/4657397003?gh_src=a9a5ae863us) | Houston, TX | Summer 2022 | 8/13
 | [Wish - Design Program Manager](https://jobs.smartrecruiters.com/Wish/743999763365292-intern-design-program-manager-fall-2021-?lever-origin=applied&lever-source%5B%5D=LINKEDIN&source=Linkedin) | San Francisco, CA | Summer 2022 | 8/13 - listings posted a while back
 | [Tesla - Design/Internal Content](https://www.tesla.com/careers/search/job/design-internal-content-internship-fall-2021-94129?source=LinkedIn) | San Francisco, CA | Fall 2021 | 8/13 - listings posted a while back
-| [WarnerMedia - Virtual WarnerMedia Studios Motion Design/VFX Intern](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184834BREXTERNALENGLOBAL/Virtual-WarnerMedia-Studios-Motion-Design-VFX-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
-| [WarnerMedia - Virtual WarnerMedia Studios Sound Design Intern](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184868BREXTERNALENGLOBAL/Virtual-WarnerMedia-Studios-Sound-Design-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
+| [WarnerMedia - Virtual WarnerMedia Studios Motion Design/VFX](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184834BREXTERNALENGLOBAL/Virtual-WarnerMedia-Studios-Motion-Design-VFX-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
+| [WarnerMedia - Virtual WarnerMedia Studios Sound Design](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184868BREXTERNALENGLOBAL/Virtual-WarnerMedia-Studios-Sound-Design-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
 | [WarnerMedia - Virtual WarnerMedia Studios Graphic Design](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184055BREXTERNALENGLOBAL/Virtual-Creative-Services-Graphic-Design-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
 | [WarnerMedia - Virtual CNN Digital Product Design](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184868BREXTERNALENGLOBAL/Virtual-WarnerMedia-Studios-Sound-Design-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
-| [WarnerMedia - Virtual Turner Sports UX Research Intern](https://warnermediacareers.com/global/en/job/WAMEGLOBAL185058BREXTERNALENGLOBAL/Virtual-Turner-Sports-UX-Research-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
-| [Facebook - Product Design Intern](https://www.facebook.com/careers/v2/jobs/128761339324937/) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
-| [Facebook - Content Design Intern](https://www.facebook.com/careers/v2/jobs/863247940971330/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Content%2520Design%2520Intern&utm_term=a1K2K0000031hwzUAA%252DUSNkNk18) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
+| [WarnerMedia - Virtual Turner Sports UX Research=](https://warnermediacareers.com/global/en/job/WAMEGLOBAL185058BREXTERNALENGLOBAL/Virtual-Turner-Sports-UX-Research-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
+| [Facebook - Product Design](https://www.facebook.com/careers/v2/jobs/128761339324937/) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
+| [Facebook - Content Design](https://www.facebook.com/careers/v2/jobs/863247940971330/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Content%2520Design%2520Intern&utm_term=a1K2K0000031hwzUAA%252DUSNkNk18) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
 | [Figma - Product Design Intern](https://jobs.lever.co/figma/81809ae5-782b-4042-86dd-f04a8f5030c2) | San Francisco, CA | Winter 2022 (Jan)/Summer 2022 (May/June) | 8/16
+| [WarnerMedia - HBO Max Product Experience Commerce](https://warnermediacareers.com/global/en/job/184768BR/Virtual-HBO-Max-Product-Experience-Commerce-Intern-Fall-2021) | California | Fall 2021 | 8/16
+| [WarnerMedia - Virtual HBO Max Kids & Family Product Experience](https://warnermediacareers.com/global/en/job/184767BR/Virtual-HBO-Max-Kids-Family-Product-Experience-Intern-Fall-2021) | California | Fall 2021 | 8/16
+| [Duolingo - Design Thrive](hhttps://boards.greenhouse.io/duolingo/jobs/5473181002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn
+) | Pittsburgh, PA | Summer 2022 | 8/16
+| [Duolingo - Design](https://boards.greenhouse.io/duolingo/jobs/5473179002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn
+) | Pittsburgh, PA | Summer 2022 | 8/16
+| [General Motors (GM) - Customer Experience, Design](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Customer-Experience--Design-Intern_JR-000047911?source=Linkedin) | Detroit, MI | Summer 2022 | 8/16
