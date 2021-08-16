@@ -46,6 +46,10 @@ New Grad
 | [Amazon - Learning Experience Designer](https://www.amazon.jobs/en/jobs/1667977/learning-experience-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/12
 | [County of Santa Clara - Associate User Experience (UX) Designer](https://www.governmentjobs.com/careers/santaclara/jobs/3151623/associate-user-experience-ux-designer) | San Jose, CA | 8/13
 | [Cisco - User Experience Designer](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Designer/1332864?source=LinkedIn) | North Carolina | 8/13
+| [Figma - Product Design (New Grad)](https://jobs.lever.co/figma/a57f4982-278b-4574-b2bf-d7ad3021153a) | San Francisco, CA | 8/15
+| [Figma - Education Designer, Product Education](https://jobs.lever.co/figma/f9edf733-874b-4141-8913-8bc7562d2ab5) | San Francisco, CA | 8/15
+| [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/15
+
 
 Intern
 | Company  | Location | Details | Date Added
@@ -90,3 +94,4 @@ Intern
 | [WarnerMedia - Virtual Turner Sports UX Research Intern](https://warnermediacareers.com/global/en/job/WAMEGLOBAL185058BREXTERNALENGLOBAL/Virtual-Turner-Sports-UX-Research-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
 | [Facebook - Product Design Intern](https://www.facebook.com/careers/v2/jobs/128761339324937/) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
 | [Facebook - Content Design Intern](https://www.facebook.com/careers/v2/jobs/863247940971330/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Content%2520Design%2520Intern&utm_term=a1K2K0000031hwzUAA%252DUSNkNk18) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
+| [Figma - Product Design Intern](https://jobs.lever.co/figma/81809ae5-782b-4042-86dd-f04a8f5030c2) | San Francisco, CA | Winter 2022 (Jan)/Summer 2022 (May/June) | 8/16
