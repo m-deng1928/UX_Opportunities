@@ -95,7 +95,7 @@ Intern
 | [WarnerMedia - Virtual Turner Sports UX Research=](https://warnermediacareers.com/global/en/job/WAMEGLOBAL185058BREXTERNALENGLOBAL/Virtual-Turner-Sports-UX-Research-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
 | [Facebook - Product Design](https://www.facebook.com/careers/v2/jobs/128761339324937/) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
 | [Facebook - Content Design](https://www.facebook.com/careers/v2/jobs/863247940971330/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Content%2520Design%2520Intern&utm_term=a1K2K0000031hwzUAA%252DUSNkNk18) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
-| [Figma - Product Design Intern](https://jobs.lever.co/figma/81809ae5-782b-4042-86dd-f04a8f5030c2) | San Francisco, CA | Winter 2022 (Jan)/Summer 2022 (May/June) | 8/16
+| [Figma - Product Design](https://jobs.lever.co/figma/81809ae5-782b-4042-86dd-f04a8f5030c2) | San Francisco, CA | Winter 2022 (Jan)/Summer 2022 (May/June) | 8/16
 | [WarnerMedia - HBO Max Product Experience Commerce](https://warnermediacareers.com/global/en/job/184768BR/Virtual-HBO-Max-Product-Experience-Commerce-Intern-Fall-2021) | California | Fall 2021 | 8/16
 | [WarnerMedia - Virtual HBO Max Kids & Family Product Experience](https://warnermediacareers.com/global/en/job/184767BR/Virtual-HBO-Max-Kids-Family-Product-Experience-Intern-Fall-2021) | California | Fall 2021 | 8/16
 | [Duolingo - Design Thrive (for sophomores)](https://boards.greenhouse.io/duolingo/jobs/5473181002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | Summer 2022 | 8/16
