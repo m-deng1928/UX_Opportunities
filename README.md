@@ -15,6 +15,7 @@ New Grad
 | [Reddit - UX Research Associate, Voice of the User, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247912?fbclid=IwAR07LjJyZDSPOmOlNil-O-Z64vxbxqpEQjs6i48V91h3iuYQ8I0M5t1NZPU)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Reddit - UX Research Associate, Usability, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247885?fbclid=IwAR3SZTH_isQXjSCLSPQv5pjDhdAimocUhOLiUDEtpsjHqaRsZuca2lZWhKA)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/22
+| [US Bank - UX Design Visual Interaction Designer](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/UXDesign-Visual-Interaction-Designer_2021-0036269) | New York, NY/Atlanta, GA/San Francisco, CA/Minneapolis, MN/Charlotte, NC/Irving, TX/Concord, CA | 8/4 
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
 | [Facebook - UX Researcher (New Grad)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
@@ -86,6 +87,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Zipline - Experience Design (Co-Op/Internship)](https://flyzipline.com/careers/job/4580445003/?gh_jid=4580445003&gh_src=baafe2f73us) | South San Francisco, CA | Fall 2021 | 7/31
 | [Hasbro - Product Design Co-Op](https://jobs.hasbro.com/job/Pawtucket-Product-Design-Co-op-%28Sept-Dec-2021%29-Rhod-02861/757972500/?utm_source=LINKEDIN&utm_medium=referrer)| Pawtucket, RI | Fall 2021 (Sep-Dec) | 8/6
 | [Pearlfisher - Design](http://careers.pearlfisher.com/apply/mocrNgHF7a/Design-Intern-Graduate?source=LILI#mocrNgHF7a) | New York, NY | Summer 2022 (?) | 8/6
 | [Anduril Industries - Visual Design](https://jobs.lever.co/anduril/56400dde-641e-406b-9853-87225232a86d/apply?lever-source=LinkedIn)  | Irvine, CA  | Summer 2022 (?) | 8/6
