@@ -64,6 +64,7 @@ https://jobs.lever.co/spotify/73b42f7d-6d4e-4b4b-b5af-b53086fb5985/apply?lever-s
 | [Northwestern Mutual - Associate Product Designer](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/New-York-NY-NO-049-047/Associate-Experience-Designer_JR-26169?source=Linkedin)  | New York, NY/Milwaukee, WI | 8/17
 | [Figma - Web Designer](https://jobs.lever.co/figma/4ccffb0a-b848-4243-a04d-4aecff97e9bc) | New York, NY/San Francisco, CA/Remote | 8/17
 | [Mastercard - User Experience Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FArlington-Virginia%2FUser-Experience-Designer--Design-Systems_R-136202%2Fapply%3Fsource%3DLINKEDIN) | Arlington, VA | 8/17
+| [Freshly - JR UX Researcher](https://freshly.wd5.myworkdayjobs.com/en-US/Freshly_Careers/job/New-York-NY/Jr-UX-Researcher_R-2362-1?source=LinkedIn) | New York, NY | 8/17
 
 Intern
 | Company  | Location | Details | Date Added
@@ -108,6 +109,7 @@ Intern
 | [WarnerMedia - Virtual Turner Sports UX Research=](https://warnermediacareers.com/global/en/job/WAMEGLOBAL185058BREXTERNALENGLOBAL/Virtual-Turner-Sports-UX-Research-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
 | [Facebook - Product Design](https://www.facebook.com/careers/v2/jobs/128761339324937/) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
 | [Facebook - Content Design](https://www.facebook.com/careers/v2/jobs/863247940971330/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Content%2520Design%2520Intern&utm_term=a1K2K0000031hwzUAA%252DUSNkNk18) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
+| [Adobe - Experience Researcher](https://adobe.design/jobs/jobpost-8898002/?fbclid=IwAR0Vd8qELTy-DguES58L3aOx3lZaUzgXoraYhZTnXmj_zJ5P4BS-GjdD4q8) | San Francisco, CA/Seattle, WA/New York, NY/ Remote | 8/15
 | [Figma - Product Design](https://jobs.lever.co/figma/81809ae5-782b-4042-86dd-f04a8f5030c2) | San Francisco, CA | Winter 2022 (Jan)/Summer 2022 (May/June) | 8/16
 | [WarnerMedia - HBO Max Product Experience Commerce](https://warnermediacareers.com/global/en/job/184768BR/Virtual-HBO-Max-Product-Experience-Commerce-Intern-Fall-2021) | California | Fall 2021 | 8/16
 | [WarnerMedia - Virtual HBO Max Kids & Family Product Experience](https://warnermediacareers.com/global/en/job/184767BR/Virtual-HBO-Max-Kids-Family-Product-Experience-Intern-Fall-2021) | California | Fall 2021 | 8/16
