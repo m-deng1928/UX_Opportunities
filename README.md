@@ -2,7 +2,9 @@
 
 Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. - If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted).
 
-If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE. Those will be noted with a YoE note next to it otherwise, or just read the description.
+If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. Otherwise, please read the description.
+
+Thanks, and don't forget to be awesome. :D
 
 New Grad
 | Company  | Location | Date Added
