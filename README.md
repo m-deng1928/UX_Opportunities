@@ -70,6 +70,7 @@ New Grad
 | [Workiva - User Experience Designer](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/User-Experience-Designer_R2316?source=Linkedin) | Denver, CA | 8/17
 | [Spotify - Product Designer, Spotify for Artists](https://jobs.lever.co/spotify/999d5d6f-ee6e-492b-b6cf-b9ca696b039f/apply?lever-source=LinkedIn) | New York, NY | 8/17
 | [Blackstone - UI/UX Designer Analyst (NY)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2022-Blackstone-Technology-and-Innovations---UI-UX-Designer-Analyst--NY-_17921?source=Linkedinn) | New York, NY | 8/17
+| [Accenture - UX/User Centered Designer](https://www.linkedin.com/jobs/view/2684162471/?refId=8fb1e5d9-6829-4f99-b2a1-a758e770bdd6&trk=flagship3_job_home_savedjobs) | Atlanta, GA | 8/17
 
 Intern
 | Company  | Location | Details | Date Added
@@ -123,4 +124,4 @@ Intern
 | [General Motors (GM) - Customer Experience, Design](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Customer-Experience--Design-Intern_JR-000047911?source=Linkedin) | Detroit, MI | Summer 2022 | 8/16
 | [Nvidia - UX Design, Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Fall-Winter-2021_JR1944850-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Fall 2021/Winter 2022 | 8/17
 | [WarnerMedia - Virtual UX Designer / Front-End Developer](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184181BREXTERNALENGLOBAL/Virtual-UX-Designer-Front-End-Developer-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Burbank, California | Fall 2021 | 8/17
-
+| [Appian - User Experience Design Intern](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn) | Mclean, VA | Summer 2022| 8/17
