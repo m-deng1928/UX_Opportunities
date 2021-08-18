@@ -87,6 +87,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Synapse - Product Design](https://boards.greenhouse.io/syapse/jobs/3243993?gh_src=584cb2261us) | Remote | Summer 2021 | 7/31
+| [Palo Alto Networks - User Experience Design](https://www.linkedin.com/jobs/view/2659532333) | Remote | Summer 2021 | 7/31
 | [Zipline - Experience Design (Co-Op/Internship)](https://flyzipline.com/careers/job/4580445003/?gh_jid=4580445003&gh_src=baafe2f73us) | South San Francisco, CA | Fall 2021 | 7/31
 | [Hasbro - Product Design Co-Op](https://jobs.hasbro.com/job/Pawtucket-Product-Design-Co-op-%28Sept-Dec-2021%29-Rhod-02861/757972500/?utm_source=LINKEDIN&utm_medium=referrer)| Pawtucket, RI | Fall 2021 (Sep-Dec) | 8/6
 | [Pearlfisher - Design](http://careers.pearlfisher.com/apply/mocrNgHF7a/Design-Intern-Graduate?source=LILI#mocrNgHF7a) | New York, NY | Summer 2022 (?) | 8/6
