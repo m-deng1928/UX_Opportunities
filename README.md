@@ -9,10 +9,12 @@ Thanks, and don't forget to be awesome. :D
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Google - User Experience Researcher, Early Career](https://careers.google.com/jobs/results/92793178085565126-user-experience-researcher-early-career/?fbclid=IwAR1p-n7g2PEVvi509Gyt9OeP9RF5smQ-r5m_Bxcu4skyijCO9Llt2QYPzsw)  | San Francisco, CA/Atlanta, GA/Austin, TX/Boulder, CO/Chicago, IL/Los Angeles, CA/Madison, WI/Mountain View, CA/New York, NY/Seattle, WA/San Francisco, CA/ Sunnyvale, CA | 7/15
 | [TikTok - UX Researcher (1 YoE)](https://careers.tiktok.com/position/6877982220638177550/detail?fbclid=IwAR3IxFec8YxeLu-1jzWKJVRCd6i8Oa8IiemkxSVVm-8vcyagEbc2Z4iFgwk)  | Mountain View, CA | 7/15
 | [HelloFresh - UX Researcher (2-4 YoE)](https://www.hellofresh.com/careers/listings/3014550?team=ux-research-66047)  | Boulder, CO  | 7/19
 | [Reddit - UX Research Associate, Voice of the User, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247912?fbclid=IwAR07LjJyZDSPOmOlNil-O-Z64vxbxqpEQjs6i48V91h3iuYQ8I0M5t1NZPU)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Reddit - UX Research Associate, Usability, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247885?fbclid=IwAR3SZTH_isQXjSCLSPQv5pjDhdAimocUhOLiUDEtpsjHqaRsZuca2lZWhKA)| New York, NY/San Francisco, CA/Remote | 7/15
+| [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/22
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
 | [Facebook - UX Researcher (New Grad)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
