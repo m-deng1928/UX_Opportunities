@@ -9,13 +9,19 @@ Thanks, and don't forget to be awesome. :D
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| Discovery - UX Researcher (3 YoE)](https://jobs.discovery.com/job/New-York-UX-Associate-Researcher-NY-10011/747032500/?locale=en_GB)|New York, NY | 6/2
+| [Visa - Associate UI Engineer](https://jobs.smartrecruiters.com/Visa/743999750043419-associate-ui-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| Austin, TX | 6/2
+| [Google - User Experience Designer, Early Career](https://careers.google.com/jobs/results/103538148304134854-user-experience-designer-early-career/)  | San Francisco, CA/Atlanta, GA/Austin, TX/Boulder, CO/Chicago, IL/Los Angeles, CA/Madison, WI/Mountain View, CA/New York, NY/Seattle, WA/San Francisco, CA/ Sunnyvale, CA | 7/7
+| [Google - User Experience Designer, University Grad](https://careers.google.com/jobs/results/114500413182354118-user-experience-designer-university-graduate/)  | San Francisco, CA/Atlanta, GA/Austin, TX/Boulder, CO/Chicago, IL/Los Angeles, CA/Madison, WI/Mountain View, CA/New York, NY/Seattle, WA/San Francisco, CA/ Sunnyvale, CA | 7/8
 | [Google - User Experience Researcher, Early Career](https://careers.google.com/jobs/results/92793178085565126-user-experience-researcher-early-career/?fbclid=IwAR1p-n7g2PEVvi509Gyt9OeP9RF5smQ-r5m_Bxcu4skyijCO9Llt2QYPzsw)  | San Francisco, CA/Atlanta, GA/Austin, TX/Boulder, CO/Chicago, IL/Los Angeles, CA/Madison, WI/Mountain View, CA/New York, NY/Seattle, WA/San Francisco, CA/ Sunnyvale, CA | 7/15
 | [TikTok - UX Researcher (1 YoE)](https://careers.tiktok.com/position/6877982220638177550/detail?fbclid=IwAR3IxFec8YxeLu-1jzWKJVRCd6i8Oa8IiemkxSVVm-8vcyagEbc2Z4iFgwk)  | Mountain View, CA | 7/15
 | [HelloFresh - UX Researcher (2-4 YoE)](https://www.hellofresh.com/careers/listings/3014550?team=ux-research-66047)  | Boulder, CO  | 7/19
 | [Reddit - UX Research Associate, Voice of the User, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247912?fbclid=IwAR07LjJyZDSPOmOlNil-O-Z64vxbxqpEQjs6i48V91h3iuYQ8I0M5t1NZPU)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Reddit - UX Research Associate, Usability, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247885?fbclid=IwAR3SZTH_isQXjSCLSPQv5pjDhdAimocUhOLiUDEtpsjHqaRsZuca2lZWhKA)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/2
-| [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5054396002?gh_jid=5054396002&s=LinkedIn&source=LinkedIn)| Manhattan Beach, CA | 7/28
+| [Visa - Design Researcher](https://jobs.smartrecruiters.com/Visa/743999762320741-design-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| Bellevue, WA | 7/26
+| [Accenture - Associate Service & UX Designer](https://www.accenture.com/us-en/careers/jobdetails?id=00979947_en&src=LINKEDINJP#job-location)| Phoenix, AZ/Los Angeles, CA/San Diego, CA/Boise, ID/Seattle, WA | 7/26
+| [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5054396002?gh_jid=5054396002&s=LinkedIn&source=LinkedIn)| Manhattan Beach, CA | 7/26
 | [Bain - Product Designer](https://csscareers-bain.icims.com/jobs/5699/job?mobile=false&width=1077&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)| San Francisco, CA/Austin, TX/Toronto, CA | 7/28
 | [Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Shopping-Destinations_R0073808?Codes=W-LINKEDIN)| Los Angeles, CA | 7/30
 | [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19581373?ss=paid&p_sid=z6cz49b&utm_medium=jobad&iisn=li&utm_source=linkedin%20slots&utm_content=pj_board&iis=pjob&p_uid=m2NgqinHzW&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent)| San Diego, CA | 7/30
@@ -90,10 +96,12 @@ New Grad
 | [Square - Design Technologist](https://jobs.smartrecruiters.com/Square/743999766711982-design-technologist?source=Linkedin) | Austin, TX | 8/17
 | [Peloton - User Researcher](https://boards.greenhouse.io/peloton/jobs/3338878?gh_src=839cb4b41us&s=LinkedIn&source=LinkedIn) | New York, NY | 8/17
 | [Duolingo - Product Designer, New Graduate](https://boards.greenhouse.io/duolingo/jobs/5473177002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/17  
+| [Blink - UX Designer (1-5 YoE)](https://jobs.lever.co/blinkux/1e326199-223e-4809-a3ca-bfd83d4a6e27?lever-source=LinkedInJobs)  | California/Colorado/Massachusetts/Texas/Washington | 8/18
 
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Wish - Product Design](https://jobs.smartrecruiters.com/Wish/743999752516608-intern-product-design-fall-2021-) | San Francisco, CA | Summer 2022 | 6/9
 | [Edifecs - UX Design](https://jobs.jobvite.com/edifecs/job/otfhgfwZ) | Bellevue, WA | Summer 2022 | 7/30
 | [Synapse - Product Design](https://boards.greenhouse.io/syapse/jobs/3243993?gh_src=584cb2261us) | Remote | Summer 2022 | 7/30
 | [Zipline - Experience Design (Co-Op/Internship)](https://flyzipline.com/careers/job/4580445003/?gh_jid=4580445003&gh_src=baafe2f73us) | South San Francisco, CA | Fall 2021 | 7/30
@@ -146,3 +154,8 @@ Intern
 | [Nvidia - UX Design, Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Fall-Winter-2021_JR1944850-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Fall 2021/Winter 2022 | 8/17
 | [WarnerMedia - Virtual UX Designer / Front-End Developer](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184181BREXTERNALENGLOBAL/Virtual-UX-Designer-Front-End-Developer-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Burbank, California | Fall 2021 | 8/17
 | [Appian - User Experience Design Intern](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn) | Mclean, VA | Summer 2022| 8/17
+
+Misc (Fellowships/Apprenticeships/Etc...)
+| Company  | Location | Date Added
+| ------------- | ------------- | ------------- 
+| [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d)  | Fall 2021 | 7/18
