@@ -64,6 +64,7 @@ New Grad
 | [Figma - Web Designer](https://jobs.lever.co/figma/4ccffb0a-b848-4243-a04d-4aecff97e9bc) | New York, NY/San Francisco, CA/Remote | 8/17
 | [Mastercard - User Experience Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FArlington-Virginia%2FUser-Experience-Designer--Design-Systems_R-136202%2Fapply%3Fsource%3DLINKEDIN) | Arlington, VA | 8/17
 | [Freshly - JR UX Researcher](https://freshly.wd5.myworkdayjobs.com/en-US/Freshly_Careers/job/New-York-NY/Jr-UX-Researcher_R-2362-1?source=LinkedIn) | New York, NY | 8/17
+| [Delta Airlines - UX Designer](https://delta.avature.net/careers/JobDetail/UX-Designer/8329?source=LinkedIn) | Atlanta, GA | 8/17
 
 Intern
 | Company  | Location | Details | Date Added
