@@ -9,6 +9,8 @@ Thanks, and don't forget to be awesome. :D
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [TikTok - UX Researcher (1 YoE)](https://careers.tiktok.com/position/6877982220638177550/detail?fbclid=IwAR3IxFec8YxeLu-1jzWKJVRCd6i8Oa8IiemkxSVVm-8vcyagEbc2Z4iFgwk)  | Mountain View, CA | 7/15
+| [HelloFresh - UX Researcher (2-4 YoE)](https://www.hellofresh.com/careers/listings/3014550?team=ux-research-66047)  | Boulder, CO  | 7/19
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
 | [Facebook - UX Researcher (New Grad)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
