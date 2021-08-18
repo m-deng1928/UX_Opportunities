@@ -9,7 +9,7 @@ Thanks, and don't forget to be awesome. :D
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-| Discovery - UX Researcher (3 YoE)](https://jobs.discovery.com/job/New-York-UX-Associate-Researcher-NY-10011/747032500/?locale=en_GB)|New York, NY | 6/2
+| [Discovery - UX Researcher (3 YoE)](https://jobs.discovery.com/job/New-York-UX-Associate-Researcher-NY-10011/747032500/?locale=en_GB)|New York, NY | 6/2
 | [Visa - Associate UI Engineer](https://jobs.smartrecruiters.com/Visa/743999750043419-associate-ui-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| Austin, TX | 6/2
 | [Google - User Experience Designer, Early Career](https://careers.google.com/jobs/results/103538148304134854-user-experience-designer-early-career/)  | San Francisco, CA/Atlanta, GA/Austin, TX/Boulder, CO/Chicago, IL/Los Angeles, CA/Madison, WI/Mountain View, CA/New York, NY/Seattle, WA/San Francisco, CA/ Sunnyvale, CA | 7/7
 | [Google - User Experience Designer, University Grad](https://careers.google.com/jobs/results/114500413182354118-user-experience-designer-university-graduate/)  | San Francisco, CA/Atlanta, GA/Austin, TX/Boulder, CO/Chicago, IL/Los Angeles, CA/Madison, WI/Mountain View, CA/New York, NY/Seattle, WA/San Francisco, CA/ Sunnyvale, CA | 7/8
