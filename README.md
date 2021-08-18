@@ -73,7 +73,7 @@ New Grad
 | [Accenture - UX/User Centered Designer](https://www.linkedin.com/jobs/view/2684162471/?refId=8fb1e5d9-6829-4f99-b2a1-a758e770bdd6&trk=flagship3_job_home_savedjobs) | Atlanta, GA | 8/17
 | [Square - Design Technologist](https://jobs.smartrecruiters.com/Square/743999766711982-design-technologist?source=Linkedin) | Austin, TX | 8/17
 | [Peloton - User Researchers](https://boards.greenhouse.io/peloton/jobs/3338878?gh_src=839cb4b41us&s=LinkedIn&source=LinkedIn) | New York, NY | 8/17
-| [Duolingo - Product Designer](https://boards.greenhouse.io/duolingo/jobs/5473177002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/17  
+| [Duolingo - Product Designer, New Graduate](https://boards.greenhouse.io/duolingo/jobs/5473177002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/17  
 
 Intern
 | Company  | Location | Details | Date Added
