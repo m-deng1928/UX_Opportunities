@@ -51,7 +51,7 @@ New Grad
 | [Figma - Education Designer, Product Education](https://jobs.lever.co/figma/f9edf733-874b-4141-8913-8bc7562d2ab5) | San Francisco, CA | 8/16
 | [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/16
 | [Peloton - Product Designer, UI, Freelance](https://boards.greenhouse.io/peloton/jobs/2324549?gh_src=a1942ad01us) | New York, NY | 8/16
-| [Slalom - Experience Designer](https://slalom.secure.force.com/careers/ts2__jobdetails?jobId=a0h1R00000BUAfbQAH&tSource=a121R00000NSLLRQA5&nostate=1&tSource=a121R00000NSLLRQA5) | Los Angeles, CA | 8/16
+| [Slalom - Experience Designer](https://slalom.secure.force.com/careers/ts2__jobdetailsjobId=a0h1R00000BUAfbQAH&tSource=a121R00000NSLLRQA5&nostate=1&tSource=a121R00000NSLLRQA5) | Los Angeles, CA | 8/16
 | [Dropbox - Product Designer](https://www.dropbox.com/jobs/listing/3396311?gh_src=aonhf1) | San Francisco, CA | 8/17
 | [Roku - UX Product Designer](https://www.roku.com/jobs/position/3398286/ux-product-designer-web-tools?gh_jid=3398286) | San Jose, CA | 8/17
 | [Laudable - Founding Product Designer](https://airtable.com/shrpmgaEM0uyPHwaU) | N/A | 8/17
