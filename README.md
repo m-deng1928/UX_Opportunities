@@ -1,7 +1,6 @@
 # UX_Opportunities_2021-2022
 
 Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. - If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted).
-- IBM links died but will wait a few days and see if it refreshes.
 
 If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE. Those will be noted with a YoE note next to it otherwise, or just read the description.
 
@@ -63,6 +62,8 @@ New Grad
 https://jobs.lever.co/spotify/73b42f7d-6d4e-4b4b-b5af-b53086fb5985/apply?lever-source=LinkedIn
 | [Cisco - Product Designer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer/1339070?source=LinkedIn)  | Seattle, WA  | 8/17
 | [Northwestern Mutual - Associate Product Designer](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/New-York-NY-NO-049-047/Associate-Experience-Designer_JR-26169?source=Linkedin)  | New York, NY/Milwaukee, WI | 8/17
+| [Figma - Web Designer](https://jobs.lever.co/figma/4ccffb0a-b848-4243-a04d-4aecff97e9bc) | New York, NY/San Francisco, CA/Remote | 8/17
+| [Mastercard - User Experience Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FArlington-Virginia%2FUser-Experience-Designer--Design-Systems_R-136202%2Fapply%3Fsource%3DLINKEDIN) | Arlington, VA | 8/17
 
 Intern
 | Company  | Location | Details | Date Added
