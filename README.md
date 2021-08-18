@@ -58,8 +58,7 @@ New Grad
 | [Block Renovation - Product Designer](https://www.linkedin.com/jobs/view/2687302107) | Brooklyn, NY | 8/17
 | [Built Technologies - Product Designer](https://jobs.lever.co/getbuilt/2b019bdf-596a-4af8-bd66-0edf532f5b73?lever-source=LinkedInJobs) | Knoxville, TN | 8/17
 | [Wix - Product Designer](https://www.wix.com/jobs/locations/phoenix/positions/397101) | Phoenix, AZ | 8/17
-| [Spotify - Product Designer - Backstage (2 YoE)](https://www.wix.com/jobs/locations/phoenix/positions/397101) | New York, NY | 8/17
-https://jobs.lever.co/spotify/73b42f7d-6d4e-4b4b-b5af-b53086fb5985/apply?lever-source=LinkedIn
+| [Spotify - Product Designer - Backstage (2 YoE)](https://jobs.lever.co/spotify/73b42f7d-6d4e-4b4b-b5af-b53086fb5985/apply?lever-source=LinkedIn) | New York, NY | 8/17
 | [Cisco - Product Designer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer/1339070?source=LinkedIn)  | Seattle, WA  | 8/17
 | [Northwestern Mutual - Associate Product Designer](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/New-York-NY-NO-049-047/Associate-Experience-Designer_JR-26169?source=Linkedin)  | New York, NY/Milwaukee, WI | 8/17
 | [Figma - Web Designer](https://jobs.lever.co/figma/4ccffb0a-b848-4243-a04d-4aecff97e9bc) | New York, NY/San Francisco, CA/Remote | 8/17
