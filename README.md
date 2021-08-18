@@ -9,7 +9,6 @@ Thanks, and don't forget to be awesome. :D
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
 | [Facebook - UX Researcher (New Grad)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
@@ -89,7 +88,6 @@ Intern
 | [Lippincott - Visual Communications](https://careers.mmc.com/global/en/job/R_139983/Lippincott-Intern-Visual-Communication-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots)  | New York, NY  | Summer 2022 (?) | 8/6
 | [Bank of America - Experience Design Graduate](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-675a8a3bb850/candidate/so/pm/1/pl/1/opp/7212-Experience-Design-Graduate-Summer-Intern-2022/en-GB) | Boston, MA  | Summer 2022 | 8/6
 | [Masonite - UX Design](https://www.linkedin.com/jobs/view/2667940698) | Tampa, FL  | Summer 2022 (?) | 8/6
-| [Facebook - UX Researcher, University Grad](https://www.facebook.com/careers/v2/jobs/761891457832240/?__cft__[0]=AZVcTSu6Fga7fWuQ9nMMvb_sozCzROYjoMgXzIZJ3jXCJfzyTx7HJSTKZC0fTYwuNI056HQhgQs9GohcWq8LqrPVpb2i_yOAywomIh5Xd2tSODQ5YUTf78e8Y8UlcoJqY_xNWHGGPe8DxSm-epq-Mfv1&__tn__=H-R)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Remote, US| 8/11
 | [DNC - Digital Technology (UX & Product Design](https://jobs.lever.co/dnc/3dbc5298-0a2c-4ffc-a122-1a37f574d4c3/apply?lever-source=LinkedIn)  | Washington D.C.  | Fall 2021 (Sep 13-Dec 3)/Part Time | 8/6
 | [The Center for Strategic & International Studies (CSIS) - iDeas Lab](https://jobs.silkroad.com/CSIS/Careers/jobs/978?source=linkedin.com)| Washington D.C. | Fall 2021 (Sep-Feb) | 8/6
 | [Optoro - UX Design](https://boards.greenhouse.io/optoro/jobs/3329062?gh_jid=3329062)  | Washington D.C.  | Fall 2021 | 8/7
