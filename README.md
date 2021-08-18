@@ -3,6 +3,8 @@
 Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. - If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted).
 - IBM links died but will wait a few days and see if it refreshes.
 
+If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE. Those will be noted with a YoE note next to it otherwise, or just read the description.
+
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
@@ -51,6 +53,16 @@ New Grad
 | [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/16
 | [Peloton - Product Designer, UI, Freelance](https://boards.greenhouse.io/peloton/jobs/2324549?gh_src=a1942ad01us) | New York, NY | 8/16
 | [Slalom - Experience Designer](https://slalom.secure.force.com/careers/ts2__jobdetails?jobId=a0h1R00000BUAfbQAH&tSource=a121R00000NSLLRQA5&nostate=1&tSource=a121R00000NSLLRQA5) | Los Angeles, CA | 8/16
+| [Dropbox - Product Designer](https://www.dropbox.com/jobs/listing/3396311?gh_src=aonhf1) | San Francisco, CA | 8/17
+| [Roku - UX Product Designer](https://www.roku.com/jobs/position/3398286/ux-product-designer-web-tools?gh_jid=3398286) | San Jose, CA | 8/17
+| [Laudable - Founding Product Designer](https://airtable.com/shrpmgaEM0uyPHwaU) | N/A | 8/17
+| [Block Renovation - Product Designer](https://www.linkedin.com/jobs/view/2687302107) | Brooklyn, NY | 8/17
+| [Built Technologies - Product Designer](https://jobs.lever.co/getbuilt/2b019bdf-596a-4af8-bd66-0edf532f5b73?lever-source=LinkedInJobs) | Knoxville, TN | 8/17
+| [Wix - Product Designer](https://www.wix.com/jobs/locations/phoenix/positions/397101) | Phoenix, AZ | 8/17
+| [Spotify - Product Designer - Backstage (2 YoE)](https://www.wix.com/jobs/locations/phoenix/positions/397101) | New York, NY | 8/17
+https://jobs.lever.co/spotify/73b42f7d-6d4e-4b4b-b5af-b53086fb5985/apply?lever-source=LinkedIn
+| [Cisco - Product Designer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer/1339070?source=LinkedIn)  | Seattle, WA  | 8/17
+| [Northwestern Mutual - Associate Product Designer](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/New-York-NY-NO-049-047/Associate-Experience-Designer_JR-26169?source=Linkedin)  | New York, NY/Milwaukee, WI | 8/17
 
 Intern
 | Company  | Location | Details | Date Added
@@ -101,3 +113,6 @@ Intern
 | [Duolingo - Design Thrive (for sophomores)](https://boards.greenhouse.io/duolingo/jobs/5473181002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | Summer 2022 | 8/16
 | [Duolingo - Design](https://boards.greenhouse.io/duolingo/jobs/5473179002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | Summer 2022 | 8/16
 | [General Motors (GM) - Customer Experience, Design](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Customer-Experience--Design-Intern_JR-000047911?source=Linkedin) | Detroit, MI | Summer 2022 | 8/16
+| [Nvidia - UX Design, Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Fall-Winter-2021_JR1944850-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Fall 2021/Winter 2022 | 8/17
+
+
