@@ -14,7 +14,13 @@ New Grad
 | [HelloFresh - UX Researcher (2-4 YoE)](https://www.hellofresh.com/careers/listings/3014550?team=ux-research-66047)  | Boulder, CO  | 7/19
 | [Reddit - UX Research Associate, Voice of the User, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247912?fbclid=IwAR07LjJyZDSPOmOlNil-O-Z64vxbxqpEQjs6i48V91h3iuYQ8I0M5t1NZPU)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Reddit - UX Research Associate, Usability, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247885?fbclid=IwAR3SZTH_isQXjSCLSPQv5pjDhdAimocUhOLiUDEtpsjHqaRsZuca2lZWhKA)| New York, NY/San Francisco, CA/Remote | 7/15
-| [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/22
+| [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/2
+| [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5054396002?gh_jid=5054396002&s=LinkedIn&source=LinkedIn)| Manhattan Beach, CA | 7/28
+| [Bain - Product Designer](https://csscareers-bain.icims.com/jobs/5699/job?mobile=false&width=1077&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)| San Francisco, CA/Austin, TX/Toronto, CA | 7/28
+| [Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Shopping-Destinations_R0073808?Codes=W-LINKEDIN)| Los Angeles, CA | 7/30
+| [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19581373?ss=paid&p_sid=z6cz49b&utm_medium=jobad&iisn=li&utm_source=linkedin%20slots&utm_content=pj_board&iis=pjob&p_uid=m2NgqinHzW&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent)| San Diego, CA | 7/30
+| [Kickstarter - Product Designer, Native](https://jobs.lever.co/kickstarter/48b0940c-060d-4cad-b175-680331827fe1/apply?lever-source=LinkedInJobs)| Remote | 7/30
+| [Starbucks - Product Designer, Customer & Retail Tech, Starbucks Technology](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=210022517&lang=en&src=JB-12147)| Seattle, WA | 7/30
 | [US Bank - UX Design Visual Interaction Designer](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/UXDesign-Visual-Interaction-Designer_2021-0036269) | New York, NY/Atlanta, GA/San Francisco, CA/Minneapolis, MN/Charlotte, NC/Irving, TX/Concord, CA | 8/4 
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
@@ -56,6 +62,7 @@ New Grad
 | [Amazon - Learning Experience Designer](https://www.amazon.jobs/en/jobs/1667977/learning-experience-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/12
 | [County of Santa Clara - Associate User Experience (UX) Designer](https://www.governmentjobs.com/careers/santaclara/jobs/3151623/associate-user-experience-ux-designer) | San Jose, CA | 8/13
 | [Cisco - User Experience Designer](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Designer/1332864?source=LinkedIn) | North Carolina | 8/13
+| [Adobe - Experience Researcher](https://adobe.design/jobs/jobpost-8898002/?fbclid=IwAR0Vd8qELTy-DguES58L3aOx3lZaUzgXoraYhZTnXmj_zJ5P4BS-GjdD4q8) | San Francisco, CA/Seattle, WA/New York, NY/ Remote | 8/15
 | [Figma - Product Design (New Grad)](https://jobs.lever.co/figma/a57f4982-278b-4574-b2bf-d7ad3021153a) | San Francisco, CA | 8/16
 | [Figma - Education Designer, Product Education](https://jobs.lever.co/figma/f9edf733-874b-4141-8913-8bc7562d2ab5) | San Francisco, CA | 8/16
 | [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/16
@@ -87,9 +94,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Synapse - Product Design](https://boards.greenhouse.io/syapse/jobs/3243993?gh_src=584cb2261us) | Remote | Summer 2021 | 7/31
-| [Palo Alto Networks - User Experience Design](https://www.linkedin.com/jobs/view/2659532333) | Remote | Summer 2021 | 7/31
-| [Zipline - Experience Design (Co-Op/Internship)](https://flyzipline.com/careers/job/4580445003/?gh_jid=4580445003&gh_src=baafe2f73us) | South San Francisco, CA | Fall 2021 | 7/31
+| [Edifecs - UX Design](https://jobs.jobvite.com/edifecs/job/otfhgfwZ) | Bellevue, WA | Summer 2022 | 7/30
+| [Synapse - Product Design](https://boards.greenhouse.io/syapse/jobs/3243993?gh_src=584cb2261us) | Remote | Summer 2022 | 7/30
+| [Zipline - Experience Design (Co-Op/Internship)](https://flyzipline.com/careers/job/4580445003/?gh_jid=4580445003&gh_src=baafe2f73us) | South San Francisco, CA | Fall 2021 | 7/30
 | [Hasbro - Product Design Co-Op](https://jobs.hasbro.com/job/Pawtucket-Product-Design-Co-op-%28Sept-Dec-2021%29-Rhod-02861/757972500/?utm_source=LINKEDIN&utm_medium=referrer)| Pawtucket, RI | Fall 2021 (Sep-Dec) | 8/6
 | [Pearlfisher - Design](http://careers.pearlfisher.com/apply/mocrNgHF7a/Design-Intern-Graduate?source=LILI#mocrNgHF7a) | New York, NY | Summer 2022 (?) | 8/6
 | [Anduril Industries - Visual Design](https://jobs.lever.co/anduril/56400dde-641e-406b-9853-87225232a86d/apply?lever-source=LinkedIn)  | Irvine, CA  | Summer 2022 (?) | 8/6
@@ -130,7 +137,6 @@ Intern
 | [WarnerMedia - Virtual Turner Sports UX Research=](https://warnermediacareers.com/global/en/job/WAMEGLOBAL185058BREXTERNALENGLOBAL/Virtual-Turner-Sports-UX-Research-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Fall 2021 | 8/15
 | [Facebook - Product Design](https://www.facebook.com/careers/v2/jobs/128761339324937/) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
 | [Facebook - Content Design](https://www.facebook.com/careers/v2/jobs/863247940971330/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Content%2520Design%2520Intern&utm_term=a1K2K0000031hwzUAA%252DUSNkNk18) | Bellevue, WA/Menlo Park, CA/Seattle, WA/New York, NY/San Francisco, CA | Fall 2021 | 8/15
-| [Adobe - Experience Researcher](https://adobe.design/jobs/jobpost-8898002/?fbclid=IwAR0Vd8qELTy-DguES58L3aOx3lZaUzgXoraYhZTnXmj_zJ5P4BS-GjdD4q8) | San Francisco, CA/Seattle, WA/New York, NY/ Remote | 8/15
 | [Figma - Product Design](https://jobs.lever.co/figma/81809ae5-782b-4042-86dd-f04a8f5030c2) | San Francisco, CA | Winter 2022 (Jan)/Summer 2022 (May/June) | 8/16
 | [WarnerMedia - HBO Max Product Experience Commerce](https://warnermediacareers.com/global/en/job/184768BR/Virtual-HBO-Max-Product-Experience-Commerce-Intern-Fall-2021) | California | Fall 2021 | 8/16
 | [WarnerMedia - Virtual HBO Max Kids & Family Product Experience](https://warnermediacareers.com/global/en/job/184767BR/Virtual-HBO-Max-Kids-Family-Product-Experience-Intern-Fall-2021) | California | Fall 2021 | 8/16
