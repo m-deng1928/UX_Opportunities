@@ -10,10 +10,6 @@ New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
 
-| [HelloFresh - UX Researcher (2-4 YoE)](https://www.hellofresh.com/careers/listings/3014550?team=ux-research-66047)  | Boulder, CO | 7/20
-| [Reddit - UX Research Associate, Usability (Contract/1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247885?fbclid=IwAR3SZTH_isQXjSCLSPQv5pjDhdAimocUhOLiUDEtpsjHqaRsZuca2lZWhKA)  | New York, NY/San Francisco, CA/Remote | 7/20
-| [Reddit - UX Research Associate, Voice of the User (Contract/1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247912?fbclid=IwAR07LjJyZDSPOmOlNil-O-Z64vxbxqpEQjs6i48V91h3iuYQ8I0M5t1NZPU)  | New York, NY/San Francisco, CA/Remote | 7/20
-| [Northwestern Mutual - User Researcher (1-3 YoE)](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)  | Milwaukee, WI, New York, NY  | 7/21
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
 | [Facebook - UX Researcher (New Grad)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
