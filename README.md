@@ -161,6 +161,7 @@ Intern
 | [Defenders of Wildlife - Center for Conservation Innovation UI/UX](https://jobs.jobvite.com/defendersofwildlife/job/oPAsgfwR?nl=1&nl=1&s=appcast) | Washington DC | Fall 2021 | 8/19
 | [Brain Technologies - Design Intern](https://boards.greenhouse.io/braintechnologies/jobs/4010431004?gh_src=02108da44us) | Remote | Summer 2022(?) | 8/19
 | [Valmont - E Learning Instructional Design](https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/E-Learning-Instructional-Design-Intern_R10695) | Valley, NE | Summer 2022(?) | 8/19
+| [IBM - Visual Design Co-Op](https://careers.ibm.com/job/13527878/visual-design-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/19
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
