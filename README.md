@@ -154,6 +154,13 @@ Intern
 | [Nvidia - UX Design, Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Fall-Winter-2021_JR1944850-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Fall 2021/Winter 2022 | 8/17
 | [WarnerMedia - Virtual UX Designer / Front-End Developer](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184181BREXTERNALENGLOBAL/Virtual-UX-Designer-Front-End-Developer-Intern-Fall-2021?utm_source=linkedin&utm_medium=phenom-feeds) | Burbank, California | Fall 2021 | 8/17
 | [Appian - User Experience Design Intern](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn) | Mclean, VA | Summer 2022| 8/17
+| [Public - Product Design & Research](https://boards.greenhouse.io/public/jobs/4671979003?gh_src=a370f63e3us) | Remote | Summer 2022| 8/19
+| [Highland - Design Research](https://highland.bamboohr.com/jobs/view.php?id=83) | Chicago, IL | Fall 2021 | 8/19
+| [Evergreen Investments - UI/UX Design](https://evergreenir.zohorecruit.com/recruit/ViewJob.na?digest=1fhwGFBvLSk%40winnnFeDHbslEmKHf71rZv2lFd8KSi0-&embedsource=LinkedIn%2BLimited%2BListings | Remote | Summer 2022 | 8/19
+| [Jerry - Visual Design](https://jobs.lever.co/getjerry/34d05617-fdcf-4841-bb87-773263cf90b1/apply?lever-source=LinkedIn) | San Francisco, CA | Summer 2022 | 8/19
+| [Defenders of Wildlife - Center for Conservation Innovation UI/UX](https://jobs.jobvite.com/defendersofwildlife/job/oPAsgfwR?nl=1&nl=1&s=appcast) | Washington DC | Fall 2021 | 8/19
+| [Brain Technologies - Design Intern](https://boards.greenhouse.io/braintechnologies/jobs/4010431004?gh_src=02108da44us) | Remote | Summer 2022(?) | 8/19
+| [Valmont - E Learning Instructional Design](https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/E-Learning-Instructional-Design-Intern_R10695) | Valley, NE | Summer 2022(?) | 8/19
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
