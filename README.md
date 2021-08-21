@@ -164,6 +164,7 @@ Intern
 | [IBM - Visual Design Co-Op](https://careers.ibm.com/job/13527878/visual-design-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/19
 | [Facebook - UX Research, Infrastructure](https://www.facebook.com/careers/v2/jobs/827879764570789/) |Menlo Park, CA/Seattle | Summer 2022 | 8/21
 | [Facebook - UX Researcher, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/381293930096505/?location=Sunnyvale%2C%20CA) |Sunnyvale, CA/Seattle, WA/Burlingame, CA/New York, NY| Summer 2022 | 8/21
+| [Tesla - Infotainment & UI](https://www.tesla.com/careers/search/job/software--infotainmentuiinternshipspring2022-98597?source=Indeed?source=Indeed) | Palo Alto, CA | Spring 2021 | 8/21
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
