@@ -162,6 +162,8 @@ Intern
 | [Brain Technologies - Design Intern](https://boards.greenhouse.io/braintechnologies/jobs/4010431004?gh_src=02108da44us) | Remote | Summer 2022(?) | 8/19
 | [Valmont - E Learning Instructional Design](https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/E-Learning-Instructional-Design-Intern_R10695) | Valley, NE | Summer 2022(?) | 8/19
 | [IBM - Visual Design Co-Op](https://careers.ibm.com/job/13527878/visual-design-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/19
+| [Facebook - UX Research, Infrastructure](https://www.facebook.com/careers/v2/jobs/827879764570789/) |Menlo Park, CA/Seattle | Summer 2022 | 8/21
+| [Facebook - UX Researcher, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/381293930096505/?location=Sunnyvale%2C%20CA) |Sunnyvale, CA/Seattle, WA/Burlingame, CA/New York, NY| Summer 2022 | 8/21
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
