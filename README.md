@@ -97,6 +97,9 @@ New Grad
 | [Peloton - User Researcher](https://boards.greenhouse.io/peloton/jobs/3338878?gh_src=839cb4b41us&s=LinkedIn&source=LinkedIn) | New York, NY | 8/17
 | [Duolingo - Product Designer, New Graduate](https://boards.greenhouse.io/duolingo/jobs/5473177002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/17  
 | [Blink - UX Designer (1-5 YoE)](https://jobs.lever.co/blinkux/1e326199-223e-4809-a3ca-bfd83d4a6e27?lever-source=LinkedInJobs)  | California/Colorado/Massachusetts/Texas/Washington | 8/18
+| [Starbucks - Employee Experience Researcher](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=210032142)| Seattle, WA | 8/21
+| [Capital 1 - UX Researchers (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19678072)| Seattle, WA | 8/21
+| [Pros Holdings - User Experience Researcher]](https://pros.wd5.myworkdayjobs.com/en-US/PROS_Careers/job/USA---Remote/User-Experience-Researcher_R1915)| Remote | 8/21
 
 Intern
 | Company  | Location | Details | Date Added
@@ -164,7 +167,14 @@ Intern
 | [IBM - Visual Design Co-Op](https://careers.ibm.com/job/13527878/visual-design-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/19
 | [Facebook - UX Research, Infrastructure](https://www.facebook.com/careers/v2/jobs/827879764570789/) |Menlo Park, CA/Seattle | Summer 2022 | 8/21
 | [Facebook - UX Researcher, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/381293930096505/?location=Sunnyvale%2C%20CA) |Sunnyvale, CA/Seattle, WA/Burlingame, CA/New York, NY| Summer 2022 | 8/21
-| [Tesla - Infotainment & UI](https://www.tesla.com/careers/search/job/software--infotainmentuiinternshipspring2022-98597?source=Indeed?source=Indeed) | Palo Alto, CA | Spring 2021 | 8/21
+| [Tesla - Infotainment & UI](https://www.tesla.com/careers/search/job/software--infotainmentuiinternshipspring2022-98597?source=Indeed?source=Indeed) | Palo Alto, CA | Spring 2022 | 8/21
+| [Dermalogica - UI/UX Design](https://phg.tbe.taleo.net/phg04/ats/careers/v2/viewRequisition?org=DERMA&cws=45&rid=4351&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Carson, CA | Summer 2022 | 8/21
+| [The Home Depot - User Experience](https://careers.homedepot.com/job/13612674/user-experience-intern-atlanta-atlanta-ga/) | Atlanta, GA | Summer 2022 | 8/21
+| [Zeiss Group - User Experience Researcher/Designer](https://live.solique.ch/microsites/showPublication/503cedae-ad35-4c4f-8891-efc3c5fe13a8) | Dublin, CA | Summer 2022 | 8/21
+| [OhioHealth - User Experience Research](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/OH-PERIMETER-DRIVE/User-Experience-Research-Intern_JR47210?source=LinkedIn8) | Dublin, GA | Summer 2022 | 8/21
+| [ChaiOne - UX Design](https://boards.greenhouse.io/chaione/jobs/4669464003) | Houston, TX | Summer 2022 | 8/21
+| [Nvidia - Autonomous Vehicle User Experience](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Autonomous-Vehicle-User-Experience-Intern---Fall-2021_JR1942195-2) | CO | Fall 2021 | 8/21
+| [SAP - iXp Intern - User Assistance/ UX Writer](https://jobs.sap.com/job/Newport-Beach-Intern%2C-User-Experience-Design-S4-HANA-Consumer-Industries-CA-92663/655348301/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed) | Newport Beach, CA | Summer 2022 | 8/21
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
