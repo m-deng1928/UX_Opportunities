@@ -99,7 +99,7 @@ New Grad
 | [Blink - UX Designer (1-5 YoE)](https://jobs.lever.co/blinkux/1e326199-223e-4809-a3ca-bfd83d4a6e27?lever-source=LinkedInJobs)  | California/Colorado/Massachusetts/Texas/Washington | 8/18
 | [Starbucks - Employee Experience Researcher](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=210032142)| Seattle, WA | 8/21
 | [Capital 1 - UX Researchers (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19678072)| Seattle, WA | 8/21
-| [Pros Holdings - User Experience Researcher]](https://pros.wd5.myworkdayjobs.com/en-US/PROS_Careers/job/USA---Remote/User-Experience-Researcher_R1915)| Remote | 8/21
+| [Pros Holdings - User Experience Researcher](https://pros.wd5.myworkdayjobs.com/en-US/PROS_Careers/job/USA---Remote/User-Experience-Researcher_R1915)| Remote | 8/21
 
 Intern
 | Company  | Location | Details | Date Added
