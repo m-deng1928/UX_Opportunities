@@ -100,6 +100,11 @@ New Grad
 | [Starbucks - Employee Experience Researcher](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=210032142)| Seattle, WA | 8/21
 | [Capital 1 - UX Researchers (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19678072)| Seattle, WA | 8/21
 | [Pros Holdings - User Experience Researcher](https://pros.wd5.myworkdayjobs.com/en-US/PROS_Careers/job/USA---Remote/User-Experience-Researcher_R1915)| Remote | 8/21
+| [IBM - UX Designer](https://careers.ibm.com/job/13667802/ux-designer-remote/?codes=SN_LinkedIn)| Austin,TX | 8/22
+| [IBM - UX Designer](https://careers.ibm.com/job/13140274/ux-designer-remote/?codes=SN_LinkedIn)| New York, NY/Southbury, CT/Research Triangle Park, NC | 8/22
+| [IBM - UX Designer](https://careers.ibm.com/job/13335874/ux-designer-remote/?codes=SN_LinkedIn)| Herndon, VA | 8/22
+| [IBM - User Experience Designer-Associate](https://careers.ibm.com/job/13080100/user-experience-designer-associate-washington-dc/?codes=SN_LinkedIn)| Washington DC | 8/22
+| [Mastercard - UI/UX Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/UI-UX-Designer_R-128695/apply?source=LINKEDIN)| Arlington, VA | 8/22
 
 Intern
 | Company  | Location | Details | Date Added
@@ -175,6 +180,7 @@ Intern
 | [ChaiOne - UX Design](https://boards.greenhouse.io/chaione/jobs/4669464003) | Houston, TX | Summer 2022 | 8/21
 | [Nvidia - Autonomous Vehicle User Experience](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Autonomous-Vehicle-User-Experience-Intern---Fall-2021_JR1942195-2) | CO | Fall 2021 | 8/21
 | [SAP - iXp Intern - User Assistance/ UX Writer](https://jobs.sap.com/job/Newport-Beach-Intern%2C-User-Experience-Design-S4-HANA-Consumer-Industries-CA-92663/655348301/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed) | Newport Beach, CA | Summer 2022 | 8/21
+| [IBM - User Experience Designer Co-Op](https://careers.ibm.com/job/13522690/user-experience-designer-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/21
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
