@@ -105,6 +105,7 @@ New Grad
 | [IBM - UX Designer](https://careers.ibm.com/job/13335874/ux-designer-remote/?codes=SN_LinkedIn)| Herndon, VA | 8/22
 | [IBM - User Experience Designer-Associate](https://careers.ibm.com/job/13080100/user-experience-designer-associate-washington-dc/?codes=SN_LinkedIn)| Washington DC | 8/22
 | [Mastercard - UI/UX Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/UI-UX-Designer_R-128695/apply?source=LINKEDIN)| Arlington, VA | 8/22
+| [LexisNexis - Associate UX Researcher](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Associate-UX-Researcher_R24319?shared_id=24407c77-8d9a-4fe6-8867-da06089e98cd)| Raleigh, NC | 8/23
 
 Intern
 | Company  | Location | Details | Date Added
