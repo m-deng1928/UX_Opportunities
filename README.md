@@ -106,6 +106,12 @@ New Grad
 | [IBM - User Experience Designer-Associate](https://careers.ibm.com/job/13080100/user-experience-designer-associate-washington-dc/?codes=SN_LinkedIn)| Washington DC | 8/22
 | [Mastercard - UI/UX Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/UI-UX-Designer_R-128695/apply?source=LINKEDIN)| Arlington, VA | 8/22
 | [LexisNexis - Associate UX Researcher](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Associate-UX-Researcher_R24319?shared_id=24407c77-8d9a-4fe6-8867-da06089e98cd)| Raleigh, NC | 8/23
+| [Accenture - User Experience Designer Analyst ++](https://www.accenture.com/us-en/careers/jobdetails?id=R00013778_en&src=LINKEDINJP)| Arlington, VA | 8/23
+| [Accenture - Droga5 (creative studio apart of Accenture Interactive) Junior Designer ](https://www.accenture.com/us-en/careers/jobdetails?id=R00025264_en&src=LINKEDINJP)| New York, NY | 8/23
+| [Medpace - Junior UX Designer](https://uscareers-medpace.icims.com/jobs/5821/junior-ux-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1177&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Cincinnati, OH | 8/23
+| [General Motors (GM) - Entry Level Digital Designer](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Entry-Level-Digital-Designer_JR-000049214?source=Linkedin) | Austin, TX/Chandler, AZ/Roswell, GA/Detroit, MI/Warren, MI | 8/23
+| [Warner Music Group (WMG) - Junior Product Designer (https://wmg.wd1.myworkdayjobs.com/en-US/WMGUS/job/USA---New-York---1633-Broadway/Junior-Product-Designer_R-013977)| New York, NY | 8/23 (altho posted on LI 2 weeks back)
+| [Cisco - Product Designer: Support/Help Experience ](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer-Support-Help-Experience/1339067?source=LinkedIn) | Seattle, WA/Off-site | 8/23
 
 Intern
 | Company  | Location | Details | Date Added
@@ -182,6 +188,9 @@ Intern
 | [Nvidia - Autonomous Vehicle User Experience](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Autonomous-Vehicle-User-Experience-Intern---Fall-2021_JR1942195-2) | CO | Fall 2021 | 8/21
 | [SAP - iXp Intern - User Assistance/ UX Writer](https://jobs.sap.com/job/Newport-Beach-Intern%2C-User-Experience-Design-S4-HANA-Consumer-Industries-CA-92663/655348301/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed) | Newport Beach, CA | Summer 2022 | 8/21
 | [IBM - User Experience Designer Co-Op](https://careers.ibm.com/job/13522690/user-experience-designer-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/21
+| [PNC - Digital Experience Team](https://careers.pnc.com/global/en/job/PNC1GLOBALR069308/Digital-Experience-Team-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Pittsburgh, PA | Summer 2022 | 8/23
+| [PwC Labs - Design UI/UX](https://jobs.us.pwc.com/job/-/-/932/12821170128?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=COWHoZPZyPICFc7JZAodqnQGhQ) | Denver, CO/Tampa, FL/Chicago, IL/New York, NY/Dallas, TX | Summer 2022 | 8/23
+| [Flex - User Interface Design Co-Op](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/User-Interface-Design-Co-op_WD116469/apply?source=LinkedIn_Slots) | Hollis, NH | Summer 2022 | 8/23
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
