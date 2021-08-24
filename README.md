@@ -113,6 +113,11 @@ New Grad
 | [General Motors (GM) - Entry Level Digital Designer](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Entry-Level-Digital-Designer_JR-000049214?source=Linkedin) | Austin, TX/Chandler, AZ/Roswell, GA/Detroit, MI/Warren, MI | 8/23
 | [Warner Music Group (WMG) - Junior Product Designer](https://wmg.wd1.myworkdayjobs.com/en-US/WMGUS/job/USA---New-York---1633-Broadway/Junior-Product-Designer_R-013977)| New York, NY | 8/23 (altho posted on LI 2 weeks back)
 | [Cisco - Product Designer: Support/Help Experience (1-3 YoE) ](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer-Support-Help-Experience/1339067?source=LinkedIn) | Seattle, WA/Off-site | 8/23
+| [Bloomberg - Product Designer I (1 YoE)](https://www.linkedin.com/jobs/view/2685942690/?refId=ed72f266-3460-4524-83e1-c34e2ff5361a&trk=flagship3_job_home_savedjobs) | Arlington, VA | 8/24
+| [Ancestry - User Experience Researcher (2 YoE)](https://careers.ancestry.com/us/en/job/ANCEUS4C4EAFB00447472DA07CC2D5282498B4EXTERNALENUS/User-Experience-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | San Francisco, CA | 8/24
+| [Landor & Fitch - Designer ](https://boards.greenhouse.io/landor/jobs/3388854?s=LinkedIn&source=LinkedIn) | San Francisco, CA | 8/24
+| [Apple - UX Researcher, AR/VR Applications](https://jobs.apple.com/en-us/details/200274160/ux-researcher-ar-vr-applications?board_id=17682&cid=scrape_co_us_linkedin_nationwide_software%2Bservices) | Santa Clara Valley, CA | 8/24
+| [Appian - User Experience Designer](https://boards.greenhouse.io/appian/jobs/3343821?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn) | McLean, VA | 8/24
 
 Intern
 | Company  | Location | Details | Date Added
@@ -192,6 +197,7 @@ Intern
 | [PNC - Digital Experience Team](https://careers.pnc.com/global/en/job/PNC1GLOBALR069308/Digital-Experience-Team-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Pittsburgh, PA | Summer 2022 | 8/23
 | [PwC Labs - Design UI/UX](https://jobs.us.pwc.com/job/-/-/932/12821170128?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=COWHoZPZyPICFc7JZAodqnQGhQ) | Denver, CO/Tampa, FL/Chicago, IL/New York, NY/Dallas, TX | Summer 2022 | 8/23
 | [Flex - User Interface Design Co-Op](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/User-Interface-Design-Co-op_WD116469/apply?source=LinkedIn_Slots) | Hollis, NH | Summer 2022 | 8/23
+| [P&G - Consumer & Market Knowledge Human Insights Co-op](https://www.pgcareers.com/job/cincinnati/consumer-and-market-knowledge-human-insights-co-op-fall-2021-or-spring-2022/936/11254614192?source=RS_LINKEDIN) | Cincinnati, OH | Fall 2021/Spring 2022 | 8/24
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
