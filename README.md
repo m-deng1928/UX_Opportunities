@@ -105,13 +105,14 @@ New Grad
 | [IBM - UX Designer](https://careers.ibm.com/job/13335874/ux-designer-remote/?codes=SN_LinkedIn)| Herndon, VA | 8/22
 | [IBM - User Experience Designer-Associate](https://careers.ibm.com/job/13080100/user-experience-designer-associate-washington-dc/?codes=SN_LinkedIn)| Washington DC | 8/22
 | [Mastercard - UI/UX Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/UI-UX-Designer_R-128695/apply?source=LINKEDIN)| Arlington, VA | 8/22
+| [Mastercard - User Experience Designer - Design Systems]https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FArlington-Virginia%2FUser-Experience-Designer--Design-Systems_R-136202%2Fapply%3Fsource%3DLINKEDIN)| Arlington, VA | 8/23
 | [LexisNexis - Associate UX Researcher](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Associate-UX-Researcher_R24319?shared_id=24407c77-8d9a-4fe6-8867-da06089e98cd)| Raleigh, NC | 8/23
 | [Accenture - User Experience Designer Analyst ++](https://www.accenture.com/us-en/careers/jobdetails?id=R00013778_en&src=LINKEDINJP)| Arlington, VA | 8/23
 | [Accenture - Droga5 (creative studio apart of Accenture Interactive) Junior Designer ](https://www.accenture.com/us-en/careers/jobdetails?id=R00025264_en&src=LINKEDINJP)| New York, NY | 8/23
 | [Medpace - Junior UX Designer](https://uscareers-medpace.icims.com/jobs/5821/junior-ux-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1177&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Cincinnati, OH | 8/23
 | [General Motors (GM) - Entry Level Digital Designer](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Entry-Level-Digital-Designer_JR-000049214?source=Linkedin) | Austin, TX/Chandler, AZ/Roswell, GA/Detroit, MI/Warren, MI | 8/23
 | [Warner Music Group (WMG) - Junior Product Designer](https://wmg.wd1.myworkdayjobs.com/en-US/WMGUS/job/USA---New-York---1633-Broadway/Junior-Product-Designer_R-013977)| New York, NY | 8/23 (altho posted on LI 2 weeks back)
-| [Cisco - Product Designer: Support/Help Experience ](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer-Support-Help-Experience/1339067?source=LinkedIn) | Seattle, WA/Off-site | 8/23
+| [Cisco - Product Designer: Support/Help Experience (1-3 YoE) ](https://jobs.cisco.com/jobs/ProjectDetail/Product-Designer-Support-Help-Experience/1339067?source=LinkedIn) | Seattle, WA/Off-site | 8/23
 
 Intern
 | Company  | Location | Details | Date Added
