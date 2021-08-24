@@ -118,6 +118,13 @@ New Grad
 | [Landor & Fitch - Designer ](https://boards.greenhouse.io/landor/jobs/3388854?s=LinkedIn&source=LinkedIn) | San Francisco, CA | 8/24
 | [Apple - UX Researcher, AR/VR Applications](https://jobs.apple.com/en-us/details/200274160/ux-researcher-ar-vr-applications?board_id=17682&cid=scrape_co_us_linkedin_nationwide_software%2Bservices) | Santa Clara Valley, CA | 8/24
 | [Appian - User Experience Designer](https://boards.greenhouse.io/appian/jobs/3343821?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn) | McLean, VA | 8/24
+| [PayPal - Product Designer, Marketing Tools](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Shopping-Destinations_R0073808?Codes=W-LINKEDIN)| Chicago, IL | 8/24 (posted while back)
+| [PayPal - Product Designer, PayPal.com (2 YoE)](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Chicago-IL/Product-Designer---PayPalcom_R0067102?Codes=W-LINKEDIN)| Chicago, IL | 8/24 (posted while back)
+| [PayPal - Product Designer, Shopper Destinations](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Shopping-Destinations_R0073808?Codes=W-LINKEDIN)| Chicago, IL | 8/24 (posted while back)
+| [PayPal - Product Designer, Savings & Coupons](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer---Savings---Coupons_R0068913?Codes=W-LINKEDIN)%7C+Chicago%2C+IL+%7C+8%2F24+(p)| Los Angeles, CA | 8/24 (posted while back)
+| [PayPal - Product Designer, Extension Platform](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer---Extension-Platform_R0068914?Codes=W-LINKEDIN)| Los Angeles, CA | 8/24 (posted while back)
+| [PayPal - Product Designer, Extension Platform](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Checkout_R0073881-1?Codes=W-LINKEDIN)| Los Angeles, CA | 8/24 (posted while back)
+
 
 Intern
 | Company  | Location | Details | Date Added
