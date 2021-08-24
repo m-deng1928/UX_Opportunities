@@ -18,7 +18,7 @@ New Grad
 | [HelloFresh - UX Researcher (2-4 YoE)](https://www.hellofresh.com/careers/listings/3014550?team=ux-research-66047)  | Boulder, CO  | 7/19
 | [Reddit - UX Research Associate, Voice of the User, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247912?fbclid=IwAR07LjJyZDSPOmOlNil-O-Z64vxbxqpEQjs6i48V91h3iuYQ8I0M5t1NZPU)| New York, NY/San Francisco, CA/Remote | 7/15
 | [Reddit - UX Research Associate, Usability, Contract (1 YoE)](https://boards.greenhouse.io/reddit/jobs/3247885?fbclid=IwAR3SZTH_isQXjSCLSPQv5pjDhdAimocUhOLiUDEtpsjHqaRsZuca2lZWhKA)| New York, NY/San Francisco, CA/Remote | 7/15
-| [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/2
+| [Northwestern Mutual - User Experience Researcher](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-17760/?fbclid=IwAR0mHO8PbvylVQ-gymOHinzA8-UrOihk2IsTI-fLzKQMy7STw5PsasiX-NY)| New York, NY/Milwaukee, WI | 7/22
 | [Visa - Design Researcher](https://jobs.smartrecruiters.com/Visa/743999762320741-design-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| Bellevue, WA | 7/26
 | [Accenture - Associate Service & UX Designer](https://www.accenture.com/us-en/careers/jobdetails?id=00979947_en&src=LINKEDINJP#job-location)| Phoenix, AZ/Los Angeles, CA/San Diego, CA/Boise, ID/Seattle, WA | 7/26
 | [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5054396002?gh_jid=5054396002&s=LinkedIn&source=LinkedIn)| Manhattan Beach, CA | 7/26
