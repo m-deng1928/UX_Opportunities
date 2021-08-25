@@ -211,8 +211,11 @@ Intern
 | [Flex - User Interface Design Co-Op](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/User-Interface-Design-Co-op_WD116469/apply?source=LinkedIn_Slots) | Hollis, NH | Summer 2022 | 8/23
 | [P&G - Consumer & Market Knowledge Human Insights Co-op](https://www.pgcareers.com/job/cincinnati/consumer-and-market-knowledge-human-insights-co-op-fall-2021-or-spring-2022/936/11254614192?source=RS_LINKEDIN) | Cincinnati, OH | Fall 2021/Spring 2022 | 8/24
 | [West - Design](https://www.linkedin.com/jobs/view/2689817699/?refId=c6b4f096-8900-3480-b339-ebb26467da21) | New York, NY | Fall 2021 | 8/24
+| [InEight - UI Design](https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&career_job_req_id=8928&selected_lang=en_US&jobPipeline=DE-Member_Site#PortlandOR) | Portland, OR/Omaha, NE/Scottsdale, AZ | Summer 2022 | 8/24
+| [Red Ventures - 2022 Launch: Digital Design](https://www.redventures.com/careers/apply/3281407?gh_jid=3281407) |Charlotte, NC | Summer 2022 | 8/24
+
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-| [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d)  | Fall 2021 | 7/18
+| [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Fall 2021 | 7/18
