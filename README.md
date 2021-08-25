@@ -124,7 +124,12 @@ New Grad
 | [PayPal - Product Designer, Savings & Coupons](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer---Savings---Coupons_R0068913?Codes=W-LINKEDIN)| Los Angeles, CA | 8/24 (posted while back)
 | [PayPal - Product Designer, Extension Platform](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer---Extension-Platform_R0068914?Codes=W-LINKEDIN)| Los Angeles, CA | 8/24 (posted while back)
 | [PayPal - Product Designer, Extension Platform](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Checkout_R0073881-1?Codes=W-LINKEDIN)| Los Angeles, CA | 8/24 (posted while back)
-
+| [Amazon.- UX Researcher, Talent Products (3 YoE)](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Checkout_R0073881-1?Codes=W-LINKEDIN)| Atlanta, GA/Dallas, TX/Nashville, TN/Seattle, WA | 8/24 
+| [Adobe - Experience Designer](https://adobe.wd5.myworkdayjobs.com/external_experienced/login?redirect=%2Fexternal_experienced%2Fjob%2FSan-Francisco%2FExperience-Designer--Learn_R110128-2%2Fapply%3Fsource%3DLinkedIn)| New York, NY | 8/24 
+| [Jobot - Product Designer](https://www.linkedin.com/jobs/view/2683534549/?refId=1dd82b39-dd11-4bf2-a0f6-acb6d8f74339&trk=flagship3_job_home_savedjobs)| Seattle, WA | 8/24
+| [Panasonic North America - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2688269495/?refId=1dd82b39-dd11-4bf2-a0f6-acb6d8f74339&trk=flagship3_job_home_savedjobs)| Denver, CO | 8/24
+| [Intuit - Production Designer](https://jobs.intuit.com/job/-/-/27595/19339853?ss=paid&utm_campaign=null&iis=pjob&utm_source=linkedin%20slots&p_sid=20BGd6b&utm_content=pj_board&iisn=li&utm_medium=jobad&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&p_uid=7Y2lJnEOB8)| Los Angeles, CA/Plano, TX/San Diego, CA | 7/30
+| [KhanAcademy - User Researcher Coordinator (9 month contract )](https://boards.greenhouse.io/khanacademy/jobs/3261525)| Mountain View, CA/Remote Friendly | 8/24
 
 Intern
 | Company  | Location | Details | Date Added
@@ -205,6 +210,7 @@ Intern
 | [PwC Labs - Design UI/UX](https://jobs.us.pwc.com/job/-/-/932/12821170128?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=COWHoZPZyPICFc7JZAodqnQGhQ) | Denver, CO/Tampa, FL/Chicago, IL/New York, NY/Dallas, TX | Summer 2022 | 8/23
 | [Flex - User Interface Design Co-Op](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/User-Interface-Design-Co-op_WD116469/apply?source=LinkedIn_Slots) | Hollis, NH | Summer 2022 | 8/23
 | [P&G - Consumer & Market Knowledge Human Insights Co-op](https://www.pgcareers.com/job/cincinnati/consumer-and-market-knowledge-human-insights-co-op-fall-2021-or-spring-2022/936/11254614192?source=RS_LINKEDIN) | Cincinnati, OH | Fall 2021/Spring 2022 | 8/24
+| [West - Design](https://www.linkedin.com/jobs/view/2689817699/?refId=c6b4f096-8900-3480-b339-ebb26467da21) | New York, NY | Fall 2021 | 8/24
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
