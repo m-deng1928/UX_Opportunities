@@ -130,6 +130,19 @@ New Grad
 | [Panasonic North America - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2688269495/?refId=1dd82b39-dd11-4bf2-a0f6-acb6d8f74339&trk=flagship3_job_home_savedjobs)| Denver, CO | 8/24
 | [Intuit - Production Designer](https://jobs.intuit.com/job/-/-/27595/19339853?ss=paid&utm_campaign=null&iis=pjob&utm_source=linkedin%20slots&p_sid=20BGd6b&utm_content=pj_board&iisn=li&utm_medium=jobad&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&p_uid=7Y2lJnEOB8)| Los Angeles, CA/Plano, TX/San Diego, CA | 7/30
 | [KhanAcademy - User Researcher Coordinator (9 month contract )](https://boards.greenhouse.io/khanacademy/jobs/3261525)| Mountain View, CA/Remote Friendly | 8/24
+| [Amazon - UX Designer - Tax Technology (2 YoE)](https://www.amazon.jobs/en/jobs/1689628/ux-designer-tax-technology?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Seattle, WA | 8/25
+| [Ally - UX Designer](https://recruiting.adp.com/srccar/public/nghome.guid?c=1125607&d=AllyCareers&prc=RMPOD1&r=5000751299106&rb=LinkedIn#/)| Detroit, MI | 8/25
+| [Capital 1 - UX/UI Designer, Data Experience Design](https://www.capitalonecareers.com/job/-/-/1732/19694376?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CO7Qytr0zfICFU2oZAod7MkNkw)| McLean, VA/New York, NY | 8/25
+| [Capital 1 - UX/UI Designer, Acquisitions & Welcome Team](https://www.capitalonecareers.com/job/-/-/1732/19691837?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CNyn4sP5zfICFQzqZAodUlMPjQ)| Chicago, Illinois/McLean, Virginia/New York, New York | 8/25
+| [Steampunk - User Experience Designer](https://careers-steampunk.icims.com/jobs/3043/user-experience-%28ux%29-designer/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=926&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)| McLean, VA | 8/25
+| [HP - UX Researcher](https://jobs.hp.com/ShowJob/Id/13939/Ux%20Researcher)| San Diego, CA | 8/25
+| [System Soft Technologies - User Experience Designer](https://www.linkedin.com/jobs/view/2691107352)| Dallas, TX | 8/25
+| [Lowes - UX Designer (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25239&siteid=5014&jobid=6840059&codes=617LinkedInPaidSlots)| Remote | 8/25
+| [Apple - Product Designer, Maps)](https://jobs.apple.com/en-us/details/200159720/product-designer-maps?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design)| Culver City, CA | 8/25
+| [Momentive.ai - Product Designer (multiple roles open))](https://www.linkedin.com/jobs/view/2691369694)| Seattle, WA | 8/25
+| [Apple - Product Designer, Maps)](https://jobs.apple.com/en-us/details/200159720/product-designer-maps?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design)| Culver City, CA | 8/25
+| [DICK's Sporting Goods - UX Designer - Custom Product Ordering Experience (2-4 YoE)](https://www.linkedin.com/jobs/view/2691572692)| Culver City, CA | 8/25
+| [PlayStation - UX Designer - Cloud Front-End (2-4 YoE)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3379469/?t=b8y5ha&s=LinkedIn&source=LinkedIn)| Austin, TX | 8/25
 
 Intern
 | Company  | Location | Details | Date Added
