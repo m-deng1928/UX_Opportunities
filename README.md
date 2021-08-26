@@ -141,8 +141,10 @@ New Grad
 | [Apple - Product Designer, Maps)](https://jobs.apple.com/en-us/details/200159720/product-designer-maps?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design)| Culver City, CA | 8/25
 | [Momentive.ai - Product Designer (multiple roles open))](https://www.linkedin.com/jobs/view/2691369694)| Seattle, WA | 8/25
 | [Apple - Product Designer, Maps)](https://jobs.apple.com/en-us/details/200159720/product-designer-maps?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design)| Culver City, CA | 8/25
-| [DICK's Sporting Goods - UX Designer - Custom Product Ordering Experience (2-4 YoE)](https://www.linkedin.com/jobs/view/2691572692)| Culver City, CA | 8/25
+| [DICK's Sporting Goods - UX Designer - Custom Product Ordering Experience (2-4 YoE)](https://www.linkedin.com/jobs/view/2691572692)| Coraopolis, PA | 8/25
 | [PlayStation - UX Designer - Cloud Front-End (2-4 YoE)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3379469/?t=b8y5ha&s=LinkedIn&source=LinkedIn)| Austin, TX | 8/25
+| [athenahealth - UX Designer (1-3 YoE)](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Austin-TX/UX-Designer_R4205?source=Linkedin)| Austin, TX | 8/25
+| [FCB Health - Jr Product Designer](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=210003UF&lang=en)| New York, NY | 8/25
 
 Intern
 | Company  | Location | Details | Date Added
