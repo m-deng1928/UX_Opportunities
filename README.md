@@ -145,6 +145,33 @@ New Grad
 | [athenahealth - UX Designer (1-3 YoE)](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Austin-TX/UX-Designer_R4205?source=Linkedin)| Austin, TX | 8/25
 | [FCB Health - Jr Product Designer](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=210003UF&lang=en)| New York, NY | 8/25
 | [Microsoft - Designer](https://careers.microsoft.com/us/en/job/1135086/Designer)| Redmond, WA | 8/26
+| [The Room Place - User Experience Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a563e147-fb55-4a53-bf8f-8930b54e8706&ccId=19000101_000001&lang=en_US)| Redmond, WA | 8/26
+| [WarnerMedia - Product Designer, Discovery & Messaging(2-3 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBAL186208BREXTERNALENGLOBAL/Product-Designer-Discovery-Messaging?utm_source=linkedin&utm_medium=phenom-feeds)| Atlanta, GA | 8/26
+| [Addepar - Product Designer](https://boards.greenhouse.io/addepar1/jobs/5487589002?gh_src=31a4a9852&s=LinkedIn&source=LinkedIn)| Remote | 8/26
+| [Addepar - Product Designer-Operating Platform](https://boards.greenhouse.io/addepar1/jobs/5487650002?t=31a4a9852)| Remote | 8/26
+| [Addepar - Content Designer](https://boards.greenhouse.io/addepar1/jobs/5220407002?t=31a4a9852)| Remote | 8/26
+| [Facebook - Product Designer, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/711102043114158/)| Burlingame, CA/Los Angeles, CA | 8/26
+| [Stripe - Product Designer](https://stripe.com/jobs/listing/product-designer/2792371?gh_src=73vnei)| Seattle, WA | 8/26
+| [Dropbox - Interactive Designer - HelloSign (3 YoE)](https://www.dropbox.com/jobs/listing/3144977) | San Francisco, CA/Remote | 8/26
+| [Dropbox - Product Designer, Docsend Integration](https://www.dropbox.com/jobs/listing/3385751) | San Francisco, CA/Remote | 8/26
+| [Dropbox - Product Designer, Organized Teams](https://www.dropbox.com/jobs/listing/3013631) | San Francisco, CA/Remote | 8/26
+| [Dropbox - Product Designer, Organized Workflows](https://www.dropbox.com/jobs/listing/3396311) | San Francisco, CA/Remote | 8/26
+| [ServiceNow - Product Designer](https://jobs.smartrecruiters.com/ServiceNow/743999768473764-product-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego, CA | 8/26
+| [Relativity - Associate Product Designer](https://jobs.lever.co/relativity/7188a897-b069-4b47-a757-738585945390?lever-source=LinkedInJobs) | Remote | 8/26
+| [Color -  Product Designer (2 YoE)](https://jobs.lever.co/color/5dde7ead-268c-455c-9bd7-f462d4ff4f31?lever-source=LinkedInJobs) | Remote | 8/26
+| [C2FO - Product UX Designer](https://recruiting2.ultipro.com/POL1009POLN/JobBoard/1566dc03-acb1-49fb-8aa6-42b2a287ce63/OpportunityDetail?opportunityId=6ce0ef4c-21ac-404d-9c89-8ac7f78fed19&utm_source=LINKEDIN) | Missouri City, KS | 8/26
+| [Workday -  Product Designer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Product-Designer_JR-51237?source=website_linkedin) | Atlanta, GA | 8/26
+| [Apple - Product Designer](https://jobs.apple.com/en-us/details/200150434/product-designer)| Santa Clara Valley, CA | 8/26
+| [Samsara - Product Designer](https://boards.greenhouse.io/samsara/jobs/850726?gh_src=a42fbb361&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 8/26
+| [Scale AI - Product Designer](https://jobs.lever.co/scaleai/f28d8b72-d673-4bcd-b3ee-2572e6d3a1f4?lever-source=LinkedInJobs)| San Francisco, CA | 8/26
+| [DISQO - Associate Product Designer, Enterprise Apps](https://jobs.lever.co/disqo/ae50a53f-5ff7-42a9-baed-46ba6879900d?lever-source=LinkedInJobs)| Remote | 8/26
+| [Honor - Product Designer](https://boards.greenhouse.io/honor/jobs/5478934002?gh_jid=5478934002&s=LinkedIn&source=LinkedIn)| Remote | 8/26
+| [Gensler - Visual Designer](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Austin-TX-US/Visual-Designer_R-5352?source=Social+Media+–+LinkedIn)| Austin, TX | 8/26
+| [Bungie - Associate UX Designer](https://careers.bungie.com/jobs/3423750/associate-ux-designer)| Bellevue, WA | 8/26
+| [UnderArmour - Product Designer](https://careers.underarmour.com/job/Austin-Product-Designer-TX-78701/770565900/?feedId=346600&utm_source=LinkedInJobPostings&JobPipeline=LINKEDIN)| Austin, TX | 8/26
+| [Paradox - Associate Product Designer](https://careers.paradox.ai/associate-product-designer/job/17237351?utm_campaign=Jobs&utm_medium=Paid&utm_source=LinkedIn)| Scottsdale, AZ | 8/26
+| [Red Hat - Junior UX Designer](https://careers.paradox.ai/associate-product-designer/job/17237351?utm_campaign=Jobs&utm_medium=Paid&utm_source=LinkedIn)| Remote | 8/26
+| [Tinder - Associate UX Researcher](https://jobs.lever.co/matchgroup/51c1d002-0f4f-4c7e-900e-73c8ea317132/apply)| Los Angeles, CA | 8/26
 
 Intern
 | Company  | Location | Details | Date Added
@@ -229,6 +256,10 @@ Intern
 | [InEight - UI Design](https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&career_job_req_id=8928&selected_lang=en_US&jobPipeline=DE-Member_Site#PortlandOR) | Portland, OR/Omaha, NE/Scottsdale, AZ | Summer 2022 | 8/24
 | [Red Ventures - 2022 Launch: Digital Design](https://www.redventures.com/careers/apply/3281407?gh_jid=3281407) |Charlotte, NC | Summer 2022 | 8/24
 | [Redfin - Product Design](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Design---Summer-2022-Internship_41357) |Seattle WA/San Francisco, CA/Austin, TX | Summer 2022 | 8/26
+| [MX - UX/CX Research](https://mx.wd1.myworkdayjobs.com/en-US/EXT-MX/job/Lehi-UT/UX-CX-Research-Intern_R509?source=Linkedin) | Lehi, UT | Summer 2022 | 8/26
+| [IBM - Design Operations (CIO)](https://careers.ibm.com/job/13685255/design-operations-intern-summer-2022-cio-new-york-ny/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | New York, NY | Summer 2022 | 8/26
+| [Workiva - User Experience Design](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-User-Experience-Design-Intern_R2916?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 8/26
+| [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Spring---UI-Design-Intern_R2356?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 8/26
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
