@@ -144,6 +144,7 @@ New Grad
 | [PlayStation - UX Designer - Cloud Front-End (2-4 YoE)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3379469/?t=b8y5ha&s=LinkedIn&source=LinkedIn)| Austin, TX | 8/25
 | [athenahealth - UX Designer (1-3 YoE)](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Austin-TX/UX-Designer_R4205?source=Linkedin)| Austin, TX | 8/25
 | [FCB Health - Jr Product Designer](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=210003UF&lang=en)| New York, NY | 8/25
+| [Microsoft - Designer](https://careers.microsoft.com/us/en/job/1135086/Designer)| Redmond, WA | 8/26
 
 Intern
 | Company  | Location | Details | Date Added
@@ -227,7 +228,7 @@ Intern
 | [West - Design](https://www.linkedin.com/jobs/view/2689817699/?refId=c6b4f096-8900-3480-b339-ebb26467da21) | New York, NY | Fall 2021 | 8/24
 | [InEight - UI Design](https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&career_job_req_id=8928&selected_lang=en_US&jobPipeline=DE-Member_Site#PortlandOR) | Portland, OR/Omaha, NE/Scottsdale, AZ | Summer 2022 | 8/24
 | [Red Ventures - 2022 Launch: Digital Design](https://www.redventures.com/careers/apply/3281407?gh_jid=3281407) |Charlotte, NC | Summer 2022 | 8/24
-
+| [Redfin - Product Design](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Design---Summer-2022-Internship_41357) |Seattle WA/San Francisco, CA/Austin, TX | Summer 2022 | 8/26
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
