@@ -149,6 +149,20 @@ New Grad
 | [Paradox - Associate Product Designer](https://careers.paradox.ai/associate-product-designer/job/17237351?utm_campaign=Jobs&utm_medium=Paid&utm_source=LinkedIn)| Scottsdale, AZ | 8/26
 | [Red Hat - Junior UX Designer](https://careers.paradox.ai/associate-product-designer/job/17237351?utm_campaign=Jobs&utm_medium=Paid&utm_source=LinkedIn)| Remote | 8/26
 | [Tinder - Associate UX Researcher](https://jobs.lever.co/matchgroup/51c1d002-0f4f-4c7e-900e-73c8ea317132/apply)| Los Angeles, CA | 8/26
+| [Coda - UX Researcher (3YoE)](https://jobs.lever.co/matchgroup/51c1d002-0f4f-4c7e-900e-73c8ea317132/apply)| San Francisco, CA | 8/31
+| [Robinhood - Product Designer](https://robinhood.com/us/en/careers/openings/?gh_jid=2596932&gh_src=ed898e781us)| Menlo Park, CA | 8/31
+| [Rippling - Product Designer (3 Yoe)](https://www.rippling.com/careers/4110878003?gh_jid=4110878003)| San Francisco, CA | 8/31
+| [Capital 1 - Principal Associate, Product Designer (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19627962)| Arlington, VA/New York, New York | 8/31
+| [Pattern - Junior Digital Product Designer (1-2 YoE)](https://boards.greenhouse.io/patterncareers/jobs/3417781?s=LinkedIn&source=LinkedIn)| Arlington, VA/New York, New York | 8/31
+| [The Knot Worldwide - Product Designer](https://www.linkedin.com/jobs/view/2671892672)| Arlington, VA/New York, New York | 8/31
+| [Facebook - Product Designer, Assistant](https://www.facebook.com/careers/v2/jobs/231475842313132/) | Redmond, WA/Burlingame, CA | 8/31
+| [Apple - Product Designer, Subscriptions Lifcycle](https://jobs.apple.com/en-us/details/200266647/product-designer-subscriptions-lifecycle)| Culver City, CA | 8/31
+| [Ford Motor Company - Product Designer](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&jobId=517886#jobDetails=517886_5186)| Dearborn, MI | 8/31
+| [Toast - Product Designer (3 YoE)](https://boards.greenhouse.io/embed/job_app?token=3243634&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn)| Boston, MA | 8/31
+| [Blameless - Product Designer (3 YoE)](https://jobs.lever.co/blameless/99409a33-fa55-4c85-90f3-504f6f1a49db?lever-source=LinkedInJobs)| San Francisco, CA | 8/31
+| [LivePerson - Product Designer (2 YoE)](https://www.liveperson.com/company/careers?gh_jid=3387017&gh_src=fc870eec1)| New York, NY | 8/31
+| [Highspot - Product Designer (3 YoE)](https://jobs.lever.co/highspot/160bb9d9-b555-4ac0-9586-38c858b337c0?lever-source=LinkedInJobs)| Seattle, WA | 8/31
+| [The Atlantic - Product Designer (3 YoE)](https://atlanticmedia.wd1.myworkdayjobs.com/en-US/Careers/job/Washington-DC/Product-Designer--The-Atlantic-_R213)| New York, NY | 8/31
 
 Intern
 | Company  | Location | Details | Date Added
