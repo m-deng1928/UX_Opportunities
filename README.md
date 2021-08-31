@@ -216,6 +216,20 @@ Intern
 | [IBM - Design Operations (CIO)](https://careers.ibm.com/job/13685255/design-operations-intern-summer-2022-cio-new-york-ny/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | New York, NY | Summer 2022 | 8/26
 | [Workiva - User Experience Design](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-User-Experience-Design-Intern_R2916?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 8/26
 | [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Spring---UI-Design-Intern_R2356?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 8/26
+| [Workiva - Content Design](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/XMLNAME-2022-Summer---Content-Design-Intern_R2975-1?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Summer 2022 | 8/30
+| [Dow Jones (under Wall Street Journal) - Product Design](https://dowjones.jobs/new-york-ny/product-design-intern/C1FA8FDEF2C74B7C8923E4325CD0C084/job/?vs=16061606) | New York, NY | Summer 2022 | 8/30
+| [Sandhills Global - UI/U Design](https://careerlink.com/job/12198-000559/) | Lincoln, NE | Summer 2022 | 8/30
+| [TMH - Web design, Marketing, and Social Media](https://www.linkedin.com/jobs/view/1958495757) | Long Beach, CA | Summer 2022 | 8/30
+| [Avery Dennison - Creative Design](https://www.linkedin.com/jobs/view/2682017394) | Dallas Fort Worth, TX | Summer 2022 | 8/30
+| [Weber Shandwick - Design - Creative](https://www.webershandwick.com/work-at-weber/careers/?gh_jid=5483237002&gh_src=6ce12e352#cmg-gh) | Washington DC | Fall 2021 (Starts Sep 7)| 8/30
+| [Nate - Design](https://jobs.lever.co/nate/1d612774-4df7-4163-8fee-098d159b2d65/apply?lever-source=LinkedInh) | New York, NY | Summer 2022 | 8/30
+| [GSD&M - Experience Design (UI/UX)](https://recruiting.adp.com/srccar/public/nghome.guid?c=1212701&d=External&prc=RMPOD4&r=5000759125000#/) | Austin, TX | Fall 2021 | 8/30
+| [Pattern - UX Design for Chinese Marketplaces (Mandarin Proficiency in Description)](https://pattern.breezy.hr/p/eacda4c6a04a-internship-ux-design-for-chinese-marketplaces) | Lehi, UT | Fall 2021 | 8/30
+| [ByteDance - Innovation Product Design](https://www.linkedin.com/jobs/view/2693111146) | Mountain View, CA | Summer 2022 | 8/30
+| [Leidos - Semester-long UI Design Software Engineer](https://www.clearancejobs.com/jobs/5719412/semester-long-ui-software-engineer-intern?utm_source=linkedin-cj-organic&utm_medium=jobfeed&utm_campaign=url&_ccid=162857529486252lqxah29) | Reston, VA |  Winter 2022/Spring 2022 or Summer 2022/Fall 2022  | 8/30
+| [Epic - User Experience Design](https://epic.avature.net/Careers/FolderDetail/User-Experience-Design-Intern/1437) | Madison, WI | Summer 2022 | 8/30
+| [DMC - UI/UX Design](https://www.dmcinfo.com/careers/ux-ui-design-intern-paid) | Chicago, IL | Summer 2022 | 8/30
+| [Kimberly Clark - IT User Experience](https://kimberlyclark.wd1.myworkdayjobs.com/en-US/GLOBAL/job/USA-GA-Atlanta-Roswell/IT-UX-Communications-Analyst-Internship_823782?source=Indeed) | Atlanta, GA/Roswell, GA | Summer 2022 | 8/30
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
