@@ -163,6 +163,12 @@ New Grad
 | [LivePerson - Product Designer (2 YoE)](https://www.liveperson.com/company/careers?gh_jid=3387017&gh_src=fc870eec1)| New York, NY | 8/31
 | [Highspot - Product Designer (3 YoE)](https://jobs.lever.co/highspot/160bb9d9-b555-4ac0-9586-38c858b337c0?lever-source=LinkedInJobs)| Seattle, WA | 8/31
 | [The Atlantic - Product Designer (3 YoE)](https://atlanticmedia.wd1.myworkdayjobs.com/en-US/Careers/job/Washington-DC/Product-Designer--The-Atlantic-_R213)| New York, NY | 8/31
+| [Stripe - Product Designer, Design Systems](https://stripe.com/jobs/listing/product-designer-design-systems/3355599?gh_src=73vnei)| Seattle, WA/New York, NY/Chicago, IL | 8/31
+| [Hubspot - Product Designer, Quotes Team](https://boards.greenhouse.io/embed/job_app?token=2234554&gh_src=240b46771&s=LinkedIn&source=LinkedIn)| Remote | 8/31
+| [Expedia - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2688831538)| Austin, TX | 8/31
+| [Wodify- Associate Product Designer (UX/UI)](https://wodify.recruiterbox.com/jobs/fk035su/)| Philadelphia, PA | 8/31
+| [Quora - Product Designer](https://boards.greenhouse.io/quora/jobs/4426345002?gh_src=fa1aa7222&s=LinkedIn&source=LinkedIn)| Remote-First/Austin, TX | 8/31
+| [Saatchi & Saatchi - Junior UX Researcher](https://jobs.smartrecruiters.com/PublicisGroupe/743999769653272-junior-ux-researcher?source=Linkedin)| El Segundo, CA | 8/31
 
 Intern
 | Company  | Location | Details | Date Added
