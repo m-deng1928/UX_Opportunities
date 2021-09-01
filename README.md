@@ -250,6 +250,10 @@ Intern
 | [Epic - User Experience Design](https://epic.avature.net/Careers/FolderDetail/User-Experience-Design-Intern/1437) | Madison, WI | Summer 2022 | 8/30
 | [DMC - UI/UX Design](https://www.dmcinfo.com/careers/ux-ui-design-intern-paid) | Chicago, IL | Summer 2022 | 8/30
 | [Kimberly Clark - IT User Experience](https://kimberlyclark.wd1.myworkdayjobs.com/en-US/GLOBAL/job/USA-GA-Atlanta-Roswell/IT-UX-Communications-Analyst-Internship_823782?source=Indeed) | Atlanta, GA/Roswell, GA | Summer 2022 | 8/30
+| [Uline - User Experience Design](https://www.uline.jobs/JobDetails?culture=en&jobid=5593BR&jobtitle=User-Experience-Designer-Internship---Summer-2022) | Pleasant Prairie, WI | Summer 2022 | 8/31
+| [Uline - User Experience Research](https://www.uline.jobs/JobDetails?culture=en&jobid=5597BR&jobtitle=User-Experience-Researcher-Internship---Summer-2022) | Pleasant Prairie, WI | Summer 2022 | 8/31
+| [GoPuff - UX Design](https://jobs.lever.co/gopuff/148e38b5-8aae-441a-93f9-700231d96763/apply) | Remote | Summer 2022 | 8/31
+| [GoPuff - UX Research](https://jobs.lever.co/gopuff/ad1a209c-ad56-4ea0-adae-a2fd6bf3ac9b) | Remote | Summer 2022 | 8/31
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
