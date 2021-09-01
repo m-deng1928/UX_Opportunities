@@ -254,6 +254,10 @@ Intern
 | [Uline - User Experience Research](https://www.uline.jobs/JobDetails?culture=en&jobid=5597BR&jobtitle=User-Experience-Researcher-Internship---Summer-2022) | Pleasant Prairie, WI | Summer 2022 | 8/31
 | [GoPuff - UX Design](https://jobs.lever.co/gopuff/148e38b5-8aae-441a-93f9-700231d96763/apply) | Remote | Summer 2022 | 8/31
 | [GoPuff - UX Research](https://jobs.lever.co/gopuff/ad1a209c-ad56-4ea0-adae-a2fd6bf3ac9b) | Remote | Summer 2022 | 8/31
+| [Riot Games - UX Design - Player Platform](https://www.riotgames.com/en/work-with-us/job/3419816/ux-design-intern-player-platform-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
+| [Riot Games - Visual Design](https://www.riotgames.com/en/work-with-us/job/3348587/visual-design-intern-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
+| [Riot Games - Game Design](https://www.riotgames.com/en/work-with-us/job/3376198/game-design-intern-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
+| [Riot Games - Technical Writer - Central QA](https://www.riotgames.com/en/work-with-us/job/3348499/technical-writer-intern-central-qa-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
