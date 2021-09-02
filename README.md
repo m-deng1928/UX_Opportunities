@@ -12,7 +12,9 @@ If you need further resources, here is a larger 100+ page [recruiting guide](htt
 
 If you want equivalent ones for Product and CS (SWE/etc...), here are some repos below:
 [**Product - PM Openings 2022 - leestanley **](https://github.com/leestanley/pm-openings2022)
-[**CS - Summer 2022 Internships - pittcsc](https://github.com/pittcsc/Summer2022-Internships)
+
+[**CS - Summer 2022 Internships - pittcsc**](https://github.com/pittcsc/Summer2022-Internships)
+
 [**CS - New Grad 2022 - coderQuad**](https://github.com/coderQuad/New-Grad-Positions-2022)
 
 New Grad
