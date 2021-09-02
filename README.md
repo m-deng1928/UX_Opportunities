@@ -178,8 +178,8 @@ New Grad
 | [Delta Airlines - User Experience Researcher (2 YoE)](https://delta.avature.net/careers/JobDetail/User-Exprience-Researcher/8726?source=LinkedIn)| Atlanta, GA | 9/1
 | [Revinate - UX/Product Designer (3 YoE)](https://www.revinate.com/company/careers/application/?gh_jid=3343590&gh_src=db4490a41us)| San Francisco, CA | 9/1
 | [Blackrock - Product Designer, Associate (3 YoE)](https://careers.blackrock.com/job/12930507/product-designer-associate-atlanta-ga/?source=12748)| Atlanta, GA/New York, NY | 9/1
-| [Reverb - Product Designer)](https://jobs.smartrecruiters.com/Etsy2/743999769831505-product-designer?trid=d7e4b8c6-7c3a-4bee-a2cd-4eceafc91958)| Chicago, IL | 9/1
-| [Sallie Mae - UX Designer)](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1050?c=salliemaeyouniversity)| Philadelphia, PA | 9/1
+| [Reverb - Product Designer](https://jobs.smartrecruiters.com/Etsy2/743999769831505-product-designer?trid=d7e4b8c6-7c3a-4bee-a2cd-4eceafc91958)| Chicago, IL | 9/1
+| [Sallie Mae - UX Designer](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1050?c=salliemaeyouniversity)| Philadelphia, PA | 9/1
 | [OneTrust - UX Designer, New Graduate](https://www.linkedin.com/jobs/view/2693539465)| Atlanta, GA | 9/1
 | [Slickdeals - Product Designer (2-4 YoE)](https://slickdeals.net/job/?gh_jid=5443739002)| Los Angeles, CA | 9/1
 
