@@ -8,7 +8,7 @@ If it is entry level, I will leave it as is, but if it mentions years of experie
 
 Thanks, and don't forget to be awesome. :D
 
-If you need further resources, here is a larger [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back.
+If you need further resources, here is a larger 100+ page [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back which includes more opportunities, where to find them, and general recruiting tips. 
 
 New Grad
 | Company  | Location | Date Added
@@ -150,7 +150,7 @@ New Grad
 | [Paradox - Associate Product Designer](https://careers.paradox.ai/associate-product-designer/job/17237351?utm_campaign=Jobs&utm_medium=Paid&utm_source=LinkedIn)| Scottsdale, AZ | 8/26
 | [Red Hat - Junior UX Designer](https://careers.paradox.ai/associate-product-designer/job/17237351?utm_campaign=Jobs&utm_medium=Paid&utm_source=LinkedIn)| Remote | 8/26
 | [Tinder - Associate UX Researcher](https://jobs.lever.co/matchgroup/51c1d002-0f4f-4c7e-900e-73c8ea317132/apply)| Los Angeles, CA | 8/26
-| [Coda - UX Researcher (3YoE)](https://jobs.lever.co/matchgroup/51c1d002-0f4f-4c7e-900e-73c8ea317132/apply)| San Francisco, CA | 8/31
+| [Coda - UX Researcher (3YoE, first UXR hire)](https://boards.greenhouse.io/coda/jobs/5439682002)| San Francisco, CA | 8/31
 | [Robinhood - Product Designer](https://robinhood.com/us/en/careers/openings/?gh_jid=2596932&gh_src=ed898e781us)| Menlo Park, CA | 8/31
 | [Rippling - Product Designer (3 Yoe)](https://www.rippling.com/careers/4110878003?gh_jid=4110878003)| San Francisco, CA | 8/31
 | [Capital 1 - Principal Associate, Product Designer (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19627962)| Arlington, VA/New York, New York | 8/31
@@ -169,17 +169,33 @@ New Grad
 | [Expedia - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2688831538)| Austin, TX | 8/31
 | [Wodify- Associate Product Designer (UX/UI)](https://wodify.recruiterbox.com/jobs/fk035su/)| Philadelphia, PA | 8/31
 | [Quora - Product Designer](https://boards.greenhouse.io/quora/jobs/4426345002?gh_src=fa1aa7222&s=LinkedIn&source=LinkedIn)| Remote-First/Austin, TX | 8/31
-| [Saatchi & Saatchi - Junior UX Researcher](https://jobs.smartrecruiters.com/PublicisGroupe/743999769653272-junior-ux-researcher?source=Linkedin)| El Segundo, CA | 8/31
+| [Saatchi & Saatchi - Junior UX Researcher (1-3 YoE)](https://jobs.smartrecruiters.com/PublicisGroupe/743999769653272-junior-ux-researcher?source=Linkedin)| El Segundo, CA | 8/31
 | [Facebook - Product Design Prototyper, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/229296522158076/)| Los Angeles, CA/Seattle, WA/New York, NY/Burlingame, CA/Los Angeles, CA | 9/1
 | [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19535479?utm_source=linkedin%20slots&utm_content=pj_board&p_uid=2m20YVP4Vb&iisn=li&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&iis=pjob&utm_medium=jobad&p_sid=hnV_gnb&ss=paid)| San Diego, CA | 9/1
 | [PMG - Junior UX/UI Designer](https://boards.greenhouse.io/pmg/jobs/5457409002?s=LinkedIn&source=LinkedIn)| Austin, TX | 9/1
-| [Delta Airlines - User Experience Researcher (2 YoE)](https://delta.avature.net/careers/JobDetail/User-Exprience-Researcher/8726?source=LinkedIn)| Atlanta, GA | 9/1
+| [Delta Airlines - User Experience Researcher (2 YoE, MS/PhD preferred)](https://delta.avature.net/careers/JobDetail/User-Exprience-Researcher/8726?source=LinkedIn)| Atlanta, GA | 9/1
 | [Revinate - UX/Product Designer (3 YoE)](https://www.revinate.com/company/careers/application/?gh_jid=3343590&gh_src=db4490a41us)| San Francisco, CA | 9/1
 | [Blackrock - Product Designer, Associate (3 YoE)](https://careers.blackrock.com/job/12930507/product-designer-associate-atlanta-ga/?source=12748)| Atlanta, GA/New York, NY | 9/1
 | [Reverb - Product Designer](https://jobs.smartrecruiters.com/Etsy2/743999769831505-product-designer?trid=d7e4b8c6-7c3a-4bee-a2cd-4eceafc91958)| Chicago, IL | 9/1
 | [Sallie Mae - UX Designer](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1050?c=salliemaeyouniversity)| Philadelphia, PA | 9/1
 | [OneTrust - UX Designer, New Graduate](https://www.linkedin.com/jobs/view/2693539465)| Atlanta, GA | 9/1
 | [Slickdeals - Product Designer (2-4 YoE)](https://slickdeals.net/job/?gh_jid=5443739002)| Los Angeles, CA | 9/1
+| [Intel - User Experience Designer (1 YoE)](https://jobs.intel.com/ShowJob/Id/3055899/User%20Experience%20Designer)| Hillsborough, OR/Folsom, CA/Santa Clara, CA | 9/1
+| [Plaid - UX Engineer (Unknown YoE - careful with this one)](https://www.linkedin.com/jobs/view/2696995164)| San Francisco, CA | 9/1
+| [The Brigade Inc - Junior Product Designer](https://www.linkedin.com/jobs/view/2688456763)| Portland, OR | 9/1
+| [Proven Recruiting - Product Designer (2 YoE) - this is a staffing agency](https://www.linkedin.com/jobs/view/2696953596)| San Diego, CA | 9/1
+| [0x Labs - Product Designer, Matcha](https://boards.greenhouse.io/0x/jobs/4131489002?gh_src=e5c3b2192)| San Francisco, CA | 9/1
+| [Phonexa - Product Designer (1-3 YoE](https://www.linkedin.com/jobs/view/2699838585)| Glendale, CA | 9/1
+| [nTopology - Product Designer (2-5 YoE)](https://www.linkedin.com/jobs/view/2702538341)| Glendale, CA | 9/1
+| [Oakley - Researcher - User Experience (2 YoE, Bach)](https://jobs.luxottica.com/LRNA/job/Foothill-Ranch-Oakley-Researcher-User-Experience-CA-92610/708950001/?utm_source=LINKEDIN&utm_medium=referrer)| Glendale, CA | 9/1
+| [General Motors (GM) - Product Designer Experience Lab (3 YoE)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---Michigan/Product-Designer-Experience-Lab_JR-000049814?source=Linkedin) | Detroit, MI | 9/1
+| [Visa - UX Designer (2 YoE or MS)](https://jobs.smartrecruiters.com/Visa/743999768908447-ux-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| San Francisco, CA | 9/1
+| [Public Goods - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2694735339n)| San Francisco, CA | 9/1
+| [Pathrise - Product Designer (3 YoE)](https://jobs.lever.co/pathrise/a5e88d24-1010-4864-badb-316db1c1f9f9?lever-source=LinkedInJobs)| San Francisco, CA | 9/1
+| [FCB Health - Product Designer](https://www.linkedin.com/jobs/view/2685229724)| New York, NY | 9/1
+| [Activision Blizzard - Associate UX Designer](https://careers.activisionblizzard.com/job/ACCOUSR008530EXTERNAL/Associate-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds)| Middleton, WI | 9/1
+| [Fourth - UX Researcher (2-3 YoE)](https://www.linkedin.com/jobs/view/2693757229)| Austin, TX | 9/1
+| [Yext - 2022 UI Designer, New Grad](https://www.linkedin.com/jobs/view/2697775522)| Washington DC | 9/1
 
 Intern
 | Company  | Location | Details | Date Added
@@ -269,6 +285,10 @@ Intern
 | [Riot Games - Visual Design](https://www.riotgames.com/en/work-with-us/job/3348587/visual-design-intern-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
 | [Riot Games - Game Design](https://www.riotgames.com/en/work-with-us/job/3376198/game-design-intern-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
 | [Riot Games - Technical Writer - Central QA](https://www.riotgames.com/en/work-with-us/job/3348499/technical-writer-intern-central-qa-los-angeles-usa) | Los Angeles | Summer 2022 | 8/31
+| [LinkedIn - UI Engineer](https://www.linkedin.com/jobs/view/2705888275) | Sunnyvale, CA | Summer 2022 | 9/1
+| [LinkedIn - UI Engineer](https://www.linkedin.com/jobs/view/2705875921) | Remote - Canada based | Summer 2022 | 9/1
+| [Netflix - Consumer Insights, Data & Insights (Bach/MS/PhD)](https://jobs.netflix.com/jobs/119492712) | Los Gatos, CA | Summer 2022 | 9/1
+| [Yext - 2022 UI Designer](https://www.linkedin.com/jobs/view/2697775518/?refId=raD8FZJm9EQw9gfrLB%2FPDw%3D%3D&trackingId=i4lgIDpXhCzgOTrKePPUpA%3D%3D&trk=d_flagship3_company) | Washington DC | Summer 2022 | 9/1
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
