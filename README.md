@@ -8,8 +8,6 @@ If it is entry level, I will leave it as is, but if it mentions years of experie
 
 Thanks, and don't forget to be awesome. :D
 
--
-
 If you need further resources, here is a larger [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back.
 
 New Grad
