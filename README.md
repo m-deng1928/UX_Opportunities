@@ -8,6 +8,10 @@ If it is entry level, I will leave it as is, but if it mentions years of experie
 
 Thanks, and don't forget to be awesome. :D
 
+-
+
+If you need further resources, here is a larger [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back.
+
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
@@ -22,7 +26,6 @@ New Grad
 | [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5054396002?gh_jid=5054396002&s=LinkedIn&source=LinkedIn)| Manhattan Beach, CA | 7/26
 | [Bain - Product Designer](https://csscareers-bain.icims.com/jobs/5699/job?mobile=false&width=1077&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)| San Francisco, CA/Austin, TX/Toronto, CA | 7/28
 | [Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer--Shopping-Destinations_R0073808?Codes=W-LINKEDIN)| Los Angeles, CA | 7/30
-| [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19581373?ss=paid&p_sid=z6cz49b&utm_medium=jobad&iisn=li&utm_source=linkedin%20slots&utm_content=pj_board&iis=pjob&p_uid=m2NgqinHzW&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent)| San Diego, CA | 7/30
 | [Kickstarter - Product Designer, Native](https://jobs.lever.co/kickstarter/48b0940c-060d-4cad-b175-680331827fe1/apply?lever-source=LinkedInJobs)| Remote | 7/30
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
@@ -169,6 +172,16 @@ New Grad
 | [Wodify- Associate Product Designer (UX/UI)](https://wodify.recruiterbox.com/jobs/fk035su/)| Philadelphia, PA | 8/31
 | [Quora - Product Designer](https://boards.greenhouse.io/quora/jobs/4426345002?gh_src=fa1aa7222&s=LinkedIn&source=LinkedIn)| Remote-First/Austin, TX | 8/31
 | [Saatchi & Saatchi - Junior UX Researcher](https://jobs.smartrecruiters.com/PublicisGroupe/743999769653272-junior-ux-researcher?source=Linkedin)| El Segundo, CA | 8/31
+| [Facebook - Product Design Prototyper, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/229296522158076/)| Los Angeles, CA/Seattle, WA/New York, NY/Burlingame, CA/Los Angeles, CA | 9/1
+| [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19535479?utm_source=linkedin%20slots&utm_content=pj_board&p_uid=2m20YVP4Vb&iisn=li&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&iis=pjob&utm_medium=jobad&p_sid=hnV_gnb&ss=paid)| San Diego, CA | 9/1
+| [PMG - Junior UX/UI Designer](https://boards.greenhouse.io/pmg/jobs/5457409002?s=LinkedIn&source=LinkedIn)| Austin, TX | 9/1
+| [Delta Airlines - User Experience Researcher (2 YoE)](https://delta.avature.net/careers/JobDetail/User-Exprience-Researcher/8726?source=LinkedIn)| Atlanta, GA | 9/1
+| [Revinate - UX/Product Designer (3 YoE)](https://www.revinate.com/company/careers/application/?gh_jid=3343590&gh_src=db4490a41us)| San Francisco, CA | 9/1
+| [Blackrock - Product Designer, Associate (3 YoE)](https://careers.blackrock.com/job/12930507/product-designer-associate-atlanta-ga/?source=12748)| Atlanta, GA/New York, NY | 9/1
+| [Reverb - Product Designer)](https://jobs.smartrecruiters.com/Etsy2/743999769831505-product-designer?trid=d7e4b8c6-7c3a-4bee-a2cd-4eceafc91958)| Chicago, IL | 9/1
+| [Sallie Mae - UX Designer)](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1050?c=salliemaeyouniversity)| Philadelphia, PA | 9/1
+| [OneTrust - UX Designer, New Graduate](https://www.linkedin.com/jobs/view/2693539465)| Atlanta, GA | 9/1
+| [Slickdeals - Product Designer (2-4 YoE)](https://slickdeals.net/job/?gh_jid=5443739002)| Los Angeles, CA | 9/1
 
 Intern
 | Company  | Location | Details | Date Added
