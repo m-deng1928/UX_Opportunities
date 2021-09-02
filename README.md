@@ -14,11 +14,13 @@ If you need further resources, here is a larger 100+ page [recruiting guide](htt
 
 If you want equivalent ones for Product and CS (SWE/etc...), here are some repos below:
 
-[**Product - PM Openings 2022 - leestanley **](https://github.com/leestanley/pm-openings2022)
+[**Product - PM Openings 2022 - leestanley**](https://github.com/leestanley/pm-openings2022)
 
 [**CS - Summer 2022 Internships - pittcsc**](https://github.com/pittcsc/Summer2022-Internships)
 
 [**CS - New Grad 2022 - coderQuad**](https://github.com/coderQuad/New-Grad-Positions-2022)
+
+---
 
 New Grad
 | Company  | Location | Date Added
@@ -204,6 +206,8 @@ New Grad
 | [Fourth - UX Researcher (2-3 YoE)](https://www.linkedin.com/jobs/view/2693757229)| Austin, TX | 9/1
 | [Yext - 2022 UI Designer, New Grad](https://www.linkedin.com/jobs/view/2697775522)| Washington DC | 9/1
 
+---
+
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
@@ -296,6 +300,8 @@ Intern
 | [Yext - 2022 UI Designer](https://www.linkedin.com/jobs/view/2697775518/?refId=raD8FZJm9EQw9gfrLB%2FPDw%3D%3D&trackingId=i4lgIDpXhCzgOTrKePPUpA%3D%3D&trk=d_flagship3_company) | Washington DC | Summer 2022 | 9/1
 | [Mastercard - UX Design](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/UX-Design-Intern_R-135885) | New York, NY | Summer 2022 | 9/1
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--UX-Design_R-690042?source=Advertising_Indeed_Organic&_ccid=1630560265295wtwy626nb) | Bentonville, AR/Dallas, TX/San Bruno, CA/Sunnyvale, CA | Summer 2022 | 9/1
+
+---
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
