@@ -10,7 +10,10 @@ Thanks, and don't forget to be awesome. :D
 
 If you need further resources, here is a larger 100+ page [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back which includes more opportunities, where to find them, and general recruiting tips. 
 
+---
+
 If you want equivalent ones for Product and CS (SWE/etc...), here are some repos below:
+
 [**Product - PM Openings 2022 - leestanley **](https://github.com/leestanley/pm-openings2022)
 
 [**CS - Summer 2022 Internships - pittcsc**](https://github.com/pittcsc/Summer2022-Internships)
