@@ -205,6 +205,20 @@ New Grad
 | [Activision Blizzard - Associate UX Designer](https://careers.activisionblizzard.com/job/ACCOUSR008530EXTERNAL/Associate-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds)| Middleton, WI | 9/1
 | [Fourth - UX Researcher (2-3 YoE)](https://www.linkedin.com/jobs/view/2693757229)| Austin, TX | 9/1
 | [Yext - 2022 UI Designer, New Grad](https://www.linkedin.com/jobs/view/2697775522)| Washington DC | 9/1
+| [CareerBuilder - UX Researcher (Bach)](https://www.careerbuildercareers.com/en-US/job/ux-researcher-1/J3P7NW6TF8629W4YVPM)| Remote | 9/2
+| [Intrado - UI Designer (3 YoE)](https://eclz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211537?utm_medium=jobshare)| Remote | 9/2
+| [Cardinal Health - UX Researcher (3 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/ux-researcher/01d8f7eb-fbf6-41f2-b7e3-47c08038fd0a?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin)| Remote | 9/2
+| [Cardinal Health - UX Researcher (3 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/ux-designer/fbcb250d-e173-4047-91e9-62029a16b68c?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin)| Remote | 9/2
+| [Cimpress Technologies - UX Designer (3 YoE)](https://www.linkedin.com/jobs/view/2663974686/refId=CFIfmnNjLDqbccbqt1zAZQ%3D%3D&trackingId=lLsLaRGnU2vtSWsSTdc6aA%3D%3D)| Remote First/Boston, MA | 9/2
+| [Applause - UX Researcher (Freelance)](https://www.linkedin.com/jobs/view/2707424235)| Remote | 9/2
+| [iRobot - UX/UI Designer (E-Commerce)(3 YoE)](https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-MA-Bedford/UX--UI-Designer--eCommerce-_R2423?source=Linkedin)| Remote | 9/2
+| [VMWare - Web Marketing UX Designer (3 YoE) - posted a while back (~1 month)](https://careers.vmware.com/main/jobs/R2116495?lang=en-us&source=LIPJ)| Remote | 9/2
+| [Bed Bath & Beyond - UX/UI Product Designer, Decorist ](https://bbby.wd5.myworkdayjobs.com/en-US/bed_bath_beyond_careers/job/NJ-Union-650-Liberty-Ave--07083/UI-UX-Product-Designer_R-0097039?source=Linkedin)| Remote/Union, NJ | 9/2
+| [Nielsen - UX Designer](https://jobs.nielsen.com/job/Chicago-IL-60290/776771100/?src=JB-10001)| Chicago, IL | 9/2
+| [Unity - UX Designer, Creator](https://careers.unity.com/position/ux-designer-creator/3369391?gh_src=ilfw6o)| Austin, TX | 9/2
+| [Pluto TV - UX Designer](https://careers.viacomcbs.com/job/Los-Angeles-UX-Designer-CA-90069/786153300/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn)| Los Angeles, CA | 9/2
+| [Pricewatercooper (PwC) - UX Designer (3 YoE)](https://jobs.us.pwc.com/job/-/-/932/13514048000?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CLmXp_z84fICFUn2ZAod9LQGdg)| Hallandale Beach, FL | 9/2
+| [Amazon Web Services (AWS) - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1669190/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Seattle, WA | 9/2
 
 ---
 
@@ -300,6 +314,7 @@ Intern
 | [Yext - 2022 UI Designer](https://www.linkedin.com/jobs/view/2697775518/?refId=raD8FZJm9EQw9gfrLB%2FPDw%3D%3D&trackingId=i4lgIDpXhCzgOTrKePPUpA%3D%3D&trk=d_flagship3_company) | Washington DC | Summer 2022 | 9/1
 | [Mastercard - UX Design](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/UX-Design-Intern_R-135885) | New York, NY | Summer 2022 | 9/1
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--UX-Design_R-690042?source=Advertising_Indeed_Organic&_ccid=1630560265295wtwy626nb) | Bentonville, AR/Dallas, TX/San Bruno, CA/Sunnyvale, CA | Summer 2022 | 9/1
+| [Lastmile Retail - Design](https://www.linkedin.com/jobs/view/2707465181) | Remote | Summer 2022 | 9/2
 
 ---
 
