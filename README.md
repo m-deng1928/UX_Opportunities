@@ -219,6 +219,8 @@ New Grad
 | [Pluto TV - UX Designer](https://careers.viacomcbs.com/job/Los-Angeles-UX-Designer-CA-90069/786153300/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn)| Los Angeles, CA | 9/2
 | [Pricewatercooper (PwC) - UX Designer (3 YoE)](https://jobs.us.pwc.com/job/-/-/932/13514048000?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CLmXp_z84fICFUn2ZAod9LQGdg)| Hallandale Beach, FL | 9/2
 | [Amazon Web Services (AWS) - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1669190/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Seattle, WA | 9/2
+| [Tesla - UI/UX Engineer (3 YoE)](https://www.tesla.com/careers/search/job/ui-ux-engineer-82547)| Fremont, CA | 9/2
+| [Epic Games - UI/UX Designer (3 YoE))](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/San-Diego-CA/UX-Designer_R4537-1?mode=job&iis=LinkedIn&source=Linkedin)| San Diego, CA | 9/2
 
 ---
 
