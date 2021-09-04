@@ -317,6 +317,8 @@ Intern
 | [Mastercard - UX Design](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/UX-Design-Intern_R-135885) | New York, NY | Summer 2022 | 9/1
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--UX-Design_R-690042?source=Advertising_Indeed_Organic&_ccid=1630560265295wtwy626nb) | Bentonville, AR/Dallas, TX/San Bruno, CA/Sunnyvale, CA | Summer 2022 | 9/1
 | [Lastmile Retail - Design](https://www.linkedin.com/jobs/view/2707465181) | Remote | Summer 2022 | 9/2
+| [Melaleuca - Digital Design](https://studentcareers-melaleuca.icims.com/jobs/4026/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Idaho Falls, ID | Summer 2022 | 9/3
+| Truist - Technology and Innovation Internship – Experience Design](https://careers.truist.com/ShowJob/Id/1196821/2022%20Technology%20and%20Innovation%20Internship%20–%20Experience%20Design) | Charlotte, NC | Summer 2022 | 9/3
 
 ---
 
