@@ -337,6 +337,10 @@ Intern
 | [TuSimple - Product Design](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/5516177002?gh_src=931a10cf2us) | Pittsburgh, PA | Unsure Fall 2021/Summer 2022 | 9/4
 | [Facebook - UX Researcher, Infrastructure (PhD)](https://www.facebook.com/careers/v2/jobs/364118432126490/) | Seattle, WA/Menlo Park, CA | Summer 2022 | 9/4
 | [Florida Blue (Cross Blue Shield Health Insurance) - UX/UI Designer](https://careers.floridablue.com/us/en/job/FLBLUS25124EXTERNALENUS9001) | Jacksonville, FL | Fall 2021 (Fall 2021 - Dec 2021) | 9/4
+| [Kelly - UX/UI Designer](https://www.mykellyjobs.com/s/search-results?language=en_US&jobId=a7V2E0000006ACU&jpId=US15EJNS_BH3630359&utm_source=recruitics&utm_content=indeed&utm_campaign=set-it_b2c_always-on_paid&utm_medium=cpc&src=Indeed&sl=Information%20Technology&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&rx_ts=20210904T194536Z&rx_group=117930&rx_r=none&rx_source=Indeed&rx_job=US15EJNS_BH3630359&rx_campaign=indeed291&rx_c=kcn)| San Diego, CA | Summer 2022 | 9/4
+| [Synovus - UX Designer Corporate Summer](https://careers.synovus.com/ShowJob/Id/1196123/UX%20Designer%20Corporate%20Summer%20Internship?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none) | Atlanta, GA | Summer 2022 | 9/4
+| [ESRI - Design (Web, UX/UI, UX Research, Graphics)](https://external-esri.icims.com/jobs/14641/design-%28web%2c-ux-ui%2c-ux-research%2c-graphics%29-2022-internships/job?mode=submit_apply) | Redlands, CA | Summer 2022 | 9/4
+| [Washington Post - Newsroom (News & Digital Designer)](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/XMLNAME-2022-Newsroom-Internship-Program_JR-90272595y) | Washington DC | Summer 2022 | 9/4
 
 ---
 
