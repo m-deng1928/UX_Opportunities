@@ -227,7 +227,7 @@ New Grad
 | [Ford Motor Company - Human Centered Designer (Technology)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&jobId=548903#jobDetails=548903_5186)| Redford, MI | 9/4
 | [iRobot - Digital Visual Designer (Mobile) (1-3 YoE)](https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-MA-Bedford/Digital-Product-Designer--2-yrs-exp-UI--iOS--Android-_R2103?source=Linkedin)| Bedford, MA | 9/4
 | [H&R Block - Product Designer (2-4 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25515&siteid=5710&jobId=3210867&codes=INT-LNKDN#jobDetails=3210867_5710)| Los Angeles, CA | 9/4
-| [FCB Health - Jr UX Architect](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=210003YI&lang=en)| New York, NY | 8/25
+| [FCB Health - Jr UX Architect](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=210003YI&lang=en)| New York, NY | 9/4
 | [Sallie Mae - Associate UX Designer](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1049?c=salliemaeyouniversity)| Newton, MA/Bedford, DE | 9/4
 | [PNC - Experience Designer](https://careers.pnc.com/global/en/job/PNC1GLOBALR068757/Experience-Designer?utm_source=symphonytalentmpx&utm_medium=phenom-feeds)| Pittsburgh, PA/Cleveland, Ohio | 9/4
 | [New Relic - Associate UX Researcher](https://jobs.jobvite.com/newrelic/job/oCvMgfwT/apply)| Boston, MA | 9/4
