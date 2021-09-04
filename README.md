@@ -4,7 +4,7 @@ Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a
 
 If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week on Sundays evenings.
 
-If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. Otherwise, please read the description. For UXR roles in particular, I will be highlighting degree level in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people.
+If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. Otherwise, please read the description. For UXR roles in particular, I will be highlighting degree level in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. For roles themselves, they will be **paid roles** as I believe people should be properly compensated for their work.
 
 Thanks, and don't forget to be awesome. :D
 
@@ -221,6 +221,9 @@ New Grad
 | [Amazon Web Services (AWS) - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1669190/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Seattle, WA | 9/2
 | [Tesla - UI/UX Engineer (3 YoE)](https://www.tesla.com/careers/search/job/ui-ux-engineer-82547)| Fremont, CA | 9/2
 | [Epic Games - UI/UX Designer (3 YoE))](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/San-Diego-CA/UX-Designer_R4537-1?mode=job&iis=LinkedIn&source=Linkedin)| San Diego, CA | 9/2
+| [Apple - Human Factors Engineer/UX Researcher (BS/MS/PhD)](https://jobs.apple.com/en-us/details/200280367/human-factors-engineer-ux-researcher) | Santa Clara Valley, CA | 9/4
+| [Coinlist - Product Designer](https://boards.greenhouse.io/coinlist/jobs/4016386002?gh_src=5ywyakk02) | San Francisco, CA | 9/4
+| [Capital 1 - UX Designer//Commercial (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19713142)| New York, NY | 8/21
 
 ---
 
@@ -319,6 +322,8 @@ Intern
 | [Lastmile Retail - Design](https://www.linkedin.com/jobs/view/2707465181) | Remote | Summer 2022 | 9/2
 | [Melaleuca - Digital Design](https://studentcareers-melaleuca.icims.com/jobs/4026/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Idaho Falls, ID | Summer 2022 | 9/3
 | [Truist - Technology and Innovation Internship – Experience Design](https://careers.truist.com/ShowJob/Id/1196821/2022%20Technology%20and%20Innovation%20Internship%20–%20Experience%20Design) | Charlotte, NC | Summer 2022 | 9/3
+| [TuSimple - Product Design](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/5516177002?gh_src=931a10cf2us) | Pittsburgh, PA | Unsure Fall 2021/Summer 2022 | 9/4
+| [Facebook - UX Researcher, Infrastructure (PhD)](https://www.facebook.com/careers/v2/jobs/364118432126490/) | Seattle, WA/Menlo Park, CA | Summer 2022 | 9/4
 
 ---
 
