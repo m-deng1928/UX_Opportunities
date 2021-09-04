@@ -223,7 +223,19 @@ New Grad
 | [Epic Games - UI/UX Designer (3 YoE))](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/San-Diego-CA/UX-Designer_R4537-1?mode=job&iis=LinkedIn&source=Linkedin)| San Diego, CA | 9/2
 | [Apple - Human Factors Engineer/UX Researcher (BS/MS/PhD)](https://jobs.apple.com/en-us/details/200280367/human-factors-engineer-ux-researcher) | Santa Clara Valley, CA | 9/4
 | [Coinlist - Product Designer](https://boards.greenhouse.io/coinlist/jobs/4016386002?gh_src=5ywyakk02) | San Francisco, CA | 9/4
-| [Capital 1 - UX Designer//Commercial (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19713142)| New York, NY | 8/21
+| [Capital 1 - UX Designer//Commercial (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19713142)| New York, NY | 9/4
+| [Ford Motor Company - Human Centered Designer (Technology)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&jobId=548903#jobDetails=548903_5186)| Redford, MI | 9/4
+| [iRobot - Digital Visual Designer (Mobile) (1-3 YoE)](https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-MA-Bedford/Digital-Product-Designer--2-yrs-exp-UI--iOS--Android-_R2103?source=Linkedin)| Bedford, MA | 9/4
+| [H&R Block - Product Designer (2-4 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25515&siteid=5710&jobId=3210867&codes=INT-LNKDN#jobDetails=3210867_5710)| Los Angeles, CA | 9/4
+| [FCB Health - Jr UX Architect](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=210003YI&lang=en)| New York, NY | 8/25
+| [Sallie Mae - Associate UX Designer](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1049?c=salliemaeyouniversity)| Newton, MA/Bedford, DE | 9/4
+| [PNC - Experience Designer](https://careers.pnc.com/global/en/job/PNC1GLOBALR068757/Experience-Designer?utm_source=symphonytalentmpx&utm_medium=phenom-feeds)| Pittsburgh, PA/Cleveland, Ohio | 9/4
+| [New Relic - Associate UX Researcher](https://jobs.jobvite.com/newrelic/job/oCvMgfwT/apply)| Boston, MA | 9/4
+| [Vacasa - Associate Product Designer](https://www.vacasa.com/careers/positions/?gh_jid=3425385)| Portland, OR | 9/4
+| [Anyscale - UX Researcher](https://jobs.lever.co/anyscale/97608255-6501-462f-be06-4d52cc60afaf)| San Francisco, CA | 9/4
+| [icon group - Icon incar DET - Junior UI Designer](https://join.com/companies/iconmobile/2831907-icon-incar-det-junior-ui-designer?pid=0aa3516742c2a90cc7e4&utm_source=linkedin&utm_medium=free&utm_campaign=linkedin%2Blimited%2Blisting&utm_content=icon%2Bincar%2Bdet%2B-%2Bjunior%2Bui%2Bdesigner)| Detroit, MI | 9/4
+| [Capgemini - Interaction Designer (Junior Talent Program)](https://capgemini.taleo.net/careersection/1/jobdetail.ftl?job=056277&lang=en&src=BDT-200083)| New York, NY | 9/4
+| [GoPro - Assistant UX Researcher (Contract)(Bach, 1 YoE)](https://jobs.gopro.com/jobs/contract/united-states/assistant-ux-researcher-contract-/3401987?gh_jid=3401987&gh_src=854jrv1)| Remote | 9/4
 
 ---
 
@@ -324,6 +336,7 @@ Intern
 | [Truist - Technology and Innovation Internship – Experience Design](https://careers.truist.com/ShowJob/Id/1196821/2022%20Technology%20and%20Innovation%20Internship%20–%20Experience%20Design) | Charlotte, NC | Summer 2022 | 9/3
 | [TuSimple - Product Design](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/5516177002?gh_src=931a10cf2us) | Pittsburgh, PA | Unsure Fall 2021/Summer 2022 | 9/4
 | [Facebook - UX Researcher, Infrastructure (PhD)](https://www.facebook.com/careers/v2/jobs/364118432126490/) | Seattle, WA/Menlo Park, CA | Summer 2022 | 9/4
+| [Florida Blue (Cross Blue Shield Health Insurance) - UX/UI Designer](https://careers.floridablue.com/us/en/job/FLBLUS25124EXTERNALENUS9001) | Jacksonville, FL | Fall 2021 (Fall 2021 - Dec 2021) | 9/4
 
 ---
 
