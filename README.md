@@ -29,7 +29,7 @@ New Grad
 | [Ally - UX Researcher - Lark (1 YoE, BS)](https://recruiting.adp.com/srccar/public/RTI.home?r=5000718758406&c=1125607&d=AllyCareers&rb=INDEED#/)| Charlotte, NC | 9/5
 | [ByteDance - User Research - Lark (2 YoE, BA/BS)](https://jobs.bytedance.com/en/position/6968923173459413284/detail)| Mountain View, CA | 9/5
 | [Vanguard - UX Researcher - CXD (3 YoE, BS)](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Malvern, PA | 9/5
-| [Sprinklr - UX Researcher (2 YoE, BS](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Portland, OR | 9/5
+| [Sprinklr - UX Researcher (2 YoE, BS)](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Portland, OR | 9/5
 | [Malwarebytes - UX Researcher (1-3 YoE, PhD)](https://jobs.malwarebytes.com/job/3347861?gh_src=d93654841)| United States | 9/5
 | [Ernst & Young (EY) - UX Researcher, Philadelphia (1-3 YoE, MS pref)](https://careers.ey.com/ey/job/Manayunk-UX-Researcher-Philadelphia-PA-19127/703817901/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin)| Manayunk, PA | 9/5
 | [Capital 1 - UX Researcher (2 YoE, MS](https://www.capitalonecareers.com/job/-/-/1732/19660669?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CJO7l9ay6PICFa4Q-QAdwE4NbQ)| Richmond, VA/McLean VA | 9/5
