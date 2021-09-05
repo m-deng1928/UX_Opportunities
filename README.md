@@ -25,6 +25,14 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Vanguard - UX Researcher - CXD (3 YoE, BS)](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Malvern, PA | 9/5
+| [Sprinklr - UX Researcher (2 YoE, BS](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Portland, OR | 9/5
+| [Malwarebytes - UX Researcher (1-3 YoE, PhD)](https://jobs.malwarebytes.com/job/3347861?gh_src=d93654841)| United States | 9/5
+| [Ernst & Young (EY) - UX Researcher, Philadelphia (1-3 YoE, MS pref)](https://careers.ey.com/ey/job/Manayunk-UX-Researcher-Philadelphia-PA-19127/703817901/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin)| Manayunk, PA | 9/5
+| [Capital 1 - UX Researcher (2 YoE, MS](https://www.capitalonecareers.com/job/-/-/1732/19660669?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CJO7l9ay6PICFa4Q-QAdwE4NbQ)| Richmond, VA/McLean VA | 9/5
+| [Capital 1 - UX Researcher, Enterprise Experience Design (3 YoE, MS pref)](https://www.capitalonecareers.com/job/-/-/1732/19660669?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CJO7l9ay6PICFa4Q-QAdwE4NbQ)| Richmond, VA/San Francisco, CA/McLean, VA/New York, NY | 9/5
+| [Capital 1 - UX Researcher, Data Experience Design (3 YoE, MS pref)](https://www.capitalonecareers.com/job/-/-/1732/19716429?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CJWJzfWy6PICFQG-ZAodiEMFwA)| McLean, VA/Richmond/VA | 9/5
+| [Capital 1 - UX Researcher (3 YoE, MS/PhD pref)](https://www.capitalonecareers.com/job/-/-/1732/19364070?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CMmD7oGz6PICFfUR-QAdobMOew)| Plano, TX | 9/5
 | [Apple - Human Factors Engineer/UX Researcher (BS/MS/PhD)](https://jobs.apple.com/en-us/details/200280367/human-factors-engineer-ux-researcher) | Santa Clara Valley, CA | 9/4
 | [Coinlist - Product Designer](https://boards.greenhouse.io/coinlist/jobs/4016386002?gh_src=5ywyakk02) | San Francisco, CA | 9/4
 | [Capital 1 - UX Designer//Commercial (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19713142)| New York, NY | 9/4
@@ -171,7 +179,7 @@ New Grad
 | [IBM - User Experience Designer-Associate](https://careers.ibm.com/job/13080100/user-experience-designer-associate-washington-dc/?codes=SN_LinkedIn)| Washington DC | 8/22
 | [Mastercard - UI/UX Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/UI-UX-Designer_R-128695/apply?source=LINKEDIN)| Arlington, VA | 8/22
 | [Starbucks - Employee Experience Researcher](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?lang=en&job=210032142)| Seattle, WA | 8/21
-| [Capital 1 - UX Researchers (2 YoE, MS, advanced degree)](https://www.capitalonecareers.com/job/-/-/1732/19678072)| Seattle, WA | 8/21
+| [Capital 1 - UX Researcher (2 YoE, MS, advanced degree)](https://www.capitalonecareers.com/job/-/-/1732/19678072)| Seattle, WA | 8/21
 | [Pros Holdings - User Experience Researcher](https://pros.wd5.myworkdayjobs.com/en-US/PROS_Careers/job/USA---Remote/User-Experience-Researcher_R1915)| Remote | 8/21
 | [Blink - UX Designer (1-5 YoE)](https://jobs.lever.co/blinkux/1e326199-223e-4809-a3ca-bfd83d4a6e27?lever-source=LinkedInJobs)  | California/Colorado/Massachusetts/Texas/Washington | 8/18
 | [Dropbox - Product Designer](https://www.dropbox.com/jobs/listing/3396311?gh_src=aonhf1) | San Francisco, CA | 8/17
