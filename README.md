@@ -25,6 +25,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Amazon - UX Researcher (3 YoE, MS)](https://www.amazon.jobs/en/jobs/1712811/user-researcher)| Seattle, WA | 9/5
+| [Ally - UX Researcher - Lark (1 YoE, BS)](https://recruiting.adp.com/srccar/public/RTI.home?r=5000718758406&c=1125607&d=AllyCareers&rb=INDEED#/)| Charlotte, NC | 9/5
+| [ByteDance - User Research - Lark (2 YoE, BA/BS)](https://jobs.bytedance.com/en/position/6968923173459413284/detail)| Mountain View, CA | 9/5
 | [Vanguard - UX Researcher - CXD (3 YoE, BS)](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Malvern, PA | 9/5
 | [Sprinklr - UX Researcher (2 YoE, BS](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Portland, OR | 9/5
 | [Malwarebytes - UX Researcher (1-3 YoE, PhD)](https://jobs.malwarebytes.com/job/3347861?gh_src=d93654841)| United States | 9/5
