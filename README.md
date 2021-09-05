@@ -242,6 +242,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Punchcut - Interaction Design](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=40&vjk=3879c5e0f7e6ad75&pp=gQAoAAAAAAAAAAAAAAABsg-VqgAvAQAE9u9ajON18pqJS1AJ7YUw-U6Qd0Ot0wdDtb3GhKByLwQUupJ03taoEsXMWhYAAA) | San Francisco, CA | Fall 2021 | 9/4
+| [Home Partners of America - UX Designer](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=10&vjk=2a332c8865f933c0&from=smart-apply) | Chicago,IL | Summer 2022 | 9/4
+| [Appian - User Experience Design](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=a245ef601us) | McLean, VA | Summer 2022 | 9/4
+| [QVC - QVC & HSN Tech Intern - User Experience - Summer 2022](https://careers.qurateretailgroup.com/job/13779994/qvc-hsn-tech-intern-user-experience-summer-2022-west-chester-pa/?source=indeed) | Westchester, PA | Summer 2022 | 9/4
 | [TuSimple - Product Design](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/5516177002?gh_src=931a10cf2us) | Pittsburgh, PA | Unsure Fall 2021/Summer 2022 | 9/4
 | [Facebook - UX Researcher, Infrastructure (PhD)](https://www.facebook.com/careers/v2/jobs/364118432126490/) | Seattle, WA/Menlo Park, CA | Summer 2022 | 9/4
 | [Florida Blue (Cross Blue Shield Health Insurance) - UX/UI Designer](https://careers.floridablue.com/us/en/job/FLBLUS25124EXTERNALENUS9001) | Jacksonville, FL | Fall 2021 (Fall 2021 - Dec 2021) | 9/4
