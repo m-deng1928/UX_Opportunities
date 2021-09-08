@@ -249,7 +249,7 @@ Intern
 | ------------- | ------------- | ------------- | -------------
 | [Slalom - Experience Design](https://jobs.slalom.com//#/apply/a0h1R00000Bq2dxQAB?step=1) | Detroit, MI | Summer 2022 | 9/7
 | [Northwestern Mutual - UX Design](https://careers.northwesternmutual.com/corporate-careers/job/ux-design-intern-summer-2022-milwaukee-wi-corporate-jr-27024/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
-| [Northwestern Mutual - UX Research Enterprise Experience Design](https://careers.northwesternmutual.com/corporate-careers/job/ux-research-enterprise-experience-design-internship-masters-summer-2022-milwaukee-wi-corporate-jr-26914/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
+| [Northwestern Mutual - UX Research Enterprise Experience Design (MS)](https://careers.northwesternmutual.com/corporate-careers/job/ux-research-enterprise-experience-design-internship-masters-summer-2022-milwaukee-wi-corporate-jr-26914/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
 | [Shopify - Digital Product Design](https://www.shopify.com/careers/digital-product-design-intern-remote-winter-2022-4475e105) | Canada | Winter 2022 | 9/7
 | [Punchcut - Interaction Design](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=40&vjk=3879c5e0f7e6ad75&pp=gQAoAAAAAAAAAAAAAAABsg-VqgAvAQAE9u9ajON18pqJS1AJ7YUw-U6Qd0Ot0wdDtb3GhKByLwQUupJ03taoEsXMWhYAAA) | San Francisco, CA | Fall 2021 | 9/4
 | [Home Partners of America - UX Designer](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=10&vjk=2a332c8865f933c0&from=smart-apply) | Chicago,IL | Summer 2022 | 9/4
