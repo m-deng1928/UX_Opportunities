@@ -25,6 +25,20 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BUFfWQAX) | Boise, ID | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXfL5QAL) | Denver, CO | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BU2EnQAL) | Austin, TX | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000Bq3x9QAB) | Washington D.C. | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXfKrQAL) | Seattle, WA | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BUAfbQAH) | Los Angeles, CA | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BU2EiQAL) | Salt Lake City, UT | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXfKqQAL) | Portland, OR | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXjrcQAD) | Chicago, IL | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXhgGQAT) | St Louis, MO | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BUANoQAP) | San Diego, CA | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BU2EdQAL) | Columbus, OH | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXfhXQAT) | Phoenix, AZ | 9/7
+| [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXltjQAD) | Minneapolis, MN | 9/7
 | [Amazon - UX Researcher (3 YoE, MS)](https://www.amazon.jobs/en/jobs/1712811/user-researcher)| Seattle, WA | 9/5
 | [Ally - UX Researcher - Lark (1 YoE, BS)](https://recruiting.adp.com/srccar/public/RTI.home?r=5000718758406&c=1125607&d=AllyCareers&rb=INDEED#/)| Charlotte, NC | 9/5
 | [ByteDance - User Research - Lark (2 YoE, BA/BS)](https://jobs.bytedance.com/en/position/6968923173459413284/detail)| Mountain View, CA | 9/5
@@ -233,6 +247,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Slalom - Experience Design](https://jobs.slalom.com//#/apply/a0h1R00000Bq2dxQAB?step=1) | Detroit, MI | Summer 2022 | 9/7
+| [Northwestern Mutual - UX Design](https://careers.northwesternmutual.com/corporate-careers/job/ux-design-intern-summer-2022-milwaukee-wi-corporate-jr-27024/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
+| [Northwestern Mutual - UX Research Enterprise Experience Design](https://careers.northwesternmutual.com/corporate-careers/job/ux-research-enterprise-experience-design-internship-masters-summer-2022-milwaukee-wi-corporate-jr-26914/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
+| [Shopify - Digital Product Design](https://www.shopify.com/careers/digital-product-design-intern-remote-winter-2022-4475e105) | Canada | Winter 2022 | 9/7
 | [Punchcut - Interaction Design](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=40&vjk=3879c5e0f7e6ad75&pp=gQAoAAAAAAAAAAAAAAABsg-VqgAvAQAE9u9ajON18pqJS1AJ7YUw-U6Qd0Ot0wdDtb3GhKByLwQUupJ03taoEsXMWhYAAA) | San Francisco, CA | Fall 2021 | 9/4
 | [Home Partners of America - UX Designer](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=10&vjk=2a332c8865f933c0&from=smart-apply) | Chicago,IL | Summer 2022 | 9/4
 | [Appian - User Experience Design](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=a245ef601us) | McLean, VA | Summer 2022 | 9/4
