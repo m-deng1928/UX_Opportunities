@@ -247,6 +247,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [frog - Experience Design](https://www.frogdesign.com/careers/jobs/3443002) | Milan, Italy | Fall 2021 | 9/9
 | [Rocket Mortgage- Service Design](https://www.myrocketcareer.com/ShowJob/Id/553181/Service%20Design%20Intern%20%20%20Fall%202021) | Detroit, MI | Fall 2021 | 9/8
 | [Dialexa - Product Design](https://boards.greenhouse.io/dialexa/jobs/4699963003?gh_src=1e72fc733us) | Dallas, TX | Summer 2022 | 9/8
 | [Slalom - Experience Design](https://jobs.slalom.com//#/apply/a0h1R00000Bq2dxQAB?step=1) | Detroit, MI | Summer 2022 | 9/7
