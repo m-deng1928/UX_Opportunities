@@ -357,4 +357,5 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Microsoft - LEAP](https://www.microsoft.com/en-us/leap/application-process/) | Winter 2022 | 9/9
 | [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Fall 2021 | 7/18
