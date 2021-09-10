@@ -25,6 +25,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [ViacomCBS - Junior Product Designer](https://careers.viacomcbs.com/job/New-York-Junior-Product-Designer-NY-10036/787589400/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | New York, NY | 9/10
+| [Apple - UX Designer - Marcom Internal Tools & Systems](https://jobs.apple.com/en-us/details/200284257/ux-designer-marcom-internal-tools-systems) | Santa Clara Valley, CA | 9/10
+| [JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
+| [EBay - UI/UX Designer (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FUI-UX-Designer_R0049040-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/10
+| [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5520346002?gh_src=b6b8b5072us) | Chicago, IL | 9/10
 | [Shure Incorporated - Designer I, User Experience](https://careers-shure.icims.com/jobs/2281/designer-i%252c-user-experience/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
 | [Shure Incorporated - Specialist I, Instructional Design](https://careers-shure.icims.com/jobs/2205/specialist-i%252c-instructional-design/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
 | [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BUFfWQAX) | Boise, ID | 9/7
