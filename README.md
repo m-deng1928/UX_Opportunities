@@ -4,7 +4,11 @@ Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a
 
 If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week on Sundays evenings.
 
-If it is entry level, I will leave it as is, but if it mentions years of experience, I will try to include that. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. Otherwise, please read the description. For UXR roles in particular, I will be highlighting degree level in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. For roles themselves, they will be **paid roles** as I believe people should be properly compensated for their work.
+I will try to include YoE (years of experience) if it otherwise indicated. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. 
+
+For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
+
+For roles themselves, they will be **paid roles** as I believe people should be properly compensated for their work.
 
 Thanks, and don't forget to be awesome. :D
 
@@ -25,6 +29,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Booz Allen Hamilton - UI/UX Designer](https://careers.boozallen.com/careers/JobDetail?jobId=46914&source=JB-16281) | Alexandria, VA | 9/10
+| [Esri - UI/UX Designer](https://www.esri.com/careers/ui-ux-designer-14471?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Redlands, CA | 9/10
+| [Toyota - UI/UX Designer](https://www.applytracking.com/x.aspx?method=direct&type=apply&board=D92FCD45-1292-4AE2-B555-D7A273418B42&Job=TMN002XR&ClientCode=13438&src=SNS-12160) | Dallas, TX | 9/10
+| [Amazon - UX Designer - Alexa Auto (3 YoE)](https://www.amazon.jobs/en/jobs/1725262/ux-designer-alexa-auto?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Irvine, CA | 9/10
 | [ViacomCBS - Junior Product Designer](https://careers.viacomcbs.com/job/New-York-Junior-Product-Designer-NY-10036/787589400/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | New York, NY | 9/10
 | [Apple - UX Designer - Marcom Internal Tools & Systems](https://jobs.apple.com/en-us/details/200284257/ux-designer-marcom-internal-tools-systems) | Santa Clara Valley, CA | 9/10
 | [JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
