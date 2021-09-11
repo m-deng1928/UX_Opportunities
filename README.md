@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [ServiceNow - Product Designer](https://jobs.smartrecruiters.com/ServiceNow/743999768473764-product-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego, CA | 9/11
 | [ServiceNow - UX Researcher (1-5 YoE)](https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA/San Diego, CA/Chicago, IL/Montreal, CA | 9/11
 | [Publicis Sapient - Junior UX & Product Designer - Class of 2022](https://jobs.smartrecruiters.com/ni/PublicisGroupe/b9ea7f3e-0e55-4a06-85b5-321766211f51-junior-ux-product-designer-class-of-2022) | Arlington, VA (Washington DC)/Atlanta, GA/Boston, MA/Chicago, IL/Minneapolis, MN/New York, NY | 9/11
 | [Booz Allen Hamilton - UI/UX Designer](https://careers.boozallen.com/careers/JobDetail?jobId=46914&source=JB-16281) | Alexandria, VA | 9/10
