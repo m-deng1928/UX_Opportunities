@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [ServiceNow - UX Researcher (1-5 YoE)](https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA/San Diego, CA/Chicago, IL/Montreal, CA | 9/11
 | [Publicis Sapient - Junior UX & Product Designer - Class of 2022](https://jobs.smartrecruiters.com/ni/PublicisGroupe/b9ea7f3e-0e55-4a06-85b5-321766211f51-junior-ux-product-designer-class-of-2022) | Arlington, VA (Washington DC)/Atlanta, GA/Boston, MA/Chicago, IL/Minneapolis, MN/New York, NY | 9/11
 | [Booz Allen Hamilton - UI/UX Designer](https://careers.boozallen.com/careers/JobDetail?jobId=46914&source=JB-16281) | Alexandria, VA | 9/10
 | [Esri - UI/UX Designer](https://www.esri.com/careers/ui-ux-designer-14471?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Redlands, CA | 9/10
@@ -265,7 +266,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Oculus - Product Design, AR](https://www.facebook.com/careers/v2/jobs/482667389704736/) | Burlingame, CA/Seattle, WA/New York, NY | Summer 2022 | 9/11
+| [ServiceNow - Design](https://jobs.smartrecruiters.com/ServiceNow/743999772042779-design-intern?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA | Summer 2022 | 9/11
 | [Oculus - Product Design, AR](https://www.facebook.com/careers/v2/jobs/482667389704736/) | Burlingame, CA/Seattle, WA/New York, NY | Summer 2022 | 9/11
 | [CNH Industries - UI Product Design](https://careers-cnhind.icims.com/jobs/17776/ui-product-design-intern/job) | Burr Ridge, IL | Summer 2022 | 9/9
 | [C3 AI - Product Designer, User Experience](https://boards.greenhouse.io/c3iot/jobs/4086858002?gh_src=bfba1fbf2) | Redwood City, CA | Summer 2022 | 9/9
