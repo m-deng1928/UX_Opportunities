@@ -17,6 +17,7 @@ If you need further resources, here is a larger 100+ page [recruiting guide](htt
 ---
 
 If you want equivalent ones for Product and CS (SWE/etc...), here are some repos below:
+[**Underclassmen Internship Programs 2022 - /u/No-Bicycle-7947**](https://docs.google.com/spreadsheets/d/15arh2xiWZ9noq_ogtD_IvfXZ-Np8ZnVdaKEbw0_g-Oo/edit#gid=1540676130)
 
 [**Product - PM Openings 2022 - leestanley**](https://github.com/leestanley/pm-openings2022)
 
