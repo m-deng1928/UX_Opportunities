@@ -243,13 +243,6 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-Visual Design Intern
-Madrid
-Experience Design Intern (Autumn 2021)
-Milan
-Experience Design Intern (Autumn 2021)
-Munich
-
 | [frog - Visual Design](https://www.frogdesign.com/careers/jobs/3230952) | Madrid | Fall 2021 | 9/11
 | [frog - Experience Design](https://www.frogdesign.com/careers/jobs/3443002) | Milan | Fall 2021 | 9/11
 | [frog - Experience Design](https://www.frogdesign.com/careers/jobs/3442976) | Munich | Fall 2021 | 9/11
