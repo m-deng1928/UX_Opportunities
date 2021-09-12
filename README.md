@@ -31,6 +31,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [frog - User Experience Designer - (2 YoE)](https://www.frogdesign.com/careers/jobs/3216465) | Bangalore | 9/12 (some of these are rather dated)
+| [frog - Visual Designer, Digital Operations - (2 YoE)](https://www.frogdesign.com/careers/jobs/3360097) | Mexico City | 9/12
+| [frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3406225) | Bothell, WA | 9/12
+| [frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3406226) | Cambridge, MA | 9/12
+| [frog - Service Designer - (2 YoE)](https://www.frogdesign.com/careers/jobs/3451910) | Madrid | 9/12
+| [frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3452870) | New York, NY | 9/12
+| [frog - Designer Researcher, Client Collaborative - (3 YoE)](https://www.frogdesign.com/careers/jobs/2925229) | Pittsburgh, PA | 9/12
+| [frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3400181) | Pittsburgh, PA | 9/12
+| [frog - UX Designer - (1 YoE)](https://www.frogdesign.com/careers/jobs/3269897) | Pittsburgh, PA | 9/12
 | [ServiceNow - Product Designer](https://jobs.smartrecruiters.com/ServiceNow/743999768473764-product-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego, CA | 9/11
 | [ServiceNow - UX Researcher (1-5 YoE)](https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA/San Diego, CA/Chicago, IL/Montreal, CA | 9/11
 | [Publicis Sapient - Junior UX & Product Designer - Class of 2022](https://jobs.smartrecruiters.com/ni/PublicisGroupe/b9ea7f3e-0e55-4a06-85b5-321766211f51-junior-ux-product-designer-class-of-2022) | Arlington, VA (Washington DC)/Atlanta, GA/Boston, MA/Chicago, IL/Minneapolis, MN/New York, NY | 9/11
