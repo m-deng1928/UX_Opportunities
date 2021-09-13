@@ -31,6 +31,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [McCafee - Product Designer, Genuine (3 YoE)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Product-Designer--Genuine_21WD51768-1?src=JB-10065) | San Jose, CA | 9/13
+| [McCafee - Product Designer, Web Protection Center (3 YoE)](https://careers.mcafee.com/job/-/-/731/12838455088?source=LinkedIn) | San Francisco, CA | 9/13
+| [Apple - Product Designer, Subscriptions Lifecycle (3 YoE)](https://jobs.apple.com/en-us/details/200266647/product-designer-subscriptions-lifecycle?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 9/13
+| [Apple - Product Designer, Design Systems](https://jobs.apple.com/en-us/details/200248884/product-designer-design-systems) | Culver City, CA | 9/13
+| [Apple - Product Designer, Tools](https://jobs.apple.com/en-us/details/200248862/product-designer-tools) | Culver City, CA | 9/13
+| [Apple - Product Designer, App Store, Tools](https://jobs.apple.com/en-us/details/200267883/product-designer-app-store-tools) | Culver City, CA | 9/13
+| [Apple - Product Designer, Enterprise](https://jobs.apple.com/en-us/details/200249902/product-designer-enterprise) | Culver City, CA | 9/13
+| [Apple - Product Designer](https://jobs.apple.com/en-us/details/200251807/product-designer) | Culver City, CA | 9/13
+| [Nike - Digital Product Designer - Publishing Platform (3 YoE)](https://jobs.nike.com/job/00519858?from=job%20search%20funnel) | Beaverton, OR | 9/13
 | [frog - User Experience Designer - (2 YoE)](https://www.frogdesign.com/careers/jobs/3216465) | Bangalore | 9/12 (some of these are rather dated)
 | [frog - Visual Designer, Digital Operations - (2 YoE)](https://www.frogdesign.com/careers/jobs/3360097) | Mexico City | 9/12
 | [frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3406225) | Bothell, WA | 9/12
