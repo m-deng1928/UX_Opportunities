@@ -31,6 +31,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Northwestern Mutual - UX Design (2 YoE)](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Experience-Designer_JR-24265) | Wisconsin, MI/New York, NY | 9/13
+| [eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
+| [Dow Jones - UX Designer (3 YoE)](https://dowjones.jobs/3AA6ADB6970141C180C6C407166C5F93/job/?vs=16061606) | Los Angeles, CA | 9/13
+| [American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=9106903&utm_medium=campaign123f&utm_source=test123&utm_source=linkedin) | Atlanta, GA | 9/13
+| [Zuora - UX Designer (2 YoE)](https://boards.greenhouse.io/zuora/jobs/3431881?gh_jid=3431881) | Redwood City, CA | 9/13
+| [BlackRock - UI/UX Designer - Aladdin Product Group (3-5 YoE)](https://careers.blackrock.com/job/12284932/ux-designer-aladdin-product-group-atlanta-ga/?source=12748) | Atlanta, GA | 9/13
+| [Funko - UI/UX Designer (3 YoE)](https://jobs.jobvite.com/careers/funko/job/oJ5UgfwI/apply?__jvst=Job%20Board&__jvsd=linkedIn) | Everett, WA | 9/13
+| [BCG Digital Ventures - Experience Designer (UI/UX) (2 YoE)](https://boards.greenhouse.io/bcgdv/jobs/5520346002?s=LinkedIn&source=LinkedIn) | Chicago, IL | 9/13
+| [IMDb - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1720178/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Santa Monica, CA | 9/13
 | [McCafee - Product Designer, Genuine (3 YoE)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Product-Designer--Genuine_21WD51768-1?src=JB-10065) | San Jose, CA | 9/13
 | [McCafee - Product Designer, Web Protection Center (3 YoE)](https://careers.mcafee.com/job/-/-/731/12838455088?source=LinkedIn) | San Francisco, CA | 9/13
 | [Apple - Product Designer, Subscriptions Lifecycle (3 YoE)](https://jobs.apple.com/en-us/details/200266647/product-designer-subscriptions-lifecycle?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 9/13
