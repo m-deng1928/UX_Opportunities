@@ -31,6 +31,16 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [IBM - IBM Z UX Designer (2 YoE))](https://careers.ibm.com/job/13806463/ibm-z-ux-designer-poughkeepsie-ny/?codes=SN_LinkedIn) | Poughkeepsie, NY | 9/13
+| [IBM - Security User Experience Designer (3 YoE))](https://careers.ibm.com/job/12829515/security-user-experience-designer-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Atlanta, GA | 9/13
+| [Tovala - UX/UI Designer (3 YoE))](https://recruiting.paylocity.com/recruiting/jobs/Details/593345/Tovala/UIUX-Designer) | Chicago, IL | 9/13
+| [Daily Harvest - Product Designer (3 YoE))](https://boards.greenhouse.io/dailyharvest/jobs/2991042?gh_src=0706b78f1us) | New York, NY | 9/13
+| [Slack - Product Designer (2 YoE))](https://slack.com/intl/en-in/careers/3218383/product-designer?gh_src=pmw542v31) | San Francisco, CA | 9/13
+| [Deloitte - User Experience Designer (2-5 YoE)](https://deloitteus.avature.net/careers/InviteToApply?jobId=14218&source=LinkedIn) | New York, NY | 9/13
+| [Activision - UX Assistant (1 YoE))](https://careers.activision.com/job/ACPUUSR008842EXTERNAL/UI-Assistant?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 9/13
+| [Norton Life Lock - UX/UI Designer (2-5 YoE))](https://nortonlifelock.wd1.myworkdayjobs.com/en-US/careers/job/USA---California-Culver-City/UX-UI-Designer_51059?codes=JB-LnkIn) | Culver City, CA | 9/13
+| [Fisher Investments - UX Designer (3 YoE))](https://www.fishercareers.com/jobs/7517384-ux-designer?site_type=US&bid=370) | Plano, TX | 9/13
+| [Blue Bottle - Learning Experience Designer (2 YoE)](https://jobs.lever.co/bluebottlecoffee/281d3e5b-b339-4734-805c-ea528b6392a4) | Oakland, CA | 9/13
 | [Blink - UX Researcher (3 YoE)](https://jobs.lever.co/blinkux/1ed2e029-e8f8-4bf2-8faa-2a169c6d9a9a) | Seattle, WA | 9/13
 | [Northwestern Mutual - UX Design (2 YoE)](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Experience-Designer_JR-24265) | Wisconsin, MI/New York, NY | 9/13
 | [eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
