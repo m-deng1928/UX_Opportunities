@@ -281,6 +281,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Playstation - Design Technology](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3467423/?t=b8y5ha) | San Francisco, CA | Summer 2022 | 9/13
 | [frog - Visual Design](https://www.frogdesign.com/careers/jobs/3230952) | Madrid | Fall 2021 | 9/11
 | [frog - Experience Design](https://www.frogdesign.com/careers/jobs/3443002) | Milan | Fall 2021 | 9/11
 | [frog - Experience Design](https://www.frogdesign.com/careers/jobs/3442976) | Munich | Fall 2021 | 9/11
