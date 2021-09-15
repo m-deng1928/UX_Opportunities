@@ -130,9 +130,9 @@ New Grad
 | [	:eight_pointed_black_star:Unity - UX Designer, Creator](https://careers.unity.com/position/ux-designer-creator/3369391?gh_src=ilfw6o)| Austin, TX | 9/2
 | [Amazon Web Services (AWS) - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1669190/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Seattle, WA | 9/2
 | [Epic Games - UI/UX Designer (3 YoE))](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/San-Diego-CA/UX-Designer_R4537-1?mode=job&iis=LinkedIn&source=Linkedin)| San Diego, CA | 9/2
-| [Facebook - Product Design Prototyper, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/229296522158076/)| Los Angeles, CA/Seattle, WA/New York, NY/Burlingame, CA/Los Angeles, CA | 9/1
-| [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19535479?utm_source=linkedin%20slots&utm_content=pj_board&p_uid=2m20YVP4Vb&iisn=li&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&iis=pjob&utm_medium=jobad&p_sid=hnV_gnb&ss=paid)| San Diego, CA | 9/1
-| [PMG - Junior UX/UI Designer](https://boards.greenhouse.io/pmg/jobs/5457409002?s=LinkedIn&source=LinkedIn)| Austin, TX | 9/1
+| [:x:Facebook - Product Design Prototyper, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/229296522158076/)| Los Angeles, CA/Seattle, WA/New York, NY/Burlingame, CA/Los Angeles, CA | 9/1
+| [:x:Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/19535479?utm_source=linkedin%20slots&utm_content=pj_board&p_uid=2m20YVP4Vb&iisn=li&utm_campaign=null&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&iis=pjob&utm_medium=jobad&p_sid=hnV_gnb&ss=paid)| San Diego, CA | 9/1
+| [:eight_pointed_black_star:PMG - Junior UX/UI Designer](https://boards.greenhouse.io/pmg/jobs/5457409002?s=LinkedIn&source=LinkedIn)| Austin, TX | 9/1
 | [Delta Airlines - User Experience Researcher (2 YoE, MS/PhD preferred)](https://delta.avature.net/careers/JobDetail/User-Exprience-Researcher/8726?source=LinkedIn)| Atlanta, GA | 9/1
 | [Revinate - UX/Product Designer (3 YoE)](https://www.revinate.com/company/careers/application/?gh_jid=3343590&gh_src=db4490a41us)| San Francisco, CA | 9/1
 | [:x:Blackrock - Product Designer, Associate (3 YoE)](https://careers.blackrock.com/job/12930507/product-designer-associate-atlanta-ga/?source=12748)| Atlanta, GA/New York, NY | 9/1
@@ -147,7 +147,7 @@ New Grad
 | [:x:nTopology - Product Designer (2-5 YoE)](https://www.linkedin.com/jobs/view/2702538341)| Glendale, CA | 9/1
 | [Oakley - Researcher - User Experience (2 YoE, Bach)](https://jobs.luxottica.com/LRNA/job/Foothill-Ranch-Oakley-Researcher-User-Experience-CA-92610/708950001/?utm_source=LINKEDIN&utm_medium=referrer)| Glendale, CA | 9/1
 | [General Motors (GM) - Product Designer Experience Lab (3 YoE)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---Michigan/Product-Designer-Experience-Lab_JR-000049814?source=Linkedin) | Detroit, MI | 9/1
-| [Visa - UX Designer (2 YoE or MS)](https://jobs.smartrecruiters.com/Visa/743999768908447-ux-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| San Francisco, CA | 9/1
+| [:eight_pointed_black_star:Visa - UX Designer (2 YoE or MS)](https://jobs.smartrecruiters.com/Visa/743999768908447-ux-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| San Francisco, CA | 9/1
 | [Pathrise - Product Designer (3 YoE)](https://jobs.lever.co/pathrise/a5e88d24-1010-4864-badb-316db1c1f9f9?lever-source=LinkedInJobs)| San Francisco, CA | 9/1
 | [FCB Health - Product Designer](https://www.linkedin.com/jobs/view/2685229724)| New York, NY | 9/1
 | [Activision Blizzard - Associate UX Designer](https://careers.activisionblizzard.com/job/ACCOUSR008530EXTERNAL/Associate-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds)| Middleton, WI | 9/1
