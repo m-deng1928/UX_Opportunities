@@ -43,7 +43,7 @@ New Grad
 | [Blue Bottle - Learning Experience Designer (2 YoE)](https://jobs.lever.co/bluebottlecoffee/281d3e5b-b339-4734-805c-ea528b6392a4) | Oakland, CA | 9/13
 | [Blink - UX Researcher (3 YoE)](https://jobs.lever.co/blinkux/1ed2e029-e8f8-4bf2-8faa-2a169c6d9a9a) | Seattle, WA | 9/13
 | [Northwestern Mutual - UX Design (2 YoE)](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Experience-Designer_JR-24265) | Wisconsin, MI/New York, NY | 9/13
-| [eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
+| [:white_check_mark: eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
 | [Dow Jones - UX Designer (3 YoE)](https://dowjones.jobs/3AA6ADB6970141C180C6C407166C5F93/job/?vs=16061606) | Los Angeles, CA | 9/13
 | [American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=9106903&utm_medium=campaign123f&utm_source=test123&utm_source=linkedin) | Atlanta, GA | 9/13
 | [Zuora - UX Designer (2 YoE)](https://boards.greenhouse.io/zuora/jobs/3431881?gh_jid=3431881) | Redwood City, CA | 9/13
