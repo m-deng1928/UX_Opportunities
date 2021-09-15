@@ -139,13 +139,13 @@ New Grad
 | [:x:Blackrock - Product Designer, Associate (3 YoE)](https://careers.blackrock.com/job/12930507/product-designer-associate-atlanta-ga/?source=12748)| Atlanta, GA/New York, NY | 9/1
 | [Reverb - Product Designer](https://jobs.smartrecruiters.com/Etsy2/743999769831505-product-designer?trid=d7e4b8c6-7c3a-4bee-a2cd-4eceafc91958)| Chicago, IL | 9/1
 | [Sallie Mae - UX Designer](https://salliemaeyouniversity.csod.com/ux/ats/careersite/5/home/requisition/1050?c=salliemaeyouniversity)| Philadelphia, PA | 9/1
-| [OneTrust - UX Designer, New Graduate](https://www.linkedin.com/jobs/view/2693539465)| Atlanta, GA | 9/1
-| [Slickdeals - Product Designer (2-4 YoE)](https://slickdeals.net/job/?gh_jid=5443739002)| Los Angeles, CA | 9/1
+| [:white_check_mark:OneTrust - UX Designer, New Graduate](https://www.linkedin.com/jobs/view/2693539465)| Atlanta, GA | 9/1
+| [:x:Slickdeals - Product Designer (2-4 YoE)](https://slickdeals.net/job/?gh_jid=5443739002)| Los Angeles, CA | 9/1
 | [Plaid - UX Engineer (Unknown YoE - careful with this one)](https://www.linkedin.com/jobs/view/2696995164)| San Francisco, CA | 9/1
 | [The Brigade Inc - Junior Product Designer](https://www.linkedin.com/jobs/view/2688456763)| Portland, OR | 9/1
 | [Proven Recruiting - Product Designer (2 YoE) - this is a staffing agency](https://www.linkedin.com/jobs/view/2696953596)| San Diego, CA | 9/1
 | [0x Labs - Product Designer, Matcha](https://boards.greenhouse.io/0x/jobs/4131489002?gh_src=e5c3b2192)| San Francisco, CA | 9/1
-| [nTopology - Product Designer (2-5 YoE)](https://www.linkedin.com/jobs/view/2702538341)| Glendale, CA | 9/1
+| [:x:nTopology - Product Designer (2-5 YoE)](https://www.linkedin.com/jobs/view/2702538341)| Glendale, CA | 9/1
 | [Oakley - Researcher - User Experience (2 YoE, Bach)](https://jobs.luxottica.com/LRNA/job/Foothill-Ranch-Oakley-Researcher-User-Experience-CA-92610/708950001/?utm_source=LINKEDIN&utm_medium=referrer)| Glendale, CA | 9/1
 | [General Motors (GM) - Product Designer Experience Lab (3 YoE)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---Michigan/Product-Designer-Experience-Lab_JR-000049814?source=Linkedin) | Detroit, MI | 9/1
 | [Visa - UX Designer (2 YoE or MS)](https://jobs.smartrecruiters.com/Visa/743999768908447-ux-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin)| San Francisco, CA | 9/1
@@ -153,10 +153,10 @@ New Grad
 | [FCB Health - Product Designer](https://www.linkedin.com/jobs/view/2685229724)| New York, NY | 9/1
 | [Activision Blizzard - Associate UX Designer](https://careers.activisionblizzard.com/job/ACCOUSR008530EXTERNAL/Associate-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds)| Middleton, WI | 9/1
 | [Fourth - UX Researcher (2-3 YoE)](https://www.linkedin.com/jobs/view/2693757229)| Austin, TX | 9/1
-| [Yext - 2022 UI Designer, New Grad](https://www.linkedin.com/jobs/view/2697775522)| Washington DC | 9/1
+| [:eight_pointed_black_star:Yext - 2022 UI Designer, New Grad](https://www.linkedin.com/jobs/view/2697775522)| Washington DC | 9/1
 | [Coda - UX Researcher (3YoE, first UXR hire)](https://boards.greenhouse.io/coda/jobs/5439682002)| San Francisco, CA | 8/31
 | [Robinhood - Product Designer](https://robinhood.com/us/en/careers/openings/?gh_jid=2596932&gh_src=ed898e781us)| Menlo Park, CA | 8/31
-| [Rippling - Product Designer (3 Yoe)](https://www.rippling.com/careers/4110878003?gh_jid=4110878003)| San Francisco, CA | 8/31
+| [:x:Rippling - Product Designer (3 Yoe)](https://www.rippling.com/careers/4110878003?gh_jid=4110878003)| San Francisco, CA | 8/31
 | [Capital 1 - Principal Associate, Product Designer (2 YoE)](https://www.capitalonecareers.com/job/-/-/1732/19627962)| Arlington, VA/New York, New York | 8/31
 | [Pattern - Junior Digital Product Designer (1-2 YoE)](https://boards.greenhouse.io/patterncareers/jobs/3417781?s=LinkedIn&source=LinkedIn)| Arlington, VA/New York, New York | 8/31
 | [The Knot Worldwide - Product Designer](https://www.linkedin.com/jobs/view/2671892672)| Arlington, VA/New York, New York | 8/31
@@ -231,13 +231,13 @@ New Grad
 | [Figma - Web Designer](https://jobs.lever.co/figma/4ccffb0a-b848-4243-a04d-4aecff97e9bc) | New York, NY/San Francisco, CA/Remote | 8/17
 | [Mastercard - User Experience Designer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FArlington-Virginia%2FUser-Experience-Designer--Design-Systems_R-136202%2Fapply%3Fsource%3DLINKEDIN) | Arlington, VA | 8/17
 | [Delta Airlines - UX Designer](https://delta.avature.net/careers/JobDetail/UX-Designer/8329?source=LinkedIn) | Atlanta, GA | 8/17
-| [Facebook - Product Designer, Oculus](https://www.facebook.com/careers/v2/jobs/806880333570933/) | Los Angeles, CA/Seattle, WA/Burlingame, CA | 8/17
+| [:skull_and_crossbones:Facebook - Product Designer, Oculus](https://www.facebook.com/careers/v2/jobs/806880333570933/) | Los Angeles, CA/Seattle, WA/Burlingame, CA | 8/17
 | [Workiva - User Experience Designer](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/User-Experience-Designer_R2316?source=Linkedin) | Denver, CA | 8/17
 | [Spotify - Product Designer, Spotify for Artists](https://jobs.lever.co/spotify/999d5d6f-ee6e-492b-b6cf-b9ca696b039f/apply?lever-source=LinkedIn) | New York, NY | 8/17
 | [Blackstone - UI/UX Designer Analyst (NY)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2022-Blackstone-Technology-and-Innovations---UI-UX-Designer-Analyst--NY-_17921?source=Linkedinn) | New York, NY | 8/17
 | [Square - Design Technologist](https://jobs.smartrecruiters.com/Square/743999766711982-design-technologist?source=Linkedin) | Austin, TX | 8/17
-| [Duolingo - Product Designer, New Graduate](https://boards.greenhouse.io/duolingo/jobs/5473177002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/17  
-| [Figma - Product Design (New Grad)](https://jobs.lever.co/figma/a57f4982-278b-4574-b2bf-d7ad3021153a) | San Francisco, CA | 8/16
+| [:eight_pointed_black_star:Duolingo - Product Designer, New Graduate](https://boards.greenhouse.io/duolingo/jobs/5473177002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/17  
+| [:white_check_mark:Figma - Product Design (New Grad)](https://jobs.lever.co/figma/a57f4982-278b-4574-b2bf-d7ad3021153a) | San Francisco, CA | 8/16
 | [Figma - Education Designer, Product Education](https://jobs.lever.co/figma/f9edf733-874b-4141-8913-8bc7562d2ab5) | San Francisco, CA | 8/16
 | [Figma - Product Designer, Enterprise](https://jobs.lever.co/figma/baf8f7e7-e406-4900-ae1b-ae6fcb65cbe0) | San Francisco, CA | 8/16
 | [Peloton - Product Designer, UI, Freelance](https://boards.greenhouse.io/peloton/jobs/2324549?gh_src=a1942ad01us) | New York, NY | 8/16
@@ -247,7 +247,7 @@ New Grad
 | [IBM - Entry Level Visual Designer](https://careers.ibm.com/job/13527925/entry-level-visual-designer-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn)| Multiple Cities (not listed) | 8/12
 | [IBM - Entry Level User Experience Designer](https://careers.ibm.com/job/13527882/entry-level-user-experience-designer-2022-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn)| Multiple Cities (not listed) | 8/12
 | [Google - UX Staff Interaction Designer - Kernel](https://careers.google.com/jobs/results/82526264386036422-ux-staff-interaction-designer-kernel/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin)| Mountain View, CA | 8/12
-| [Microsoft - User Experience - Full time opportunities for University Grads](https://careers.microsoft.com/us/en/job/1129182/User-experience-Full-Time-Opportunities-for-University-Graduates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Redmond, WA | 8/12
+| [:eight_pointed_black_star:Microsoft - User Experience - Full time opportunities for University Grads](https://careers.microsoft.com/us/en/job/1129182/User-experience-Full-Time-Opportunities-for-University-Graduates?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Redmond, WA | 8/12
 | [Airtable - Product Designer](https://boards.greenhouse.io/airtable/jobs/4236418002?gh_src=aef790d02us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 8/12
 | [Airtable - User Experience Researcher](https://boards.greenhouse.io/airtable/jobs/4927558002?gh_src=aef790d02us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 8/12
 | [LinkedIn - Product Designer, LinkedIn Business Platform](https://www.linkedin.com/jobs/view/2676910130)| San Francisco, CA | 8/12
@@ -263,7 +263,7 @@ New Grad
 | [Sidecar Health - Product Designer](https://boards.greenhouse.io/sidecarhealth/jobs/4030961004?s=LinkedIn&source=LinkedIn)| Los Angeles, CA | 8/7
 | [Spotify - Product Designer - Content Platform](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn)  | New York, NY  | 8/6 
 | [Spotify - Product Designer - New Product Innovation](https://jobs.lever.co/spotify/92bd37ee-878d-4c3b-a05d-a0778334f3e8/apply?lever-source=LinkedIn) | New York, NY | 8/6 
-| [Facebook - UX Researcher (New Grad)/(MS/PhD)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
+| [:eight_pointed_black_star:Facebook - UX Researcher (New Grad)/(MS/PhD)](https://www.facebook.com/careers/v2/jobs/761891457832240/?location=Menlo+Park%2C+CA)  | Menlo Park, CA/Seattle, WA/New York, NY/San Francisco/Remote | 8/6 
 | [Intuit - Product Designer Strategist](https://jobs.intuit.com/job/-/-/27595/19649695)  | Remote | 8/6 
 | [Etsy - Product Designer, Design Systems](https://jobs.smartrecruiters.com/Etsy2/743999765252803-product-designer-design-systems)  | Brooklyn, NY | 8/6 
 | [Duolingo - Product Designer](https://boards.greenhouse.io/duolingo/jobs/5393270002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn)  | New York, NY  | 8/6  
