@@ -70,15 +70,15 @@ New Grad
 | [:x:frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3400181) | Pittsburgh, PA | 9/12
 | [:x:frog - UX Designer - (1 YoE) not sponsor VISA](https://www.frogdesign.com/careers/jobs/3269897) | Pittsburgh, PA | 9/12
 | [:eight_pointed_black_star:ServiceNow - Product Designer](https://jobs.smartrecruiters.com/ServiceNow/743999768473764-product-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego, CA | 9/11
-| [https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=LinkedinServiceNow - UX Researcher (1-5 YoE)](https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA/San Diego, CA/Chicago, IL/Montreal, CA | 9/11
-| [Publicis Sapient - Junior UX & Product Designer - Class of 2022](https://jobs.smartrecruiters.com/ni/PublicisGroupe/b9ea7f3e-0e55-4a06-85b5-321766211f51-junior-ux-product-designer-class-of-2022) | Arlington, VA (Washington DC)/Atlanta, GA/Boston, MA/Chicago, IL/Minneapolis, MN/New York, NY | 9/11
+| [ServiceNow - UX Researcher (1-5 YoE)](https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA/San Diego, CA/Chicago, IL/Montreal, CA | 9/11
+| [:eight_pointed_black_star:	Publicis Sapient - Junior UX & Product Designer - Class of 2022](https://jobs.smartrecruiters.com/ni/PublicisGroupe/b9ea7f3e-0e55-4a06-85b5-321766211f51-junior-ux-product-designer-class-of-2022) | Arlington, VA (Washington DC)/Atlanta, GA/Boston, MA/Chicago, IL/Minneapolis, MN/New York, NY | 9/11
 | [Booz Allen Hamilton - UI/UX Designer](https://careers.boozallen.com/careers/JobDetail?jobId=46914&source=JB-16281) | Alexandria, VA | 9/10
 | [Esri - UI/UX Designer](https://www.esri.com/careers/ui-ux-designer-14471?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Redlands, CA | 9/10
 | [Toyota - UI/UX Designer](https://www.applytracking.com/x.aspx?method=direct&type=apply&board=D92FCD45-1292-4AE2-B555-D7A273418B42&Job=TMN002XR&ClientCode=13438&src=SNS-12160) | Dallas, TX | 9/10
 | [:x:Amazon - UX Designer - Alexa Auto (3 YoE)](https://www.amazon.jobs/en/jobs/1725262/ux-designer-alexa-auto?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Irvine, CA | 9/10
 | [ViacomCBS - Junior Product Designer](https://careers.viacomcbs.com/job/New-York-Junior-Product-Designer-NY-10036/787589400/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | New York, NY | 9/10
 | [:white_check_mark:Apple - UX Designer - Marcom Internal Tools & Systems](https://jobs.apple.com/en-us/details/200284257/ux-designer-marcom-internal-tools-systems) | Santa Clara Valley, CA | 9/10
-| [JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
+| [:eight_pointed_black_star:JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
 | [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5520346002?gh_src=b6b8b5072us) | Chicago, IL | 9/10
 | [Shure Incorporated - Designer I, User Experience](https://careers-shure.icims.com/jobs/2281/designer-i%252c-user-experience/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
 | [Shure Incorporated - Specialist I, Instructional Design](https://careers-shure.icims.com/jobs/2205/specialist-i%252c-instructional-design/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
@@ -118,7 +118,7 @@ New Grad
 | [Anyscale - UX Researcher](https://jobs.lever.co/anyscale/97608255-6501-462f-be06-4d52cc60afaf)| San Francisco, CA | 9/4
 | [icon group - Icon incar DET - Junior UI Designer](https://join.com/companies/iconmobile/2831907-icon-incar-det-junior-ui-designer?pid=0aa3516742c2a90cc7e4&utm_source=linkedin&utm_medium=free&utm_campaign=linkedin%2Blimited%2Blisting&utm_content=icon%2Bincar%2Bdet%2B-%2Bjunior%2Bui%2Bdesigner)| Detroit, MI | 9/4
 | [Capgemini - Interaction Designer (Junior Talent Program)](https://capgemini.taleo.net/careersection/1/jobdetail.ftl?job=056277&lang=en&src=BDT-200083)| New York, NY | 9/4
-| [GoPro - Assistant UX Researcher (Contract)(Bach, 1 YoE)](https://jobs.gopro.com/jobs/contract/united-states/assistant-ux-researcher-contract-/3401987?gh_jid=3401987&gh_src=854jrv1)| Remote | 9/4
+| [:x:GoPro - Assistant UX Researcher (Contract)(Bach, 1 YoE)](https://jobs.gopro.com/jobs/contract/united-states/assistant-ux-researcher-contract-/3401987?gh_jid=3401987&gh_src=854jrv1)| Remote | 9/4
 | [CareerBuilder - UX Researcher (Bach)](https://www.careerbuildercareers.com/en-US/job/ux-researcher-1/J3P7NW6TF8629W4YVPM)| Remote | 9/2
 | [Cardinal Health - UX Researcher (3 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/ux-researcher/01d8f7eb-fbf6-41f2-b7e3-47c08038fd0a?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin)| Remote | 9/2
 | [Cardinal Health - UX Designer (3 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/ux-designer/fbcb250d-e173-4047-91e9-62029a16b68c?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin)| Remote | 9/2
