@@ -31,43 +31,43 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-| [IBM - IBM Z UX Designer (2 YoE))](https://careers.ibm.com/job/13806463/ibm-z-ux-designer-poughkeepsie-ny/?codes=SN_LinkedIn) | Poughkeepsie, NY | 9/13
+| [:x:IBM - IBM Z UX Designer (2 YoE))](https://careers.ibm.com/job/13806463/ibm-z-ux-designer-poughkeepsie-ny/?codes=SN_LinkedIn) | Poughkeepsie, NY | 9/13
 | [:x:IBM - Security User Experience Designer (3 YoE))](https://careers.ibm.com/job/12829515/security-user-experience-designer-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Atlanta, GA | 9/13
 | [:x:Tovala - UX/UI Designer (3 YoE))](https://recruiting.paylocity.com/recruiting/jobs/Details/593345/Tovala/UIUX-Designer) | Chicago, IL | 9/13
 | [:x:Daily Harvest - Product Designer (3 YoE))](https://boards.greenhouse.io/dailyharvest/jobs/2991042?gh_src=0706b78f1us) | New York, NY | 9/13
 | [Slack - Product Designer (2 YoE))](https://slack.com/intl/en-in/careers/3218383/product-designer?gh_src=pmw542v31) | San Francisco, CA | 9/13
-| [Deloitte - User Experience Designer (2-5 YoE)](https://deloitteus.avature.net/careers/InviteToApply?jobId=14218&source=LinkedIn) | New York, NY | 9/13
-| [Activision - UX Assistant (1 YoE))](https://careers.activision.com/job/ACPUUSR008842EXTERNAL/UI-Assistant?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 9/13
+| [:x:Deloitte - User Experience Designer (2-5 YoE)](https://deloitteus.avature.net/careers/InviteToApply?jobId=14218&source=LinkedIn) | New York, NY | 9/13
+| [:slightly_frowning_face:Activision - UX Assistant (1 YoE))](https://careers.activision.com/job/ACPUUSR008842EXTERNAL/UI-Assistant?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 9/13
 | [Norton Life Lock - UX/UI Designer (2-5 YoE))](https://nortonlifelock.wd1.myworkdayjobs.com/en-US/careers/job/USA---California-Culver-City/UX-UI-Designer_51059?codes=JB-LnkIn) | Culver City, CA | 9/13
 | [Fisher Investments - UX Designer (3 YoE))](https://www.fishercareers.com/jobs/7517384-ux-designer?site_type=US&bid=370) | Plano, TX | 9/13
 | [Blue Bottle - Learning Experience Designer (2 YoE)](https://jobs.lever.co/bluebottlecoffee/281d3e5b-b339-4734-805c-ea528b6392a4) | Oakland, CA | 9/13
-| [Blink - UX Researcher (3 YoE)](https://jobs.lever.co/blinkux/1ed2e029-e8f8-4bf2-8faa-2a169c6d9a9a) | Seattle, WA | 9/13
+| [:x:Blink - UX Researcher (3 YoE)](https://jobs.lever.co/blinkux/1ed2e029-e8f8-4bf2-8faa-2a169c6d9a9a) | Seattle, WA | 9/13
 | [Northwestern Mutual - UX Design (2 YoE)](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Experience-Designer_JR-24265) | Wisconsin, MI/New York, NY | 9/13
 | [:white_check_mark: eBay - Design Researcher (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FDesign-Researcher_R0049036-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/13
-| [Dow Jones - UX Designer (3 YoE)](https://dowjones.jobs/3AA6ADB6970141C180C6C407166C5F93/job/?vs=16061606) | Los Angeles, CA | 9/13
-| [American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=9106903&utm_medium=campaign123f&utm_source=test123&utm_source=linkedin) | Atlanta, GA | 9/13
+| [:x:Dow Jones - UX Designer (3 YoE)](https://dowjones.jobs/3AA6ADB6970141C180C6C407166C5F93/job/?vs=16061606) | Los Angeles, CA | 9/13
+| [:x:American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=9106903&utm_medium=campaign123f&utm_source=test123&utm_source=linkedin) | Atlanta, GA | 9/13
 | [Zuora - UX Designer (2 YoE)](https://boards.greenhouse.io/zuora/jobs/3431881?gh_jid=3431881) | Redwood City, CA | 9/13
-| [BlackRock - UI/UX Designer - Aladdin Product Group (3-5 YoE)](https://careers.blackrock.com/job/12284932/ux-designer-aladdin-product-group-atlanta-ga/?source=12748) | Atlanta, GA | 9/13
+| [:x:BlackRock - UI/UX Designer - Aladdin Product Group (3-5 YoE)](https://careers.blackrock.com/job/12284932/ux-designer-aladdin-product-group-atlanta-ga/?source=12748) | Atlanta, GA | 9/13
 | [Funko - UI/UX Designer (3 YoE)](https://jobs.jobvite.com/careers/funko/job/oJ5UgfwI/apply?__jvst=Job%20Board&__jvsd=linkedIn) | Everett, WA | 9/13
 | [BCG Digital Ventures - Experience Designer (UI/UX) (2 YoE)](https://boards.greenhouse.io/bcgdv/jobs/5520346002?s=LinkedIn&source=LinkedIn) | Chicago, IL | 9/13
 | [:x:IMDb - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1720178/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Santa Monica, CA | 9/13
 | [:x:McCafee - Product Designer, Genuine (3 YoE)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Product-Designer--Genuine_21WD51768-1?src=JB-10065) | San Jose, CA | 9/13
 | [:x:McCafee - Product Designer, Web Protection Center (3 YoE)](https://careers.mcafee.com/job/-/-/731/12838455088?source=LinkedIn) | San Francisco, CA | 9/13
-| [Apple - Product Designer, Subscriptions Lifecycle (3 YoE)](https://jobs.apple.com/en-us/details/200266647/product-designer-subscriptions-lifecycle?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 9/13
+| [:x:Apple - Product Designer, Subscriptions Lifecycle (3 YoE)](https://jobs.apple.com/en-us/details/200266647/product-designer-subscriptions-lifecycle?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 9/13
 | [Apple - Product Designer, Design Systems](https://jobs.apple.com/en-us/details/200248884/product-designer-design-systems) | Culver City, CA | 9/13
 | [Apple - Product Designer, Tools](https://jobs.apple.com/en-us/details/200248862/product-designer-tools) | Culver City, CA | 9/13
 | [Apple - Product Designer, App Store, Tools](https://jobs.apple.com/en-us/details/200267883/product-designer-app-store-tools) | Culver City, CA | 9/13
 | [Apple - Product Designer, Enterprise](https://jobs.apple.com/en-us/details/200249902/product-designer-enterprise) | Culver City, CA | 9/13
 | [Apple - Product Designer](https://jobs.apple.com/en-us/details/200251807/product-designer) | Culver City, CA | 9/13
-| [Nike - Digital Product Designer - Publishing Platform (3 YoE)](https://jobs.nike.com/job/00519858?from=job%20search%20funnel) | Beaverton, OR | 9/13
+| [:x:Nike - Digital Product Designer - Publishing Platform (3 YoE)](https://jobs.nike.com/job/00519858?from=job%20search%20funnel) | Beaverton, OR | 9/13
 | [frog - User Experience Designer - (2 YoE)](https://www.frogdesign.com/careers/jobs/3216465) | Bangalore | 9/12 (some of these are rather dated)
 | [frog - Visual Designer, Digital Operations - (2 YoE)](https://www.frogdesign.com/careers/jobs/3360097) | Mexico City | 9/12
 | [:x:frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3406225) | Bothell, WA | 9/12
 | [:x:frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3406226) | Cambridge, MA | 9/12
 | [frog - Service Designer - (2 YoE)](https://www.frogdesign.com/careers/jobs/3451910) | Madrid | 9/12
 | [:x:frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3452870) | New York, NY | 9/12
-| [frog - Designer Researcher, Client Collaborative - (3 YoE)](https://www.frogdesign.com/careers/jobs/2925229) | Pittsburgh, PA | 9/12
-| [frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3400181) | Pittsburgh, PA | 9/12
+| [:x:frog - Designer Researcher, Client Collaborative - (3 YoE)](https://www.frogdesign.com/careers/jobs/2925229) | Pittsburgh, PA | 9/12
+| [:x:frog - Service Designer - (3 YoE)](https://www.frogdesign.com/careers/jobs/3400181) | Pittsburgh, PA | 9/12
 | [frog - UX Designer - (1 YoE)](https://www.frogdesign.com/careers/jobs/3269897) | Pittsburgh, PA | 9/12
 | [ServiceNow - Product Designer](https://jobs.smartrecruiters.com/ServiceNow/743999768473764-product-designer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego, CA | 9/11
 | [ServiceNow - UX Researcher (1-5 YoE)](https://jobs.smartrecruiters.com/ServiceNow/743999758496808-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA/San Diego, CA/Chicago, IL/Montreal, CA | 9/11
@@ -99,7 +99,7 @@ New Grad
 | [Slalom - Experience Designer](https://jobs.slalom.com//#/post/a0h1R00000BXltjQAD) | Minneapolis, MN | 9/7
 | [Ally - UX Researcher - Lark (1 YoE, BS)](https://recruiting.adp.com/srccar/public/RTI.home?r=5000718758406&c=1125607&d=AllyCareers&rb=INDEED#/)| Charlotte, NC | 9/5
 | [ByteDance - User Research - Lark (2 YoE, BA/BS)](https://jobs.bytedance.com/en/position/6968923173459413284/detail)| Mountain View, CA | 9/5
-| [Vanguard - UX Researcher - CXD (3 YoE, BS)](https://www.vanguardjobs.com/job/13631300/ux-researcher-cxd-malvern-pa/)| Malvern, PA | 9/5
+| [:x:Vanguard - UX Researcher - CXD (3 YoE, BS)](https://www.vanguardjobs.com/job/13631300/ux-researcher-cxd-malvern-pa/)| Malvern, PA | 9/5
 | [Sprinklr - UX Researcher (2 YoE, BS)](https://boards.greenhouse.io/sprinklr/jobs/4614451003?gh_src=9d36cfec3us&s=LinkedIn&source=LinkedIn)| Portland, OR | 9/5
 | [Malwarebytes - UX Researcher (1-3 YoE, PhD)](https://jobs.malwarebytes.com/job/3347861?gh_src=d93654841)| United States | 9/5
 | [Ernst & Young (EY) - UX Researcher, Philadelphia (1-3 YoE, MS pref)](https://careers.ey.com/ey/job/Manayunk-UX-Researcher-Philadelphia-PA-19127/703817901/?feedId=337401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin)| Manayunk, PA | 9/5
