@@ -79,7 +79,6 @@ New Grad
 | [ViacomCBS - Junior Product Designer](https://careers.viacomcbs.com/job/New-York-Junior-Product-Designer-NY-10036/787589400/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | New York, NY | 9/10
 | [:white_check_mark:Apple - UX Designer - Marcom Internal Tools & Systems](https://jobs.apple.com/en-us/details/200284257/ux-designer-marcom-internal-tools-systems) | Santa Clara Valley, CA | 9/10
 | [JP Morgan Chase - Design Strategist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210105421/?utm_medium=jobshare&src=LinkedIn_JPMC) | New York, NY | 9/10
-| [https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FUI-UX-Designer_R0049040-1%2Fapply%3Fsource%3DLinkedinEBay - UI/UX Designer (0-3 YoE)](https://ebay.wd5.myworkdayjobs.com/apply/login?redirect=%2Fapply%2Fjob%2FSan-Jose%2FUI-UX-Designer_R0049040-1%2Fapply%3Fsource%3DLinkedin) | San Jose, CA | 9/10
 | [BCG Digital Ventures - Experience Designer](https://boards.greenhouse.io/bcgdv/jobs/5520346002?gh_src=b6b8b5072us) | Chicago, IL | 9/10
 | [Shure Incorporated - Designer I, User Experience](https://careers-shure.icims.com/jobs/2281/designer-i%252c-user-experience/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
 | [Shure Incorporated - Specialist I, Instructional Design](https://careers-shure.icims.com/jobs/2205/specialist-i%252c-instructional-design/job?mode=job&iis=Linkedin&iisn=LinkedIn) | Niles, IL | 9/9
@@ -128,7 +127,7 @@ New Grad
 | [VMWare - Web Marketing UX Designer (3 YoE) - posted a while back (~1 month)](https://careers.vmware.com/main/jobs/R2116495?lang=en-us&source=LIPJ)| Remote | 9/2
 | [Bed Bath & Beyond - UX/UI Product Designer, Decorist ](https://bbby.wd5.myworkdayjobs.com/en-US/bed_bath_beyond_careers/job/NJ-Union-650-Liberty-Ave--07083/UI-UX-Product-Designer_R-0097039?source=Linkedin)| Remote/Union, NJ | 9/2
 | [Nielsen - UX Designer](https://jobs.nielsen.com/job/Chicago-IL-60290/776771100/?src=JB-10001)| Chicago, IL | 9/2
-| [Unity - UX Designer, Creator](https://careers.unity.com/position/ux-designer-creator/3369391?gh_src=ilfw6o)| Austin, TX | 9/2
+| [	:eight_pointed_black_star:Unity - UX Designer, Creator](https://careers.unity.com/position/ux-designer-creator/3369391?gh_src=ilfw6o)| Austin, TX | 9/2
 | [Amazon Web Services (AWS) - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1669190/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Seattle, WA | 9/2
 | [Epic Games - UI/UX Designer (3 YoE))](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/San-Diego-CA/UX-Designer_R4537-1?mode=job&iis=LinkedIn&source=Linkedin)| San Diego, CA | 9/2
 | [Facebook - Product Design Prototyper, Facebook Reality Labs](https://www.facebook.com/careers/v2/jobs/229296522158076/)| Los Angeles, CA/Seattle, WA/New York, NY/Burlingame, CA/Los Angeles, CA | 9/1
