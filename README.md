@@ -31,6 +31,30 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer_R0078466?Codes=W-LINKEDIN) | Los Angeles, CA | 9/15
+| [Twitch - UX Designer - General (6 Mo))](https://boards.greenhouse.io/twitch/jobs/5546081002?gh_src=0c4ebc182) | San Francisco, CA | 9/15
+| [Visa - Product Designer - General (2 YoE))](https://jobs.smartrecruiters.com/Visa/743999771754574-product-designer-general?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Bellevue, WA | 9/15
+| [Coinbase - Product Designer (3 YoE))](https://www.coinbase.com/careers/positions/3132214) | India | 9/15
+| [Coinbase - Product Designer (3 YoE))](https://www.coinbase.com/careers/positions/2575495) | Canada | 9/15
+| [Coinbase - Product Designer (3 YoE))](https://www.coinbase.com/careers/positions/2367631) | Remote(?) | 9/15
+| [Coinbase - Visual Designer (3 YoE))](https://www.coinbase.com/careers/positions/1802554) | Remote(?) | 9/15
+| [Slack - Visual Designer (2 YoE))](https://slack.com/careers/3448050/visual-designer) | Remote | 9/15
+| [Slack - Visual Designer (2 YoE))](https://slack.com/careers/3448044/visual-designer) | Denver, CO | 9/15
+| [Slack - Visual Designer (2 YoE))](https://slack.com/careers/3385917/visual-designer) | San Francisco, CA | 9/15
+| [Slack - Product Designer (2 YoE))](https://slack.com/intl/en-in/careers/3486482/product-designer?gh_src=pmw542v31) | Remote | 9/15
+| [Slack - Product Designer (2 YoE))](https://slack.com/careers/3445193/product-designer) | Denver, CO | 9/15
+| [Slack - Product Designer (2 YoE))](https://slack.com/intl/en-in/careers/3486488/product-designer?gh_src=pmw542v31) | Denver, CO | 9/15
+| [Slack - Product Designer (2 YoE))](https://slack.com/careers/3485984/product-designer) | San Francisco, CA | 9/15
+| [Slack - Product Designer (2 YoE))](https://slack.com/careers/3218383/product-designer) | San Francisco, CA | 9/15
+| [Match - Product Designer - (Innovation)](https://jobs.lever.co/matchgroup/03d05795-6ec2-4b64-84d1-7c097dc9745c/apply?lever-source=LinkedInJobs)| Austin, TX | 8/24 
+| [Salesforce - Associate Analyst/Analyst - Learning Experience Designer (1-7 YoE)](https://www.amazon.jobs/en/jobs/1683195/ux-designer-amazon-quicksight-bellevue-or-redmond-wa-or-minneapolis-mn?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Houston, TX/Dallas, TX/Burlington,MA/KY/Seattle, WA/VA/DC/FL/Boston, MA/AZ/Raleigh, NC/TX/PA/OR/IN | 8/24 
+| [Amazon - UX Designer - Amazon QuickSight (3 YoE)](https://www.amazon.jobs/en/jobs/1683195/ux-designer-amazon-quicksight-bellevue-or-redmond-wa-or-minneapolis-mn?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Bellevue, WA/Redmond, WA/Minneapolis, MN | 9/15 
+| [Dynatrace - User Experience (UX) Researcher](https://jobs.lever.co/dynatrace/5d9b6732-c294-4d21-9d9d-8958bc4c1171?lever-source=LinkedInJobs)| Waltham, MA | 9/15
+| [Zoom - Product Designer](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--WA---Seattle/Product-Designer_R4937-1?source=linkedin)| Remote | 9/15
+| [Ford Motor Company - D-Ford Interaction Designer](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&jobId=517886#jobDetails=517886_5186)| Dearborn, MI | 9/15
+| [Blizzard - UX/UI Designer, Service Tech](https://careers.blizzard.com/global/en/job/BLENGLOBALR008898EXTERNALENGLOBAL/UX-UI-Designer-Service-Tech?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 9/15
+| [Trend Micro - UI Designer](https://trendmicro.wd3.myworkdayjobs.com/External/job/Las-Colinas/UI-Designer_R0002008?source=Linkedin) | Dallas Fort Worth, TX | 9/15
+| [Panasonic North America - UX Designer (2-4 YoE))](https://careers.na.panasonic.com/careers/ux-designer?__jvsd=LinkedIn&__jvst=Job%20Board&nl=1) | Palo Alto, CA | 9/15
 | [IBM - IBM Z UX Designer (2 YoE))](https://careers.ibm.com/job/13806463/ibm-z-ux-designer-poughkeepsie-ny/?codes=SN_LinkedIn) | Poughkeepsie, NY | 9/13
 | [IBM - Security User Experience Designer (3 YoE))](https://careers.ibm.com/job/12829515/security-user-experience-designer-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Atlanta, GA | 9/13
 | [Tovala - UX/UI Designer (3 YoE))](https://recruiting.paylocity.com/recruiting/jobs/Details/593345/Tovala/UIUX-Designer) | Chicago, IL | 9/13
@@ -281,6 +305,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Salesforce - Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2022-Intern---Product-Design_JR113521) | San Francisco, CA | Summer 2022 | 9/15
+| [Facebook - Product Design (FBU)](https://www.facebook.com/careers/v2/jobs/231335285619594/) | Los Angeles, CA/Menlo Park, CA/Seattle, WA/Burlingame, CA | Summer 2022 | 9/15
+| [Splunk - Product Design](https://jobs.jobvite.com/careers/splunk/job/ovbHgfwn/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Remote | Summer 2022 | 9/15
+| [ASML - UIUX Developer/Designer](https://www.asml.com/en/careers/find-your-job/2/9/8/uiux-developer--designer-intern-req29839?ppc=JBP-181) | San Jose, CA | Summer 2022 | 9/15
+| [Autodesk - Experience Design](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/California-USA---Remote/Intern--Experience-Design_21WD52282-1?src=JB-10065) | Remote | Summer 2022 (they typo-d probably as they posted it today) | 9/15
 | [Discovery - UX/Digital Design](https://jobs.discovery.com/careers-home/jobs/29735?lang=en-us&previousLocale=en-US) | New York, NY | Spring 2022 | 9/14
 | [Discovery - Design & UX](https://jobs.discovery.com/careers-home/jobs/29734?lang=en-us&previousLocale=en-US) | Knoxville, TN | Spring 2022 | 9/14
 | [Playstation - New Product Design](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3467418/?t=b8y5ha) | San Mateo, CA | Summer 2022 | 9/14
