@@ -305,6 +305,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Stanley Black & Decker - Design](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=165&siteid=20&jobId=888190#jobDetails=888190_20) | New Britain, CT | Summer 2022 | 9/16
+| [Intel - CS Digital Marketing Strategist/Web Design](https://jobs.intel.com/ShowJob/Id/3062866/CS%20Digital%20Marketing%20Strategist%20Web%20Design%20Intern) | Hillsboro, OR | Summer 2022 | 9/16
+| [Formlabs - Website Design](https://careers.formlabs.com/job/3485764/apply/?gh_jid=3485764&gh_src=0155ba271us) | Somerville, MA | Summer 2022 | 9/16
+| [Virtualitics - Interaction Design/UI Design](https://virtualitics.breezy.hr/p/1364a649c6c1-interaction-design-ui-design-intern-summer-2022-internship) | Pasadena, CA | Summer 2022 | 9/16
+| [AVOXI - UI/UX Design](https://www.linkedin.com/jobs/view/2720933643) | Atlanta, GA | Summer 2022 | 9/16
+| [Trimble - UI/UX Design](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/UX-UI-Design-Intern--Summer-2022_R34727?source=Linkedin) | Westminister, CO | Summer 2022 | 9/16
+| [Norfolk Southern - UX Design](https://jobs.nscorp.com/job/Atlanta-UX-Design-Intern-Summer-2022-GA-30308/789625800/) | Atlanta, GA | Summer 2022 | 9/16
 | [Salesforce - Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2022-Intern---Product-Design_JR113521) | San Francisco, CA | Summer 2022 | 9/15
 | [Facebook - Product Design (FBU)](https://www.facebook.com/careers/v2/jobs/231335285619594/) | Los Angeles, CA/Menlo Park, CA/Seattle, WA/Burlingame, CA | Summer 2022 | 9/15
 | [Splunk - Product Design](https://jobs.jobvite.com/careers/splunk/job/ovbHgfwn/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Remote | Summer 2022 | 9/15
