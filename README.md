@@ -323,6 +323,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [F&G - Digital User Experience Designer)](https://www.fglife.com/about/careers/apply.html?gh_jid=4713376003&gh_src=4c933ffd3us) | Des Moines, IA | Summer 2022 | 9/18
+| [Rivian - Vehicle Design Studio - Interiors)](https://boards.greenhouse.io/rivian/jobs/4711054003?s=LinkedIn&source=LinkedIn) | Irvine, CA | Summer 2022 | 9/18
+| [Rivian - Vehicle Design Studio - Exteriors)](https://boards.greenhouse.io/rivian/jobs/4711033003?s=LinkedIn&source=LinkedIn) | Irvine, CA | Summer 2022 | 9/18
+| [Asurion - Associate Product Design Research)](https://careers.asurion.com/job/13886497/associate-product-design-research-intern-nashville-tn/) | Nashville, TN | Summer 2022 | 9/18
+| [Asurion - Associate Product Design Research)](https://careers.asurion.com/job/13886497/associate-product-design-research-intern-nashville-tn/) | Nashville, TN | Summer 2022 | 9/18
+| [Epic Games - UX Data Research)](https://epicgames.wd5.myworkdayjobs.com/en-US/EpicInternships/job/Cary-NC/UX-Data-Research-Internship_R5096) | Cary, NC | Summer 2022 | 9/18
 | [The Hartford - Digital UX Design)](https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Intern--Digital-UX-Design_R215588) | Remote/Connecticut | Summer 2022 | 9/17
 | [McAfee - Product Design Co-Op/Internship (MS)](https://careers.mcafee.com/job/-/-/731/14373842992?source=LinkedIn) | Canada | Summer 2022 | 9/17
 | [Zoox - UX Design Intern/Co-Op (3.5+ GPA)](https://jobs.lever.co/zoox/54380a30-f412-41b9-9f9d-20dff15bba66) | Dearborn, MI | Summer 2022 | 9/17
