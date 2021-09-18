@@ -4,7 +4,7 @@ Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a
 
 If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week on Sundays evenings.
 
-I will try to include YoE (years of experience) if it otherwise indicated. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. 
+I will try to include YoE (years of experience) if it otherwise indicated. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. I will also add companies that add GPA requirements (Yes, some do.).
 
 For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
 
@@ -30,7 +30,25 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 
 New Grad
 | Company  | Location | Date Added
-| ------------- | ------------- | ------------- 
+| ------------- | ------------- | -------------
+| [Code & Theory - Junior Interaction Designer](https://www.codeandtheory.com/careers/5540203002?location=new-york) | New York, NY | 9/17
+| [Gallup - User Experience (UX) Researcher/Usability Specialist](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=04901&lang=en) | Omaha, NE | 9/17
+| [Radiant Digital - User Experience Researcher](https://www.linkedin.com/jobs/view/2715106718/?refId=2vVnPRCYQKWPIWonyFOyAw%3D%3D) | Virginia | 9/17
+| [Sabre - UX Designer](https://jobs.sabre.com/job/Southlake-Contributor-Usability-TX-76092/790483700/) | Southlake, CA | 9/17
+| [Blue Apron - Digital Product Designer - New Customer Experience](https://boards.greenhouse.io/blueapron/jobs/3492475?gh_src=809b739b1us) | New York, NY | 9/17
+| [Gusto - Product Designer, Growth](https://boards.greenhouse.io/gusto/jobs/3155256?s=LinkedIn&source=LinkedIn) | Denver, CO/San Francisco, CA/New York, NY/Canada | 9/17
+| [Samsara - Product Designer (2 YoE)](https://boards.greenhouse.io/samsara/jobs/850726?gh_jid=850726&gh_src=a42fbb361&s=LinkedIn&source=LinkedIn) |San Francisco, CA | 9/17
+| [Datadog - Product Designer](https://www.datadoghq.com/careers/detail/?gh_jid=1826220&gh_src=8363eca61) | New York, NY | 9/17
+| [Auth0- Product Designer, Marketplace](https://boards.greenhouse.io/auth0/jobs/3294676?s=LinkedIn&source=LinkedIn) | Washington DC | 9/17
+| [Uber - Product Designer - UberEats, Ads (2 YoE)](https://www.uber.com/global/en/careers/list/104996/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=104996_7E3F48AC&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210917T000402Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Los Angeles, CA | 9/17
+| [JLL - Product Designer (3 YoE)](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/San-Francisco-CA/Product-Designer_REQ149445-2?source=APPLICANT_SOURCE-6-42) | Los Angeles, CA/San Francisco, CA/New York, NY/Dallas, TX/Denver, CO/Seattle, WA | 9/17
+| [Coffee Meets Bagel - Product Designer (2 YoE)](https://jobs.lever.co/coffeemeetsbagel/980ec69d-913a-4626-bcec-ca3af65c3322?lever-source=LinkedInJobs) | San Francisco, CA | 9/17
+| [Tinder - Product Designer, Profile (3 YoE)](https://jobs.lever.co/matchgroup/862d835b-3c87-4fea-a2d8-e06db652c281/apply) | Los Angeles, CA | 9/17
+| [Foursquare - Product Designer](https://www.linkedin.com/jobs/view/2712341906) | New York, NY | 9/17
+| [Internet Brands - Product Designer (2 YoE)](https://jobs.jobvite.com/internetbrands/job/o3TUgfwQ?__jvst=Job%20Board&__jvsd=LinkedIn) | Los Angeles, CA | 9/17
+| [Pathlight - Product Designer (1 YoE)](https://boards.greenhouse.io/pathlight/jobs/5025411002?s=LinkedIn&source=LinkedIn) | Remote | 9/17
+| [Twitter - Product Designer, 0-1 Team](https://careers.twitter.com/en/work-for-twitter/202109/76cb0bc0-5d9b-48bc-8954-5cf1ff378371/7e7ceb13-e0fa-49cc-b72e-bdf2fb2be8d3.html/product-designer-0-1-team.html) | New York, NY/London/Miami, FL/Remote | 9/17
+| [Zendesk - Product Designer](https://jobs.zendesk.com/us/en/job/ZENDUSR18009EXTERNALENUS/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote, USA | 9/17
 | [Honey - Product Designer](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles---Traction/Product-Designer_R0078466?Codes=W-LINKEDIN) | Los Angeles, CA | 9/15
 | [Twitch - UX Designer - General (6 Mo))](https://boards.greenhouse.io/twitch/jobs/5546081002?gh_src=0c4ebc182) | San Francisco, CA | 9/15
 | [Visa - Product Designer - General (2 YoE))](https://jobs.smartrecruiters.com/Visa/743999771754574-product-designer-general?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Bellevue, WA | 9/15
@@ -305,6 +323,17 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [The Hartford - Digital UX Design)](https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Intern--Digital-UX-Design_R215588) | Remote/Connecticut | Summer 2022 | 9/17
+| [McAfee - Product Design Co-Op/Internship (MS)](https://careers.mcafee.com/job/-/-/731/14373842992?source=LinkedIn) | Canada | Summer 2022 | 9/17
+| [Zoox - UX Design Intern/Co-Op (3.5+ GPA)](https://jobs.lever.co/zoox/54380a30-f412-41b9-9f9d-20dff15bba66) | Dearborn, MI | Summer 2022 | 9/17
+| [Zoox - Design Researcher Intern/Co-Op (MS/PhD)(3.5+ GPA)](https://jobs.lever.co/zoox/ea83c09e-96e7-4d3e-aadb-9b8817ab11eb) | Dearborn, MI | Summer 2022 | 9/17
+| [Ford Motor Credit Company - UX Design](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5311&jobId=549538#jobDetails=549538_5311) | Dearborn, MI | Summer 2022 | 9/17
+| [Wayfair - Product Design Co-Op](https://www.wayfair.com/careers/job/product-design-co-op--jan---june------/5508179002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5508179002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210917T180406Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Boston, MA | Winter-Summer (January - June) | 9/17
+| [Wayfair - Content Strategy/UX Writing Co-Op](https://www.wayfair.com/careers/job/content-strategy-ux-writing-co-op--jan---june------/5511487002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5511487002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210917T180406Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Boston, MA | Winter-Summer (January - June) | 9/17
+| [Oracle - UX Design - Oracle Design](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/122373) | United States | Summer 2022 | 9/17
+| [Oracle - UX Design - Oracle Design](https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=21000USG&lang=en&src=CWS-1) | Mexico | Summer 2022 | 9/17
+| [Oracle - UX Design - Oracle Design](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/123159/?utm_medium=jobshare) | Bengaluru, Karnataka, India | Summer 2022 | 9/17
+| [Epic Games - UX Design - Fortnite](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/UX-Design-Internship---Fortnite_R5102-2) | Cary, NC | Summer 2022 | 9/17
 | [Stanley Black & Decker - Design](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=165&siteid=20&jobId=888190#jobDetails=888190_20) | New Britain, CT | Summer 2022 | 9/16
 | [Intel - CS Digital Marketing Strategist/Web Design](https://jobs.intel.com/ShowJob/Id/3062866/CS%20Digital%20Marketing%20Strategist%20Web%20Design%20Intern) | Hillsboro, OR | Summer 2022 | 9/16
 | [Formlabs - Website Design](https://careers.formlabs.com/job/3485764/apply/?gh_jid=3485764&gh_src=0155ba271us) | Somerville, MA | Summer 2022 | 9/16
@@ -345,7 +374,7 @@ Intern
 | [Shopify - Digital Product Design](https://www.shopify.com/careers/digital-product-design-intern-remote-winter-2022-4475e105) | Canada | Winter 2022 | 9/7
 | [Punchcut - Interaction Design](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=40&vjk=3879c5e0f7e6ad75&pp=gQAoAAAAAAAAAAAAAAABsg-VqgAvAQAE9u9ajON18pqJS1AJ7YUw-U6Qd0Ot0wdDtb3GhKByLwQUupJ03taoEsXMWhYAAA) | San Francisco, CA | Fall 2021 | 9/4
 | [Home Partners of America - UX Designer](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=10&vjk=2a332c8865f933c0&from=smart-apply) | Chicago,IL | Summer 2022 | 9/4
-| [Appian - User Experience Design](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=a245ef601us) | McLean, VA | Summer 2022 | 9/4
+| [Appian - User Experience Design (3.7+ GPA)](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=a245ef601us) | McLean, VA | Summer 2022 | 9/4
 | [QVC - QVC & HSN Tech Intern - User Experience - Summer 2022](https://careers.qurateretailgroup.com/job/13779994/qvc-hsn-tech-intern-user-experience-summer-2022-west-chester-pa/?source=indeed) | Westchester, PA | Summer 2022 | 9/4
 | [TuSimple - Product Design](https://boards.greenhouse.io/tusimplerelocationjobs/jobs/5516177002?gh_src=931a10cf2us) | Pittsburgh, PA | Unsure Fall 2021/Summer 2022 | 9/4
 | [Facebook - UX Researcher, Infrastructure (PhD)](https://www.facebook.com/careers/v2/jobs/364118432126490/) | Seattle, WA/Menlo Park, CA | Summer 2022 | 9/4
