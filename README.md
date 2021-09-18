@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Vanguard - UX Designer (2 YoE)](https://www.vanguardjobs.com/job/13852606/ux-designer-malvern-pa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer&utm_term=140647)| Malvern, PA | 9/18
+| [TMobile - Designer, User Experience – Metro by T-Mobile](https://www.tmobile.careers/job-details/13844925/designer-user-experience-metro-by-t-mobile-bellevue-wa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Designer%252C%2520User%2520Experience%2520%252D%2520Metro%2520by%2520T%252DMobile&utm_term=689106) | Bellevue, WA | 9/18
+| [Capital 1 - Design Development Program Associate](https://campus.capitalone.com/job/mclean/design-development-program-associate-2022/1786/19712550) | McLean, VA | 9/18
 | [Code & Theory - Junior Interaction Designer](https://www.codeandtheory.com/careers/5540203002?location=new-york) | New York, NY | 9/17
 | [Gallup - User Experience (UX) Researcher/Usability Specialist](https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=04901&lang=en) | Omaha, NE | 9/17
 | [Radiant Digital - User Experience Researcher](https://www.linkedin.com/jobs/view/2715106718/?refId=2vVnPRCYQKWPIWonyFOyAw%3D%3D) | Virginia | 9/17
