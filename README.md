@@ -326,6 +326,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Willis Tower Watson - UX Design](https://careers.willistowerswatson.com/job/13884656/ux-designer-internship-summer-2022-tempe-az/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer%2520Internship%252D%2520Summer%25202022&utm_term=210005HU) | Tempe, AZ | Summer 2022 | 9/19
+| [Heartland - Research & Design](https://tsys.wd1.myworkdayjobs.com/en-US/HeartlandCareers/job/Broadway---OKC/Research---Design--Internship-_R0025885) | Broadway, OKC/Jeffersonville, IN | Summer 2022 | 9/19
+| [Garmin - User Experience Design](https://careers-us.garmin.com/us/en/job/GARMUS21001W2EXTERNALENUS/User-Experience-Designer-Intern-Summer-2022?utm_source=indeed&utm_medium=phenom-feeds) | Olathe, KS | Summer 2022 | 9/19
+| [US Cellular - Digital Web Designer](https://www.uscellular.jobs/job/USCEUS6072?src=JB-10741) | Chicago, IL | Summer 2022 | 9/19
+| [Facebook - Brand Design, Instagram](https://www.facebook.com/careers/v2/jobs/277454023978036/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Brand%2520Design%2520Intern%252C%2520Instagram&utm_term=a1K2K0000031u9oUAA) | New York, NY | Summer 2022 | 9/19
+| [Underarmour - Rookie 2022 Summer League - Creative & Design - Has Digital Design](https://careers.underarmour.com/job/2022-Summer-League-Internship-Creative-&-Design/790945300/?feedId=347800&utm_source=Indeed) | Baltimore, MD | Summer 2022 | 9/19
 | [F&G - Digital User Experience Designer)](https://www.fglife.com/about/careers/apply.html?gh_jid=4713376003&gh_src=4c933ffd3us) | Des Moines, IA | Summer 2022 | 9/18
 | [Rivian - Vehicle Design Studio - Interiors)](https://boards.greenhouse.io/rivian/jobs/4711054003?s=LinkedIn&source=LinkedIn) | Irvine, CA | Summer 2022 | 9/18
 | [Rivian - Vehicle Design Studio - Exteriors)](https://boards.greenhouse.io/rivian/jobs/4711033003?s=LinkedIn&source=LinkedIn) | Irvine, CA | Summer 2022 | 9/18
