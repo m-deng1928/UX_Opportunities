@@ -31,6 +31,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Autodesk - Experience Design Researcher (3 YoE)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Experience-Design-Researcher_21WD52317-1?src=JB-10065) | San Francisco, CA | 9/20
+| [Accenture - Visual Designer (2 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00029056_en&src=LINKEDINJP) | Des Moines, IA/Chicago, IL/Overland Park, KS/Detroit, MI/Minneapolis, MN/Austin, TX/Irving, TX | 9/20
+| [Citrix - Product Designer](https://jobs.citrix.com/job/CITRA0058R28584/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Ft Lauderdale, FL | 9/20
+| [Spotify - Associate User Researcher](https://jobs.lever.co/spotify/6e480b2c-0cf5-447e-bcc2-dce3b8aca0f5/apply?lever-source=LinkedIn) | New York, NY | 9/20
 | [Vanguard - UX Designer (2 YoE)](https://www.vanguardjobs.com/job/13852606/ux-designer-malvern-pa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer&utm_term=140647)| Malvern, PA | 9/18
 | [TMobile - Designer, User Experience – Metro by T-Mobile](https://www.tmobile.careers/job-details/13844925/designer-user-experience-metro-by-t-mobile-bellevue-wa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=Designer%252C%2520User%2520Experience%2520%252D%2520Metro%2520by%2520T%252DMobile&utm_term=689106) | Bellevue, WA | 9/18
 | [Capital 1 - Design Development Program Associate](https://campus.capitalone.com/job/mclean/design-development-program-associate-2022/1786/19712550) | McLean, VA | 9/18
@@ -296,6 +300,16 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Philips - Human Factors/Usability Engineer (BS/MS)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Intern---Human-Factors--Usability-Engineer---Cambridge--MA----Summer-2022_424866/?source=Linkedin&source=Linkedin) | Cambridge, MA | Summer 2022 | 9/20
+| [Carrier - User Experience](https://carrier.wd5.myworkdayjobs.com/jobs/login?redirect=%2Fjobs%2Fjob%2FCAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA%2FUser-Experience-Intern-Position_30053716%2Fapply) | Beverly, MA | Summer 2022 | 9/20
+| [Ameriprise Financial - User Experience Design & Software Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25678&siteid=5275&jobId=1708222) | Minneapolis, MN | Summer 2022 | 9/20
+| [Nationwide - Quantitative Researcher](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/XMLNAME--Intern--Qualitative-Researcher-Intern_72578) | Columbus, OH | Summer 2022 | 9/20
+| [Workiva - User Experience Research (BS)](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Spring---User-Experience-Research-Intern_R2272?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 9/20
+| [ServiceNow - UX Research (UX Research/Research Ops) (MS/Grad)](https://jobs.smartrecruiters.com/ServiceNow/743999774518347-ux-research-internships-ux-research-research-operation-advanced-degrees?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego/Santa Clara, CA | Summer 2022 | 9/20
+| [ServiceNow - Product Design (Design Technology/UI/Visual/Design Operations)](https://jobs.smartrecruiters.com/ServiceNow/743999774517861-product-design-internships-design-technology-ui-visual-design-operations-?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA | Summer 2022 | 9/20
+| [Electrolux - UX Design](https://career.electroluxgroup.com/careers/spring-2022-ux-design-intern-32283/) | Charlotte, NC | Spring 2022 | 9/20
+| [Farm Credit Services of America - UX Design](https://careers.fcsamerica.com/job/13846269/) | Omaha, NE | Summer 2022 | 9/20
+| [Sony - Game Design](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3498571/?t=b8y5ha) | San Diego, CA | Summer 2022 | 9/20
 | [Willis Tower Watson - UX Design](https://careers.willistowerswatson.com/job/13884656/ux-designer-internship-summer-2022-tempe-az/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer%2520Internship%252D%2520Summer%25202022&utm_term=210005HU) | Tempe, AZ | Summer 2022 | 9/19
 | [Heartland - Research & Design](https://tsys.wd1.myworkdayjobs.com/en-US/HeartlandCareers/job/Broadway---OKC/Research---Design--Internship-_R0025885) | Broadway, OKC/Jeffersonville, IN | Summer 2022 | 9/19
 | [Garmin - User Experience Design](https://careers-us.garmin.com/us/en/job/GARMUS21001W2EXTERNALENUS/User-Experience-Designer-Intern-Summer-2022?utm_source=indeed&utm_medium=phenom-feeds) | Olathe, KS | Summer 2022 | 9/19
