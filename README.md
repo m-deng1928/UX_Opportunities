@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Shutterstock - Product Designer](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/Product-Designer---Contributor_R0000994?source=Linkedin) | New York, NY/Denver, CO/Montreal | 9/21
+| [Shutterstock - UX Researcher (2 YoE)](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Denver/Junior-User-Researcher---Transformation_R0001021?source=Linkedin) | New York, NY/Denver, CO/Montreal | 9/21
 | [Autodesk - Experience Design Researcher (3 YoE)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Experience-Design-Researcher_21WD52317-1?src=JB-10065) | San Francisco, CA | 9/20
 | [Accenture - Visual Designer (2 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00029056_en&src=LINKEDINJP) | Des Moines, IA/Chicago, IL/Overland Park, KS/Detroit, MI/Minneapolis, MN/Austin, TX/Irving, TX | 9/20
 | [Citrix - Product Designer](https://jobs.citrix.com/job/CITRA0058R28584/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Ft Lauderdale, FL | 9/20
@@ -300,6 +302,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Shutterstock - Product Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/Product-Design-Intern_R0001131?source=Linkedin) | Denver, CO/New York, NY/Montreal | Summer 2022 | 9/21
 | [Philips - Human Factors/Usability Engineer (BS/MS)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Intern---Human-Factors--Usability-Engineer---Cambridge--MA----Summer-2022_424866/?source=Linkedin&source=Linkedin) | Cambridge, MA | Summer 2022 | 9/20
 | [Carrier - User Experience](https://carrier.wd5.myworkdayjobs.com/jobs/login?redirect=%2Fjobs%2Fjob%2FCAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA%2FUser-Experience-Intern-Position_30053716%2Fapply) | Beverly, MA | Summer 2022 | 9/20
 | [Ameriprise Financial - User Experience Design & Software Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25678&siteid=5275&jobId=1708222) | Minneapolis, MN | Summer 2022 | 9/20
