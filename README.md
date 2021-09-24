@@ -31,6 +31,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Pearson - Visual Product Designer (3-5 YoE)](https://pearson.jobs/chicago-il/visual-product-designer/70401B3A4ECE4294BDEF942C87F0E43C/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com) | Chicago, IL | 9/24
+| [Squarespace - Product Designer, Design Systems - Tock (2 YoE)](https://www.squarespace.com/careers/jobs/3464967?gh_src=afe793d31&rx_source=Linkedin&rx_paid=1) | New York, NY | 9/24
+| [Deloitte - Software Product Designer (UI/UX)](https://deloitteus.avature.net/careers/InviteToApply?jobId=46519&source=LinkedIn) | Rosslyn, VA | 9/24
+| [HubSpot - Product designer, Quotes Team](https://boards.greenhouse.io/embed/job_app?token=2234554&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Remote | 9/24
+| [Roku - UX Product Designer, Emerging Experiences](https://www.roku.com/jobs/position/3510142/ux-product-designer-emerging-experiences?gh_jid=3510142) | San Jose, CA | 9/24
+| [Roku - UX Product Designer, Voice](https://www.roku.com/jobs/position/3382657/ux-product-designer-voice?gh_jid=3382657) | San Jose, CA | 9/24
+| [ServiceNow - Product Designer, Visual Experience](https://jobs.smartrecruiters.com/ServiceNow/743999773856623-product-designer-visual-experience?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego, CA | 9/24
+| [Pegasystems - UX Product Designer (2 YoE)](https://www.pega.com/about/careers/ux-product-designer) | Cambridge, MA | 9/23
+| [Pegasystems - User Experience Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/2707263792/?refId=x04NFxKKaLTsfQutKTP4kg%3D%3D&trackingId=sHda4XYiaqdhGq3fPxJ%2BxQ%3D%3D&trk=d_flagship3_company) | Cambridge, MA | 9/23
 | [Shutterstock - Product Designer](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/Product-Designer---Contributor_R0000994?source=Linkedin) | New York, NY/Denver, CO/Montreal | 9/21
 | [Shutterstock - UX Researcher (2 YoE)](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/Denver/Junior-User-Researcher---Transformation_R0001021?source=Linkedin) | New York, NY/Denver, CO/Montreal | 9/21
 | [Autodesk - Experience Design Researcher (3 YoE)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Experience-Design-Researcher_21WD52317-1?src=JB-10065) | San Francisco, CA | 9/20
@@ -302,6 +311,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Pegasystems - User Experience, Pega Community](https://www.pega.com/about/careers/15417/user-experience-spring-intern-pega-community) | Cambridge, MA | Spring 2022 | 9/23
+| [Pegasystems - User Experience](https://www.pega.com/about/careers/15398/user-experience-spring-intern) | Cambridge, MA | Spring 2022 | 9/23
+| [Luxottica - Corporate - Student Design](https://jobs.luxottica.com/LRNA/job/New-York-Corporate-Student-Design-Intern-NY-10018/716810101/?utm_source=LINKEDIN&utm_medium=referrer) | New York, NY | Summer 2022 | 9/23
+| [Nuance Communications - Visual User Experience Design](https://nuance.wd1.myworkdayjobs.com/en-US/Nuance/job/Burlington-Massachusetts-US/Visual-User-Experience-Design-Intern_101781?source=LinkedIn) | Burlington, MA | Summer 2022 | 9/23
+| [Shipt - User Research](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/User-Research-Intern_R1340) | Birmingham, AL | Summer 2022 | 9/23
+| [Shipt - Product Design](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/Product-Design-Intern_R1348?source=Linkedin) | Birmingham, AL | Summer 2022 | 9/23
 | [Shutterstock - Product Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/Product-Design-Intern_R0001131?source=Linkedin) | Denver, CO/New York, NY/Montreal | Summer 2022 | 9/21
 | [Philips - Human Factors/Usability Engineer (BS/MS)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Intern---Human-Factors--Usability-Engineer---Cambridge--MA----Summer-2022_424866/?source=Linkedin&source=Linkedin) | Cambridge, MA | Summer 2022 | 9/20
 | [Carrier - User Experience](https://carrier.wd5.myworkdayjobs.com/jobs/login?redirect=%2Fjobs%2Fjob%2FCAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA%2FUser-Experience-Intern-Position_30053716%2Fapply) | Beverly, MA | Summer 2022 | 9/20
