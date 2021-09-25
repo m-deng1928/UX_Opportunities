@@ -31,6 +31,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Ford Motor Company - User Researcher (2 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&Areq=51327BR#jobDetails=548661_5186)| Dearborn, MI | 9/25
+| [Citizens Bank - UX/UI Researcher (2 YoE)](https://jobs.citizensbank.com/job/-/-/288/14952921568?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CKTgoqOUmvMCFQTnZAodnBoKOg)| Westwood, MA | 9/25
+| [Blackrock - User Interface (UI) Designer - Aladdin WealthTech, Associate (2-3 YoE)](https://careers.blackrock.com/job/13690682/user-interface-ui-designer-aladdin-wealthtech-associate-new-york-ny/?source=12748)| Atlanta, GA/New York, NY | 9/1
+| [Netflix - UX Researcher, Studio Production Product](https://jobs.netflix.com/jobs/127692586) | Los Gatos, CA | 9/25
+| [Apple - UX Designer)](https://jobs.apple.com/en-us/details/200286976/ux-designer) | Santa Clara Valley, CA | 9/25
+| [Discovery - UX Researcher (3 YoE)](https://jobs.discovery.com/careers-home/jobs/27047?lang=en-us) | New York, NY | 9/25
 | [Pearson - Visual Product Designer (3-5 YoE)](https://pearson.jobs/chicago-il/visual-product-designer/70401B3A4ECE4294BDEF942C87F0E43C/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com) | Chicago, IL | 9/24
 | [Squarespace - Product Designer, Design Systems - Tock (2 YoE)](https://www.squarespace.com/careers/jobs/3464967?gh_src=afe793d31&rx_source=Linkedin&rx_paid=1) | New York, NY | 9/24
 | [Deloitte - Software Product Designer (UI/UX)](https://deloitteus.avature.net/careers/InviteToApply?jobId=46519&source=LinkedIn) | Rosslyn, VA | 9/24
@@ -311,6 +317,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Johnson & Johnson - Design Summer Professional Program](https://www.linkedin.com/jobs/view/2726174246) | New York, NY | Summer 2022 | 9/25
 | [Pegasystems - User Experience, Pega Community](https://www.pega.com/about/careers/15417/user-experience-spring-intern-pega-community) | Cambridge, MA | Spring 2022 | 9/23
 | [Pegasystems - User Experience](https://www.pega.com/about/careers/15398/user-experience-spring-intern) | Cambridge, MA | Spring 2022 | 9/23
 | [Luxottica - Corporate - Student Design](https://jobs.luxottica.com/LRNA/job/New-York-Corporate-Student-Design-Intern-NY-10018/716810101/?utm_source=LINKEDIN&utm_medium=referrer) | New York, NY | Summer 2022 | 9/23
