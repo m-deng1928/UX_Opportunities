@@ -31,6 +31,14 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [JP Morgan Chase - CB Digital Innovation Product Designer - Associate](hhttps://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210166023/?utm_medium=jobshare&src=LinkedIn_JPMC)| New York, NY/Austin, TX/Palo Alto, CA/Chicago, IL | 9/26
+| [Curology - Product Designer (3 YoE)](https://jobs.lever.co/curology/8c85d9db-4c4c-4ad6-b813-c24957d8b3a0?lever-source=LinkedIn)| Remote | 9/26
+| [LogicGate - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/2697690895)| Chicago, IL | 9/26
+| [Disney - Product Designer, Globalization (2 YoE)](https://jobs.disneycareers.com/job/-/-/391/19128245?cid=14187)| San Francisco, CA | 9/26
+| [Disney - Product Designer, Motion & Prototype (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/19284346?cid=14187)| San Francisco, CA/New York, NY | 9/26
+| [Disney - Product Designer](https://jobs.disneycareers.com/job/-/-/391/19461618?cid=14187)| Emeryville, CA | 9/26
+| [Apple - Product Designer, Design Systems, Apple Media Products](https://jobs.apple.com/en-us/details/200249448/product-designer-design-systems-apple-media-products)| Remote | 9/26
+| [Everlane - Product Designer (Digital) (3 YoE)](https://boards.greenhouse.io/everlane/jobs/4626424003?s=LinkedIn&source=LinkedIn)| Remote | 9/26
 | [Ford Motor Company - User Researcher (2 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&Areq=51327BR#jobDetails=548661_5186)| Dearborn, MI | 9/25
 | [Citizens Bank - UX/UI Researcher (2 YoE)](https://jobs.citizensbank.com/job/-/-/288/14952921568?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CKTgoqOUmvMCFQTnZAodnBoKOg)| Westwood, MA | 9/25
 | [Blackrock - User Interface (UI) Designer - Aladdin WealthTech, Associate (2-3 YoE)](https://careers.blackrock.com/job/13690682/user-interface-ui-designer-aladdin-wealthtech-associate-new-york-ny/?source=12748)| Atlanta, GA/New York, NY | 9/1
@@ -317,6 +325,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Disney - Product Design Intern, Cast Activities](https://jobs.disneycareers.com/job/-/-/391/19749160?cid=14187) | Lake Buena Vista, FL | Spring 2022 | 9/26
+| [Disney - Product Design Intern](https://jobs.disneycareers.com/job/-/-/391/19749157?cid=14187) | Lake Buena Vista, FL | Spring 2022 | 9/26
 | [Johnson & Johnson - Design Summer Professional Program](https://www.linkedin.com/jobs/view/2726174246) | New York, NY | Summer 2022 | 9/25
 | [Pegasystems - User Experience, Pega Community](https://www.pega.com/about/careers/15417/user-experience-spring-intern-pega-community) | Cambridge, MA | Spring 2022 | 9/23
 | [Pegasystems - User Experience](https://www.pega.com/about/careers/15398/user-experience-spring-intern) | Cambridge, MA | Spring 2022 | 9/23
