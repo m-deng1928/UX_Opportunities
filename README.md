@@ -335,11 +335,9 @@ Intern
 | [Shipt - User Research](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/User-Research-Intern_R1340) | Birmingham, AL | Summer 2022 | 9/23
 | [Shipt - Product Design](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/Product-Design-Intern_R1348?source=Linkedin) | Birmingham, AL | Summer 2022 | 9/23
 | [Shutterstock - Product Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/Product-Design-Intern_R0001131?source=Linkedin) | Denver, CO/New York, NY/Montreal | Summer 2022 | 9/21
-| [Philips - Human Factors/Usability Engineer (BS/MS)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Intern---Human-Factors--Usability-Engineer---Cambridge--MA----Summer-2022_424866/?source=Linkedin&source=Linkedin) | Cambridge, MA | Summer 2022 | 9/20
 | [Carrier - User Experience](https://carrier.wd5.myworkdayjobs.com/jobs/login?redirect=%2Fjobs%2Fjob%2FCAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA%2FUser-Experience-Intern-Position_30053716%2Fapply) | Beverly, MA | Summer 2022 | 9/20
 | [Ameriprise Financial - User Experience Design & Software Engineering](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25678&siteid=5275&jobId=1708222) | Minneapolis, MN | Summer 2022 | 9/20
 | [Nationwide - Quantitative Researcher](https://nationwide.wd1.myworkdayjobs.com/en-US/Nationwide_Career/job/Ohio---Columbus-Metro/XMLNAME--Intern--Qualitative-Researcher-Intern_72578) | Columbus, OH | Summer 2022 | 9/20
-| [Workiva - User Experience Research (BS)](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Spring---User-Experience-Research-Intern_R2272?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 9/20
 | [ServiceNow - UX Research (UX Research/Research Ops) (MS/Grad)](https://jobs.smartrecruiters.com/ServiceNow/743999774518347-ux-research-internships-ux-research-research-operation-advanced-degrees?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Diego/Santa Clara, CA | Summer 2022 | 9/20
 | [ServiceNow - Product Design (Design Technology/UI/Visual/Design Operations)](https://jobs.smartrecruiters.com/ServiceNow/743999774517861-product-design-internships-design-technology-ui-visual-design-operations-?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA | Summer 2022 | 9/20
 | [Electrolux - UX Design](https://career.electroluxgroup.com/careers/spring-2022-ux-design-intern-32283/) | Charlotte, NC | Spring 2022 | 9/20
@@ -355,7 +353,6 @@ Intern
 | [Rivian - Vehicle Design Studio - Interiors)](https://boards.greenhouse.io/rivian/jobs/4711054003?s=LinkedIn&source=LinkedIn) | Irvine, CA | Summer 2022 | 9/18
 | [Rivian - Vehicle Design Studio - Exteriors)](https://boards.greenhouse.io/rivian/jobs/4711033003?s=LinkedIn&source=LinkedIn) | Irvine, CA | Summer 2022 | 9/18
 | [Asurion - Associate Product Design Research)](https://careers.asurion.com/job/13886497/associate-product-design-research-intern-nashville-tn/) | Nashville, TN | Summer 2022 | 9/18
-| [Epic Games - UX Data Research)](https://epicgames.wd5.myworkdayjobs.com/en-US/EpicInternships/job/Cary-NC/UX-Data-Research-Internship_R5096) | Cary, NC | Summer 2022 | 9/18
 | [The Hartford - Digital UX Design)](https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Intern--Digital-UX-Design_R215588) | Remote/Connecticut | Summer 2022 | 9/17
 | [McAfee - Product Design Co-Op/Internship (MS)](https://careers.mcafee.com/job/-/-/731/14373842992?source=LinkedIn) | Canada | Summer 2022 | 9/17
 | [Zoox - UX Design Intern/Co-Op (3.5+ GPA)](https://jobs.lever.co/zoox/54380a30-f412-41b9-9f9d-20dff15bba66) | Dearborn, MI | Summer 2022 | 9/17
@@ -366,7 +363,6 @@ Intern
 | [Oracle - UX Design - Oracle Design](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/122373) | United States | Summer 2022 | 9/17
 | [Oracle - UX Design - Oracle Design](https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=21000USG&lang=en&src=CWS-1) | Mexico | Summer 2022 | 9/17
 | [Oracle - UX Design - Oracle Design](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/123159/?utm_medium=jobshare) | Bengaluru, Karnataka, India | Summer 2022 | 9/17
-| [Epic Games - UX Design - Fortnite](https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/UX-Design-Internship---Fortnite_R5102-2) | Cary, NC | Summer 2022 | 9/17
 | [Stanley Black & Decker - Design](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=165&siteid=20&jobId=888190#jobDetails=888190_20) | New Britain, CT | Summer 2022 | 9/16
 | [Intel - CS Digital Marketing Strategist/Web Design](https://jobs.intel.com/ShowJob/Id/3062866/CS%20Digital%20Marketing%20Strategist%20Web%20Design%20Intern) | Hillsboro, OR | Summer 2022 | 9/16
 | [Formlabs - Website Design](https://careers.formlabs.com/job/3485764/apply/?gh_jid=3485764&gh_src=0155ba271us) | Somerville, MA | Summer 2022 | 9/16
@@ -374,10 +370,8 @@ Intern
 | [AVOXI - UI/UX Design](https://www.linkedin.com/jobs/view/2720933643) | Atlanta, GA | Summer 2022 | 9/16
 | [Trimble - UI/UX Design](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/UX-UI-Design-Intern--Summer-2022_R34727?source=Linkedin) | Westminister, CO | Summer 2022 | 9/16
 | [Norfolk Southern - UX Design](https://jobs.nscorp.com/job/Atlanta-UX-Design-Intern-Summer-2022-GA-30308/789625800/) | Atlanta, GA | Summer 2022 | 9/16
-| [Salesforce - Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2022-Intern---Product-Design_JR113521) | San Francisco, CA | Summer 2022 | 9/15
 | [Facebook - Product Design (FBU)](https://www.facebook.com/careers/v2/jobs/231335285619594/) | Los Angeles, CA/Menlo Park, CA/Seattle, WA/Burlingame, CA | Summer 2022 | 9/15
 | [Splunk - Product Design](https://jobs.jobvite.com/careers/splunk/job/ovbHgfwn/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Remote | Summer 2022 | 9/15
-| [ASML - UIUX Developer/Designer](https://www.asml.com/en/careers/find-your-job/2/9/8/uiux-developer--designer-intern-req29839?ppc=JBP-181) | San Jose, CA | Summer 2022 | 9/15
 | [Autodesk - Experience Design](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/California-USA---Remote/Intern--Experience-Design_21WD52282-1?src=JB-10065) | Remote | Summer 2022 (they typo-d probably as they posted it today) | 9/15
 | [Discovery - UX/Digital Design](https://jobs.discovery.com/careers-home/jobs/29735?lang=en-us&previousLocale=en-US) | New York, NY | Spring 2022 | 9/14
 | [Discovery - Design & UX](https://jobs.discovery.com/careers-home/jobs/29734?lang=en-us&previousLocale=en-US) | Knoxville, TN | Spring 2022 | 9/14
@@ -402,7 +396,6 @@ Intern
 | [Slalom - Experience Design](https://jobs.slalom.com//#/apply/a0h1R00000Bq2dxQAB?step=1) | Detroit, MI | Summer 2022 | 9/7
 | [Northwestern Mutual - UX Design](https://careers.northwesternmutual.com/corporate-careers/job/ux-design-intern-summer-2022-milwaukee-wi-corporate-jr-27024/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
 | [Northwestern Mutual - UX Research Enterprise Experience Design (MS)](https://careers.northwesternmutual.com/corporate-careers/job/ux-research-enterprise-experience-design-internship-masters-summer-2022-milwaukee-wi-corporate-jr-26914/) | Milwaukee, WI/New York, NY | Summer 2022 | 9/7
-| [Punchcut - Interaction Design](https://www.indeed.com/jobs?q=UX%20Design%20Intern&start=40&vjk=3879c5e0f7e6ad75&pp=gQAoAAAAAAAAAAAAAAABsg-VqgAvAQAE9u9ajON18pqJS1AJ7YUw-U6Qd0Ot0wdDtb3GhKByLwQUupJ03taoEsXMWhYAAA) | San Francisco, CA | Fall 2021 | 9/4
 | [Appian - User Experience Design (3.7+ GPA)](https://boards.greenhouse.io/appian/jobs/3392850?gh_src=a245ef601us) | McLean, VA | Summer 2022 | 9/4
 | [QVC - QVC & HSN Tech Intern - User Experience - Summer 2022](https://careers.qurateretailgroup.com/job/13779994/qvc-hsn-tech-intern-user-experience-summer-2022-west-chester-pa/?source=indeed) | Westchester, PA | Summer 2022 | 9/4
 | [Facebook - UX Researcher, Infrastructure (PhD)](https://www.facebook.com/careers/v2/jobs/364118432126490/) | Seattle, WA/Menlo Park, CA | Summer 2022 | 9/4
@@ -416,7 +409,6 @@ Intern
 | [LinkedIn - UI Engineer](https://www.linkedin.com/jobs/view/2705875921) | Remote - Canada based | Summer 2022 | 9/1
 | [Netflix - Consumer Insights, Data & Insights (Bach/MS/PhD)](https://jobs.netflix.com/jobs/119492712) | Los Gatos, CA | Summer 2022 | 9/1
 | [Yext - 2022 UI Designer](https://www.linkedin.com/jobs/view/2697775518/?refId=raD8FZJm9EQw9gfrLB%2FPDw%3D%3D&trackingId=i4lgIDpXhCzgOTrKePPUpA%3D%3D&trk=d_flagship3_company) | Washington DC | Summer 2022 | 9/1
-| [Mastercard - UX Design](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/UX-Design-Intern_R-135885) | New York, NY | Summer 2022 | 9/1
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-AR-BENTONVILLE-Home-Office-ISD-Office---DGTC/XMLNAME-2022-Summer-Intern--UX-Design_R-690042?source=Advertising_Indeed_Organic&_ccid=1630560265295wtwy626nb) | Bentonville, AR/Dallas, TX/San Bruno, CA/Sunnyvale, CA | Summer 2022 | 9/1
 | [Uline - User Experience Design](https://www.uline.jobs/JobDetails?culture=en&jobid=5593BR&jobtitle=User-Experience-Designer-Internship---Summer-2022) | Pleasant Prairie, WI | Summer 2022 | 8/31
 | [Uline - User Experience Research (Bach/MS)](https://www.uline.jobs/JobDetails?culture=en&jobid=5597BR&jobtitle=User-Experience-Researcher-Internship---Summer-2022) | Pleasant Prairie, WI | Summer 2022 | 8/31
@@ -430,16 +422,12 @@ Intern
 | [Dow Jones (under Wall Street Journal) - Product Design](https://dowjones.jobs/new-york-ny/product-design-intern/C1FA8FDEF2C74B7C8923E4325CD0C084/job/?vs=16061606) | New York, NY | Summer 2022 | 8/30
 | [Sandhills Global - UI/U Design](https://careerlink.com/job/12198-000559/) | Lincoln, NE | Summer 2022 | 8/30
 | [Nate - Design](https://jobs.lever.co/nate/1d612774-4df7-4163-8fee-098d159b2d65/apply?lever-source=LinkedInh) | New York, NY | Summer 2022 | 8/30
-| [GSD&M - Experience Design (UI/UX)](https://recruiting.adp.com/srccar/public/nghome.guid?c=1212701&d=External&prc=RMPOD4&r=5000759125000#/) | Austin, TX | Fall 2021 | 8/30
-| [ByteDance - Innovation Product Design](https://www.linkedin.com/jobs/view/2693111146) | Mountain View, CA | Summer 2022 | 8/30
 | [Epic - User Experience Design](https://epic.avature.net/Careers/FolderDetail/User-Experience-Design-Intern/1437) | Madison, WI | Summer 2022 | 8/30
 | [DMC - UI/UX Design](https://www.dmcinfo.com/careers/ux-ui-design-intern-paid) | Chicago, IL | Summer 2022 | 8/30
-| [Kimberly Clark - IT User Experience](https://kimberlyclark.wd1.myworkdayjobs.com/en-US/GLOBAL/job/USA-GA-Atlanta-Roswell/IT-UX-Communications-Analyst-Internship_823782?source=Indeed) | Atlanta, GA/Roswell, GA | Summer 2022 | 8/30
 | [Redfin - Product Design](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Design---Summer-2022-Internship_41357) |Seattle WA/San Francisco, CA/Austin, TX | Summer 2022 | 8/26
 | [IBM - Design Operations (CIO)](https://careers.ibm.com/job/13685255/design-operations-intern-summer-2022-cio-new-york-ny/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | New York, NY | Summer 2022 | 8/26
 | [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Ames/XMLNAME-2022-Spring---UI-Design-Intern_R2356?source=Linkedin) | Ames IO/Scottsdale, AZ/Bozeman, MT/Denver, CO | Spring 2022 | 8/26
 | [P&G - Consumer & Market Knowledge Human Insights Co-op](https://www.pgcareers.com/job/cincinnati/consumer-and-market-knowledge-human-insights-co-op-fall-2021-or-spring-2022/936/11254614192?source=RS_LINKEDIN) | Cincinnati, OH | Fall 2021/Spring 2022 | 8/24
-| [InEight - UI Design](https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&career_job_req_id=8928&selected_lang=en_US&jobPipeline=DE-Member_Site#PortlandOR) | Portland, OR/Omaha, NE/Scottsdale, AZ | Summer 2022 | 8/24
 | [Red Ventures - 2022 Launch: Digital Design](https://www.redventures.com/careers/apply/3281407?gh_jid=3281407) |Charlotte, NC | Summer 2022 | 8/24
 | [PNC - Digital Experience Team](https://careers.pnc.com/global/en/job/PNC1GLOBALR069308/Digital-Experience-Team-Summer-Intern-Program?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Pittsburgh, PA | Summer 2022 | 8/23
 | [PwC Labs - Design UI/UX](https://jobs.us.pwc.com/job/-/-/932/12821170128?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=COWHoZPZyPICFc7JZAodqnQGhQ) | Denver, CO/Tampa, FL/Chicago, IL/New York, NY/Dallas, TX | Summer 2022 | 8/23
@@ -452,9 +440,7 @@ Intern
 | [OhioHealth - User Experience Research (GED/Highschool)](https://ohiohealth.wd5.myworkdayjobs.com/OhioHealthJobs/job/OH-PERIMETER-DRIVE/User-Experience-Research-Intern_JR47210?source=LinkedIn8) | Dublin, GA | Summer 2022 | 8/21
 | [Nvidia - Autonomous Vehicle User Experience](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Autonomous-Vehicle-User-Experience-Intern---Fall-2021_JR1942195-2) | CO | Fall 2021 | 8/21
 | [IBM - User Experience Designer Co-Op](https://careers.ibm.com/job/13522690/user-experience-designer-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/21
-| [Highland - Design Research](https://highland.bamboohr.com/jobs/view.php?id=83) | Chicago, IL | Fall 2021 | 8/19
 | [Evergreen Investments - UI/UX Design](https://evergreenir.zohorecruit.com/recruit/ViewJob.na?digest=1fhwGFBvLSk%40winnnFeDHbslEmKHf71rZv2lFd8KSi0-&embedsource=LinkedIn%2BLimited%2BListings) | Remote | Summer 2022 | 8/19
-| [Jerry - Visual Design](https://jobs.lever.co/getjerry/34d05617-fdcf-4841-bb87-773263cf90b1/apply?lever-source=LinkedIn) | San Francisco, CA | Summer 2022 | 8/19
 | [Valmont - E Learning Instructional Design](https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/E-Learning-Instructional-Design-Intern_R10695) | Valley, NE | Summer 2022(?) | 8/19
 | [IBM - Visual Design Co-Op](https://careers.ibm.com/job/13527878/visual-design-co-op-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Winter 2022 | 8/19
 | [Nvidia - UX Design, Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Fall-Winter-2021_JR1944850-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Fall 2021/Winter 2022 | 8/17
@@ -469,7 +455,6 @@ Intern
 | [Cisco - User Experience Masters](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Master-s-Intern-United-States/1338423?source=LinkedIn) | San Jose, CA | Summer 2022 | 8/12
 | [Datadog - Product Design](https://www.datadoghq.com/careers/detail/?gh_jid=3318297&gh_src=8363eca61) | New York, NY | Summer 2022 | 8/12
 | [Landor & Fitch - Motion Design](https://boards.greenhouse.io/landor/jobs/2005913?s=LinkedIn&source=LinkedIn) | Cincinnati, OH | Summer 2022 | 8/12
-| [Monigle - Digital Experience Design](https://monigle.hua.hrsmart.com/hr/ats/Posting/view/93) | Denver, CO | Summer 2022 (?) | 8/12
 | [Amazon - User Experience (UX) Research (Bach/MS)](https://www.amazon.jobs/en/jobs/1629158/user-experience-ux-researcher-intern-summer-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
 | [Amazon - User Experience (UX) Design](https://www.amazon.jobs/en/jobs/1629157/user-experience-ux-designer-intern-summer-2022) | Seattle, WA (& all the Amazon locations...) | Summer 2022 (?) | 8/12
 | [IBM - Content Design](https://careers.ibm.com/job/13522717/content-design-summer-intern-2022-remote/?codes=SN_LinkedIn) | Multiple Cities (not listed) | Summer 2022 | 8/12
@@ -481,9 +466,7 @@ Intern
 | [Procter & Gamble - Design Co-Op](https://www.pgcareers.com/job/cincinnati/design-co-op/936/8471475792?source=RS_LINKEDIN)  | Cincinnati, OH  | Fall 2021 (Aug-Dec)/Winter (Jan-May)/Spring 2022 (May-Aug) | 8/6
 | [Lippincott - Visual Communications](https://careers.mmc.com/global/en/job/R_139983/Lippincott-Intern-Visual-Communication-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots)  | New York, NY  | Summer 2022 (?) | 8/6
 | [Bank of America - Experience Design Graduate](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-675a8a3bb850/candidate/so/pm/1/pl/1/opp/7212-Experience-Design-Graduate-Summer-Intern-2022/en-GB) | Boston, MA  | Summer 2022 | 8/6
-| [DNC - Digital Technology (UX & Product Design](https://jobs.lever.co/dnc/3dbc5298-0a2c-4ffc-a122-1a37f574d4c3/apply?lever-source=LinkedIn)  | Washington D.C.  | Fall 2021 (Sep 13-Dec 3)/Part Time | 8/6
 | [The Center for Strategic & International Studies (CSIS) - iDeas Lab](https://jobs.silkroad.com/CSIS/Careers/jobs/978?source=linkedin.com)| Washington D.C. | Fall 2021 (Sep-Feb) | 8/6
-| [Edifecs - UX Design](https://jobs.jobvite.com/edifecs/job/otfhgfwZ) | Bellevue, WA | Summer 2022 | 7/30
 | [Zipline - Experience Design (Co-Op/Internship)](https://flyzipline.com/careers/job/4580445003/?gh_jid=4580445003&gh_src=baafe2f73us) | South San Francisco, CA | Fall 2021 | 7/30
 
 ---
