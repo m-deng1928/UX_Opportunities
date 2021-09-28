@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Klaviyo - Design Program Manager](https://boards.greenhouse.io/klaviyo/jobs/4730763003?gh_src=1284ec8c3us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 9/28
+| [The Home Depot - UX/UI Designer (2 YoE)](https://careers.homedepot.com/job/13968391/ux-designer-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap/slots&ss=paid)| Atlanta, GA | 9/28
 | [JP Morgan Chase - CB Digital Innovation Product Designer - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210166023/?utm_medium=jobshare&src=LinkedIn_JPMC)| New York, NY/Austin, TX/Palo Alto, CA/Chicago, IL | 9/26
 | [Curology - Product Designer (3 YoE)](https://jobs.lever.co/curology/8c85d9db-4c4c-4ad6-b813-c24957d8b3a0?lever-source=LinkedIn)| Remote | 9/26
 | [LogicGate - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/2697690895)| Chicago, IL | 9/26
@@ -309,6 +311,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [SiriusXM - Product Design (they're 2 separate listings)](https://jobs.jobvite.com/siriusxm/job/oxX1gfwv) | New York, NY | Summer 2022 | 9/28
+| [SiriusXM - Product Design](https://jobs.jobvite.com/siriusxm/job/olW1gfwi) | Atlanta, GA/New York, NY | Summer 2022 | 9/28
+| [SiriusXM - Product & UX Research](https://jobs.jobvite.com/careers/siriusxm/job/oWY1gfwV/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA/New York, NY/Oakland, CA | Summer 2022 | 9/28
 | [Disney - Product Design Intern, Cast Activities](https://jobs.disneycareers.com/job/-/-/391/19749160?cid=14187) | Lake Buena Vista, FL | Spring 2022 | 9/26
 | [Disney - Product Design Intern](https://jobs.disneycareers.com/job/-/-/391/19749157?cid=14187) | Lake Buena Vista, FL | Spring 2022 | 9/26
 | [Johnson & Johnson - Design Summer Professional Program](https://www.linkedin.com/jobs/view/2726174246) | New York, NY | Summer 2022 | 9/25
