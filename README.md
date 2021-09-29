@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [United Airlines - Associate Researcher - Digital Products](https://careers.united.com/job/13832374/associate-researcher-digital-products-chicago-il/)| Chicago, IL | 9/28
 | [Disney - Virtual Experience Designer](https://jobs.disneycareers.com/job/-/-/391/19743585?cid=14187)| Burbank, CA | 9/28
 | [Snowflake - Product Designer (2 YoE)](https://careers.snowflake.com/us/en/job/SNCOUS4939736002EXTERNALENUS/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA | 9/28
 | [Patreon - UX Researcher (3 YoE)](https://boards.greenhouse.io/patreon/jobs/3509559?s=LinkedIn&source=LinkedIn)| San Francisco, CA | 9/28
