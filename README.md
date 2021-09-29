@@ -31,6 +31,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Disney - Virtual Experience Designer](https://jobs.disneycareers.com/job/-/-/391/19743585?cid=14187)| Burbank, CA | 9/28
+| [Snowflake - Product Designer (2 YoE)](https://careers.snowflake.com/us/en/job/SNCOUS4939736002EXTERNALENUS/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA | 9/28
+| [Patreon - UX Researcher (3 YoE)](https://boards.greenhouse.io/patreon/jobs/3509559?s=LinkedIn&source=LinkedIn)| San Francisco, CA | 9/28
+| [Cardinal Health - User Experience Designer - Mobile App (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/user-experience-designer---mobile-app/067bac21-e664-4a6e-acc7-2f80585cf516?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin)| Remote | 9/28
+| [Oracle - UX Designer, State & Local Global Business Unit (Remote)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/126285?utm_medium=jobshare)| TX | 9/28
+| [Kin + Carta (2 YoE)](https://www.kinandcarta.com/en-us/careers/job/?gh_jid=4683530002&gh_src=6561d54a2)| Remote | 9/28
 | [Klaviyo - Design Program Manager](https://boards.greenhouse.io/klaviyo/jobs/4730763003?gh_src=1284ec8c3us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 9/28
 | [The Home Depot - UX/UI Designer (2 YoE)](https://careers.homedepot.com/job/13968391/ux-designer-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap/slots&ss=paid)| Atlanta, GA | 9/28
 | [JP Morgan Chase - CB Digital Innovation Product Designer - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210166023/?utm_medium=jobshare&src=LinkedIn_JPMC)| New York, NY/Austin, TX/Palo Alto, CA/Chicago, IL | 9/26
@@ -311,6 +317,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Wayfair - User Research Co-Op (Grad)](https://www.wayfair.com/careers/job/user-experience-research-co-op--jan---june------/5508306002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5508306002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210917T180406Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=fbc9eb9020e011ecb297bfee509c2f8ab1514b687e6c4d5db571609d94702ac1) | Remote | Spring 2022 (Jan-Jun) | 9/28
+| [State Farm - UX Research (MS+)](https://jobs.statefarm.com/main/jobs/22521?lang=en-us&iis=job%20board&iisn=LinkedIn) | Remote | Summer 2022 | 9/28
+| [Mailchimp - Product Design](https://boards.greenhouse.io/mailchimp/jobs/3494614?s=LinkedIn&source=LinkedIn) | Atlanta, GA | Summer 2022 | 9/28
+| [Dataminr - Research, HCI/UX (PhD)](https://www.linkedin.com/jobs/view/2738057065) | New York, NY/Remote | Summer 2022 | 9/28
+| [Activision - User Research](https://careers.activision.com/job/R009206/User-Research-Internship) | Santa Monica, CA | Summer 2022 | 9/28
+| [Activision - UI/UX](https://careers.activision.com/job/R009208/UI-UX-Internship) | Santa Monica, CA | Summer 2022 | 9/28
+| [Activision - Game Design](https://careers.activision.com/job/R009237/Game-Design-Internship) | Santa Monica, CA | Summer 2022 | 9/28
 | [SiriusXM - Product Design (they're 2 separate listings)](https://jobs.jobvite.com/siriusxm/job/oxX1gfwv) | New York, NY | Summer 2022 | 9/28
 | [SiriusXM - Product Design](https://jobs.jobvite.com/siriusxm/job/olW1gfwi) | Atlanta, GA/New York, NY | Summer 2022 | 9/28
 | [SiriusXM - Product & UX Research](https://jobs.jobvite.com/careers/siriusxm/job/oWY1gfwV/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Atlanta, GA/New York, NY/Oakland, CA | Summer 2022 | 9/28
