@@ -37,7 +37,7 @@ New Grad
 | [Patreon - UX Researcher (3 YoE)](https://boards.greenhouse.io/patreon/jobs/3509559?s=LinkedIn&source=LinkedIn)| San Francisco, CA | 9/28
 | [Cardinal Health - User Experience Designer - Mobile App (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/user-experience-designer---mobile-app/067bac21-e664-4a6e-acc7-2f80585cf516?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin)| Remote | 9/28
 | [Oracle - UX Designer, State & Local Global Business Unit (Remote)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/126285?utm_medium=jobshare)| TX | 9/28
-| [Kin + Carta (2 YoE)](https://www.kinandcarta.com/en-us/careers/job/?gh_jid=4683530002&gh_src=6561d54a2)| Remote | 9/28
+| [Kin + Carta - User Experience Designer (Contract)(2 YoE)](https://www.kinandcarta.com/en-us/careers/job/?gh_jid=4683530002&gh_src=6561d54a2)| Remote | 9/28
 | [Klaviyo - Design Program Manager](https://boards.greenhouse.io/klaviyo/jobs/4730763003?gh_src=1284ec8c3us&s=LinkedIn&source=LinkedIn)| San Francisco, CA | 9/28
 | [The Home Depot - UX/UI Designer (2 YoE)](https://careers.homedepot.com/job/13968391/ux-designer-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap/slots&ss=paid)| Atlanta, GA | 9/28
 | [JP Morgan Chase - CB Digital Innovation Product Designer - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210166023/?utm_medium=jobshare&src=LinkedIn_JPMC)| New York, NY/Austin, TX/Palo Alto, CA/Chicago, IL | 9/26
