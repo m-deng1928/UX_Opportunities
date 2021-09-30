@@ -318,6 +318,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Pendo - Product Design](https://boards.greenhouse.io/pendo/jobs/5557694002) | Raleigh, NC | Summer 2022 | 9/29
+| [Pendo - Product Research (BS)](https://boards.greenhouse.io/pendo/jobs/5557690002) | Raleigh, NC | Summer 2022 | 9/29
 | [Wayfair - User Research Co-Op (Grad)](https://www.wayfair.com/careers/job/user-experience-research-co-op--jan---june------/5508306002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5508306002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210917T180406Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=fbc9eb9020e011ecb297bfee509c2f8ab1514b687e6c4d5db571609d94702ac1) | Remote | Spring 2022 (Jan-Jun) | 9/28
 | [State Farm - UX Research (MS+)](https://jobs.statefarm.com/main/jobs/22521?lang=en-us&iis=job%20board&iisn=LinkedIn) | Remote | Summer 2022 | 9/28
 | [Mailchimp - Product Design](https://boards.greenhouse.io/mailchimp/jobs/3494614?s=LinkedIn&source=LinkedIn) | Atlanta, GA | Summer 2022 | 9/28
@@ -335,7 +337,7 @@ Intern
 | [Pegasystems - User Experience](https://www.pega.com/about/careers/15398/user-experience-spring-intern) | Cambridge, MA | Spring 2022 | 9/23
 | [Luxottica - Corporate - Student Design](https://jobs.luxottica.com/LRNA/job/New-York-Corporate-Student-Design-Intern-NY-10018/716810101/?utm_source=LINKEDIN&utm_medium=referrer) | New York, NY | Summer 2022 | 9/23
 | [Nuance Communications - Visual User Experience Design](https://nuance.wd1.myworkdayjobs.com/en-US/Nuance/job/Burlington-Massachusetts-US/Visual-User-Experience-Design-Intern_101781?source=LinkedIn) | Burlington, MA | Summer 2022 | 9/23
-| [Shipt - User Research](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/User-Research-Intern_R1340) | Birmingham, AL | Summer 2022 | 9/23
+| [Shipt - User Research (BS)](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/User-Research-Intern_R1340) | Birmingham, AL | Summer 2022 | 9/23
 | [Shipt - Product Design](https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/Birmingham-AL/Product-Design-Intern_R1348?source=Linkedin) | Birmingham, AL | Summer 2022 | 9/23
 | [Shutterstock - Product Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/Product-Design-Intern_R0001131?source=Linkedin) | Denver, CO/New York, NY/Montreal | Summer 2022 | 9/21
 | [Carrier - User Experience](https://carrier.wd5.myworkdayjobs.com/jobs/login?redirect=%2Fjobs%2Fjob%2FCAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA%2FUser-Experience-Intern-Position_30053716%2Fapply) | Beverly, MA | Summer 2022 | 9/20
