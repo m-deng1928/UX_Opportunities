@@ -31,6 +31,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Panasonic North America - Product Designer (3 YoE))](https://careers.na.panasonic.com/careers/ux-designer?__jvsd=LinkedIn&__jvst=Job%20Board&nl=1) | Denver, CO/Remote | 10/2
+| [Expedia - Product Designer, Apps (3 YoE)](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FAustin-Domain-11---HomeAway%2FProduct-Designer--Apps_R-62064%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1633232795702e4u4a7znq)| Austin, TX | 10/2
+| [Nuro - User Experience Researcher](https://www.nuro.ai/careersitem?gh_jid=2949195)| Mountain View, CA | 10/2
+| [Intel - IT User Experience Researcher(1 YoE, MS)](https://jobs.intel.com/ShowJob/Id/3110332/IT%20User%20Experience%20Researcher)| Hillsboro, OR | 10/2
+| [Nuro - User Experience Researcher](https://www.nuro.ai/careersitem?gh_jid=2949195)| Mountain View, CA | 10/2
+| [Razorfish - Digital Designer](https://jobs.smartrecruiters.com/PublicisGroupe/743999777165376-digital-designer?source=Linkedin)| Birmingham, MI | 10/2
+| [Netflix - New Grad, User Interface Engineer](https://jobs.netflix.com/jobs/127235366)| Los Gatos, CA | 10/2
+| [Mailchimp - Serivce Designer](https://boards.greenhouse.io/mailchimp/jobs/3488009?s=LinkedIn&source=LinkedIn)| Atlanta, GA | 10/2
+| [Mailchimp - UX Content Strategist (3 YoE)](https://boards.greenhouse.io/mailchimp/jobs/3338129)| Atlanta, GA | 10/2
 | [United Airlines - Associate Researcher - Digital Products (1 YoE)](https://careers.united.com/job/13832374/associate-researcher-digital-products-chicago-il/)| Chicago, IL | 9/28
 | [Disney - Virtual Experience Designer](https://jobs.disneycareers.com/job/-/-/391/19743585?cid=14187)| Burbank, CA | 9/28
 | [Snowflake - Product Designer (2 YoE)](https://careers.snowflake.com/us/en/job/SNCOUS4939736002EXTERNALENUS/Product-Designer?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA | 9/28
@@ -318,6 +327,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [HP - UX Design](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-San-Jose-California/162265671?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | San Jose, CA/Fort Collins, CO | Summer | 10/2
+| [Viewpoint - User Experience](https://viewpoint.wd5.myworkdayjobs.com/en-US/Viewpoint/job/Portland-OR/User-Experience-Internship_R1122?source=Linkedin) | Portland, OR | Summer | 10/2
+| [Disney - UX Design & Digital Production](https://jobs.disneycareers.com/job/-/-/391/19759864?cid=14187) | Lake Buena Vista, FL | Spring 2022 | 10/2
+| [Mailchimp - Marketing & CX Analytics](https://boards.greenhouse.io/mailchimp/jobs/3494674) | Atlanta, GA | Summer 2022 | 10/2
+| [Mailchimp - Service Design](https://boards.greenhouse.io/mailchimp/jobs/3494680) | Atlanta, GA | Summer 2022 | 10/2
+| [Mailchimp - Product Design, App Marketplace](https://boards.greenhouse.io/mailchimp/jobs/3494613?s=LinkedIn&source=LinkedIn) | Atlanta, GA | Summer 2022 | 10/2
+| [Insomniac Games - User Research](https://boards.greenhouse.io/insomniacgames/jobs/3520291) | Burbank, CA | Summer 2022 | 10/2
 | [Pendo - Product Design](https://boards.greenhouse.io/pendo/jobs/5557694002) | Raleigh, NC | Summer 2022 | 9/29
 | [Pendo - Product Research (BS)](https://boards.greenhouse.io/pendo/jobs/5557690002) | Raleigh, NC | Summer 2022 | 9/29
 | [Wayfair - User Research Co-Op (Grad)](https://www.wayfair.com/careers/job/user-experience-research-co-op--jan---june------/5508306002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5508306002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20210917T180406Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=fbc9eb9020e011ecb297bfee509c2f8ab1514b687e6c4d5db571609d94702ac1) | Remote | Spring 2022 (Jan-Jun) | 9/28
