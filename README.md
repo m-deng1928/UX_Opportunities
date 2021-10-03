@@ -33,7 +33,6 @@ New Grad
 | ------------- | ------------- | -------------
 | [Panasonic North America - Product Designer (3 YoE))](https://careers.na.panasonic.com/careers/ux-designer?__jvsd=LinkedIn&__jvst=Job%20Board&nl=1) | Denver, CO/Remote | 10/2
 | [Expedia - Product Designer, Apps (3 YoE)](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FAustin-Domain-11---HomeAway%2FProduct-Designer--Apps_R-62064%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1633232795702e4u4a7znq)| Austin, TX | 10/2
-| [Nuro - User Experience Researcher](https://www.nuro.ai/careersitem?gh_jid=2949195)| Mountain View, CA | 10/2
 | [Intel - IT User Experience Researcher(1 YoE, MS)](https://jobs.intel.com/ShowJob/Id/3110332/IT%20User%20Experience%20Researcher)| Hillsboro, OR | 10/2
 | [Nuro - User Experience Researcher](https://www.nuro.ai/careersitem?gh_jid=2949195)| Mountain View, CA | 10/2
 | [Razorfish - Digital Designer](https://jobs.smartrecruiters.com/PublicisGroupe/743999777165376-digital-designer?source=Linkedin)| Birmingham, MI | 10/2
