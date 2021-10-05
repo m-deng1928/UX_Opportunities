@@ -35,7 +35,7 @@ New Grad
 | [Avanade - Entry Level Visual Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-Visual-Designer-New-York-City/35996?source=LinkedIn) | New York, NY | 10/4
 | [Cognizant - Salesforce UX/UI Designer](https://careers.cognizant.com/na/en/job/COGNGLOBAL00044970171/Salesforce-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds&src=SNS-102)| Lake Zurich, IL | 10/4
 | [VMWare - UX Researcher - New Grad](https://careers.vmware.com/main/jobs/R2214041?lang=en-us&source=LIPJ)| Palo Alto, CA | 10/4
-| [T-Mobile - User Experience Researcher (2-4 YoE, BS)](hhttps://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobId=680407&codes=INT-LinkedIn)| Seattle, WA | 10/4
+| [T-Mobile - User Experience Researcher (2-4 YoE, BS)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobId=680407&codes=INT-LinkedIn)| Seattle, WA | 10/4
 | [CNN - UX Researcher (3 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184788BREXTERNALENGLOBAL/UX-Researcher?utm_source=linkedin&utm_medium=phenom-feeds)|Atlanta, GA/New York, NY/Los Angeles, CA | 10/4
 | [Pendo - Quantitative UX Researcher](https://boards.greenhouse.io/pendo/jobs/5551452002?gh_src=a6e397752us&s=LinkedIn&source=LinkedIn)| Raleigh, NC | 10/4
 | [JP Morgan Chase - UX Designer - cxLoyalty](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210181429/?utm_medium=jobshare&src=LinkedIn_JPMC)| Eden Prairie, MN/Glen Allen, VA/Plano, TX | 10/4
