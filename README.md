@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Avanade - Entry Level UX Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-UX-Designer-New-York-City/36001?source=LinkedIn) | New York, NY | 10/4
+| [Avanade - Entry Level Visual Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-Visual-Designer-New-York-City/35996?source=LinkedIn) | New York, NY | 10/4
 | [Cognizant - Salesforce UX/UI Designer](https://careers.cognizant.com/na/en/job/COGNGLOBAL00044970171/Salesforce-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds&src=SNS-102)| Lake Zurich, IL | 10/4
 | [VMWare - UX Researcher - New Grad](https://careers.vmware.com/main/jobs/R2214041?lang=en-us&source=LIPJ)| Palo Alto, CA | 10/4
 | [T-Mobile - User Experience Researcher (2-4 YoE, BS)](hhttps://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobId=680407&codes=INT-LinkedIn)| Seattle, WA | 10/4
@@ -312,6 +314,8 @@ Intern
 | [HP - User Experience Research](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Colorado/162268121?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | San Jose, CA/Fort Collins, CO | Summer | 10/4
 | [Colgate Palmolive - User Experience](https://jobs.colgate.com/job/Piscataway-User-Experience-%28UX%29-Internship-NJ-08854/794980800/?feedId=173900&utm_source=LinkedInJobPostings&utm_campaign=ColPal_Linkedin&utm_source=LinkedInJobPostings&utm_campaign=ColPal_Linkedin) | New Brunswick, NJ | Summer 2022 | 10/4
 | [Cartegraph - User Experience](https://www.linkedin.com/jobs/view/2745505939) | Dubuque, IA | Summer 2022 | 10/4
+| [Avanade - Visual Designer - Seattle](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Visual-Designer-Seattle/36730?source=LinkedIn) | Seattle, WA | Summer 2022 | 10/4
+| [Avanade - Visual Designer - Northeast](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Visual-Designer-Northeast/37646?source=LinkedIn) | Seattle, WA | Summer 2022 | 10/4
 | [Avanade - User Experience - West](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-User-Experience-West/36729?source=LinkedIn) | Seattle, WA | Summer 2022 | 10/4
 | [Avanade - User Experience - Northeast](https://ripplematch.com/job/ebay/4deffac9/?tl=73410169) | Boston, MA/New York, NY/Philadelphia, PA | Summer 2022 | 10/4
 | [EBay - UI/UX Design](https://ripplematch.com/job/ebay/4deffac9/?tl=73410169) | San Francisco, CA/San Jose, CA | Summer 2022 | 10/4
