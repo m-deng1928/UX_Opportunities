@@ -31,6 +31,26 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Cognizant - Salesforce UX/UI Designer](https://careers.cognizant.com/na/en/job/COGNGLOBAL00044970171/Salesforce-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds&src=SNS-102)| Lake Zurich, IL | 10/4
+| [VMWare - UX Researcher - New Grad](https://careers.vmware.com/main/jobs/R2214041?lang=en-us&source=LIPJ)| Palo Alto, CA | 10/4
+| [T-Mobile - User Experience Researcher (2-4 YoE, BS)](hhttps://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobId=680407&codes=INT-LinkedIn)| Seattle, WA | 10/4
+| [CNN - UX Researcher (3 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBAL184788BREXTERNALENGLOBAL/UX-Researcher?utm_source=linkedin&utm_medium=phenom-feeds)|Atlanta, GA/New York, NY/Los Angeles, CA | 10/4
+| [Pendo - Quantitative UX Researcher](https://boards.greenhouse.io/pendo/jobs/5551452002?gh_src=a6e397752us&s=LinkedIn&source=LinkedIn)| Raleigh, NC | 10/4
+| [JP Morgan Chase - UX Designer - cxLoyalty](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210181429/?utm_medium=jobshare&src=LinkedIn_JPMC)| Eden Prairie, MN/Glen Allen, VA/Plano, TX | 10/4
+| [Timberland - Associate Designer, Digital (3 YoE)](https://vfc.wd5.myworkdayjobs.com/en-US/Timberland_USA_Careers/job/Stratham-NH/Associate-Designer--Digital_R-20210920-0054?source=Linkedin)| Stratham, NH | 10/4 
+| [IBM - UX Researcher (3 YoE)](https://careers.ibm.com/job/14018397/ux-researcher-remote/?codes=SN_LinkedIn)| Raleigh, NC | 10/4 
+| [Red Hat - Associate Product Designer (1 YoE)](https://us-redhat.icims.com/jobs/90051/associate-interaction-designer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)| Raleigh, NC | 10/4 
+| [Amazon - UX Designer - FireTV (3 YoE)](https://www.amazon.jobs/en/jobs/1753223/ux-designer-fire-tv?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Sunnyvale, CA | 10/4 
+| [Adobe - Experience Designer, Creative Cloud Services Extensibility](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Experience-Designer--Creative-Cloud-Services-Extensibility_R114983-2/apply?source=LinkedIn) | San Francisco, CA | 10/4
+| [Adobe - User Experience Designer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/User-Experience-Designer_R114972-2/apply?source=LinkedIn) | Austin, TX | 10/4
+| [General Motors - Entry Level Digital Designer](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Entry-Level-Digital-Designer_JR-000049214?source=Linkedin) | Austin, TX/Chandler, AZ/Roswell, GA/Detroit, MI/Warren, MI | 10/4
+| [Tesla - Product Designer)](https://www.tesla.com/careers/search/job/product-designer-103612?source=LinkedIn) | Hawthorne, CA | 10/4
+| [Siemens - User Experience Researcher (3-5 YoE)](https://jobs.siemens.com/jobs/273019?lang=en-us&sourceType=PREMIUM_POST_SITE) | Livonia, MI/Wilsonville, OR/Plano, TX | 10/4
+| [WP Engine - UX Researcher (3 YoE)](https://jobs.smartrecruiters.com/Etsy2/743999777517576-ux-researcher) | Brooklyn, NY | 10/4
+| [WP Engine - Product Designer, Flywheel Core Systems (2 YoE)](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/Product-Designer--Sr_JR100486?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job&source=Linkedin) | Remote | 10/4
+| [Citrix - UX Researcher (1-5 YoE, BS)](https://jobs.citrix.com/job/CITRA0058R25924/UX-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Clara, CA/AZ/NV/OR/TX/UT/WA | 10/4
+| [Blink - UX Researcher](https://jobs.lever.co/blinkux/c415065e-9beb-4129-85b0-8fdd6fc6e38e?lever-source=LinkedInJobs) | Seattle, WA (On-site) | 10/4
+| [Spotify - Product Designer - Design Platform](https://jobs.lever.co/spotify/1e2bce0e-74f7-4073-908c-81782eb1fb44/apply?lever-source=LinkedIn) | New York, NY | 10/4
 | [Expedia - Product Designer, Apps (3 YoE)](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FAustin-Domain-11---HomeAway%2FProduct-Designer--Apps_R-62064%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1633232795702e4u4a7znq)| Austin, TX | 10/2
 | [Intel - IT User Experience Researcher(1 YoE, MS)](https://jobs.intel.com/ShowJob/Id/3110332/IT%20User%20Experience%20Researcher)| Hillsboro, OR | 10/2
 | [Nuro - User Experience Researcher](https://www.nuro.ai/careersitem?gh_jid=2949195)| Mountain View, CA | 10/2
@@ -288,6 +308,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [ServiceNow - Product Content (Technical Writing/Technical Editing/Multimedia](https://jobs.smartrecruiters.com/ServiceNow/743999774523172-product-content-internship-technical-writing-technical-editing-multimedia-?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Jose, CA/Fort Collins, CO | Summer | 10/4
+| [HP - User Experience Research](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Colorado/162268121?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | San Jose, CA/Fort Collins, CO | Summer | 10/4
+| [Colgate Palmolive - User Experience](https://jobs.colgate.com/job/Piscataway-User-Experience-%28UX%29-Internship-NJ-08854/794980800/?feedId=173900&utm_source=LinkedInJobPostings&utm_campaign=ColPal_Linkedin&utm_source=LinkedInJobPostings&utm_campaign=ColPal_Linkedin) | New Brunswick, NJ | Summer 2022 | 10/4
+| [Cartegraph - User Experience](https://www.linkedin.com/jobs/view/2745505939) | Dubuque, IA | Summer 2022 | 10/4
+| [Avanade - User Experience - West](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-User-Experience-West/36729?source=LinkedIn) | Seattle, WA | Summer 2022 | 10/4
+| [Avanade - User Experience - Northeast](https://ripplematch.com/job/ebay/4deffac9/?tl=73410169) | Boston, MA/New York, NY/Philadelphia, PA | Summer 2022 | 10/4
+| [EBay - UI/UX Design](https://ripplematch.com/job/ebay/4deffac9/?tl=73410169) | San Francisco, CA/San Jose, CA | Summer 2022 | 10/4
 | [HP - UX Design](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-San-Jose-California/162265671?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | San Jose, CA/Fort Collins, CO | Summer | 10/2
 | [Viewpoint - User Experience](https://viewpoint.wd5.myworkdayjobs.com/en-US/Viewpoint/job/Portland-OR/User-Experience-Internship_R1122?source=Linkedin) | Portland, OR | Summer | 10/2
 | [Disney - UX Design & Digital Production](https://jobs.disneycareers.com/job/-/-/391/19759864?cid=14187) | Lake Buena Vista, FL | Spring 2022 | 10/2
