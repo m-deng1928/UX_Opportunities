@@ -310,8 +310,20 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [ServiceNow - Product Content (Technical Writing/Technical Editing/Multimedia](https://jobs.smartrecruiters.com/ServiceNow/743999774523172-product-content-internship-technical-writing-technical-editing-multimedia-?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Jose, CA/Fort Collins, CO | Summer | 10/4
-| [HP - User Experience Research](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Colorado/162268121?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | San Jose, CA/Fort Collins, CO | Summer | 10/4
+| [Facebook - UX Researcher, Growth (PhD)](https://www.facebook.com/careers/v2/jobs/1633776296812188/) | Menlo Park, CA | Summer 2022 | 10/5
+| [Facebook - UX Researcher, Privacy (PhD)](https://www.facebook.com/careers/v2/jobs/398073511659687/) | Menlo Park, CA | Summer 2022 | 10/5
+| [Facebook - UX Researcher, Facebook Reality Labs (PhD)](https://www.facebook.com/careers/v2/jobs/381293930096505/) | Menlo Park, CA | Summer 2022 | 10/5
+| [Facebook - Research Scientist Intern, Demography & Survey Science (PhD)](https://www.facebook.com/careers/v2/jobs/526240251920185/) | Menlo Park, CA | Summer 2022 | 10/5
+| [Facebook - Product Design, AR](https://www.facebook.com/careers/v2/jobs/482667389704736/) | Los Angeles, CA/Burlingame, CA/New York, NY/Seattle, WA| Summer 2022 | 10/5
+| [Facebook - Conversation Design, Assistant](https://www.facebook.com/careers/v2/jobs/455430139140207/) | Redmond, WA/Burlingame, CA | Summer 2022 | 10/5
+| [Facebook - Product Design Prototyper, Input Explorations](https://www.facebook.com/careers/v2/jobs/563739371501469/) | Seattle, WA | Summer 2022 | 10/5
+| [Facebook - Design Prototyper Intern, Instagram AR](https://www.facebook.com/careers/v2/jobs/343439394225716/) | San Francisco, CA | Summer 2022 | 10/5
+| [Facebook - Design Prototyper Intern, Instagram AR](https://www.facebook.com/careers/v2/jobs/343439394225716/) | San Francisco, CA | Summer 2022 | 10/5
+| [Facebook - Design Prototyper Intern, Instagram AR](https://www.facebook.com/careers/v2/jobs/343439394225716/) | San Francisco, CA | Summer 2022 | 10/5
+| [Stryker - UX Design](https://careers.stryker.com/de/job-de/14021769/ux-design-intern-california-san-jose-ca/) | San Jose, CA | Summer 2022 | 10/5
+| [Punchcut - Visual Design](https://www.glassdoor.com/job-listing/visual-design-intern-spring-2022-punchcut-JV_IC1147401_KO0,32_KE33,41.htm?jl=1007345309769&utm_source=jobalert&utm_medium=email&utm_term=tjonthurscon&utm_content=ja-jobpos1-1007345309769&utm_campaign=jobAlertAlert&pos=101&ao=1136043&s=58&guid=0000017c5252e74dba458639fde5e2cc&src=GD_JOB_AD&t=MJA&vt=e&ja=0&uido=E6CBBCD055BBECB20646112D7E520A33&ea=1&cs=1_1e494453&cb=1633468738099&jobListingId=1007345309769&jrtk=3-0-1fh955pskn515801-1fh955pt7u2m3800-7d24687ec9f5292e-&ctt=1633494769020&srs=EMAIL_JOB_ALERT&gdir=1) | San Francico, CA | Spring 2022 | 10/5
+| [ServiceNow - Product Content (Technical Writing/Technical Editing/Multimedia](https://jobs.smartrecruiters.com/ServiceNow/743999774523172-product-content-internship-technical-writing-technical-editing-multimedia-?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | San Jose, CA/Fort Collins, CO | Summer 2022 | 10/4
+| [HP - User Experience Research](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Colorado/162268121?source=APPLICANT_SOURCE_JOB_BOARD_LINKEDIN) | San Jose, CA/Fort Collins, CO | Summer 2022 | 10/4
 | [Colgate Palmolive - User Experience](https://jobs.colgate.com/job/Piscataway-User-Experience-%28UX%29-Internship-NJ-08854/794980800/?feedId=173900&utm_source=LinkedInJobPostings&utm_campaign=ColPal_Linkedin&utm_source=LinkedInJobPostings&utm_campaign=ColPal_Linkedin) | New Brunswick, NJ | Summer 2022 | 10/4
 | [Cartegraph - User Experience](https://www.linkedin.com/jobs/view/2745505939) | Dubuque, IA | Summer 2022 | 10/4
 | [Avanade - Visual Designer - Seattle](https://careers.avanade.com/jobsenusurl/JobDetail/Intern-Visual-Designer-Seattle/36730?source=LinkedIn) | Seattle, WA | Summer 2022 | 10/4
