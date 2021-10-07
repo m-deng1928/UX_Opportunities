@@ -42,7 +42,6 @@ New Grad
 | [Thermo Fisher Scientific - UX Researcher (2 YoE)](https://jobs.thermofisher.com/global/en/job/177551BR?refId=34jd24) | CA/Pittsburgh, PA/PA/TX | 10/6
 | [Blackrock - UX Researcher, Associate (3-4 YoE)](https://careers.blackrock.com/job/12233130/ux-researcher-associate-atlanta-ga/?source=12748) | Atlanta, GA | 10/6
 | [Netflix - UX Researcher, Studio Production Product](https://jobs.netflix.com/jobs/127692586) | Los Gatos, CA | 10/6
-| [Netflix - UX Researcher, Studio Production Product](https://jobs.netflix.com/jobs/127692586) | Los Gatos, CA | 10/6
 | [Netflix - UX Researcher, Content Finance Products (3 YoE)](https://jobs.netflix.com/jobs/127578288) | Los Gatos, CA | 10/6
 | [Avanade - Entry Level UX Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-UX-Designer-New-York-City/36001?source=LinkedIn) | New York, NY | 10/4
 | [Avanade - Entry Level Visual Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-Visual-Designer-New-York-City/35996?source=LinkedIn) | New York, NY | 10/4
