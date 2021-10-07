@@ -31,6 +31,20 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Edward Jones - UX Researcher II (2 YoE)](https://careers.edwardjones.com/job/13315287/ux-researcher-ii-remote-remote/) | Remote | 10/6
+| [Zendesk - UX Researcher, Agent Experience (2 YoE)](https://jobs.zendesk.com/us/en/job/ZENDUSR18007EXTERNALENUS/UX-Researcher-Agent-Experience?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote | 10/6
+| [JP Morgan Chase - User Experience Researcher - Analytics & Insights (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210146577/?utm_medium=jobshare&src=LinkedIn_JPMC)| Plano, TX | 10/6
+| [Zendesk - UX Researcher, Agent Experience (2 YoE)](https://jobs.zendesk.com/us/en/job/ZENDUSR18007EXTERNALENUS/UX-Researcher-Agent-Experience?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote | 10/6
+| [CoStar Group - UX Researcher (BS)](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-DC-Washington-DC/UX-Researcher_R25877?source=LinkedIn) | Washington DC | 10/6
+| [HackerRank - UX Researcher (3 YoE)](https://boards.greenhouse.io/hackerrank/jobs/3512135?gh_jid=3512135&gh_src=1836e8621us&s=LinkedIn&source=LinkedIn) | Remote | 10/6
+| [Oracle - UX Researcher (2 YoE, Grad)](https://jobs.lever.co/tangibleplay/25fdfdb3-e548-4d0b-90e6-95c7f9d2cda7?lever-source=LinkedInJobs) | Remote | 10/6
+| [Booz Allen Hamilton - UX Strategist & Researcher, Mid (3 YoE)](https://careers.boozallen.com/careers/JobDetail?jobId=43848&source=JB-16281) | Hendon, VA/Washington DC | 10/6
+| [Oracle - UX Researcher (Grad)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121066?utm_medium=jobshare) | Burlington, MA | 10/6
+| [Thermo Fisher Scientific - UX Researcher (2 YoE)](https://jobs.thermofisher.com/global/en/job/177551BR?refId=34jd24) | CA/Pittsburgh, PA/PA/TX | 10/6
+| [Blackrock - UX Researcher, Associate (3-4 YoE)](https://careers.blackrock.com/job/12233130/ux-researcher-associate-atlanta-ga/?source=12748) | Atlanta, GA | 10/6
+| [Netflix - UX Researcher, Studio Production Product](https://jobs.netflix.com/jobs/127692586) | Los Gatos, CA | 10/6
+| [Netflix - UX Researcher, Studio Production Product](https://jobs.netflix.com/jobs/127692586) | Los Gatos, CA | 10/6
+| [Netflix - UX Researcher, Content Finance Products (3 YoE)](https://jobs.netflix.com/jobs/127578288) | Los Gatos, CA | 10/6
 | [Avanade - Entry Level UX Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-UX-Designer-New-York-City/36001?source=LinkedIn) | New York, NY | 10/4
 | [Avanade - Entry Level Visual Designer](https://careers.avanade.com/jobsenusurl/JobDetail/Entry-Level-Visual-Designer-New-York-City/35996?source=LinkedIn) | New York, NY | 10/4
 | [Cognizant - Salesforce UX/UI Designer](https://careers.cognizant.com/na/en/job/COGNGLOBAL00044970171/Salesforce-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds&src=SNS-102)| Lake Zurich, IL | 10/4
@@ -310,6 +324,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [DocuSign - Service Design (2 YoE, Grad)](https://www.docusign.com/company/careers/open?gh_jid=3523636&gh_src=ua6xck) | San Francisco, CA/Seattle, WA/Remote | Summer 2022 | 10/5
+| [Vivint - Design/UI Intern](https://vivint.wd5.myworkdayjobs.com/en-US/vivintjobs/job/Provo-UT/UI-Intern_R116573-1?source=Linkedin) | Provo, UT | Summer 2022 | 10/5
 | [Facebook - UX Researcher, Growth (PhD)](https://www.facebook.com/careers/v2/jobs/1633776296812188/) | Menlo Park, CA | Summer 2022 | 10/5
 | [Facebook - UX Researcher, Privacy (PhD)](https://www.facebook.com/careers/v2/jobs/398073511659687/) | Menlo Park, CA | Summer 2022 | 10/5
 | [Facebook - UX Researcher, Facebook Reality Labs (PhD)](https://www.facebook.com/careers/v2/jobs/381293930096505/) | Menlo Park, CA | Summer 2022 | 10/5
