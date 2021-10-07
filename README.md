@@ -32,7 +32,6 @@ New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
 | [Edward Jones - UX Researcher II (2 YoE)](https://careers.edwardjones.com/job/13315287/ux-researcher-ii-remote-remote/) | Remote | 10/6
-| [Zendesk - UX Researcher, Agent Experience (2 YoE)](https://jobs.zendesk.com/us/en/job/ZENDUSR18007EXTERNALENUS/UX-Researcher-Agent-Experience?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote | 10/6
 | [JP Morgan Chase - User Experience Researcher - Analytics & Insights (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210146577/?utm_medium=jobshare&src=LinkedIn_JPMC)| Plano, TX | 10/6
 | [Zendesk - UX Researcher, Agent Experience (2 YoE)](https://jobs.zendesk.com/us/en/job/ZENDUSR18007EXTERNALENUS/UX-Researcher-Agent-Experience?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote | 10/6
 | [CoStar Group - UX Researcher (BS)](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-DC-Washington-DC/UX-Researcher_R25877?source=LinkedIn) | Washington DC | 10/6
