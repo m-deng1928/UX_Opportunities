@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [DocuSign - Product Designer (2 YoE)](https://www.docusign.com/company/careers/open?gh_jid=3343722) | San Francisco/Seattle | 10/7
 | [Edward Jones - UX Researcher II (2 YoE)](https://careers.edwardjones.com/job/13315287/ux-researcher-ii-remote-remote/) | Remote | 10/6
 | [JP Morgan Chase - User Experience Researcher - Analytics & Insights (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210146577/?utm_medium=jobshare&src=LinkedIn_JPMC)| Plano, TX | 10/6
 | [Zendesk - UX Researcher, Agent Experience (2 YoE)](https://jobs.zendesk.com/us/en/job/ZENDUSR18007EXTERNALENUS/UX-Researcher-Agent-Experience?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote | 10/6
@@ -322,6 +323,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [DocuSign - Technical Writer](https://www.docusign.com/company/careers/open?gh_jid=3548581) | Chicago, IL | Summer 2022 | 10/7
+| [DocuSign - User Experience (UX) Research - Incubations (BS)](https://www.docusign.com/company/careers/open?gh_jid=3548494) | San Francisco, CA/Remote | Summer 2022 | 10/7
+| [DocuSign - Product Design - Design Systems](https://www.docusign.com/company/careers/open?gh_jid=3547406&gh_src=ua6xck) | San Francisco, CA/Seattle, WA/Remote | Summer 2022 | 10/7
 | [DocuSign - Service Design (2 YoE, Grad)](https://www.docusign.com/company/careers/open?gh_jid=3523636&gh_src=ua6xck) | San Francisco, CA/Seattle, WA/Remote | Summer 2022 | 10/5
 | [Vivint - Design/UI Intern](https://vivint.wd5.myworkdayjobs.com/en-US/vivintjobs/job/Provo-UT/UI-Intern_R116573-1?source=Linkedin) | Provo, UT | Summer 2022 | 10/5
 | [Facebook - UX Researcher, Growth (PhD)](https://www.facebook.com/careers/v2/jobs/1633776296812188/) | Menlo Park, CA | Summer 2022 | 10/5
