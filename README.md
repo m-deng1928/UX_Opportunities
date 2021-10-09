@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [InVision - Associate Product Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/2749848821/?refId=f3c609bd-5d1a-4fd7-9671-46f36b38b1a0&trk) | New York, NY | 10/9
+| [DoorDash - Product Designer](https://www.linkedin.com/jobs/view/2749848821/?refId=f3c609bd-5d1a-4fd7-9671-46f36b38b1a0&trk) | New York, NY | 10/9
 | [DocuSign - Product Designer (2 YoE)](https://www.docusign.com/company/careers/open?gh_jid=3343722) | San Francisco/Seattle | 10/7
 | [Edward Jones - UX Researcher II (2 YoE)](https://careers.edwardjones.com/job/13315287/ux-researcher-ii-remote-remote/) | Remote | 10/6
 | [JP Morgan Chase - User Experience Researcher - Analytics & Insights (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210146577/?utm_medium=jobshare&src=LinkedIn_JPMC)| Plano, TX | 10/6
@@ -323,6 +325,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [10x Genomics - Product UX Design](https://www.linkedin.com/jobs/view/2743126282/?refId=f3c609bd-5d1a-4fd7-9671-46f36b38b1a0) | Chicago, IL | Summer 2022 | 10/9
 | [DocuSign - Technical Writer](https://www.docusign.com/company/careers/open?gh_jid=3548581) | Chicago, IL | Summer 2022 | 10/7
 | [DocuSign - User Experience (UX) Research - Incubations (BS)](https://www.docusign.com/company/careers/open?gh_jid=3548494) | San Francisco, CA/Remote | Summer 2022 | 10/7
 | [DocuSign - Product Design - Design Systems](https://www.docusign.com/company/careers/open?gh_jid=3547406&gh_src=ua6xck) | San Francisco, CA/Seattle, WA/Remote | Summer 2022 | 10/7
