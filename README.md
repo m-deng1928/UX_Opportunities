@@ -31,7 +31,13 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [InVision - Product Designer (2 YoE)](https://boards.greenhouse.io/invision/jobs/3541442?gh_src=98d1b32f1us) | New York, NY | 10/9
+| [Buzzfeed - Product Designer, Partnerships](https://boards.greenhouse.io/buzzfeed/jobs/3544552?gh_jid=3544552&gh_src=bbc3e25e1us0) | New York, NY | 10/11
+| [Grubhub - Product Designer (must have vis dev exp) (2 YoE)](https://careers-grubhub.icims.com/jobs/12741/product-designer-%28must-have-visual-design-exp%29/job?mobile=false&width=1200&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | New York, NY | 10/11
+| [Uber - Product Designer - Riders Studios - Ads (2 YoE)](https://www.uber.com/global/en/careers/list/104170/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=104170&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20211011T120312Z&rx_viewer=72fee7eb2b0d11ecbffdff929beef071414c34546fd745819f6f74bd44ca7efc) | New York, NY/San Francisco, CA | 10/11
+| [Match - Product Designer - Innovation)](https://jobs.lever.co/matchgroup/03d05795-6ec2-4b64-84d1-7c097dc9745c/apply?lever-source=LinkedInJobs) | Austin, TX | 10/11
+| [General Motors (GM) - Product Designer - UX/UI (3 YoE)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Renaissance-Ctr-Global-HQ---Tower-400---Office/Product-Designer--UX-UI_JR-000058459?source=Linkedin) | Detroit, MI | 10/11
+| [Wunderman Thompson - Product Designer (2 YoE)](https://www.wundermanthompson.com/careers/job/5592054002) | New York, NY | 10/11
+| [InVision - Product Designer (2 YoE)](https://boards.greenhouse.io/invision/jobs/3541442?gh_src=98d1b32f1us) | New York, NY | 10/11
 | [InVision - Associate Product Designer (1-3 YoE)](https://boards.greenhouse.io/invision/jobs/3474641?gh_src=e1d7f3cf1us) | New York, NY | 10/9
 | [DoorDash - Product Designer](https://www.linkedin.com/jobs/view/2749848821/?refId=f3c609bd-5d1a-4fd7-9671-46f36b38b1a0&trk) | New York, NY | 10/9
 | [DocuSign - Product Designer (2 YoE)](https://www.docusign.com/company/careers/open?gh_jid=3343722) | San Francisco/Seattle | 10/7
