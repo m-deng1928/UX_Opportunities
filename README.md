@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Oracle - User Experience Designer, GBU UX Consulting (1 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/124151?utm_medium=jobboard&utm_source=LinkedIn) | PA/TX/FLGA/IL/OH | 10/13
+| [Kin + Carta - User Experience Designer (2 YoE)](https://www.kinandcarta.com/en-us/careers/job/?gh_jid=5618471002&gh_src=6561d54a2) | New York, NY | 10/13
+| [PwC - UX Designer (3 YoE)](https://jobs.us.pwc.com/job/-/-/932/16181292992?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CKzC7v_uyPMCFUWXZAodwdQK7Q) | Dallas,TX/Irvine,CA/Atlanta, GA/Chicago, IL/Austin, TX/Washington DC/Los Angeles, CA/Baltimore, MD/Boston, MA/New York, NY/San Antonio, TX/San Diego, CA/Sarasota, FL/San Francisco, CA/San Jose, CA/Hallandale Beach, FL/Houston, TX | 10/13
 | [Buzzfeed - Product Designer, Partnerships](https://boards.greenhouse.io/buzzfeed/jobs/3544552?gh_jid=3544552&gh_src=bbc3e25e1us0) | New York, NY | 10/11
 | [Grubhub - Product Designer (must have vis dev exp) (2 YoE)](https://careers-grubhub.icims.com/jobs/12741/product-designer-%28must-have-visual-design-exp%29/job?mobile=false&width=1200&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | New York, NY | 10/11
 | [Uber - Product Designer - Riders Studios - Ads (2 YoE)](https://www.uber.com/global/en/careers/list/104170/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=104170&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20211011T120312Z&rx_viewer=72fee7eb2b0d11ecbffdff929beef071414c34546fd745819f6f74bd44ca7efc) | New York, NY/San Francisco, CA | 10/11
@@ -311,6 +314,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Salesforce - UX/Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---User-Research_JR118723-1?source=LinkedIn_Jobs) | San Francisco, CA/NY/GA/WA/AZ/Palo Alto, CA/CA/TX/OR/WA/NV | Summer 2022 | 10/13
+| [Salesforce - UX/Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---UX-Product-Designer_JR118631?source=LinkedIn_Jobs) | CA/San Francisco, CA/Seattle, WA | Summer 2022 | 10/13
+| [Adobe - UX Design](https://adobe.wd5.myworkdayjobs.com/external_university/login?redirect=%2Fexternal_university%2Fjob%2FRemote-California%2FXMLNAME-2022-Intern---UX-Design-Intern_R116260%2Fapply%3Fsource%3DLinkedIn) | San Francisco, CA | Summer 2022 | 10/13
 | [10x Genomics - Product UX Design](https://www.linkedin.com/jobs/view/2743126282/?refId=f3c609bd-5d1a-4fd7-9671-46f36b38b1a0) | Chicago, IL | Summer 2022 | 10/9
 | [DocuSign - Technical Writer](https://www.docusign.com/company/careers/open?gh_jid=3548581) | Chicago, IL | Summer 2022 | 10/7
 | [DocuSign - User Experience (UX) Research - Incubations (BS)](https://www.docusign.com/company/careers/open?gh_jid=3548494) | San Francisco, CA/Remote | Summer 2022 | 10/7
@@ -485,5 +491,6 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Ro - Product Design Fellow](https://jobs.lever.co/ro/17455351-d668-4818-b5f0-bd6db9fb7302?lever-source=LinkedInJobs) | Summer 2022 | 10/13
 | [Microsoft - LEAP](https://www.microsoft.com/en-us/leap/application-process/) | Winter 2022 | 9/9
 | [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Fall 2021 | 7/18
