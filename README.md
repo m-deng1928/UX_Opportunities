@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [WarnerMedia - UX/UI Designer](https://warnermediacareers.com/global/en/job/WAMEGLOBAL187391BREXTERNALENGLOBAL/UX-UI-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY | 10/14
+| [Mailchimp - UX Content Strategist)](https://boards.greenhouse.io/mailchimp/jobs/3519504?s=LinkedIn&source=LinkedIn) | Remote | 10/14
+| [SAP - User Experience Design Specialist (BS w/ 5 YoE/MS w/ 2 YoE)](https://jobs.sap.com/job/Palo-Alto-User-Experience-Design-Specialist-CA-94304/725137701/?locale=en_US) | Palo Alto, CA | 10/14
 | [Oracle - User Experience Designer, GBU UX Consulting (1 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/124151?utm_medium=jobboard&utm_source=LinkedIn) | PA/TX/FLGA/IL/OH | 10/13
 | [Kin + Carta - User Experience Designer (2 YoE)](https://www.kinandcarta.com/en-us/careers/job/?gh_jid=5618471002&gh_src=6561d54a2) | New York, NY | 10/13
 | [PwC - UX Designer (3 YoE)](https://jobs.us.pwc.com/job/-/-/932/16181292992?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CKzC7v_uyPMCFUWXZAodwdQK7Q) | Dallas,TX/Irvine,CA/Atlanta, GA/Chicago, IL/Austin, TX/Washington DC/Los Angeles, CA/Baltimore, MD/Boston, MA/New York, NY/San Antonio, TX/San Diego, CA/Sarasota, FL/San Francisco, CA/San Jose, CA/Hallandale Beach, FL/Houston, TX | 10/13
@@ -314,6 +317,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [WarnerMedia - CNN - Digital UX Research](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047582EXTERNALENGLOBAL/Spring-2022-Intern-CNN-Digital-UX-Research?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Spring 2022 | 10/14
+| [WarnerMedia - Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000046994EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-Design?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/14
+| [Trimble - UX Research](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/UX-UI-Design-Intern--Summer-2022_R34729?source=Linkedin) | Westminister, CO | Summer 2022 | 10/14
+| [Lumen Technologies - User Experience Design](https://jobs.lumen.com/global/en/job/262365/Intern-User-Experience-Designer-Summer-2022-Work-From-Home?utm_medium=phenom-feeds&jobPipeline=LinkedinLL&utm_source=LinkedinLL&rx_job=262365&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20210929T100759Z&rx_viewer=768250552d5e11ecb9a8cb2a05dd2e1ae249c56ab4434d738b3d2ba1a4540bfb) | CO | Summer 2022 | 10/14
+| [Lumen Technologies - UX Research](https://jobs.lumen.com/global/en/job/264401/Intern-UX-Research-Summer-2022-Remote?utm_medium=phenom-feeds&jobPipeline=LinkedinLL&utm_source=LinkedinLL&rx_job=264401&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20211013T100802Z&rx_viewer=768250552d5e11ecb9a8cb2a05dd2e1ae249c56ab4434d738b3d2ba1a4540bfb) | CO | Summer 2022 | 10/14
 | [Salesforce - UX/Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---User-Research_JR118723-1?source=LinkedIn_Jobs) | San Francisco, CA/NY/GA/WA/AZ/Palo Alto, CA/CA/TX/OR/WA/NV | Summer 2022 | 10/13
 | [Salesforce - UX/Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2022-Intern---UX-Product-Designer_JR118631?source=LinkedIn_Jobs) | CA/San Francisco, CA/Seattle, WA | Summer 2022 | 10/13
 | [Adobe - UX Design](https://adobe.wd5.myworkdayjobs.com/external_university/login?redirect=%2Fexternal_university%2Fjob%2FRemote-California%2FXMLNAME-2022-Intern---UX-Design-Intern_R116260%2Fapply%3Fsource%3DLinkedIn) | San Francisco, CA | Summer 2022 | 10/13
