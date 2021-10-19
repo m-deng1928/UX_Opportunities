@@ -310,10 +310,7 @@ Intern
 | [Alaska Airlines - ITS Product Design](https://alaskaair.jobs/seattle-wa/intern-its-product-design/D9064DB4A5C8447B9D0E6EB4192E29E1/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com) | Seattle, WA | Summer 2022 | 10/18
 | [Nike - Undergraduate Digital Product Design](https://jobs.nike.com/job/URSRCDPDUI22?from=job%20search%20funnel) | Beaverton, OR | Summer 2022 | 10/18
 | [Lumen Technologies - UX Developer](https://jobs.lumen.com/global/en/job/262431/Intern-UX-Developer-Summer-2022-CO-or-Remote-WFH-US?utm_medium=phenom-feeds&jobPipeline=LinkedinLL&utm_source=LinkedinLL&rx_job=262431&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20211011T100641Z&rx_viewer=15e292b902bc11ecac3beb9b2ba397d34e709b414fff4fde96199619b2f45088) | Broomfield, CO | Summer 2022 | 10/18
-| [State Farm - Enterprise Research-Customer Experience
- (MS)](https://jobs.statefarm.com/main/jobs/22680?lang=en-us&iis=job%20board&iisn=LinkedIn) | Dunwoody, GA | Summer 2022 | 10/18
-| [State Farm - Enterprise Research-Customer Experience
- (MS)](https://jobs.statefarm.com/main/jobs/22680?lang=en-us&iis=job%20board&iisn=LinkedIn) | Dunwoody, GA | Summer 2022 | 10/18
+| [State Farm - Enterprise Research-Customer Experience (MS)](https://jobs.statefarm.com/main/jobs/22680?lang=en-us&iis=job%20board&iisn=LinkedIn) | Dunwoody, GA | Summer 2022 | 10/18
 | [WarnerMedia - CNN - Digital UX Research (BS)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047582EXTERNALENGLOBAL/Spring-2022-Intern-CNN-Digital-UX-Research?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Spring 2022 | 10/14
 | [WarnerMedia - Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000046994EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-Design?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/14
 | [Trimble - UX Research (BS)](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/UX-UI-Design-Intern--Summer-2022_R34729?source=Linkedin) | Westminister, CO | Summer 2022 | 10/14
