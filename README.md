@@ -304,6 +304,14 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [WarnerMedia - HBO Max UX Research](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047749EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-UX-Research?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Full Stack Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047743EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Full-Stack-Design?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Product Experience - Kids & Family](hhttps://warnermediacareers.com/global/en/job/WAMEGLOBALR000047752EXTERNALENGLOBAL/Virtual-HBO-Max-Product-Experience-Intern-Spring-2022-Kids-Family?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Design Management](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047783EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Design-Management?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Design Management, Infrastructure](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047953EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Design-Management-Infrastructure?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Full Stack Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047743EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Full-Stack-Design?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max CX Learning & Development](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047761EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-CX-Learning-Development?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY/Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047766EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Design-Program?utm_source=linkedin&utm_medium=phenom-feeds) | Burbank, CA/Remote | Spring 2022 | 10/19
 | [Workday - User Research](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/USA-CO-Boulder/UX-Researcher-Intern_JR-58852) | Boulder, CO | Summer 2022 | 10/18
 | [Workday - Product Design](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/USA-CA-Pleasanton/Product-Designer-Intern_JR-58674) | Atlanta, GA/Pleasantron, CA | Summer 2022 | 10/18
 | [Bose - User Research (BS)](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/User-Research-Intern_R21225?companyApplyUrl=%26Source%3DLinkedIn) | Framingham, MA | Summer 2022 | 10/18
