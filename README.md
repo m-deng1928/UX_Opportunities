@@ -304,9 +304,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Pegasystems - Pega Academy - UX Developer](https://www.pega.com/about/careers/15433/pega-academy-ux-developer-summer-intern) | Remote/Cambridge, MA | Summer 2022 | 10/20
+| [Pegasystems - UX Design](https://www.pega.com/about/careers/15422/ux-design-summer-intern) | Remote/Cambridge, MA | Summer 2022 | 10/20
 | [WarnerMedia - HBO Max UX Research](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047749EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-UX-Research?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
 | [WarnerMedia - HBO Max Full Stack Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047743EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Full-Stack-Design?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
-| [WarnerMedia - HBO Max Product Experience - Kids & Family](hhttps://warnermediacareers.com/global/en/job/WAMEGLOBALR000047752EXTERNALENGLOBAL/Virtual-HBO-Max-Product-Experience-Intern-Spring-2022-Kids-Family?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
+| [WarnerMedia - HBO Max Product Experience - Kids & Family](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047752EXTERNALENGLOBAL/Virtual-HBO-Max-Product-Experience-Intern-Spring-2022-Kids-Family?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
 | [WarnerMedia - HBO Max Design Management](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047783EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Design-Management?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
 | [WarnerMedia - HBO Max Design Management, Infrastructure](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047953EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Design-Management-Infrastructure?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
 | [WarnerMedia - HBO Max Full Stack Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047743EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-Full-Stack-Design?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
