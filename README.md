@@ -31,8 +31,18 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Waymo - UX Researcher (1 YoE/BS)](https://waymo.com/joinus/3559339/?gh_src=4f13ec551us) | Culver City, CA | 10/21
+| [Apple - UX Writer - Human Interface Design](https://jobs.apple.com/en-us/details/200251220/ux-writer-human-interface-design?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 10/21
+| [EA - Experience Designer (3 YoE)](https://ea.gr8people.com/jobs/168429/experience-designer?sid=4) | Vancouver, BC/Toronto, ON/Montreal, Quebec/Los Angeles, CA | 10/21
+| [Seat Geek - UX Researcher](https://boards.greenhouse.io/embed/job_app?token=3171238&gh_src=94e407181&s=LinkedIn&source=LinkedIn) | New York, NY | 10/21
+| [Snowflake - Product Designer, Growth](https://careers.snowflake.com/us/en/job/SNCOUS5622985002EXTERNALENUS/Product-Designer-Growth?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | San Mateo, CA | 10/21
+| [ServiceNow - Associate UX Researcher (BS)](https://jobs.smartrecruiters.com/ServiceNow/743999776772341-assoc-ux-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Santa Clara, CA | 10/21
+| [IBM - UX Researcher (3 YoE/BS)](https://careers.ibm.com/job/14018397/ux-researcher-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Raleigh, NC | 10/21
+| [American Express - Junior Product Designer](https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=9567776&utm_source=linkedin&utm_source=linkedin) | Atlanta, GA | 10/21
+| [Adobe - Associate Experience Designer (2 YoE)](https://adobe.wd5.myworkdayjobs.com/external_university/login?redirect=%2Fexternal_university%2Fjob%2FNew-York%2FAssociate-Experience-Designer--Photoshop_R115761%2Fapply%3Fsource%3DLinkedIn) | New York, NY | 10/21
+| [Epic Games - UI Artist (2 YoE)](https://boards.greenhouse.io/epicgames/jobs/4148687004?t=11c847f44us) | Cary, NC | 10/21
 | [Workday - Product Designer (New University Grad)](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/USA-CA-Pleasanton/Product-Designer--New-University-Graduate_JR-58654) | Atlanta, GA/Pleasanton, CA | 10/18
-| [Workday - UX Researcher (New University Grad)](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/USA-CA-Pleasanton/UX-Researcher--New-University-Graduate_JR-58846) | Pleasanton, CA | 10/18
+| [Workday - UX Researcher (New University Grad)(BS)](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/USA-CA-Pleasanton/UX-Researcher--New-University-Graduate_JR-58846) | Pleasanton, CA | 10/18
 | [Ford - Motion Visual Designer (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&jobId=550658#jobDetails=550658_5186) | Detroit, MI | 10/18
 | [SAP - UX Design Specialist (2 YoE)](https://jobs.sap.com/job/Newport-Beach-UX-Design-Specialist-CA-92660/707664501/) | Newport Beach, CA | 10/18
 | [WarnerMedia - UX/UI Designer](https://warnermediacareers.com/global/en/job/WAMEGLOBAL187391BREXTERNALENGLOBAL/UX-UI-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY | 10/14
@@ -304,6 +314,22 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [ADP - User Experience](https://jobs.adp.com/job/13999855/2021-fall-user-experience-intern-pasadena-ca/?rb=linkedinslot&utm_campaign=recruitics&utm_medium=job_slot&utm_source=linkedin&rx_c=corp_main&rx_campaign=Linkedin1&rx_ch=jobslot&rx_group=122442&rx_job=211143_13999855&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20211008T000612Z&rx_vp=jobslot&rx_viewer=15e292b902bc11ecac3beb9b2ba397d34e709b414fff4fde96199619b2f45088) | Pasadena, CA | Fall 2021 | 10/21
+| [WarnerMedia - CNN Digital Core News Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000048273EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-CNN-Digital-Core-News-Design?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY | Summer 2022 | 10/21
+| [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/5519525002) | Durham,NC | Summer 2022 | 10/21
+| [Red Hat - UX Producer](https://us-redhat.icims.com/jobs/90339/ux-producer-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | NC - Remote | Summer 2022 | 10/21
+| [Epic Games - UI Tools Programmer - Unreal Engine](https://boards.greenhouse.io/epicgames/jobs/4149499004?t=11c847f44us) | Montreal, Quebec | Summer 2022 | 10/21
+| [Epic Games - UI Tools Programmer - Fortnite](https://boards.greenhouse.io/epicgames/jobs/4137571004?t=11c847f44us) | Cary, NC | Summer 2022 | 10/21
+| [Epic Games - UX Design](https://boards.greenhouse.io/embed/job_app?token=4149307004&gh_src=11c847f44us&s=LinkedIn&source=LinkedIn) | Cary, NC | Summer 2022 | 10/21
+| [Epic Games - Technical UI Design](https://boards.greenhouse.io/epicgames/jobs/4149127004?t=11c847f44us) | Bellevue, WA | Summer 2022 | 10/21
+| [Epic Games - UX Design](https://boards.greenhouse.io/embed/job_app?token=4149307004&gh_src=11c847f44us&s=LinkedIn&source=LinkedIn) | Cary, NC | Summer 2022 | 10/21
+| [Epic Games - UX Programmer - Unreal](https://boards.greenhouse.io/embed/job_app?token=4149307004&gh_src=11c847f44us&s=LinkedIn&source=LinkedIn) | Cary, NC | Summer 2022 | 10/21
+| [NBCU - Local Stations Digital Design](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=553180&codes=LinkedIn#jobDetails=553180_5108) | Remote | Spring 2022 | 10/21
+| [Okta - UX Researcher, Auth0](https://www.okta.com/company/careers/product/user-research-intern-auth0-3569383/?gh_src=7j0um41) | Remote | Summer 2022 | 10/21
+| [Roku - UX Researcher, One View](https://www.roku.com/jobs/position/3578747/ux-researcher-intern-oneview?gh_jid=3578747) | San Jose, CA | Summer 2022 | 10/21
+| [Roku - UX Engineer](https://www.roku.com/jobs/position/3582767/ux-engineer-intern?gh_jid=3582767) | San Jose, CA | Summer 2022 | 10/21
+| [Duck Creek Technologies - UX](https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers/job/Boston-MA/UX-Intern_REQID52523-1) | Boston, MA/Basking Ridge, NJ | Summer 2022 | 10/21
+| [Alignment Healthcare - UX/UI](https://alignmenthealthcare.gr8people.com/jobs/3326/uiux-intern) | CA | Summer 2022 | 10/21
 | [Pegasystems - Pega Academy - UX Developer](https://www.pega.com/about/careers/15433/pega-academy-ux-developer-summer-intern) | Remote/Cambridge, MA | Summer 2022 | 10/20
 | [Pegasystems - UX Design](https://www.pega.com/about/careers/15422/ux-design-summer-intern) | Remote/Cambridge, MA | Summer 2022 | 10/20
 | [WarnerMedia - HBO Max UX Research](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000047749EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-HBO-Max-UX-Research?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Spring 2022 | 10/19
