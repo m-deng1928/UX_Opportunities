@@ -31,6 +31,16 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [New York Times - Product Designer - Associate (0-1 YoE)](https://boards.greenhouse.io/bubble/jobs/5344311002) | New York, NY | 10/25
+| [New York Times - Associate Product Designer - Publishing Tools (0-2 YoE)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Associate-Product-Designer--Publishing-Tools_REQ-011059-2?source=Linkedin) | New York, NY | 10/25
+| [Robinhood - Learning Experience Designer (3 YoE)](https://boards.greenhouse.io/robinhood/jobs/3309298?t=gh_src%3D&gh_jid=3309298&gh_src=ed898e781us&s=LinkedIn&source=LinkedIn) | Menlo Park, CA | 10/25
+| [Epic Games - UX Designer - Rocket League (3 YoE)](https://boards.greenhouse.io/embed/job_app?token=4138921004&gh_src=11c847f44us&s=LinkedIn&source=LinkedIn) | San Diego, CA | 10/25
+| [Activision - User Researcher (2-3 YoE/BS)](https://careers.activision.com/job/ACPUUSR009682EXTERNAL/User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | 10/25
+| [Cvent - UX Writer (2-4 YoE/BS)](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?bid=1&jid=556597&cid=6876&locvalue=1195) | Baltimore, MD | 10/25
+| [ADP - User Experience Researcher (entry level))](https://www.linkedin.com/jobs/view/2768134855/?refId=9c735a67-6134-45af-ab09-d81b1167534f&trk=flagship3_job_home_savedjobs) | Roseland, NJ | 10/25
+| [2U - UX Researcher, University Operations (2-4 YoE)](https://boards.greenhouse.io/2u/jobs/5647557002) | Langham, MD/Denver, CO/New York, NY | 10/25
+| [Silicon Valley Bank - User Researcher, Product Design (3 YoE/advanced degree - NICE TO HAVE NOT REQUIRED)](https://svb.wd5.myworkdayjobs.com/en-US/svbank/job/San-Francisco-CA/User-Researcher--Product-Design_12637-1?SID=38) | CA...and 20+ locations | 10/25
+| [Epic Games - UX Analyst (Contractor)](https://boards.greenhouse.io/embed/job_app?token=4148772004&gh_src=11c847f44us&s=LinkedIn&source=LinkedIn) | Cary, NC | 10/25
 | [Waymo - UX Researcher (1 YoE/BS)](https://waymo.com/joinus/3559339/?gh_src=4f13ec551us) | Culver City, CA | 10/21
 | [Apple - UX Writer - Human Interface Design](https://jobs.apple.com/en-us/details/200251220/ux-writer-human-interface-design?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 10/21
 | [EA - Experience Designer (3 YoE)](https://ea.gr8people.com/jobs/168429/experience-designer?sid=4) | Vancouver, BC/Toronto, ON/Montreal, Quebec/Los Angeles, CA | 10/21
@@ -292,6 +302,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Boston Consulting Group - Platinion Experience Design](https://careers.bcg.com/job/10046222/BCG-Platinion-Experience-Design-Intern-Summer-2022) | New York, NY/Seattle, WA/San Francisco, CA/Pittsburgh, PA | Summer 2022 | 10/25
+| [Google - User Experience Engineer](https://careers.google.com/jobs/results/124725616827081414/) | Mountain View, CA/Atlanta, GA/Austin,TX | Summer 2022 | 10/25
+| [Google - User Experience Researcher (PhD)](https://careers.google.com/jobs/results/82068413960069830/) | Mountain View, CA/Atlanta, GA/Austin,TX | Summer 2022 | 10/25
+| [Google - User Experience Researcher (MS)](https://careers.google.com/jobs/results/115836615072326342/) | Mountain View, CA/Atlanta, GA/Austin,TX | Summer 2022 | 10/25
+| [Google - User Experience Design](https://careers.google.com/jobs/results/114392406549242566-user-experience-design-intern-summer-2022/?company=Google&company=YouTube&q=ux%20intern) | Mountain View, CA/Atlanta, GA/Austin,TX | Summer 2022 | 10/25
+| [WarnerMedia - Turner Sports UX Research (BS)](https://warnermediacareers.com/global/en/job/R000046600/Spring-2022-Virtual-Intern-Turner-Sports-UX-Research) | Remote/New York, NY | Spring 2022 | 10/25
 | [ADP - User Experience](https://jobs.adp.com/job/13999855/2021-fall-user-experience-intern-pasadena-ca/?rb=linkedinslot&utm_campaign=recruitics&utm_medium=job_slot&utm_source=linkedin&rx_c=corp_main&rx_campaign=Linkedin1&rx_ch=jobslot&rx_group=122442&rx_job=211143_13999855&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20211008T000612Z&rx_vp=jobslot&rx_viewer=15e292b902bc11ecac3beb9b2ba397d34e709b414fff4fde96199619b2f45088) | Pasadena, CA | Fall 2021 | 10/21
 | [WarnerMedia - CNN Digital Core News Design](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000048273EXTERNALENGLOBAL/Spring-2022-Virtual-Intern-CNN-Digital-Core-News-Design?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY | Summer 2022 | 10/21
 | [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/5519525002) | Durham,NC | Summer 2022 | 10/21
