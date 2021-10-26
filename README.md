@@ -31,7 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [New York Times - Product Designer - Associate (0-1 YoE)](https://boards.greenhouse.io/bubble/jobs/5344311002) | New York, NY | 10/25
+| [Bubble - Product Designer - Associate (0-1 YoE)](https://boards.greenhouse.io/bubble/jobs/5344311002) | New York, NY | 10/25
 | [New York Times - Associate Product Designer - Publishing Tools (0-2 YoE)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Associate-Product-Designer--Publishing-Tools_REQ-011059-2?source=Linkedin) | New York, NY | 10/25
 | [Robinhood - Learning Experience Designer (3 YoE)](https://boards.greenhouse.io/robinhood/jobs/3309298?t=gh_src%3D&gh_jid=3309298&gh_src=ed898e781us&s=LinkedIn&source=LinkedIn) | Menlo Park, CA | 10/25
 | [Epic Games - UX Designer - Rocket League (3 YoE)](https://boards.greenhouse.io/embed/job_app?token=4138921004&gh_src=11c847f44us&s=LinkedIn&source=LinkedIn) | San Diego, CA | 10/25
