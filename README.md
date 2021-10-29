@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [WP Engine - Product Designer (2 YoE)](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/Product-Designer_JR100933-1?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job&source=Linkedin) | Austin, TX | 10/28
+| [Blue Apron - Digital Product Designer - New CUstomer Experience](https://us60.dayforcehcm.com/CandidatePortal/en-US/blueapron/Site/86638/Posting/View/173) | New York, NY | 10/28
+| [Fisher Investments - UX Designer (3-5 YoE)](https://www.fishercareers.com/jobs/7517384-ux-designer?site_type=US&bid=370) | Plano, TX | 10/28
 | [Bubble - Product Designer - Associate (0-1 YoE)](https://boards.greenhouse.io/bubble/jobs/5344311002) | New York, NY | 10/25
 | [New York Times - Associate Product Designer - Publishing Tools (0-2 YoE)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Associate-Product-Designer--Publishing-Tools_REQ-011059-2?source=Linkedin) | New York, NY | 10/25
 | [Robinhood - Learning Experience Designer (3 YoE)](https://boards.greenhouse.io/robinhood/jobs/3309298?t=gh_src%3D&gh_jid=3309298&gh_src=ed898e781us&s=LinkedIn&source=LinkedIn) | Menlo Park, CA | 10/25
@@ -302,6 +305,15 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Bill.com - Product Content Design](https://jobs.lever.co/bill/4f63ad01-1664-4428-8d69-fd49ae3a00f8?lever-source=LinkedInJobs) | San Jose, CA | Summer 2022 | 10/28
+| [Bungie - Visual Design](https://careers.bungie.com/jobs/3586167/visual-design-intern) | Bellevue, WA | Summer 2022 | 10/28
+| [Playstation - Motion Design](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3497881/?t=b8y5ha&s=LinkedIn&source=LinkedIn) | San Diego, CA | Summer 2022 | 10/28
+| [P97 Networks - Product Design](https://p97.com/careers-at-p97/?gnk=job&gni=8a7885ac7c9482b5017cbeba8b5a24c0&gns=LinkedIn%2BLimited) | Houston, TX | Summer 2022 | 10/28
+| [MFA Oil Company - UX Design](https://corporate-mfaoil.icims.com/jobs/11879/ux-design-intern/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=992&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | Columbia, MO | Summer 2022 | 10/28
+| [Anthem - Product Design - Graduate](https://anthemcareers.ttcportals.com/jobs/7758848-product-design-intern-ii-graduate-level?tm_job=PS59761&tm_event=view&tm_company=2522&bid=56) | New York, NY | Summer 2022 | 10/28
+| [Roku - UX Product Designer](https://www.roku.com/jobs/position/3606088/ux-product-designer-intern?gh_jid=3606088) | San Jose, CA | Summer 2022 | 10/28
+| [Roku - UX Product Design - Interaction Design](https://www.roku.com/jobs/position/3597415/ux-product-design-intern-interaction-design?gh_jid=3597415) | San Jose, CA | Summer 2022 | 10/28
+| [Addepar - Product Design](https://boards.greenhouse.io/addepar1/jobs/5657198002?gh_src=31a4a9852&s=LinkedIn&source=LinkedIn) | Los Angeles, CA | Summer 2022 | 10/28
 | [Boston Consulting Group - Platinion Experience Design](https://careers.bcg.com/job/10046222/BCG-Platinion-Experience-Design-Intern-Summer-2022) | New York, NY/Seattle, WA/San Francisco, CA/Pittsburgh, PA | Summer 2022 | 10/25
 | [Google - User Experience Engineer](https://careers.google.com/jobs/results/124725616827081414/) | Mountain View, CA/Atlanta, GA/Austin,TX | Summer 2022 | 10/25
 | [Google - User Experience Researcher (PhD)](https://careers.google.com/jobs/results/82068413960069830/) | Mountain View, CA/Atlanta, GA/Austin,TX | Summer 2022 | 10/25
