@@ -305,6 +305,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Adobe - Experience Research Intern (AD Research and Strategy)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Research-Intern--AD-Research-and-Strategy-_R116777) | San Jose, CA | Summer 2022 | 10/28
 | [Bill.com - Product Content Design](https://jobs.lever.co/bill/4f63ad01-1664-4428-8d69-fd49ae3a00f8?lever-source=LinkedInJobs) | San Jose, CA | Summer 2022 | 10/28
 | [Bungie - Visual Design](https://careers.bungie.com/jobs/3586167/visual-design-intern) | Bellevue, WA | Summer 2022 | 10/28
 | [Playstation - Motion Design](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3497881/?t=b8y5ha&s=LinkedIn&source=LinkedIn) | San Diego, CA | Summer 2022 | 10/28
