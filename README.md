@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [EA - UI Technical Designer (Skate)(2 YoE)](https://ea.gr8people.com/jobs/167344/ui-technical-designer-skate?sid=4) | Vancouver, BC/Los Angeles, CA/Orlando, FL/Austin, TX/Seattle, WA/Pasadena, CA/Redwood City, CA | 11/3
+| [Palantir - Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | New York, NY | 11/3
+| [Palantir - Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | New York, NY | 11/3
 | [WP Engine - Product Designer (2 YoE)](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/Product-Designer_JR100933-1?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job&source=Linkedin) | Austin, TX | 10/28
 | [Blue Apron - Digital Product Designer - New CUstomer Experience](https://us60.dayforcehcm.com/CandidatePortal/en-US/blueapron/Site/86638/Posting/View/173) | New York, NY | 10/28
 | [Fisher Investments - UX Designer (3-5 YoE)](https://www.fishercareers.com/jobs/7517384-ux-designer?site_type=US&bid=370) | Plano, TX | 10/28
@@ -280,6 +283,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Treyarch - UI/UX](https://careers.treyarch.com/job/TREYUSR010142EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | Summer 2022 | 11/3
+| [Proofpoint - Visual Product Design (MS)](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Visual-Product-Designer-Summer-Intern---Undergrad_R6514?source=LinkedIn) | Sunnyvale, CA | Summer 2022 | 11/3
+| [Uber - Product Design - Uber Freight)](https://university-uber.icims.com/jobs/109180/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=109180&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20211029T180347Z&rx_viewer=15e292b902bc11ecac3beb9b2ba397d34e709b414fff4fde96199619b2f45088&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | San Francisco, CA | Winter 2022 | 11/3
+| [Verizon - Experience Design)](https://jobs.verizon.com/jobs/7882515-experience-design-summer-2022-internship?tm_job=583381-1A&tm_event=view&tm_company=781&bid=370&CID=oso_LinkedIn_LinkedInWraps&utm_source=LinkedIn&utm_medium=paidsocial&utm_campaign=LinkedInWraps&dclid=CP-nhMze_fMCFWTA9gIdIG4HoQ) | New York, NY | Summer 2022 | 11/3
+| [Paypal - UX Research)](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Chicago-Illinois-United-States-of-America/UX-Research-Intern_R0081369/) | Chicago, IL | Summer 2022 | 11/3
 | [Adobe - Experience Research Intern (AD Research and Strategy)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Research-Intern--AD-Research-and-Strategy-_R116777) | San Jose, CA | Summer 2022 | 10/28
 | [Bill.com - Product Content Design](https://jobs.lever.co/bill/4f63ad01-1664-4428-8d69-fd49ae3a00f8?lever-source=LinkedInJobs) | San Jose, CA | Summer 2022 | 10/28
 | [Bungie - Visual Design](https://careers.bungie.com/jobs/3586167/visual-design-intern) | Bellevue, WA | Summer 2022 | 10/28
