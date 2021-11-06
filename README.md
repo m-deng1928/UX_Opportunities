@@ -283,6 +283,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Bill.com - Product Design](https://jobs.lever.co/bill/b29ab898-1000-4539-91f3-fc19f927cc2b?lever-source=LinkedInJobs) | San Jose | Summer 2022 | 11/6
+| [Yahoo - Product Design](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Baltimore/Product-Design-Intern_JR0017821?source=Linkedin) | Baltimore, MD/Dulles, VA | Summer 2022 | 11/6
 | [Treyarch - UI/UX](https://careers.treyarch.com/job/TREYUSR010142EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | Summer 2022 | 11/3
 | [Proofpoint - Visual Product Design (MS)](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Visual-Product-Designer-Summer-Intern---Undergrad_R6514?source=LinkedIn) | Sunnyvale, CA | Summer 2022 | 11/3
 | [Uber - Product Design - Uber Freight)](https://university-uber.icims.com/jobs/109180/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=109180&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20211029T180347Z&rx_viewer=15e292b902bc11ecac3beb9b2ba397d34e709b414fff4fde96199619b2f45088&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | San Francisco, CA | Winter 2022 | 11/3
