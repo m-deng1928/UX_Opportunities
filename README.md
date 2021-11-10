@@ -31,6 +31,16 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Honey - Product Designer, Web Platform](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles-California-United-States-of-America/Product-Designer---Extension-Platform_R0068914?Codes=W-LINKEDIN) | Los Angeles, CA | 11/9
+| [Disney - Designer (0-1 YoE)](https://jobs.disneycareers.com/job/-/-/391/19819144?cid=14187) | Burbank, CA | 11/9
+| [Playstation - Game UI/UX Designer (2 YoE)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3603311/?t=b8y5ha&s=LinkedIn&source=LinkedIn) | San Mateo, CA | 11/9
+| [Newsela - Associate User Experience Researcher (2 YoE)](https://boards.greenhouse.io/newsela/jobs/3610263?gh_src=080f75f71us&s=LinkedIn&source=LinkedIn) | San Diego, CA | 11/9
+| [Blackrock - Associate Product Designer](https://careers.blackrock.com/job/14252543/associate-product-designer-atlanta-ga/?source=12748) | Atlanta, GA | 11/9
+| [Samsung - Interaction Designer - E&I](https://boards.greenhouse.io/embed/job_app?token=5129777002&gh_src=015b5d0c2us) | New York, NY | 11/9
+| [Bloomberg - Product Designer I](https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Product-Designer---1_97038) | Arlington, VA | 11/9
+| [Buzzfeed - Product Designer](https://boards.greenhouse.io/buzzfeed/jobs/3544552?gh_jid=3544552) | New York, NY | 11/9
+| [EA - UX Researcher - Apex Legends Mobile (2 YoE)](https://ea.gr8people.com/jobs/168432/ux-researcher-apex-legends-mobile) | Vancouver, BC/Los Angeles, CA/Orlando, FL/Redwood City, CA | 11/9
+| [EA - UX Researcher - FIFA (2 YoE)](https://ea.gr8people.com/jobs/166929/associate-ux-researcher-fifa) | Ontario, CA | 11/9
 | [EA - UI Technical Designer (Skate)(2 YoE)](https://ea.gr8people.com/jobs/167344/ui-technical-designer-skate?sid=4) | Vancouver, BC/Los Angeles, CA/Orlando, FL/Austin, TX/Seattle, WA/Pasadena, CA/Redwood City, CA | 11/3
 | [Palantir - Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | New York, NY | 11/3
 | [WP Engine - Product Designer (2 YoE)](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/Product-Designer_JR100933-1?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job&source=Linkedin) | Austin, TX | 10/28
@@ -252,6 +262,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [San Francisco Chronicle - Digital Design](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014058?utm_medium=jobshare) | San Francisco, CA | Summer 2022 | 11/9
+| [Proofpoint - Visual Product Designer (MS)](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/Visual-Product-Designer-Summer-Intern---Undergrad_R6514?source=LinkedIn) | Sunnyvale, CA | Summer 2022 | 11/9
+| [Reddit - Product Design](https://boards.greenhouse.io/reddit/jobs/3605321?gh_src=8a8a4d8a1us) | Remote | Summer 2022 | 11/9
 | [Bill.com - Product Design](https://jobs.lever.co/bill/b29ab898-1000-4539-91f3-fc19f927cc2b?lever-source=LinkedInJobs) | San Jose | Summer 2022 | 11/6
 | [Yahoo - Product Design](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Baltimore/Product-Design-Intern_JR0017821?source=Linkedin) | Baltimore, MD/Dulles, VA | Summer 2022 | 11/6
 | [Treyarch - UI/UX](https://careers.treyarch.com/job/TREYUSR010142EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | Summer 2022 | 11/3
