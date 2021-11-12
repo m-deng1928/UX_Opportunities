@@ -262,6 +262,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Chan Zuckerburg Initiative - UX Research, Patient-Driven Research](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/3581884?gh_jid=3581884) | Redwood City, CA | Summer 2022 | 11/11
 | [San Francisco Chronicle - Digital Design](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014058?utm_medium=jobshare) | San Francisco, CA | Summer 2022 | 11/9
 | [Proofpoint - Visual Product Designer (MS)](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/Visual-Product-Designer-Summer-Intern---Undergrad_R6514?source=LinkedIn) | Sunnyvale, CA | Summer 2022 | 11/9
 | [Reddit - Product Design](https://boards.greenhouse.io/reddit/jobs/3605321?gh_src=8a8a4d8a1us) | Remote | Summer 2022 | 11/9
