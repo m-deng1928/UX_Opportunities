@@ -31,6 +31,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Lyft - User Experience Researcher](https://www.linkedin.com/jobs/view/2786761592/?refId=bu2UetQOROupBluQPcIHEQ%3D%3D) | Remote | 11/11
+| [Microsoft - UX Designer, Azure Cloud Design Studio (1-2 YoE)](https://careers.microsoft.com/us/en/job/1198813/UX-Designer-1-Cloud-Design-Studio) | Atlanta, GA | 11/11
+| [Microsoft - UX Researcher, Azure Cloud Design Studio (1 YoE, BS)](https://careers.microsoft.com/us/en/job/1193180/UX-Researcher-Azure-Cloud-Design-Studio) | Redmond, WA | 11/11
+| [Microsoft - Designer I (2 YoE)](https://careers.microsoft.com/us/en/job/1193005/Designer-1) | Vancouver, CA | 11/11
 | [Honey - Product Designer, Web Platform](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles-California-United-States-of-America/Product-Designer---Extension-Platform_R0068914?Codes=W-LINKEDIN) | Los Angeles, CA | 11/9
 | [Disney - Designer (0-1 YoE)](https://jobs.disneycareers.com/job/-/-/391/19819144?cid=14187) | Burbank, CA | 11/9
 | [Playstation - Game UI/UX Designer (2 YoE)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3603311/?t=b8y5ha&s=LinkedIn&source=LinkedIn) | San Mateo, CA | 11/9
