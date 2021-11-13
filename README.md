@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Disney - UX Research Coordinator (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/19812642?cid=14187) | New York, NY | 11/13
+| [Blizzard - UI Implementation Designer](https://careers.blizzard.com/global/en/job/BLENGLOBALR010440EXTERNALENGLOBAL/UI-Implementation-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 11/13
+| [Disney - UX Research Coordinator (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/19812642?cid=14187) | New York, NY | 11/13
 | [Lyft - User Experience Researcher](https://www.linkedin.com/jobs/view/2786761592/?refId=bu2UetQOROupBluQPcIHEQ%3D%3D) | Remote | 11/11
 | [Microsoft - UX Designer, Azure Cloud Design Studio (1-2 YoE)](https://careers.microsoft.com/us/en/job/1198813/UX-Designer-1-Cloud-Design-Studio) | Atlanta, GA | 11/11
 | [Microsoft - UX Researcher, Azure Cloud Design Studio (1 YoE, BS)](https://careers.microsoft.com/us/en/job/1193180/UX-Researcher-Azure-Cloud-Design-Studio) | Redmond, WA | 11/11
@@ -266,6 +269,18 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Adobe - Experience Design (Adobe Spark)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Design-Intern--Adobe-Spark-_R117950) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - Experience Design (Brand)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022--Intern---Experience-Design-Intern--Brand-_R117958) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - Experience Design (Creative Cloud Services)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Design-Intern--Creative-Cloud-Services-_R117947) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - Experience Design (DX Content/Commerce))](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Design-Intern--Experience-Cloud-_R116781) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - Experience Design (DX))](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Experience-Design-Intern--Experience-Cloud_R116494?p=6) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - Experience Design (DX Unified Experience))](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Design-Intern--Experience-Cloud-_R116606) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - UX Research, 3D/AI](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Research-Intern--AD-Research-and-Strategy-_R116780) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - UX Research, International Research](https://adobe.wd5.myworkdayjobs.com/external_university/job/Remote-California/Experience-Research-Intern_R116779?source=LinkedIn) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - UX Research, 3D/AI](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Research-Intern--AD-Research-and-Strategy-_R116780) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - UX Content Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---UX-Content-Strategy_R117834) | San Jose, CA | Summer 2022 | 11/13
+| [Adobe - UX Research, Marketing](https://adobe.wd5.myworkdayjobs.com/external_university/job/San-Jose/XMLNAME-2022-University-Intern---Marketing-Research_R117744?source=LinkedIn) | San Jose, CA | Summer 2022 | 11/13
+| [Chan Zuckerburg Initiative - UX Research, Single-cell](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/3581890?gh_jid=3581890) | Redwood City, CA | Summer 2022 | 11/11
 | [Chan Zuckerburg Initiative - UX Research, Patient-Driven Research](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/3581884?gh_jid=3581884) | Redwood City, CA | Summer 2022 | 11/11
 | [San Francisco Chronicle - Digital Design](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014058?utm_medium=jobshare) | San Francisco, CA | Summer 2022 | 11/9
 | [Proofpoint - Visual Product Designer (MS)](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/Visual-Product-Designer-Summer-Intern---Undergrad_R6514?source=LinkedIn) | Sunnyvale, CA | Summer 2022 | 11/9
