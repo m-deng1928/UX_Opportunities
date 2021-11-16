@@ -32,7 +32,7 @@ New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
 | [Affirm - User Researcher (2-5 YoE)](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
-| [Microsoft - Design Researcher (1 YoE, BShttps://boards.greenhouse.io/okcoin/jobs/4814542003?gh_src=b3259a3d3us)](https://careers.microsoft.com/us/en/job/1207770/Design-Researcher-1?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Remote | 11/15
+| [Microsoft - Design Researcher (1 YoE, BS)](https://careers.microsoft.com/us/en/job/1207770/Design-Researcher-1?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Remote | 11/15
 | [Okcoin - UX Researcher, Learn](https://boards.greenhouse.io/okcoin/jobs/4814542003?gh_src=b3259a3d3us) | Remote | 11/15
 | [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
 | [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
