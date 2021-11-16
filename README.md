@@ -31,6 +31,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Affirm - User Researcher (2-5 YoE)](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
+| [Microsoft - Design Researcher (1 YoE, BShttps://boards.greenhouse.io/okcoin/jobs/4814542003?gh_src=b3259a3d3us)](https://careers.microsoft.com/us/en/job/1207770/Design-Researcher-1?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Remote | 11/15
+| [Okcoin - UX Researcher, Learn](https://boards.greenhouse.io/okcoin/jobs/4814542003?gh_src=b3259a3d3us) | Remote | 11/15
+| [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
+| [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
+| [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
 | [Disney - UX Research Coordinator (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/19812642?cid=14187) | New York, NY | 11/13
 | [Blizzard - UI Implementation Designer](https://careers.blizzard.com/global/en/job/BLENGLOBALR010440EXTERNALENGLOBAL/UI-Implementation-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 11/13
 | [Lyft - User Experience Researcher](https://www.linkedin.com/jobs/view/2786761592/?refId=bu2UetQOROupBluQPcIHEQ%3D%3D) | Remote | 11/11
@@ -256,6 +262,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Disney - Product Design, Disney Animation](https://jobs.disneycareers.com/job/burbank/product-design-internship-disney-animation-summer-2022/391/19826017?cid=13057) | Burbank | Summer 2022 | 11/15
+| [Lovepop - Product Research](https://jobs.lever.co/lovepopcards/e6db1b62-c145-4141-9665-d327eb234308?lever-source=LinkedInJobs) | Boston, MA (Remote) | Spring 2022 | 11/15
 | [Adobe - Experience Design (Adobe Spark)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Design-Intern--Adobe-Spark-_R117950) | San Jose, CA | Summer 2022 | 11/13
 | [Adobe - Experience Design (Brand)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022--Intern---Experience-Design-Intern--Brand-_R117958) | San Jose, CA | Summer 2022 | 11/13
 | [Adobe - Experience Design (Creative Cloud Services)](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/XMLNAME-2022-Intern---Experience-Design-Intern--Creative-Cloud-Services-_R117947) | San Jose, CA | Summer 2022 | 11/13
