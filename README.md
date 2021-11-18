@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Lemonade - UX Writer (3 YoE)](https://makers.lemonade.com/recipe/ux-writer-soho-new-york) | Soho, NY | 11/17
 | [Spotify - Product Designer, Royalties & Reporting](https://jobs.lever.co/spotify/9ce5618e-0023-4e6b-8973-9d9bc8438a28/apply?lever-source=LinkedIn) | New York, NY | 11/17
 | [Spotify - Product Designer,Insights Platform (2 YoE)](https://jobs.lever.co/spotify/58807de5-94d4-4049-b968-a672f272e618/apply?lever-source=LinkedIn) | New York, NY | 11/17
 | [Spotify - User Researcher - Talk](https://jobs.lever.co/spotify/ea44b52f-3189-43f0-85a6-59a1abe6b057/apply?lever-source=LinkedIn) | New York, NY | 11/17
