@@ -31,14 +31,16 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Spotify - Product Designer, Royalties & Reporting](https://jobs.lever.co/spotify/9ce5618e-0023-4e6b-8973-9d9bc8438a28/apply?lever-source=LinkedIn) | New York, NY | 11/17
+| [Spotify - Product Designer,Insights Platform (2 YoE)](https://jobs.lever.co/spotify/58807de5-94d4-4049-b968-a672f272e618/apply?lever-source=LinkedIn) | New York, NY | 11/17
+| [Spotify - User Researcher - Talk](https://jobs.lever.co/spotify/ea44b52f-3189-43f0-85a6-59a1abe6b057/apply?lever-source=LinkedIn) | New York, NY | 11/17
+| [New Relic - Associate Product Designer](https://jobs.jobvite.com/newrelic/job/ocjwhfw2/apply) | Portland, OR/Los Angeles, CA/Detroit, MI/Chicago, IL/Miami, FL/Houston, TX/Memphis, TN | 11/17
 | [New Relic - Associate Product Designer](https://jobs.jobvite.com/newrelic/job/ocjwhfw2/apply) | Portland, OR/Los Angeles, CA/Detroit, MI/Chicago, IL/Miami, FL/Houston, TX/Memphis, TN | 11/17
 | [Rockstar Games - Associate UX/UI Designer](https://boards.greenhouse.io/rockstargames/jobs/4815838003?s=LinkedIn&source=LinkedIn) | Manhattan, NY | 11/17
 | [WillowTree - Product Designer - New Grad](https://boards.greenhouse.io/willowtree/jobs/5525512002?s=LinkedIn&source=LinkedIn) | Charlottesville, VA; Columbus, OH; Durham, NC | 11/17
 | [Affirm - User Researcher (2-5 YoE)](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
 | [Microsoft - Design Researcher (1 YoE, BS)](https://careers.microsoft.com/us/en/job/1207770/Design-Researcher-1?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Remote | 11/15
 | [Okcoin - UX Researcher, Learn](https://boards.greenhouse.io/okcoin/jobs/4814542003?gh_src=b3259a3d3us) | Remote | 11/15
-| [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
-| [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
 | [Affirm - User Researcher](https://boards.greenhouse.io/affirm/jobs/4809571003?gh_src=689c81d53us&s=LinkedIn&source=LinkedIn) | Remote | 11/15
 | [Disney - UX Research Coordinator (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/19812642?cid=14187) | New York, NY | 11/13
 | [Blizzard - UI Implementation Designer](https://careers.blizzard.com/global/en/job/BLENGLOBALR010440EXTERNALENGLOBAL/UI-Implementation-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 11/13
