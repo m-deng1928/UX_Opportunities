@@ -268,6 +268,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Substantial - UX Design/Research](https://www.linkedin.com/jobs/view/2801953190/?trk=eml-sjr-top-apply-cta&midToken=AQGARqwuXGemPg&midSig=1PEBmfErwKpG01&trkEmail=eml-email_jobs_saved_job_reminder_01-null-0-mercado_redesign-null-a9ad28%7Ekw6qrbx9%7Exp-null-jobs%7Eview) | Remote | Summer 2022 | 11/20
 | [Hashicorp - UX Design](https://www.hashicorp.com/job/3661043?gh_src=a8bc2ad21) | Remote | Summer 2022 | 11/17
 | [Integral Ad Science - UX Research](https://ats.comparably.com/api/v1/gh/integraladscience/jobs/3623191?gh_jid=3623191&gh_src=6e382d8d1us) | Burbank | Summer 2022 | 11/17
 | [Disney - Product Design, Disney Animation](https://jobs.disneycareers.com/job/burbank/product-design-internship-disney-animation-summer-2022/391/19826017?cid=13057) | Burbank | Summer 2022 | 11/15
