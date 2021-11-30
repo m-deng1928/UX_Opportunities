@@ -31,6 +31,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [FIGS - Jr Product Designer](https://www.linkedin.com/jobs/view/2805496924/?refId=2cdc0e6f-7af0-432d-a994-945d18771d5b&trk=flagship3_job_home_savedjobs) | Santa Monica, CA | 11/29
+| [One Relic - Product Designer - East Coast (2 YoE)](https://jobs.jobvite.com/careers/newrelic/job/oZbHhfwS/apply?__jvst=Job+Board&__jvsd=LinkedIn) | Boston, MA - Remote | 11/29
+| [Color - User Researcher, Core Experiences (3 YoE)](https://jobs.lever.co/color/e34de586-d030-4a2c-ac04-2878997ee64e?lever-source=LinkedInJobs) | Boston, MA - Remote | 11/29
+| [Color - Product Designer - East Coast (2 YoE)](https://jobs.lever.co/color/5dde7ead-268c-455c-9bd7-f462d4ff4f31) | Seattle, WA | 11/29
+| [UBS - Digital Lab - Product Designer](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5012&jobid=243593&codes=ILINKEDIN#jobDetails=243593_5012) | New York, NY | 11/29
 | [Playstation - User Experience Researcher](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3682732/?t=b8y5ha&s=LinkedIn&source=LinkedIn) | Burbank, CA | 11/22
 | [One Medical - Product Designer](https://www.onemedical.com/careers/all-departments/3569362/?gh_src=e4ae61d71) | Remote | 11/22
 | [Facebook - UX Researcher (Ads & Business Platform)](https://www.facebookcareers.com/jobs/352080532131682/) | Seattle, WA | 11/22
@@ -237,6 +242,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [NVIDIA - UX Design Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Summer-2022_JR1949264-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Summer 2022 | 11/29
 | [Disney - Web & Digital Design](https://jobs.disneycareers.com/job/burbank/web-and-digital-design-intern-disney-animation-summer-2022/391/19829838?cid=13057) | Burbank, CA | Summer 2022 | 11/22
 | [Substantial - UX Design/Research](https://www.linkedin.com/jobs/view/2801953190/?trk=eml-sjr-top-apply-cta&midToken=AQGARqwuXGemPg&midSig=1PEBmfErwKpG01&trkEmail=eml-email_jobs_saved_job_reminder_01-null-0-mercado_redesign-null-a9ad28%7Ekw6qrbx9%7Exp-null-jobs%7Eview) | Remote | Summer 2022 | 11/20
 | [Hashicorp - UX Design](https://www.hashicorp.com/job/3661043?gh_src=a8bc2ad21) | Remote | Summer 2022 | 11/17
