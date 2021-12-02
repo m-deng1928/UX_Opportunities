@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Sovos - UX Designer](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=565164&locvalue=1147&bid=1) | Boulder, CO | 12/1
 | [FIGS - Jr Product Designer](https://www.linkedin.com/jobs/view/2805496924/?refId=2cdc0e6f-7af0-432d-a994-945d18771d5b&trk=flagship3_job_home_savedjobs) | Santa Monica, CA | 11/29
 | [One Relic - Product Designer - East Coast (2 YoE)](https://jobs.jobvite.com/careers/newrelic/job/oZbHhfwS/apply?__jvst=Job+Board&__jvsd=LinkedIn) | Boston, MA - Remote | 11/29
 | [Color - User Researcher, Core Experiences (3 YoE)](https://jobs.lever.co/color/e34de586-d030-4a2c-ac04-2878997ee64e?lever-source=LinkedInJobs) | Boston, MA - Remote | 11/29
@@ -242,6 +243,15 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Andersen - Product Design](https://andersencareers.com/ShowJob/Id/3147129/Product-Design-Intern/) | Bayport, MN | Summer 2022 | 12/1
+| [Axon - XR Product Design](https://boards.greenhouse.io/axon/jobs/4795542003?gh_src=cdbb51d93us&s=LinkedIn&source=LinkedIn) | Scottsdale, AZ | Summer 2022 | 12/1
+| [PEAK6 - Product Design](https://careers.peak6.com/jobs/campus/chicago-il/product-design-intern-summer-2022-internship/3654593?gh_jid=3654593) | Chicago, IL | Summer 2022 | 12/1
+| [PagerDuty - CAP Product Design](https://boards.greenhouse.io/pagerduty/jobs/4102863004?s=LinkedIn&source=LinkedIn) | Remote | Winter 2022 | 12/1
+| [ForeFlight - Product Design](https://boards.greenhouse.io/foreflight/jobs/4824713003?gh_src=d018b09f3us) | Austin, TX | Summer 2022 | 12/1
+| [Cosm - Product Design](https://www.cosm.com/careers/positions/?gh_jid=4825097003) | New York, NY | Summer 2022 | 12/1
+| [PEAK6 - Product Design](https://careers.peak6.com/jobs/campus/chicago-il/product-design-intern-summer-2022-internship/3654593?gh_jid=3654593) | Chicago, IL | Summer 2022 | 12/1
+| [UIPath - Product Design](https://jobs.lever.co/uipath/bde66486-a4ca-41c5-a5e0-207fa56dbcc0?lever-source=LinkedInJobs) | Bellevue, WA | Summer 2022 | 12/1
+| [Zendesk - Product Design](https://jobs.zendesk.com/us/en/job/ZENDUSR18976EXTERNALENUS/Product-Design-Intern?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedIn) | Remote | Summer 2022 | 12/1
 | [NVIDIA - UX Design Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Design-Cloud-Intern---Summer-2022_JR1949264-1%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Summer 2022 | 11/29
 | [Disney - Web & Digital Design](https://jobs.disneycareers.com/job/burbank/web-and-digital-design-intern-disney-animation-summer-2022/391/19829838?cid=13057) | Burbank, CA | Summer 2022 | 11/22
 | [Substantial - UX Design/Research](https://www.linkedin.com/jobs/view/2801953190/?trk=eml-sjr-top-apply-cta&midToken=AQGARqwuXGemPg&midSig=1PEBmfErwKpG01&trkEmail=eml-email_jobs_saved_job_reminder_01-null-0-mercado_redesign-null-a9ad28%7Ekw6qrbx9%7Exp-null-jobs%7Eview) | Remote | Summer 2022 | 11/20
