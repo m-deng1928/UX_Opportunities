@@ -31,6 +31,24 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Mercedes Benz - Interaction Designer](https://jobs.lever.co/MBRDNA/416007bf-da6e-4450-a00d-212ad80682b8) | Sunnyvale, CA | 12/3
+| [Square - UX Researcher, Restaurants (3 YoE)](https://jobs.smartrecruiters.com/Square/743999790143800-ux-researcher-restaurants?source=Linkedin) | Santa Monica, CA | 12/3
+| [Disney - Multimedia Designer](https://jobs.disneycareers.com/job/-/-/391/19837041?cid=14187) | Glendale, CA | 12/3
+| [Gensler - Design Analyst (Design Strategist Development Program)](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Design-Analyst--Design-Strategist-Development-Program----United-States_R-5929?source=Social+Media+%E2%80%93+LinkedIn) | New York, NY/Raleigh, NC/Los Angeles, CA/Washington, DC/Boston, MA/Morristown, NJ/San Francisco, CA/Dallas, TX/Seattle, WA/Atlanta, GA/Baltimore, MD | 12/3
+| [League - Product Designer (3 YoE))](https://boards.greenhouse.io/leagueinc/jobs/4216445004?s=LinkedIn&source=LinkedIn) | Remote | 12/3
+| [Allstate - Mobile User Experience Designer (3 YoE))](hhttps://careers.allstate.com/job/Remote-Mktg-User-Exp-Architect-Sr-Cons-II-Remo/818673900/?utm_source=LILimitedListings) | Remote | 12/3
+| [MCD Partners - Associate User Experience Designer](https://www.linkedin.com/jobs/view/2824632781) | Austin, TX | 12/3
+| [Auth0 - Product Designer, Marketplace (3 YoE) ](https://boards.greenhouse.io/auth0/jobs/3294676?s=LinkedIn&source=LinkedIn) | Remote | 12/3
+| [Kazoo - Product Designer ](https://hrbrg.co/p8ppfc) | Austin, TX | 12/3
+| [Certara - UX/UI Designer (3 YoE)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d788c564-ca89-4bf9-b894-fc6cd9ab8d80&jobId=410186&source=LinkedIn) | Cambridge, MA | 12/3
+| [Respawn Legends - Associate UX Designer (Apex Legends)](https://ea.gr8people.com/jobs/170324/associate-ux-designer-apex-legends?sid=4) | Los Angeles, CA | 12/3
+| [Amazon - Product Designer, Amazon Music (3 YoE))](https://www.amazon.jobs/en/jobs/1826965/product-designer-amazon-music?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | 12/3
+| [Intuit - Product Designer (1 YoE))](https://jobs.intuit.com/job/-/-/27595/19836929?utm_content=pj_board&utm_source=linkedin%20slots&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&utm_medium=jobad&ss=paid&iis=pjob&utm_campaign=null&p_uid=n9ostXWw9L&p_sid=rdI_QNb&iisn=li) | San Diego, CA/Mountain View, CA | 12/3
+| [General Motors (GM) - UX/UI Designer (3 YoE)](https://www.aplitrak.com/?adid=YmJnZW5lcmljLjUwNDk5LjEyNTM5QGdtY29tcGFueS5hcGxpdHJhay5jb20) | Austin, TX/Chandler, AZ/Roswell, GA/Detroit, MI | 12/3
+| [Saks 5th - Junior Product Designer (2 YoE)](https://www.careersatsaks.com/en/job/2100071M/Junior_Product_Designer) | New York, NY | 12/3
+| [McDonalds - UX Designer, Design Systems (2 YoE)](https://mcdonalds.jibeapply.com/main/jobs/406000038317840?lang=en-us) | Chicago, IL | 12/3
+| [Rakuten Rewards - UX Researcher (2-3 YoE)](https://rakuten.wd1.myworkdayjobs.com/RakutenRewards/job/San-Mateo-California/User-Researcher_1007885?source=Linkedin) | San Mateo, CA/Denver, CO/San Francisco, CA/Seattle, WA/Austin TX | 12/3
+| [Workato - UX Designer, Design Systems (2-4 YoE)](https://boards.greenhouse.io/workato/jobs/5728102002?gh_src=3bd943702us) | Los Angeles, CA | 12/3
 | [Sovos - UX Designer](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=565164&locvalue=1147&bid=1) | Boulder, CO | 12/1
 | [FIGS - Jr Product Designer](https://www.linkedin.com/jobs/view/2805496924/?refId=2cdc0e6f-7af0-432d-a994-945d18771d5b&trk=flagship3_job_home_savedjobs) | Santa Monica, CA | 11/29
 | [One Relic - Product Designer - East Coast (2 YoE)](https://jobs.jobvite.com/careers/newrelic/job/oZbHhfwS/apply?__jvst=Job+Board&__jvsd=LinkedIn) | Boston, MA - Remote | 11/29
