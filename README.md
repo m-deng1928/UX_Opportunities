@@ -36,7 +36,7 @@ New Grad
 | [Disney - Multimedia Designer](https://jobs.disneycareers.com/job/-/-/391/19837041?cid=14187) | Glendale, CA | 12/3
 | [Gensler - Design Analyst (Design Strategist Development Program)](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Design-Analyst--Design-Strategist-Development-Program----United-States_R-5929?source=Social+Media+%E2%80%93+LinkedIn) | New York, NY/Raleigh, NC/Los Angeles, CA/Washington, DC/Boston, MA/Morristown, NJ/San Francisco, CA/Dallas, TX/Seattle, WA/Atlanta, GA/Baltimore, MD | 12/3
 | [League - Product Designer (3 YoE))](https://boards.greenhouse.io/leagueinc/jobs/4216445004?s=LinkedIn&source=LinkedIn) | Remote | 12/3
-| [Allstate - Mobile User Experience Designer (3 YoE))](hhttps://careers.allstate.com/job/Remote-Mktg-User-Exp-Architect-Sr-Cons-II-Remo/818673900/?utm_source=LILimitedListings) | Remote | 12/3
+| [Allstate - Mobile User Experience Designer (3 YoE))](https://careers.allstate.com/job/Remote-Mktg-User-Exp-Architect-Sr-Cons-II-Remo/818673900/?utm_source=LILimitedListings) | Remote | 12/3
 | [MCD Partners - Associate User Experience Designer](https://www.linkedin.com/jobs/view/2824632781) | Austin, TX | 12/3
 | [Auth0 - Product Designer, Marketplace (3 YoE) ](https://boards.greenhouse.io/auth0/jobs/3294676?s=LinkedIn&source=LinkedIn) | Remote | 12/3
 | [Kazoo - Product Designer ](https://hrbrg.co/p8ppfc) | Austin, TX | 12/3
@@ -261,6 +261,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Munchkin - Product Design](https://recruiting2.ultipro.com/MUN1001MCHK/JobBoard/acccd54e-ac6e-44a1-a6d4-8a1f25cceea3//OpportunityDetail?opportunityId=0d1b3429-26c1-4817-988a-bb7836873421&utm_source=LINKEDIN) | Los Angeles, CA | Summer 2022 | 12/3
+| [Ping Identity - UX Design](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7647&jid=562299&locvalue=1011) | Denver, CO | Summer 2022 | 12/3
 | [Andersen - Product Design](https://andersencareers.com/ShowJob/Id/3147129/Product-Design-Intern/) | Bayport, MN | Summer 2022 | 12/1
 | [Axon - XR Product Design](https://boards.greenhouse.io/axon/jobs/4795542003?gh_src=cdbb51d93us&s=LinkedIn&source=LinkedIn) | Scottsdale, AZ | Summer 2022 | 12/1
 | [PEAK6 - Product Design](https://careers.peak6.com/jobs/campus/chicago-il/product-design-intern-summer-2022-internship/3654593?gh_jid=3654593) | Chicago, IL | Summer 2022 | 12/1
