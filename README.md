@@ -250,6 +250,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [TikTok - User Experience (UX) & Product Writing](https://careers.tiktok.com/position/7032424021262207246/detail) | Los Angeles, CA | Summer 2022 | 12/9
+| [EBay - Design Research](https://ripplematch.com/job/ebay/fe491c58/?tl=8cad9be1) | San Francisco, CA | Summer 2022 | 12/9
 | [Spotify - Product Design](https://www.lifeatspotify.com/jobs/summer-internship-product-design) | New York, NY/US | Summer 2022 | 12/8
 | [Spotify - User Research](https://www.lifeatspotify.com/jobs/summer-internship-user-research) | Stockholm/EMEA | Summer 2022 | 12/8
 | [Spotify - Product Design](https://www.lifeatspotify.com/jobs/summer-internship-product-design-2) | Stockholm/EMEA | Summer 2022 | 12/8
