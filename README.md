@@ -31,6 +31,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Apple - Product Designer, Maps](https://jobs.apple.com/en-us/details/200248850?board_id=17682&cid=scrape_co_us_linkedin_nationwide_design) | Culver City, CA | 12/18
+| [Deloitte - Studio UX Designer (1 YoE)](https://apply.deloitte.com/careers/InviteToApply?jobId=69815&source=LinkedIn) | 35+ locations | 12/18
+| [Target - Product Researcher - UX Design & Accessibility (BS)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Researcher---UX-Design---Accessibility--Full-Time-Remote-or-Hybrid-_R0000182092?fbclid=IwAR0TWYVQdVauyH_wPf_8PPHotYsjnXJgkDt6RTGU_fNUmlpOoYmjQcKINQ8) | Minneapolis, MN | 12/18
+| [LinkedIn - Product Designer, Talent Solutions (2 YoE)](https://www.linkedin.com/jobs/view/2845264504) | Remote | 12/18
+| [Salesforce - UX Designer](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Washington-DC-Metro---Remote/UX-Designer_JR122821?source=LinkedIn_Jobs) | VA/TX/NY/FL/GA/IL/OH | 12/18
 | [Activision - Associate UX Designer](https://careers.activision.com/job/ACPUUSR011160EXTERNAL/Associate-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | 12/18
 | [Disney - UX Researcher I](https://jobs.disneycareers.com/job/-/-/391/19843973?cid=14187) | New York, NY | 12/18
 | [Intuit - Product Designer (1 YoE)](https://jobs.intuit.com/job/-/-/27595/19836929?utm_source=linkedin%20slots&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&iis=pjob&utm_campaign=null&utm_content=pj_board&p_uid=DubWL33vD2&iisn=li&p_sid=B9LoLJb&utm_medium=jobad&ss=paid) | San Diego, CA/Mountain View, CA | 12/18
@@ -246,6 +251,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [PTC - Arena Solutions UI/UX Designer](https://ptc.eightfold.ai/careers/job?domain=ptc.com&pid=137449223354) | Ontario, CA | Summer 2022 | 12/18
+| [Mark43 - Design Research](https://mark43.com/list-job/?gh_jid=3712858&gh_src=377bc0eb1us) | New York, NY | Summer 2022 | 12/18
+| [EA Industrial Toys - UX Design](https://ea.gr8people.com/jobs/170178/ux-design-intern-summer-2022?sid=4) | Pasadena, CA | Summer 2022 | 12/18
 | [Visa -  Innovation & Design, Global Product](https://jobs.smartrecruiters.com/Visa/743999790095239-undergraduate-intern-innovation-design-global-product?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Austin, TX | Summer 2022 | 12/18
 | [Twitch - UX Design](https://boards.greenhouse.io/twitch/jobs/5755665002?gh_src=0c4ebc182&s=LinkedIn&source=LinkedIn) | San Francisco, CA | Summer 2022 | 12/18
 | [Wikimedia Foundation - UX Design](https://boards.greenhouse.io/wikimedia/jobs/3756256?gh_src=1c88846c1us) | Remote | Summer 2022 | 12/18
