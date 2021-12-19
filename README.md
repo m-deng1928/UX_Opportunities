@@ -31,6 +31,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Activision - Associate UX Designer](https://careers.activision.com/job/ACPUUSR011160EXTERNAL/Associate-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | 12/18
+| [Disney - UX Researcher I](https://jobs.disneycareers.com/job/-/-/391/19843973?cid=14187) | New York, NY | 12/18
+| [Intuit - Product Designer (1 YoE)](https://jobs.intuit.com/job/-/-/27595/19836929?utm_source=linkedin%20slots&cid=pjob_li_click_us_dsgnux-fy21_cn_text_job_intuit-talent&iis=pjob&utm_campaign=null&utm_content=pj_board&p_uid=DubWL33vD2&iisn=li&p_sid=B9LoLJb&utm_medium=jobad&ss=paid) | San Diego, CA/Mountain View, CA | 12/18
+| [Amazon - UX Designer (3 YoE)](https://www.amazon.jobs/en/jobs/1831498/ux-designer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 12/18
+| [Dropbox- Product Design, Capture](https://www.dropbox.com/jobs/listing/3645333?gh_src=aonhf1) | Remote | 12/18
+| [PayPal - Product Designer, Savings, Rewards](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Los-Angeles-California-United-States-of-America/Product-Designer--Savings---Rewards_R0080416-1?Codes=W-LINKEDIN) | Los Angeles, CA/Austin, TX | 12/18
+| [Doordash - Product Designer, Doordash for Work (2 YoE)](https://www.linkedin.com/jobs/view/2807408809) | Austin, TX | 12/18
+| [Adobe - User Experience Designer, Creative Cloud Express](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/User-Experience-Designer--Adobe-Spark_R114716-2?source=LinkedIn) | New York, NY/Seattle, WA | 12/18
+| [Thirteen23 - Associate UX/UI Designer (1-2 YoE))](https://thirteen23.breezy.hr/p/9af33cd02102-associate-ui-ux-designer) | Austin, TX | 12/18
 | [JP Morgan Chase - UX/UI Dev (Application Developer)](https://ms.taleo.net/careersection/2/jobdetail.ftl?job=3194432&lang=en&src=JB-10109) | New York, NY | 12/8
 | [Blizzard - UI Designer/Artist - Unannounced Project](https://careers.blizzard.com/global/en/job/BLENGLOBALR006502EXTERNALENGLOBAL/UI-Designer-Artist-Unannounced-Project?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 12/8
 | [Aptos Retail - Junior User Researcher](https://boards.greenhouse.io/revionics/jobs/3687077?gh_src=35b756381us) | Austin, TX | 12/8
@@ -237,6 +246,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Visa -  Innovation & Design, Global Product](https://jobs.smartrecruiters.com/Visa/743999790095239-undergraduate-intern-innovation-design-global-product?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Austin, TX | Summer 2022 | 12/18
+| [Twitch - UX Design](https://boards.greenhouse.io/twitch/jobs/5755665002?gh_src=0c4ebc182&s=LinkedIn&source=LinkedIn) | San Francisco, CA | Summer 2022 | 12/18
+| [Wikimedia Foundation - UX Design](https://boards.greenhouse.io/wikimedia/jobs/3756256?gh_src=1c88846c1us) | Remote | Summer 2022 | 12/18
 | [Blue Cross Blue Shield of Michigan - Design](https://vizi.vizirecruiter.com/Blue-Cross-Blue-Shield-of-Michigan-1185/160501/index.html?fbclid=IwAR3F97cHd6C7TJ07I2L6zRzp4bRC0fNFqJfUfIN36_5-M30FqtWm8I95vV8) | Detroit, MI | Summer 2022 | 12/14
 | [TikTok - User Experience (UX) & Product Writing](https://careers.tiktok.com/position/7032424021262207246/detail) | Los Angeles, CA | Summer 2022 | 12/9
 | [EBay - Design Research](https://ripplematch.com/job/ebay/fe491c58/?tl=8cad9be1) | San Francisco, CA | Summer 2022 | 12/9
