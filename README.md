@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [DoorDash - Product Designer, DoorDash for Work](https://www.linkedin.com/jobs/view/2849039084) | Los Angeles, CA | 1/12
+| [Yext - Associate UI Designer](https://www.linkedin.com/jobs/view/2850570611) | Miami, FL | 1/12
 | [Amazon - UX Research, Prime UX](https://www.amazon.jobs/en/jobs/1796198/ux-researcher-prime-ux) | Seattle, WA | 1/11
 | [H-E-B - Associate Digital Product Designer](https://heb.taleo.net/careersection/ex-corporate/jobdetail.ftl?job=1354283&src=LinkedIn) | San Antonio, TX | 1/5
 | [Meta - Product Designer - Portal (2 YoE)](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1K2K000007oaKWUAY&rx_url=https%3A%2F%2Fwww.facebookcareers.com%2Fjobs%2F399023031386942%2F%3Frx_campaign%3DLinkedin1%26rx_group%3D126320%26rx_job%3Da1K2K000007oaKWUAY%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20220105T060331Z) | Burlingame, CA/New York, NY | 1/5
@@ -212,6 +214,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Roku - UX Research](https://www.linkedin.com/jobs/view/2872394183) | San Jose, CA | Summer 2022 | 1/12
+| [MongoDB - UX Research](https://www.linkedin.com/jobs/view/2871310934) | New York, NY | Summer 2022 | 1/12
+| [LMS - Product Designer Graduate](https://careers-lmi.icims.com/jobs/7650/product-designer-graduate-intern-%28spring-2022%29/job) | Atlanta, GA | Spring 2022 | 1/12
+| [Slack - Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Summer-2022-Product-Design-Intern---Slack_JR130526-2?source=Linkedin) | San Francisco, CA | Summer 2022 | 1/12
+| [Iris - Junior Designer](https://irisworldwide.bamboohr.com/jobs/view.php?id=325) | Atlanta, GA | Summer 2022 | 1/12
 | [Corsair - UX/UI Design](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6485?utm_medium=jobshare) | Fremont, CA | Summer 2022 | 1/11
 | [Capital 1 - Design Development Program](https://campus.capitalone.com/job/-/-/1786/21158894144?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294351825&ss=paid&dclid=CKqDuqOsq_UCFQi0nwod9tYJ9A) | McLean, Virginia/Richmond, Virginia/Plano, Texas | Summer 2022 | 1/11
 | [Dispatch - User Experience Design](https://dispatch.rippling-ats.com/job/356562/user-experience-design-intern) | Bloomington, MN | Summer 2022 | 1/11
