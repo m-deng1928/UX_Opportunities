@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+https://boards.greenhouse.io/pendo/jobs/5848005002
+| [Epic Games - UX Analyst](https://www.epicgames.com/site/en-US/careers/jobs/4306585004) | Cary, NC | 1/20
+| [Pendo - Product Designer](https://boards.greenhouse.io/pendo/jobs/5848005002) | New York, NY/Raleigh, NC | 1/20
 | [Google - UX Writer](https://careers.google.com/jobs/results/111995679796011718-user-experience-writer/?distance=50&hl=en_US&jlo=en_US&q=ux%20writer) | Remote | 1/18
 | [BrainPop - Product Designer (2 YoE)](https://boards.greenhouse.io/drift/jobs/3038049?gh_jid=3038049&gh_src=103c5c7c1us) | Remote | 1/18
 | [Drift - UX Researcher (1 YoE/MS)](https://boards.greenhouse.io/drift/jobs/3038049?gh_jid=3038049&gh_src=103c5c7c1us) | Boston, MA | 1/18
@@ -207,6 +210,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Cisco - User Experience (BS)](https://jobs.cisco.com/jobs/IsAJob?projectId=1338396&tags=fy22duoUXInterfacedesignInternT) | San Jose, CA | Summer 2022 | 1/20
+| [Cisco - User Experience (MS)](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Master-s-Intern-United-States/1338423?tags=fy22duoUXInterfacedesignInternT) | San Jose, CA | Summer 2022 | 1/20
 | [Accolade - UX Design](https://osv-accolade.wd5.myworkdayjobs.com/External_Careers/job/Plymouth-Meeting-PA/UX-Design-Intern_REQ202201-202?source=Network_LinkedIn) | Plymouth Meeting, PA | Summer 2022 | 1/18
 | [Workiva - Content Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2022-Summer---Content-Design-Intern_R4017?source=Linkedin) | Remote | Summer 2022 | 1/18
 | [Formlabs - UI/UX Product Design](https://careers.formlabs.com/job/3829993/apply/?gh_jid=3829993&gh_src=3b6cf59e1us) | Somerville, MA | Summer 2022 | 1/18
