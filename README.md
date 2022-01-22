@@ -31,7 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-https://boards.greenhouse.io/pendo/jobs/5848005002
+| [HelloFresh - Jr UX Researcher](https://careers.hellofresh.com/global/en/job/3846540?gh_jid=3846540&gh_src=45073f7d1us) | New York, NY/Boulder, CO/Ontario, CA | 1/22
 | [Epic Games - UX Analyst](https://www.epicgames.com/site/en-US/careers/jobs/4306585004) | Cary, NC | 1/20
 | [Pendo - Product Designer](https://boards.greenhouse.io/pendo/jobs/5848005002) | New York, NY/Raleigh, NC | 1/20
 | [Google - UX Writer](https://careers.google.com/jobs/results/111995679796011718-user-experience-writer/?distance=50&hl=en_US&jlo=en_US&q=ux%20writer) | Remote | 1/18
@@ -210,6 +210,15 @@ https://boards.greenhouse.io/pendo/jobs/5848005002
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Lark Health - UX Research](https://careers.lark.com/jobs/ux-research-intern-remote-united-states?gh_jid=5826184002) | Remote | Summer 2022 | 1/22
+| [Blink - UX Research](https://jobs.lever.co/blinkux/994601c4-b403-44ac-be52-3426c22e097c) | Remote | Summer 2022 | 1/22
+| [Assurant - UX](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/US-Virtual/User-Experience-Intern_R-94406/) | Remote | Summer 2022 | 1/22
+| [Viasat - User Experience Research](https://careers.viasat.com/careers/FolderDetail/User-Experience-Research-Intern/9923?source=LinkedIn) | Remote | Summer 2022 | 1/22
+| [DocuSign - Product Design - Design Systems](https://www.docusign.com/company/careers/open?gh_jid=3547406&gh_src=ua6xck) | San Francisco, CA | Summer 2022 | 1/22
+| [Autodesk - Experience Visualization](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/California-USA---Remote/Intern---Experience-Visualization_21WD54885-3?src=JB-10065) | Remote | Summer 2022 | 1/22
+| [Ansys - UX](https://careers.ansys.com/job/Evanston-Summer-2022-Intern%2C-UX-IL-60201/834264400/?utm_source=LINKEDIN&utm_medium=referrer) | Evanston, IL | Summer 2022 | 1/22
+| [Arcules - UX](https://jobapply.page.link/UFdQ?source=JobTarget%20via%20JobTarget%20Programmatic&utm_source=JobTarget&utm_medium=JobTarget%20Programmatic&utm_campaign=UX%20Internship%20(8a7885a87dc02500017e4a6552472fcb)&_jtochash=qqwxGGfNjrpZsAdyHBDeL&_jtocprof=PoCtU6pM-eETY-znRDnc4Y9Vahr8_cFh) | Irvine, CA | Summer 2022 | 1/22
+| [ChartHop - UX Research](https://www.charthop.com/company/job-openings/?gh_jid=4927956003&gh_src=8ae22d703us) | Remote | Summer 2022 | 1/22
 | [Cisco - User Experience (BS)](https://jobs.cisco.com/jobs/IsAJob?projectId=1338396&tags=fy22duoUXInterfacedesignInternT) | San Jose, CA | Summer 2022 | 1/20
 | [Cisco - User Experience (MS)](https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-Master-s-Intern-United-States/1338423?tags=fy22duoUXInterfacedesignInternT) | San Jose, CA | Summer 2022 | 1/20
 | [Accolade - UX Design](https://osv-accolade.wd5.myworkdayjobs.com/External_Careers/job/Plymouth-Meeting-PA/UX-Design-Intern_REQ202201-202?source=Network_LinkedIn) | Plymouth Meeting, PA | Summer 2022 | 1/18
