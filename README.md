@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Duolingo - Associate UX Researcher, New Graduate (BS)](https://boards.greenhouse.io/duolingo/jobs/5854933002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn&fbclid=IwAR2Spbq0kAkHHV0eX2l2VrIDkloEub3W4a7_zObwWOxnzmjAb1Lap3obUN8) | Pittsburgh, PA | 1/26
+| [Duolingo - Associate UX Researcher, New Graduate (BS)](https://boards.greenhouse.io/duolingo/jobs/5854933002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn&fbclid=IwAR2Spbq0kAkHHV0eX2l2VrIDkloEub3W4a7_zObwWOxnzmjAb1Lap3obUN8) | New York, NY | 1/26
 | [Calm - Junior Designer](https://boards.greenhouse.io/calm/jobs/5858167002?gh_src=b4f5067c2us&s=LinkedIn&source=LinkedIn) | Remote | 1/24
 | [thirteen23 - Associate UX/UI Designer](https://thirteen23.breezy.hr/p/9af33cd02102-associate-ui-ux-designer) | Remote | 1/24
 | [Home Depot - User Experience Researcher (BS/1-2 YoE)](https://careers.peopleclick.com/careerscp/client_homedepot/external/gateway.do?functionName=viewFromLink&jobPostId=394457&localeCode=en-us) | Atlanta, GA | 1/24
@@ -207,6 +209,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Duolingo - UX Research](https://boards.greenhouse.io/duolingo/jobs/5854976002?gh_src=c4989bc82us) | Pittsburgh, PA | Summer 2022 | 1/26
 | [Genentech - Human Factors Engineering - device development](https://careers.gene.com/us/en/job/GENEUS202201103205EXTERNALENUS/Intern-Human-Factors-Engineering-Device-Development) | Los Angeles, CA | Summer 2022 | 1/22
 | [Prudential - Experience Design Marketing](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2022-Experience-Design-Marketing-Internship-Program_R-106332) | Newark, NJ | Summer 2022 | 1/22
 | [Blink - UX Design](https://jobs.lever.co/blinkux/27885b69-c47d-4494-b67b-c4755b10e391) | Remote | Summer 2022 | 1/22
