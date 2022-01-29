@@ -209,6 +209,16 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Slack - Product Design](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Summer-2022-Product-Design-Intern---Slack_JR130526-2) | San Francisco, CA | Summer 2022 | 1/27
+| [WarnerMedia - UX Research](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000052518EXTERNALENGLOBAL/Summer-2022-Hybrid-Intern-UX-Research?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | Summer 2022 | 1/27
+| [McAfee - Product Design](https://careers.mcafee.com/job/-/-/731/19323371296?source=LinkedIn) | Canada | Summer 2022 | 1/27
+| [VMWare - Product Design](https://careers.vmware.com/main/jobs/R2215348?lang=en-us&source=LIPJ) | Palo Alto, CA | Summer 2022 | 1/27
+| [IronMountain - UX](https://ironmountain.jobs/boston-ma/intern-ux/D0294A3FC04245C0824EC030F25489BD/job/?vs=1548&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com) | Boston, MA | Summer 2022 | 1/27
+| [Disney - Product Design](https://jobs.disneycareers.com/job/orlando/product-design-intern-orlando-summer-fall-2022/391/22608433264?cid=13057) | Orlando, FL | Summer 2022/Fall 2022 | 1/27
+| [Yahoo - User Experience Research](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/US---Dulles/User-Experience-Research-Intern_JR0017874?source=Linkedin) | Dulles, VA | Summer 2022 | 1/27
+| [Publicis Groupe - User Experience](https://jobs.smartrecruiters.com/PublicisGroupe/743999801482421-user-experience-internship-philadelphia-publicis-health?source=Linkedin) | Philadelphia, PA | Summer 2022 | 1/27
+| [Axos Bank - UX Research](https://careers-axosbank.icims.com/jobs/4960/ux-research-intern/job?mobile=false&width=1089&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Diego, CA | Summer 2022 | 1/27
+| [Lyft - UX Research](https://boards.greenhouse.io/embed/job_app?token=5763184002&gh_src=uwvxb4jc2&s=LinkedIn&source=LinkedIn&fbclid=IwAR3OlAiHVXsNrD0uM2Tphz-AlTm5RcxzoheMXpO7UD_cI7zoLWNSpPExWp4) | San Francisco, CA | Summer 2022 | 1/27
 | [Duolingo - UX Research](https://boards.greenhouse.io/duolingo/jobs/5854976002?gh_src=c4989bc82us) | Pittsburgh, PA | Summer 2022 | 1/26
 | [Genentech - Human Factors Engineering - device development](https://careers.gene.com/us/en/job/GENEUS202201103205EXTERNALENUS/Intern-Human-Factors-Engineering-Device-Development) | Los Angeles, CA | Summer 2022 | 1/22
 | [Prudential - Experience Design Marketing](https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2022-Experience-Design-Marketing-Internship-Program_R-106332) | Newark, NJ | Summer 2022 | 1/22
