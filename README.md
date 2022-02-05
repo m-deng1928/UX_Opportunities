@@ -196,6 +196,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [LinkedIn - User Experience Research](https://jobs.smartrecruiters.com/LinkedIn3/743999802578376-user-experience-research-intern) | Sunnyvale, CA | Summer 2022 | 2/5
+| [CVS - IT UX Product Designer (MS)](https://jobs.cvshealth.com/job/14318521/it-ux-product-designer-internship-graduate-buffalo-grove-il/) | Buffalo Grove, IL | Summer 2022 | 2/5
+| [New York Times - Product Design](https://nytimes.wd5.myworkdayjobs.com/NYT/job/Summer-2022-Product-Design-Intern_REQ-011509-2) | New York, NY | Summer 2022 | 2/5
 | [Faire - Product Design](https://boards.greenhouse.io/faire/jobs/5735039002) | US, Canada | Summer 2022 | 1/31
 | [Expedia - User Experience Design](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FWashington---Seattle-Campus%2FIntern---User-Experience-Designer_R-68124%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1629576742896a0ebhn4is) | Seattle, WA | Summer 2022 | 1/31
 | [Verily Life Sciences - UX Design (MS/PhD)](https://verily.com/careers/job/?job_id=3876185&gh_jid=3876185) | Cambridge, MA | Summer 2022 | 1/31
