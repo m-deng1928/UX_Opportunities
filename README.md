@@ -31,6 +31,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Appfolio - User Experience Designer (3 YoE)](https://jobs.jobvite.com/appfolio/job/ok7Yffwo?__jvst=Job%20Board&__jvsd=LinkedInn) | San Francisco, CA | 2/6
+| [Zulily - UX Designer, Enterprise (2 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-WA-Seattle/UX-Designer--Enterprise_R58047?source=LinkedIn) | Seattle, WA | 2/6
+| [Discord - Product Designer](https://boards.greenhouse.io/discord/jobs/5831125002?source=LinkedIn&s=LinkedIn) | San Francisco, CA | 2/6
+| [FanDuel - UX Researcher](https://boards.greenhouse.io/fanduel/jobs/3253363?gh_src=ba823b7b1us&s=LinkedIn&source=LinkedIn) | Atlanta, GA | 2/6
 | [FanDuel - Product Designer, Payments & Wallet - 3 YoE](https://boards.greenhouse.io/fanduel/jobs/3826421?gh_src=ba823b7b1us&s=LinkedIn&source=LinkedIn) | Atlanta, GA | 1/31
 | [Duolingo - Associate UX Researcher, New Graduate (BS)](https://boards.greenhouse.io/duolingo/jobs/5854933002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn&fbclid=IwAR2Spbq0kAkHHV0eX2l2VrIDkloEub3W4a7_zObwWOxnzmjAb1Lap3obUN8) | Pittsburgh, PA | 1/26
 | [Duolingo - Associate UX Researcher, New Graduate (BS)](https://boards.greenhouse.io/duolingo/jobs/5854933002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn&fbclid=IwAR2Spbq0kAkHHV0eX2l2VrIDkloEub3W4a7_zObwWOxnzmjAb1Lap3obUN8) | New York, NY | 1/26
@@ -196,6 +200,15 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Meta - Quantitative Researcher](https://www.metacareers.com/jobs/583392249556818/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K0000032gdJUAQ_c21a00ba&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220206T060303Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Menlo Park, CA | Summer 2022 | 2/6
+| [Tesla - UX/UI Design - Application Engineering](https://www.tesla.com/careers/search/job/ux-ui-design-application-engineering-internship-summer-2022-111039) | Hawthorne, CA | Summer 2022 | 2/6
+| [Tesla - UX/UI Design - Application Engineering](https://www.tesla.com/careers/search/job/ux-ui-design-application-engineering-internship-fall-2022-113044) | Hawthorne, CA | Fall 2022 | 2/6
+| [Tesla - Digital Content](https://www.tesla.com/careers/search/job/digital-content-internship-fall-2022-112941?source=LinkedIn) | Hawthorne, CA | Fall 2022 | 2/6
+| [Lyft - Product Design](https://boards.greenhouse.io/embed/job_app?token=5510283002&gh_src=uwvxb4jc2&s=LinkedIn&source=LinkedIn) | San Francisco, CA | Summer 2022 | 2/6
+| [Intuit - ](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Product-Design-Intern_R0024472-1) | Los Angeles, CA | Summer 2022 | 2/6
+| [Snapchat - Product Design](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Product-Design-Intern_R0024472-1) | Los Angeles, CA | Summer 2022 | 2/6
+| [Snapchat - Product Design](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Product-Design-Intern_R0024472-1) | Los Angeles, CA | Summer 2022 | 2/6
+| [Snapchat - Product Design, Snap R&D](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Product-Design-Intern--Snap-R-D_R0024017-1) | Los Angeles, CA/Seattle, WA/New York, NY | Summer 2022 | 2/6
 | [LinkedIn - User Experience Research](https://jobs.smartrecruiters.com/LinkedIn3/743999802578376-user-experience-research-intern) | Sunnyvale, CA | Summer 2022 | 2/5
 | [CVS - IT UX Product Designer (MS)](https://jobs.cvshealth.com/job/14318521/it-ux-product-designer-internship-graduate-buffalo-grove-il/) | Buffalo Grove, IL | Summer 2022 | 2/5
 | [New York Times - Product Design](https://nytimes.wd5.myworkdayjobs.com/NYT/job/Summer-2022-Product-Design-Intern_REQ-011509-2) | New York, NY | Summer 2022 | 2/5
@@ -224,7 +237,6 @@ Intern
 | [Blink - UX Research](https://jobs.lever.co/blinkux/994601c4-b403-44ac-be52-3426c22e097c) | Remote | Summer 2022 | 1/22
 | [Assurant - UX](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/US-Virtual/User-Experience-Intern_R-94406/) | Remote | Summer 2022 | 1/22
 | [Viasat - User Experience Research](https://careers.viasat.com/careers/FolderDetail/User-Experience-Research-Intern/9923?source=LinkedIn) | Remote | Summer 2022 | 1/22
-
 | [Autodesk - Experience Visualization](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/California-USA---Remote/Intern---Experience-Visualization_21WD54885-3?src=JB-10065) | Remote | Summer 2022 | 1/22
 | [Ansys - UX](https://careers.ansys.com/job/Evanston-Summer-2022-Intern%2C-UX-IL-60201/834264400/?utm_source=LINKEDIN&utm_medium=referrer) | Evanston, IL | Summer 2022 | 1/22
 | [Cisco - User Experience (BS)](https://jobs.cisco.com/jobs/IsAJob?projectId=1338396&tags=fy22duoUXInterfacedesignInternT) | San Jose, CA | Summer 2022 | 1/20
@@ -355,8 +367,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-| [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Summer 2022 | 1/31
-| [Color - Content Design Fellowship](https://jobs.lever.co/color/e68ce054-a7e0-4104-a39c-a202036cd238) | Summer 2022 | 1/31
+| [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Summer 2022 | 2/6
 | [Upperstudy - Product Design Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSd3U6nZu0ru_juQ6XySoavn3d5qVgO5WkwSMGuYsBKxwevt0A/viewform) | Summer 2022 | 1/24
 | [Coding it Forward - Product Design/Management Fellowship](https://www.codingitforward.com/summer-fellowships?utm_source=rsvp) | Summer 2022 | 1/5
 | [Wayfair - Global Experience Design Apprenticeship](https://apprenticareers.org/) | Summer 2022 | 10/21
