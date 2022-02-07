@@ -200,6 +200,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [US Bank - UX Designer](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Remote-GA/UI-UX-Design-Internship_2021-90000951) | Remote | Summer 2022 | 2/7
+| [OneTrust - UX Designer](https://www.linkedin.com/jobs/view/2889916048) | Atlanta, GA | Summer 2022 | 2/7
+| [Visa - Design Research, Innovation (MS)](https://jobs.smartrecruiters.com/Visa/743999803572099-master-s-intern-design-research-innovation) | San Francisco, CA | Summer 2022 | 2/7
 | [Meta - Quantitative Researcher](https://www.metacareers.com/jobs/583392249556818/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K0000032gdJUAQ_c21a00ba&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220206T060303Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Menlo Park, CA | Summer 2022 | 2/6
 | [Tesla - UX/UI Design - Application Engineering](https://www.tesla.com/careers/search/job/ux-ui-design-application-engineering-internship-summer-2022-111039) | Hawthorne, CA | Summer 2022 | 2/6
 | [Tesla - UX/UI Design - Application Engineering](https://www.tesla.com/careers/search/job/ux-ui-design-application-engineering-internship-fall-2022-113044) | Hawthorne, CA | Fall 2022 | 2/6
