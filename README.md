@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Braze - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | Los Angeles, CA | 2/8
 | [Tinder - Product Designer, Connections (Core) (3 YoE)](https://jobs.lever.co/matchgroup/52c0bae1-0f98-4f6a-821f-8faaabcb619a/apply?lever-source=LinkedInJobs) | Los Angeles, CA | 2/7
 | [Appfolio - User Experience Designer (3 YoE)](https://jobs.jobvite.com/appfolio/job/ok7Yffwo?__jvst=Job%20Board&__jvsd=LinkedInn) | San Francisco, CA | 2/6
 | [Zulily - UX Designer, Enterprise (2 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-WA-Seattle/UX-Designer--Enterprise_R58047?source=LinkedIn) | Seattle, WA | 2/6
@@ -189,6 +190,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nuance Communications - UX Research & Design](https://campus-xactlycorp.icims.com/jobs/1145/ux-research-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=967&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Burlington, MA | Summer 2022 | 2/8
+| [Xactly - UX Research](https://nuance.wd1.myworkdayjobs.com/en-US/Nuance/job/Burlington-Massachusetts-US/UX-UI-Engineering-Intern_102336?source=LinkedIn) | Remote | Summer 2022 | 2/8
+| [Braze - UX Researcher](https://boards.greenhouse.io/braze/jobs/3868937?gh_jid=3868937&gh_src=5ca0fcc91us) | New York, NY | Summer 2022 | 2/8
 | [Parthean - Product Design)](https://jobs.parthean.com/23941) | New York, NY | Summer 2022 | 2/7
 | [Tinder - Product Design)](https://jobs.lever.co/matchgroup/0ec61f41-b0d3-4d5e-a80b-da5ce3ad9230) | Los Angeles, CA | Summer 2022 | 2/7
 | [Tiktok - User Experience (UX) Research Intern (PhD)](https://careers.tiktok.com/position/7032424021262207246/detail) | Los Angeles, CA | Summer 2022 | 2/7
