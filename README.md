@@ -31,7 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Braze - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | Los Angeles, CA | 2/8
+| [Braze - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | San Francisco, CA | 2/8
 | [Tinder - Product Designer, Connections (Core) (3 YoE)](https://jobs.lever.co/matchgroup/52c0bae1-0f98-4f6a-821f-8faaabcb619a/apply?lever-source=LinkedInJobs) | Los Angeles, CA | 2/7
 | [Appfolio - User Experience Designer (3 YoE)](https://jobs.jobvite.com/appfolio/job/ok7Yffwo?__jvst=Job%20Board&__jvsd=LinkedInn) | San Francisco, CA | 2/6
 | [Zulily - UX Designer, Enterprise (2 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-WA-Seattle/UX-Designer--Enterprise_R58047?source=LinkedIn) | Seattle, WA | 2/6
