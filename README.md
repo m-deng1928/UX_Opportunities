@@ -191,6 +191,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Dolby - UX Design](https://jobs.dolby.com/careers/job?domain=dolby.com&pid=10277984&pid=10277984&domain=dolby.com&job_index=0) | Remote | Summer 2022 | 2/9
+| [Practice Fusion - Product Design](https://boards.greenhouse.io/embed/job_app?token=4958675003) | Raleigh, NC | Summer 2022 | 2/9
+| [First American - UX Design](https://careers.firstam.com/job/14931907/ux-design-intern-remote-santa-ana-ca/?utm_medium=%22mcloud-jobads%22&utm_campaign=Default%20Campaign&utm_content=UX%20Design%20Intern%20-%20REMOTE&utm_term=R031561&source=INDEED) | Santa Ana, CA | Summer 2022 | 2/9
+| [Lily Pulitzer - Creative Content Design](https://oxford.wd5.myworkdayjobs.com/en-US/LillyPulitzer/job/King-of-Prussia-PA---Home-Office/Creative-Content-Design-Intern_R26351) | King of Prussia, PA | Summer 2022 | 2/9
+| [Red Hat - UXD Content Design](https://us-redhat.icims.com/jobs/90441/uxd-content-design-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mobile=false&width=708&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Boston, MA | Summer 2022 | 2/9
+| [Samsung Research - AR UX Prototyping Intern (MS)](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5897510002?gh_src=13c38d562us&s=LinkedIn&source=LinkedIn) | Mountain View, CA | Summer 2022 | 2/9
+| [Indeed - UX Research](https://university.indeed.jobs/internships/jobs/35792?lang=en-us) | Remote | Summer 2022 | 2/9
 | [Nuance Communications - UX Research & Design](https://campus-xactlycorp.icims.com/jobs/1145/ux-research-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=967&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Burlington, MA | Summer 2022 | 2/8
 | [Xactly - UX Research](https://nuance.wd1.myworkdayjobs.com/en-US/Nuance/job/Burlington-Massachusetts-US/UX-UI-Engineering-Intern_102336?source=LinkedIn) | Remote | Summer 2022 | 2/8
 | [Braze - UX Researcher](https://boards.greenhouse.io/braze/jobs/3868937?gh_jid=3868937&gh_src=5ca0fcc91us) | New York, NY | Summer 2022 | 2/8
