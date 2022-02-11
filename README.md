@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Assignar - Jr Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/2913766744) | Denver, CO | 2/10
 | [Indeed - Associate UX Researcher (1-2 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | Remote | 2/8
 | [Braze - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | San Francisco, CA | 2/8
 | [Tinder - Product Designer, Connections (Core) (3 YoE)](https://jobs.lever.co/matchgroup/52c0bae1-0f98-4f6a-821f-8faaabcb619a/apply?lever-source=LinkedInJobs) | Los Angeles, CA | 2/7
@@ -191,6 +192,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [IBM - User Experience Design](https://careers.ibm.com/job/14939960/user-experience-designer-summer-intern-2022-cio-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Remote | Summer 2022 | 2/10
 | [Dolby - UX Design](https://jobs.dolby.com/careers/job?domain=dolby.com&pid=10277984&pid=10277984&domain=dolby.com&job_index=0) | Remote | Summer 2022 | 2/9
 | [Practice Fusion - Product Design](https://boards.greenhouse.io/embed/job_app?token=4958675003) | Raleigh, NC | Summer 2022 | 2/9
 | [First American - UX Design](https://careers.firstam.com/job/14931907/ux-design-intern-remote-santa-ana-ca/?utm_medium=%22mcloud-jobads%22&utm_campaign=Default%20Campaign&utm_content=UX%20Design%20Intern%20-%20REMOTE&utm_term=R031561&source=INDEED) | Santa Ana, CA | Summer 2022 | 2/9
