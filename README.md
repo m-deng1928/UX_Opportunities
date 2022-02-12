@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [New York Times - Designer - Culture & Communications (2 YoE)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Designer--Culture-and-Communications_REQ-011683?source=Linkedin) | New York, NY | 2/12
 | [Upwork - Product Designer - Product Growth](https://www.upwork.com/careers/job-post/4905506003?gh_jid=4905506003&gh_src=2ecf0e153) | Remote | 2/12
 | [SAP - Associate UX Designer](https://jobs.sap.com/job/Palo-Alto-Associate-UX-Designer-Customer-Experience-Design-Team-CA-94304/767603901/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | 2/12
 | [Ancestry - UX Design](https://careers.ancestry.com/us/en/job/ANCEUSB2933FBB47394F07A099D09E49B4C0C3EXTERNALENUS/UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | 2/12
@@ -197,8 +198,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Verily Life Sciences - UX Research, Clinical Studies Platform (BS)](https://verily.com/careers/job/?job_id=3893264&gh_jid=3893264) | South San Francisco | Summer 2022 | 1/31
-| [Allscripts - UX Research (BS)](https://careers.allscripts.com/jobs-us/?gh_jid=4946542003) | Seattle, WA | Summer 2022 | 1/31
+| [Verily Life Sciences - UX Research, Clinical Studies Platform (BS)](https://verily.com/careers/job/?job_id=3893264&gh_jid=3893264) | South San Francisco | Summer 2022 | 2/12
+| [Allscripts - UX Research (BS)](https://careers.allscripts.com/jobs-us/?gh_jid=4946542003) | Seattle, WA | Summer 2022 | 2/12
+| [Radiant Digital - User Experience Researcher (BS)](https://www.linkedin.com/jobs/view/2904044939) | Remote | Summer 2022 | 2/12
 | [Gusto - Product Design](https://boards.greenhouse.io/gusto/jobs/3904785?s=LinkedIn&source=LinkedIn) | San Francisco, CA/Denver, CO/New York, NY | Summer 2022 | 2/12
 | [Q2- UX Research (grad)](https://www.linkedin.com/jobs/view/2898819707) | Remote | Summer 2022 | 2/12
 | [SharkNinja - UX Research](https://jobs.lever.co/sharkninja/ef36cc1b-6151-42dc-ac9a-97370b028068?lever-source=LinkedInJobs) | Remote | Fall 2022 (July - Dec 2022) | 2/12
