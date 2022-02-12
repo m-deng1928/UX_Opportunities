@@ -207,7 +207,7 @@ Intern
 | [Docker - Product Design](https://www.docker.com/career-openings?gnk=job&gni=8a7883a97e7494ae017ebc49cc30039f&lang=en) | Remote | Summer 2022 | 2/12
 | [VMWare - Product Design](https://careers.vmware.com/main/jobs/R2215169?lang=en-us&source=LIPJ) | Palo Alto, CA | Summer 2022 | 2/12
 | [MongoDB - Design, Creative Operations](https://www.linkedin.com/jobs/view/2904674965) | New York, NY | Summer 2022 | 2/12
-| [Rocket Software - UX Engineer](hhttps://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/USA-Home-Office/UX-Engineer-Intern_R2022-2371?source=LinkedIn_Corporate_page) | Waltham, MA (Remote) | Summer 2022 | 2/12
+| [Rocket Software - UX Engineer](https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/USA-Home-Office/UX-Engineer-Intern_R2022-2371?source=LinkedIn_Corporate_page) | Waltham, MA (Remote) | Summer 2022 | 2/12
 | [Logitech - UX Design; Gaming Futures](https://jobs.jobvite.com/logitech/job/oHqeifwn?s=LinkedIn_Posting&__jvst=Job%20Board&__jvsd=LinkedIn) | Remote | Summer 2022 | 2/12
 | [Logitech - Design Operations](https://jobs.jobvite.com/logitech/job/oW69ifwd) | Remote | Summer 2022 | 2/12
 | [Logitech - Design Project Management](https://jobs.jobvite.com/logitech/job/oOAcifwC) | Remote | Summer 2022 | 2/12
