@@ -31,6 +31,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Upwork - Product Designer - Product Growth](https://www.upwork.com/careers/job-post/4905506003?gh_jid=4905506003&gh_src=2ecf0e153) | Remote | 2/12
+| [SAP - Associate UX Designer](https://jobs.sap.com/job/Palo-Alto-Associate-UX-Designer-Customer-Experience-Design-Team-CA-94304/767603901/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | 2/12
+| [Ancestry - UX Design](https://careers.ancestry.com/us/en/job/ANCEUSB2933FBB47394F07A099D09E49B4C0C3EXTERNALENUS/UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | 2/12
+| [Oscar Health - Associate Product Designer (2 YoE)](https://boards.greenhouse.io/embed/job_app?token=3553594&gh_src=df2216f21&s=LinkedIn&source=LinkedIn) | New York, NY | 2/12
+| [CreditRepair Cloud - Jr UX Researcher (1-2 YoE)](https://creditrepaircloud.bamboohr.com/jobs/view.php?id=49&source=creditrepaircloud) | Remote | 2/12
 | [Assignar - Jr Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/2913766744) | Denver, CO | 2/10
 | [Indeed - Associate UX Researcher (1-2 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | Remote | 2/8
 | [Braze - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/braze/jobs/3783461?gh_jid=3783461) | San Francisco, CA | 2/8
@@ -192,6 +197,35 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Verily Life Sciences - UX Research, Clinical Studies Platform (BS)](https://verily.com/careers/job/?job_id=3893264&gh_jid=3893264) | South San Francisco | Summer 2022 | 1/31
+| [Allscripts - UX Research (BS)](https://careers.allscripts.com/jobs-us/?gh_jid=4946542003) | Seattle, WA | Summer 2022 | 1/31
+| [Gusto - Product Design](https://boards.greenhouse.io/gusto/jobs/3904785?s=LinkedIn&source=LinkedIn) | San Francisco, CA/Denver, CO/New York, NY | Summer 2022 | 2/12
+| [Q2- UX Research (grad)](https://www.linkedin.com/jobs/view/2898819707) | Remote | Summer 2022 | 2/12
+| [SharkNinja - UX Research](https://jobs.lever.co/sharkninja/ef36cc1b-6151-42dc-ac9a-97370b028068?lever-source=LinkedInJobs) | Remote | Fall 2022 (July - Dec 2022) | 2/12
+| [Anaplan - UX Research](https://www.linkedin.com/jobs/view/2903737450) | Remote | Summer 2022 | 2/12
+| [Docker - UX Research](https://www.docker.com/career-openings?gnk=job&gni=8a7883a97e7494ae017ebc4c0ac104cd&lang=en) | Remote | Summer 2022 | 2/12
+| [Docker - Product Design](https://www.docker.com/career-openings?gnk=job&gni=8a7883a97e7494ae017ebc49cc30039f&lang=en) | Remote | Summer 2022 | 2/12
+| [VMWare - Product Design](https://careers.vmware.com/main/jobs/R2215169?lang=en-us&source=LIPJ) | Palo Alto, CA | Summer 2022 | 2/12
+| [MongoDB - Design, Creative Operations](https://www.linkedin.com/jobs/view/2904674965) | New York, NY | Summer 2022 | 2/12
+| [Rocket Software - UX Engineer](hhttps://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/USA-Home-Office/UX-Engineer-Intern_R2022-2371?source=LinkedIn_Corporate_page) | Waltham, MA (Remote) | Summer 2022 | 2/12
+| [Logitech - UX Design; Gaming Futures](https://jobs.jobvite.com/logitech/job/oHqeifwn?s=LinkedIn_Posting&__jvst=Job%20Board&__jvsd=LinkedIn) | Remote | Summer 2022 | 2/12
+| [Logitech - Design Operations](https://jobs.jobvite.com/logitech/job/oW69ifwd) | Remote | Summer 2022 | 2/12
+| [Logitech - Design Project Management](https://jobs.jobvite.com/logitech/job/oOAcifwC) | Remote | Summer 2022 | 2/12
+| [Logitech - Design Copywriter](https://jobs.jobvite.com/logitech/job/ojWmifwD) | Remote | Summer 2022 | 2/12
+| [Logitech - Design Technologist](https://jobs.jobvite.com/logitech/job/ojYdifww) | Remote | Summer 2022 | 2/12
+| [Logitech - Physical User Experience Design](https://jobs.jobvite.com/logitech/job/oNAcifwB) | Remote | Summer 2022 | 2/12
+| [Logitech - Software User Experience Design](https://jobs.jobvite.com/logitech/job/oilsifw7) | Remote | Summer 2022 | 2/12
+| [Logitech - User Experience & Design](https://jobs.jobvite.com/logitech/job/oqJahfwk) | Remote | Summer 2022 | 2/12
+| [Logitech - User Experience & Design (not duplicate)](https://jobs.jobvite.com/logitech/job/oUHbhfwN) | Remote | Summer 2022 | 2/12
+| [Logitech - UI Frontlend, CTO Office](https://jobs.jobvite.com/logitech/job/oWHbhfwP) | Remote | Summer 2022 | 2/12
+| [Logitech - UX, streamers & creators](https://jobs.jobvite.com/logitech/job/osliifw7) | Remote | Summer 2022 | 2/12
+| [Logitech - UX, education](hhttps://jobs.jobvite.com/logitech/job/oW5nifwq) | Remote | Summer 2022 | 2/12
+| [North Face - Design](https://vfc.wd5.myworkdayjobs.com/NorthFaceCorporate/job/Denver-CO/The-North-Face--Design-Intern--Off-Mountain-Team_R-20220203-0048) | Denver, CO | Summer 2022 | 2/12
+| [Lucid - UX Design](https://www.linkedin.com/jobs/view/2916605384) | Salt Lake City, UT | Summer 2022 | 2/12
+| [IDEO - Business Design](https://boards.greenhouse.io/ideoorg/jobs/3876936) | New York, NY | Summer 2022 | 2/12
+| [Washington Post - Product Design](https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Product-Design-Intern--Summer-2022_JR-90273125-1?source=APPLICANT_SOURCE-LinkedIn-Sponsored) | Washington DC | Summer 2022 | 2/12
+| [MathWorks - Visual Design](https://www.mathworks.com/company/jobs/opportunities/27281-visual-design-intern.html?source=14343&s_eid=rcj_14343) | Natick, MA | Summer 2022 | 2/12
+| [WillowTree - Content Design](https://boards.greenhouse.io/willowtree/jobs/5911063002?s=LinkedIn&source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | Summer 2022 | 2/12
 | [IBM - User Experience Design](https://careers.ibm.com/job/14939960/user-experience-designer-summer-intern-2022-cio-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | Remote | Summer 2022 | 2/10
 | [Dolby - UX Design](https://jobs.dolby.com/careers/job?domain=dolby.com&pid=10277984&pid=10277984&domain=dolby.com&job_index=0) | Remote | Summer 2022 | 2/9
 | [Practice Fusion - Product Design](https://boards.greenhouse.io/embed/job_app?token=4958675003) | Raleigh, NC | Summer 2022 | 2/9
@@ -352,6 +386,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Amazon - Design & Research Apprentice](https://www.amazon.jobs/en/jobs/1930113/design-research-apprentice) | Summer 2022 | 2/12
 | [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Summer 2022 | 2/6
 | [Upperstudy - Product Design Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSd3U6nZu0ru_juQ6XySoavn3d5qVgO5WkwSMGuYsBKxwevt0A/viewform) | Summer 2022 | 1/24
 | [Coding it Forward - Product Design/Management Fellowship](https://www.codingitforward.com/summer-fellowships?utm_source=rsvp) | Summer 2022 | 1/5
