@@ -198,6 +198,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Obsidian Entertainment - UI Artist](https://www.obsidian.net/careers/open-positions/art/i5GojInLDD-ui-artist-summer-internship) | Irvine, CA | Summer 2022 | 2/12
+| [Obsidian Entertainment - UI Designer](https://www.obsidian.net/careers/open-positions/design/61K4VOPhQA-ui-designer-summer-internship) | Irvine, CA | Summer 2022 | 2/12
 | [Verily Life Sciences - UX Research, Clinical Studies Platform (BS)](https://verily.com/careers/job/?job_id=3893264&gh_jid=3893264) | South San Francisco | Summer 2022 | 2/12
 | [Allscripts - UX Research (BS)](https://careers.allscripts.com/jobs-us/?gh_jid=4946542003) | Seattle, WA | Summer 2022 | 2/12
 | [Radiant Digital - User Experience Researcher (BS)](https://www.linkedin.com/jobs/view/2904044939) | Remote | Summer 2022 | 2/12
