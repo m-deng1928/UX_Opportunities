@@ -31,6 +31,21 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Walt Disney - Designer 1 - Platform Design](https://jobs.disneycareers.com/job/-/-/391/22897675024?cid=14187) | Los Angeles, CA | 2/15
+| [New York Times - Associate Visual Designer - Wirecutter (0-2 YoE)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Associate-Visual-Designer---Wirecutter_REQ-011746-1?source=Linkedin) | New York, NY | 2/15
+| [Noom - UX Researcher (3 YoE)](https://noom.eightfold.ai/careers/job?posting_id=3135107&gh_jid=3135107) | New York, NY | 2/15
+| [Philips - Design Researcher (3 YoE)](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Design-Researcher_445017/?source=Linkedin&source=Linkedin) | Cambridge, MA | 2/15
+| [Macys - User Experience Designer (0-2 YoE)](https://www.linkedin.com/jobs/view/2883521726) | New York, NY | 2/15
+| [Siemens - UX Designer (2 YoE)](https://jobs.siemens.com/jobs/296492?lang=en-us&sourceType=PREMIUM_POST_SITE) | Princeton, NJ| 2/15
+| [Gingko Bioworks - UX Designer (2 YoE)](https://jobs.lever.co/ginkgobioworks/40addc91-e1ff-453b-9454-bfa9e47c9c82/apply?lever-source=LinkedInJobs) | Boston, MA | 2/15
+| [NSA - User Experience (UX) Designer/Researcher - Entry/Mid-Level
+](https://apply.intelligencecareers.gov/job-description/1175753) | Fort Meade, MD | 2/15
+| [Blue Shield of California (1-4 YoE)](https://bsc.referrals.selectminds.com/jobs/ux-ui-product-designer-4670?codes=W-LINKEDIN) | Oakland, CA | 2/15
+| [Target - Designer: Multicultural Product Design (3 YoE)](https://jobs.target.com/job/-/-/1118/23035358976?source=linkedin_jobposting&utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CLixlsvdgfYCFTUHaAgdNs4H2A) | Remote| 2/15
+| [Warner Media - UX Designer, Growth & Innovation (2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000053607EXTERNALENGLOBAL/UX-Designer-Growth-Innovation?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA| 2/15
+| [Morning Brew - UX Designer (2-3 YoE)](https://wtw.taleo.net/careersection/wtw_external_standard/jobdetail.ftl?job=22000116&lang=en) | New York, NY| 2/15
+| [Precisely - UX Designer (2 YoE)](https://www.linkedin.com/jobs/view/2919472511) | New York, NY| 2/15
+| [Mattel - UX Designer (3 YoE)](https://www.linkedin.com/jobs/view/2904391352) | El Segundo, CA| 2/15
 | [WTW - Junior User Experience Designer](https://wtw.taleo.net/careersection/wtw_external_standard/jobdetail.ftl?job=22000116&lang=en) | Salt Lake City, UT| 2/14
 | [Yeti - UX Designer (2 YoE)](https://boards.greenhouse.io/embed/job_app?token=3896291&gh_src=8d68df4e1&s=LinkedIn&source=LinkedIn) | Austin, TX | 2/14
 | [Honeywell - UX Researcher (BS/2 YoE)](https://careers.honeywell.com/us/en/job/HONEUSREQ333558EXTERNALENUS/UX-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA | 2/14
@@ -193,6 +208,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Intuitive - UI/UX Analyst](https://careers.intuitive.com/us/en/job/215287/UI-UX-Analyst-Intern?utm_source=linkedin&utm_medium=phenom-feeds) | Sunnyvale, CA | Summer 2022 | 2/14
+| [Siemens - UI Developer](https://jobs.siemens.com/jobs/297198?lang=en-us&sourceType=PREMIUM_POST_SITE) | Boston, MA | Summer 2022 | 2/14
+| [AES - Digital User Experience](https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Boulder-CO/Digital-PMO-Intern_R1047289) | Denver, CO | Summer 2022 | 2/14
 | [Spectrum - Associate Product Designer](https://jobs.spectrum.com/job/greenwood-village/2022-summer-intern-assoc-product-designer-ui-ux/4673/21628175616?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=brand&utm_content=social_media&utm_term=291455573&ss=paid&dclid=CMuB0_HcgPYCFfoGaAgd8ggG_Q) | Denver, CO/Greenwood Village, CO | Summer 2022 | 2/14
 | [HealthEquity - User Experience (UX)](https://careers-healthequity.icims.com/jobs/4367/user-experience-%2528ux%2529-summer-intern/job?source=LinkedIn&mode=job&iis=LinkedIn&iisn=LinkedIntsep) | Draper, UT | Summer 2022 | 2/14
 | [Viasat - Product Design, Design Systems](https://careers.viasat.com/careers/FolderDetail?folderId=9904&source=LinkedIn) | Remote | Summer 2022 | 2/14
