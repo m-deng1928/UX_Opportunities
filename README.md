@@ -38,8 +38,7 @@ New Grad
 | [Macys - User Experience Designer (0-2 YoE)](https://www.linkedin.com/jobs/view/2883521726) | New York, NY | 2/15
 | [Siemens - UX Designer (2 YoE)](https://jobs.siemens.com/jobs/296492?lang=en-us&sourceType=PREMIUM_POST_SITE) | Princeton, NJ| 2/15
 | [Gingko Bioworks - UX Designer (2 YoE)](https://jobs.lever.co/ginkgobioworks/40addc91-e1ff-453b-9454-bfa9e47c9c82/apply?lever-source=LinkedInJobs) | Boston, MA | 2/15
-| [NSA - User Experience (UX) Designer/Researcher - Entry/Mid-Level
-](https://apply.intelligencecareers.gov/job-description/1175753) | Fort Meade, MD | 2/15
+| [NSA - User Experience (UX) Designer/Researcher - Entry/Mid-Level](https://apply.intelligencecareers.gov/job-description/1175753) | Fort Meade, MD | 2/15
 | [Blue Shield of California (1-4 YoE)](https://bsc.referrals.selectminds.com/jobs/ux-ui-product-designer-4670?codes=W-LINKEDIN) | Oakland, CA | 2/15
 | [Target - Designer: Multicultural Product Design (3 YoE)](https://jobs.target.com/job/-/-/1118/23035358976?source=linkedin_jobposting&utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CLixlsvdgfYCFTUHaAgdNs4H2A) | Remote| 2/15
 | [Warner Media - UX Designer, Growth & Innovation (2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000053607EXTERNALENGLOBAL/UX-Designer-Growth-Innovation?utm_source=linkedin&utm_medium=phenom-feeds) | Atlanta, GA| 2/15
