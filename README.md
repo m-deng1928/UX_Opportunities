@@ -33,7 +33,7 @@ New Grad
 | ------------- | ------------- | -------------
 | [Thirteen23 - UI/UX designer (2-4 YoE)](https://thirteen23.breezy.hr/p/27095dda0c49-ui-ux-designer) | Austin, TX | 2/19
 | [VMWare - UX Designer, Digital User Experience - Opportunity for Working Remotely](https://careers.vmware.com/main/jobs/R2126763?lang=en-us&source=LIPJ) | Multiple Locations | 2/19
-| [JLL - UX Designer (2 YoE)](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/UX-Designer_REQ197315-1?source=APPLICANT_SOURCE-6-42 | Boston, MA | 2/19
+| [JLL - UX Designer (2 YoE)](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/UX-Designer_REQ197315-1?source=APPLICANT_SOURCE-6-42) | Boston, MA | 2/19
 | [Immuta - UX Designer (Junior) (3 YoE)](https://jobs.lever.co/immuta/d922de8f-7929-4c06-9fc3-565c443d5bce/apply?lever-source=LinkedIn) | Boston, MA | 2/19
 | [Cargill - User Experience Designer](https://careers.cargill.com/job/-/-/23251/23281371216?utm_source=LinkedInJobPostings&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CKP0wfDoi_YCFYcAaAgdHH4IpQ) | Hopkins, MN | 2/19
 | [Accenture - UX Designer (2 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00070110_en&src=LINKEDINJP) | Multiple Lcations | 2/19
@@ -228,8 +228,7 @@ Intern
 | ------------- | ------------- | ------------- | -------------
 | [Atlassian - Product Design](https://www.atlassian.com/company/careers/detail/9da76ffc-f816-472d-9b43-9f5494615754?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | Summer 2022 | 2/19
 | [Alcon - UX Design](hhttps://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2022-Intern---UX-Design_R-2022-12930?source=Linkedin) | Lake Forest, CA | Summer 2022 | 2/19
-| [Powerschool - User Experience Design](https://careers-powerschool.icims.com/jobs/4909/product-intern/job?
-mode=job&iis=Job+Board&iisn=LinkedIn) | Roanoke, VA/Folsom, CA | Summer 2022 | 2/19
+| [Powerschool - User Experience Design](https://careers-powerschool.icims.com/jobs/4909/product-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Roanoke, VA/Folsom, CA | Summer 2022 | 2/19
 | [UL - UX/UI Design](https://usenglish-ul.icims.com/jobs/27339/ux-ui-design-intern/job?hub=9&mobile=false&width=760&height=1750&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Concord, MA | Summer 2022 | 2/19
 | [BuildUm - UX Research (BS)](https://buildium-realpage.icims.com/jobs/13500/ux-research-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=806&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Concord, MA | Summer 2022 | 2/19
 | [Tanium - User Experience Design](https://www.tanium.com/careers/3711094?gh_jid=3711094) | Remote | Summer 2022 | 2/19
