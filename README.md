@@ -227,7 +227,8 @@ Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
 | [Atlassian - Product Design](https://www.atlassian.com/company/careers/detail/9da76ffc-f816-472d-9b43-9f5494615754?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | Summer 2022 | 2/19
-| [Alcon - UX Design](hhttps://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2022-Intern---UX-Design_R-2022-12930?source=Linkedin) | Lake Forest, CA | Summer 2022 | 2/19
+| [Thumbtack - Product Design](https://boards.greenhouse.io/thumbtack/jobs/3950896?t=grtm7q&s=LinkedIn&source=LinkedIn) | Remote | Summer 2022 | 2/19
+| [Alcon - UX Design](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Summer-2022-Intern---UX-Design_R-2022-12930?source=Linkedin) | Lake Forest, CA | Summer 2022 | 2/19
 | [Powerschool - User Experience Design](https://careers-powerschool.icims.com/jobs/4909/product-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Roanoke, VA/Folsom, CA | Summer 2022 | 2/19
 | [UL - UX/UI Design](https://usenglish-ul.icims.com/jobs/27339/ux-ui-design-intern/job?hub=9&mobile=false&width=760&height=1750&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Concord, MA | Summer 2022 | 2/19
 | [BuildUm - UX Research (BS)](https://buildium-realpage.icims.com/jobs/13500/ux-research-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=806&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Concord, MA | Summer 2022 | 2/19
