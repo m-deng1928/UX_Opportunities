@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [CoStar Group - Associate UX Designer](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Associate-UX-Designer_R27317) | Atlanta, GA | 2/25
+| [MongoDB - UX Researcher](https://www.mongodb.com/careers/jobs/3924100?gh_src=4589441b1us) | New York, NY | 2/25
 | [Thirteen23 - UI/UX designer (2-4 YoE)](https://thirteen23.breezy.hr/p/27095dda0c49-ui-ux-designer) | Austin, TX | 2/19
 | [VMWare - UX Designer, Digital User Experience - Opportunity for Working Remotely](https://careers.vmware.com/main/jobs/R2126763?lang=en-us&source=LIPJ) | Multiple Locations | 2/19
 | [JLL - UX Designer (2 YoE)](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/UX-Designer_REQ197315-1?source=APPLICANT_SOURCE-6-42) | Boston, MA | 2/19
@@ -207,6 +209,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Tinder - Product Design:UX Research](https://jobs.lever.co/matchgroup/ded43ebe-4ed0-435e-a203-1e3ed9a30d00) | Los Angeles, CA | Summer 2022 | 2/25
 | [Uber - UX Research Design](https://university-uber.icims.com/jobs/112549/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=112549&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220224T180332Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&mobile=false&width=874&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Francisco, CA | Summer 2022 | 2/24
 | [Zendesk - UX Research](https://jobs.zendesk.com/us/en/job/R18980/UX-Research-Intern) | Remote | Summer 2022 | 2/24
 | [Atlassian - Product Design](https://www.atlassian.com/company/careers/detail/9da76ffc-f816-472d-9b43-9f5494615754?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | Summer 2022 | 2/19
