@@ -209,6 +209,23 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Lucasfilm/Marvel - Product Design](https://jobs.disneycareers.com/job/-/-/391/24195603136?cid=14187) | San Francisco, CA/Glendale, CA/Nova Scotia, CA | Summer 2022 | 2/25
+| [EA - UX Design](https://ea.gr8people.com/jobs/171884/ux-design-intern-summer-2022?sid=4) | Redwood City, California/Vancouver, CA | Summer 2022 | 2/25
+| [Kaiser Permanente - Experience Design](https://www.kaiserpermanentejobs.org/job/-/-/641/24144596352) | Oakland, CA | Summer 2022 | 2/25
+| [Universal Creative - Technical Documentation - Instructional Design](https://jobs.universalparks.com/job/15102935/internship-universal-creative-technical-documentation-instructional-design-summer-2022-orlando-fl/) | Orlando, FL | Summer 2022 | 2/25
+| [Carbon Health - Product Design](https://jobs.lever.co/carbonhealth/a16d5e37-8ab2-41a0-aef2-a409a2298f29) | San Francisco, CA | Summer 2022 | 2/25
+| [Carbon Health - Brand Design](https://jobs.lever.co/carbonhealth/0149700e-3ef8-49d2-a086-d9c13d780834) | San Francisco, CA | Summer 2022 | 2/25
+| [CardinalCommerce - - UX Design](https://boards.greenhouse.io/cardinalcommerce/jobs/3934847?s=LinkedIn&source=LinkedIn) | Remote | Summer 2022 | 2/25
+| [FanDuel - Product Design](https://boards.greenhouse.io/fanduel/jobs/3982480?gh_src=ba823b7b1us&s=LinkedIn&source=LinkedIn) | Atlanta, GA | Summer 2022 | 2/25
+| [Anduril Industries - Visual Design](https://jobs.lever.co/anduril/1a585220-0419-4055-95e2-820e6348c11d) | Costa Mesa, CA | Spring 2022 | 2/25
+| [Superlative Technologies - User Experience Design](https://jobs.jobvite.com/careers/suprtek/job/oVzJifwf/apply?__jvst=job%20board&__jvsd=LinkedInLimited) | O'Fallon, IL | Summer 2022 | 2/25
+| [Granular - Product Design](https://boards.greenhouse.io/granular/jobs/3976096) | Johnston, IA | Summer 2022 | 2/25
+| [Center for Strategic and International Studies (CSIS)  - Design Intern - iDeas Lab (Summer 2022)](https://jobs.silkroad.com/CSIS/Careers/jobs/1098?source=linkedin.com) | Washington DC | Summer 2022 | 2/25
+| [VSA Partners - UX Design](https://boards.greenhouse.io/vsapartners/jobs/4334915004?gh_src=a7c392f54us) | Remote | Summer 2022 | 2/25
+| [Sigma Computing - Product Design](https://boards.greenhouse.io/sigmacomputing/jobs/4992251003?gh_src=e93c67dc3us) | San Francisco, CA | Summer 2022 | 2/25
+| [Haven Technologies - Product Design](https://boards.greenhouse.io/haventechus/jobs/5943575002?gh_src=f20b7ff02us&s=LinkedIn&source=LinkedIn) | New York, NY | Summer 2022 | 2/25
+| [Uber - Product Design](https://university-uber.icims.com/jobs/112580/job) | San Francisco, CA | Summer 2022 | 2/25
+| [WP Engine - UX Research](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/UX-Research-Intern_JR101223?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job&source=Linkedin) | Remote | Summer 2022 | 2/25
 | [Tinder - Product Design:UX Research](https://jobs.lever.co/matchgroup/ded43ebe-4ed0-435e-a203-1e3ed9a30d00) | Los Angeles, CA | Summer 2022 | 2/25
 | [Uber - UX Research Design](https://university-uber.icims.com/jobs/112549/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=112549&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220224T180332Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&mobile=false&width=874&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Francisco, CA | Summer 2022 | 2/24
 | [Zendesk - UX Research](https://jobs.zendesk.com/us/en/job/R18980/UX-Research-Intern) | Remote | Summer 2022 | 2/24
