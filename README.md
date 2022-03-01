@@ -235,7 +235,7 @@ Intern
 | [Gensler - Digital Experience Design (DXD)/ Brand Design](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Los-Angeles-CA-US/Student-Internship---Digital-Experience-Design--DXD---Brand-Design---Summer-2022_R-7592?source=Social+Media+%E2%80%93+LinkedIn) | Los Angeles, CA | Summer 2022 | 2/28
 | [ClassKick - User Experience (UX) Research](https://boards.greenhouse.io/classkick/jobs/4995339003) | Chicago, IL | Summer 2022 | 2/28
 | [Dots - Visual Design](https://boards.greenhouse.io/dots/jobs/3935978?s=LinkedIn&source=LinkedIn) | New York, NY | Summer 2022 | 2/28
-| [Carrieer - DTLP - User Experience & Design](https://jobs.carrier.com/job/-/-/29289/23685455008) | Atlanta, GA | Summer 2022 | 2/28
+| [Carrier - DTLP - User Experience & Design](https://jobs.carrier.com/job/-/-/29289/23685455008) | Atlanta, GA | Summer 2022 | 2/28
 | [RealPage - UX Research (BS)](https://careers-realpage.icims.com/jobs/13500/ux-research-intern/job?jbsrc=3209724D-818E-47A0-BC63-8CE354796A90&mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=930&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Boston, MA | Summer 2022 | 2/28
 | [Epsilon - UX Developer](https://jobs.smartrecruiters.com/PublicisGroupe/743999806303120-intern-program-ux-developer?source=Linkedin) | Chicago, IL | Summer 2022 | 2/28
 | [Cosm - Product Design](https://www.cosm.com/careers/positions/?gh_jid=4996001003) | Los Angeles, CA | Summer 2022 | 2/28
@@ -251,8 +251,7 @@ Intern
 | [Athenahealth - UX](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Watertown-MA/UX-Intern_R4746?source=Linkedin) | Watertown, MA | Summer 2022 | 2/28
 | [Revel Systems - UX Designer](https://revelsystems.com/careers/open-positions/?gh_jid=3955758) | Atlanta, GA | Summer 2022 | 2/28
 | [Motorola - UX Research - Experience Measurement (BS)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login?redirect=%2FCareers%2Fjob%2FChicago-IL%2FUX-Research-2022-Internship---Experience-Measurement_R21627%2Fapply%2FautofillWithResume%3Fsource%3DLinkedin) | Chicago, IL | Summer 2022 | 2/28
-| [Intuit - Content Design – Strategy and Systems Intern
-](https://campuscareers-intuit.icims.com/jobs/29823/content-design-%e2%80%93-strategy-and-systems-intern/job/login?utm_campaign=Intuit_social&utm_medium=social_post&utm_source=copy&jcat=Interns+%26+New+College+Grads&jloc=Mountain+View%2C+California&mobile=false&width=1369&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Mountain View, CA | Summer 2022 | 2/28
+| [Intuit - Content Design – Strategy and Systems Intern](https://campuscareers-intuit.icims.com/jobs/29823/content-design-%e2%80%93-strategy-and-systems-intern/job/login?utm_campaign=Intuit_social&utm_medium=social_post&utm_source=copy&jcat=Interns+%26+New+College+Grads&jloc=Mountain+View%2C+California&mobile=false&width=1369&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Mountain View, CA | Summer 2022 | 2/28
 | [Lucasfilm/Marvel - Product Design](https://jobs.disneycareers.com/job/-/-/391/24195603136?cid=14187) | San Francisco, CA/Glendale, CA/Nova Scotia, CA | Summer 2022 | 2/25
 | [EA - UX Design](https://ea.gr8people.com/jobs/171884/ux-design-intern-summer-2022?sid=4) | Redwood City, California/Vancouver, CA | Summer 2022 | 2/25
 | [Kaiser Permanente - Experience Design](https://www.kaiserpermanentejobs.org/job/-/-/641/24144596352) | Oakland, CA | Summer 2022 | 2/25
