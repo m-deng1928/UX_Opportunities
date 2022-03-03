@@ -31,6 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [LinkedIn - Associate Product Designer - Talent Solutions](https://www.linkedin.com/jobs/view/2934694155) | Sunnyvale, CA/San Francisco, CA | 3/2
+| [Yahoo - Product Designer - Ad Platform User Experience](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/US---Baltimore/Product-Designer--Ad-Platform-User-Experience_JR0018000?source=Linkedin) | Baltimore, MD/Omaha, NE/Atlanta,GA/Boston, MA/Dulles, MD/Chicago, IL/Miami, FL | 3/2
+| [American Airlines - Product Designer/Senior Product Designer, IT (Native App)(3 YoE)](https://jobs.aa.com/job/Phoenix-Product-DesignerSenior-Product-Designer%2C-IT-AZ-85001/838163700/?feedId=198400&utm_source=LinkedInJobPostings&utm_campaign=AA_Linkedin&rx_source=linkedinpp&rx_paid=1) | Multiple Locations | 3/2
 | [Google - User Experience Designer, University Graduate](https://careers.google.com/jobs/results/125137113717842630-user-experience-designer-university-graduate/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 2/28
 | [Dropbox - Product Designer, Mobile (3 YoE)](https://www.dropbox.com/jobs/listing/3935916?gh_src=aonhf1) | San Francisco, CA | 2/28
 | [NVIDIA - UX Designer (3 YoE)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Remote%2FUX-Designer_JR1953749-1%2Fapply%3Fsource%3Djobboardlinkedin) | San Diego, CA | 2/28
@@ -229,7 +232,10 @@ https://www.linkedin.com/jobs/view/2925233517
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Zillow - UX Research](https://careers.zillowgroup.com/job/15112248/ux-research-intern-remote/?fbclid=IwAR0ENZtoNM68EHXoT4_6-X0twXkPCgYEZDl_3Emgkhl1gpEGiLylHWl2Tik) | Remote | Summer 2022 | 2/28
+| [Cash App - Product Design, Financial Services](https://jobs.smartrecruiters.com/Square/743999807594867-product-design-intern-financial-services?source=Linkedin) | New York, NY | Summer 2022 | 3/2
+| [American Airlines - User Experience Design Thinking](https://jobs.aa.com/job/Ft-Worth-User-Experience-Design-Thinking-Intern-TX-76101/850970600/) | Remote | Summer 2022 | 3/2
+| [American Airlines - User Experience Product Design](https://jobs.aa.com/job/Ft-Worth-User-Experience-Product-Design-Intern-TX-76101/850972800/?feedId=198400&utm_source=LinkedInJobPostings&utm_campaign=AA_Linkedin&rx_source=linkedinpp&rx_paid=1) | Remote | Summer 2022 | 3/2
+| [Zillow - UX Research](https://careers.zillowgroup.com/job/15112248/ux-research-intern-remote/?fbclid=IwAR0ENZtoNM68EHXoT4_6-X0twXkPCgYEZDl_3Emgkhl1gpEGiLylHWl2Tik) | Fort Worth, TX | Summer 2022 | 2/28
 | [Squarespace - UX Content Strategy](https://www.squarespace.com/careers/jobs/3927550?gh_src=afe793d31&rx_source=Linkedin&rx_paid=1) | Remote (?) | Summer 2022 | 2/28
 | [Powerschool - User Experience Research](https://careers-powerschool.icims.com/jobs/4910/product-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Roanoke, VA/Folsom, CA | Summer 2022 | 2/19
 | [Gensler - Digital Experience Design (DXD)/ Brand Design](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Los-Angeles-CA-US/Student-Internship---Digital-Experience-Design--DXD---Brand-Design---Summer-2022_R-7592?source=Social+Media+%E2%80%93+LinkedIn) | Los Angeles, CA | Summer 2022 | 2/28
