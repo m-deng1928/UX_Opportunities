@@ -274,7 +274,7 @@ Intern
 | [Slate - UI/UX](https://www.linkedin.com/jobs/view/2948955168) | Remote | Summer 2022 | 3/3
 | [Earnest - Product Design](https://www.earnest.com/careers?gh_jid=3955882&gh_src=1aa6d31d1us) | San Francisco, CA | Summer 2022 | 3/3
 | [Cash App - Product Design, Financial Services](https://jobs.smartrecruiters.com/Square/743999807594867-product-design-intern-financial-services?source=Linkedin) | New York, NY | Summer 2022 | 3/3
-| [G2 - UI/UX Design](hhttps://boards.greenhouse.io/g2crowd/jobs/3976661?gh_src=87affbfb1&s=LinkedIn&source=LinkedIn) | Remote | Summer 2022 | 3/3
+| [G2 - UI/UX Design](https://boards.greenhouse.io/g2crowd/jobs/3976661?gh_src=87affbfb1&s=LinkedIn&source=LinkedIn) | Remote | Summer 2022 | 3/3
 | [Cash App - Product Design, Financial Services](https://jobs.smartrecruiters.com/Square/743999807594867-product-design-intern-financial-services?source=Linkedin) | New York, NY | Summer 2022 | 3/3
 | [Overstock - UX Product Design](https://overstock.wd5.myworkdayjobs.com/Overstock_Careers/job/Remote---United-States/Intern---UX-Product-Design_R0005547?source=Linkedin) | New York, NY | Summer 2022 | 3/2
 | [American Airlines - User Experience Design Thinking](https://jobs.aa.com/job/Ft-Worth-User-Experience-Design-Thinking-Intern-TX-76101/850970600/) | Remote | Summer 2022 | 3/2
