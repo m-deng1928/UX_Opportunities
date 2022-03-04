@@ -31,7 +31,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Rex - Junior Design](https://boards.greenhouse.io/rex/jobs/4373157004?gh_src=93c0fbca2us) | Austin, TX | 3/3
+| [WillowTree - Product Researcher](https://boards.greenhouse.io/willowtree/jobs/5867742002) | Durham, NC | 3/4
+| [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479486002) | Durham, NC | 3/4
+| [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479479002) | Columbus, OH | 3/4
 | [Mess - UX Designer (3 YoE)](https://mess.bamboohr.com/jobs/view.php?id=25&source=aWQ9MjA%3D) | Chicago, IL | 3/3
 | [Zillow - Associate Product Designer ](https://careers.zillowgroup.com/job/15169657/associate-product-designer-remote/) | Remote | 3/3
 | [SAP - User Experience Design Specialist](https://jobs.sap.com/job/Chicago-User-Experience-Design-Specialist-IL-60606/777235301/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Chicago, IL/Bangalore, India | 3/3
