@@ -31,7 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [WillowTree - Product Researcher](https://boards.greenhouse.io/willowtree/jobs/5867742002) | Durham, NC | 3/4
+| [SAP - User Experience Researcher (BS/2 YoE)](https://jobs.sap.com/job/Palo-Alto-User-Experience-Researcher-CA-94304/779696401/) | Remote | 3/7
 | [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479486002) | Durham, NC | 3/4
 | [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479479002) | Columbus, OH | 3/4
 | [Mess - UX Designer (3 YoE)](https://mess.bamboohr.com/jobs/view.php?id=25&source=aWQ9MjA%3D) | Chicago, IL | 3/3
