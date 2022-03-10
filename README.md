@@ -31,6 +31,18 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Visa - Design Researcher (BS/3 YoE)](https://jobs.smartrecruiters.com/Visa/743999810689820-design-researcher) | San Francisco, CA | 3/10
+| [KPMG - Associate, UX Designer (1 YoE)](https://us-jobs.kpmg.com/careers/JobDetail?jobId=82148&srcCat=Direct+Contact&specSrc=LinkedIn) | Los Angeles, CA/Denver, CO/Atlanta, GA/ Chicago, IL/Baltimore, MD/New York, NY/Philadelphia, PA/Dallas, TX | 3/10
+| [Workiva - User Experience Designer](https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/User-Experience-Designer_R3961-1?source=Linkedin) | Multiple Locations | 3/10
+| [GrubHub - Product Designer (3 YoE)](https://careers-grubhub.icims.com/jobs/13660/product-designer/job) | Boston, MA | 3/10
+| [Oscar Health - Product Designer (3 YoE)](https://boards.greenhouse.io/embed/job_app?token=4018069&gh_src=df2216f21&s=LinkedIn&source=LinkedIn) | New York, NY | 3/10
+| [Vertafore - Product Designer (2 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=572295&cid=7743&locvalue=1054) | Remote | 3/10
+| [PTC - UX Designer](https://ptc.eightfold.ai/careers/job?domain=ptc.com&pid=137450051152) | Remote | 3/10
+| [Jerry - Product Designer - Class of 2022](https://jobs.lever.co/getjerry/0ea2902f-a4a6-4c15-953f-8cbf360df690/apply?lever-source=LinkedIn) | Remote | 3/10
+| [Zulily- UX Designer (2 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-WA-Seattle/UX-Designer_R57377?source=LinkedIn) | Remote | 3/10
+| [Squarespace - Product Designer (2 YoE)](https://www.squarespace.com/about/careers?gh_jid=4010034&gh_src=badacf591us) | New York, NY | 3/10
+| [Oliver Space - Product Designer (2 YoE)](https://www.clicktherapeutics.com/careers/?gh_jid=5371277002&gh_src=2596a7e22us) | San Francisco, CA | 3/10
+| [Paper - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2955704980) | Remote | 3/10
 | [WP Engine - Product Designer](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/WFH---Kansas/Product-Designer--Sr_JR100998-1?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job&source=Linkedin) | Remote | 3/8
 | [Dropbox - Product Designer HelloSign Design (2 YoE)](https://www.dropbox.com/jobs/listing/3734301?gh_src=aonhf1) | Remote | 3/8
 | [Ziprecruiter - Product Designer](https://boards.greenhouse.io/ziprecruiter/jobs/3968838?gh_src=89c6ee071us&s=LinkedIn&source=LinkedIn) | Remote | 3/8
@@ -248,6 +260,7 @@ https://jobs.sap.com/job/Chicago-User-Experience-Design-Specialist-IL-60606/7772
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Zoom - UI/UX Design](https://zoom.wd5.myworkdayjobs.com/Zoom/job/San-Jose-CA/UI-UX-Design-Intern_R8204?source=linkedin) | Remote | Summer 2022 | 3/10
 | [Blue Shield of California - UX Design](https://bsc.referrals.selectminds.com/jobs/ux-design-internship-5327?codes=W-LINKEDIN) | Oakland, CA | Summer 2022 | 3/3
 | [Toast - UX](https://boards.greenhouse.io/embed/job_app?token=3968669&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Remote | Summer 2022 | 3/3
 | [Palantir Technologies - Product Design](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | New York, NY | Summer 2022 | 3/3
