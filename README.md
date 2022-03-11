@@ -260,6 +260,9 @@ https://jobs.sap.com/job/Chicago-User-Experience-Design-Specialist-IL-60606/7772
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Wayfair - UX Content Strategy/Technical Writing](https://www.wayfair.com/careers/job/ux-content-strategy-technical-writing-co-op---summer-internship-2022/5864950002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
+| [Wayfair - Product Design](https://www.wayfair.com/careers/job/product-design-co-op---summer-internship-2022/5864815002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
+| [Wayfair - User Experience Research](https://www.wayfair.com/careers/job/user-experience-research-co-op---summer-internship-2022/5864887002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
 | [Zoom - UI/UX Design](https://zoom.wd5.myworkdayjobs.com/Zoom/job/San-Jose-CA/UI-UX-Design-Intern_R8204?source=linkedin) | Remote | Summer 2022 | 3/10
 | [Blue Shield of California - UX Design](https://bsc.referrals.selectminds.com/jobs/ux-design-internship-5327?codes=W-LINKEDIN) | Oakland, CA | Summer 2022 | 3/3
 | [Toast - UX](https://boards.greenhouse.io/embed/job_app?token=3968669&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Remote | Summer 2022 | 3/3
