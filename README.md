@@ -2,9 +2,9 @@
 
 Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. 
 
-If link dies, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
+If links die, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
 
-I will try to include YoE (years of experience) if it otherwise indicated. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. I will also add companies that add GPA requirements (Yes, some do.).
+I will try to include YoE (years of experience) if possible. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. I will also add companies that add GPA requirements (Yes, some do.).
 
 For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
 
@@ -31,6 +31,25 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Match - Associate User/UX Research (BS/1-3 YoE)](https://jobs.smartrecruiters.com/Visa/743999810689820-design-researcher) | Dallas, TX | 3/12
+| [Air - Junior Product Designer](https://www.linkedin.com/jobs/view/2964856571) | New York, NY (Remote) | 3/12
+| [PA Consulting- Design Consultant, Sustainable Product Design & Innovation](https://www.linkedin.com/jobs/view/2959360350) | Boston, MA | 3/12
+| [PA Consulting- Design Researcher (0-3 YoE)](https://www.linkedin.com/jobs/view/2959657228) | Boston, MA | 3/12
+| [Stavvy - UX Researcher I (1 YoE)](https://jobs.lever.co/stavvy/9635fc6d-e77e-445d-9445-4f505c55ecc8) | Boston, MA | 3/12
+| [Varian - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2961436208) | Palo Alto, CA | 3/12
+| [Abbott - UX Designer (2 YoE)](https://www.linkedin.com/jobs/view/2947021679) | Boston, MA | 3/12
+| [Publicis Sapient - Visual Product Design (UI)(https://www.linkedin.com/jobs/view/2961483348) | Boston, MA | 3/12
+| [Upwork - UX Researcher](https://www.upwork.com/careers/job-post/4872867003?gh_jid=4872867003&gh_src=dd601e1c3us) | San Francisco, CA | 3/12
+| [Upwork - Product Designer](https://www.upwork.com/careers/job-post/4905506003?gh_jid=4905506003&gh_src=dd601e1c3us) | Remote | 3/12
+| [Docusign - Product Designer (2 YoE)](https://www.docusign.com/company/careers/open?gh_jid=3883300&gh_src=ua6xck) | San Francisco, CA/Seattle, WA/Remote | 3/12
+| [SAP - User Experience Designer](https://jobs.sap.com/job/Palo-Alto-User-Experience-Designer-CA-94304/779272801/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | 3/12
+| [Twitch - UX Designer - Monetization (3 YoE)](https://www.twitch.tv/jobs/en/careers/5893693002/) | Irvine, CA | 3/12
+| [Pendo.io - Product Designer](https://boards.greenhouse.io/pendo/jobs/5848005002?gh_src=a6e397752us&s=LinkedIn&source=LinkedIn) | New York, NY | 3/12
+| [Pitchbook Data - Product Designer (2 YoE)](https://jobs.jobvite.com/pitchbook/job/oU24gfw0) | Seattle, WA | 3/12
+| [PlutoTV - Product Designer (1 YoE)](https://careers.viacomcbs.com/job/Los-Angeles-CA-90069/855052400/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, CA | 3/12
+| [Instawork - Product Designer (3 YoE)](https://jobs.lever.co/instawork/1e827574-87eb-4db4-8a03-1bc9333bbc81?lever-source=LinkedInJobs) | San Francisco, CA | 3/12
+| [Capital One - User Researcher (3 YoE)](https://www.capitalonecareers.com/job/-/-/1732/24993205392?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Talent_Brand&utm_content=social_media&utm_term=294473755&ss=paid&dclid=CJDul-HPwPYCFVSgnwode80A5A) | New York, NY/McLean, VA | 3/12
+| [Cloudflare - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/2924951589) | Boston, MA | 3/12
 | [Visa - Design Researcher (BS/3 YoE)](https://jobs.smartrecruiters.com/Visa/743999810689820-design-researcher) | San Francisco, CA | 3/10
 | [KPMG - Associate, UX Designer (1 YoE)](https://us-jobs.kpmg.com/careers/JobDetail?jobId=82148&srcCat=Direct+Contact&specSrc=LinkedIn) | Los Angeles, CA/Denver, CO/Atlanta, GA/ Chicago, IL/Baltimore, MD/New York, NY/Philadelphia, PA/Dallas, TX | 3/10
 | [Workiva - User Experience Designer](https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/User-Experience-Designer_R3961-1?source=Linkedin) | Multiple Locations | 3/10
