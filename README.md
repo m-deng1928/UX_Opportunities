@@ -38,7 +38,7 @@ New Grad
 | [Stavvy - UX Researcher I (1 YoE)](https://jobs.lever.co/stavvy/9635fc6d-e77e-445d-9445-4f505c55ecc8) | Boston, MA | 3/12
 | [Varian - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/2961436208) | Palo Alto, CA | 3/12
 | [Abbott - UX Designer (2 YoE)](https://www.linkedin.com/jobs/view/2947021679) | Boston, MA | 3/12
-| [Publicis Sapient - Visual Product Design (UI)(https://www.linkedin.com/jobs/view/2961483348) | Boston, MA | 3/12
+| [Publicis Sapient - Visual Product Design (UI)](https://www.linkedin.com/jobs/view/2961483348) | Boston, MA | 3/12
 | [Upwork - UX Researcher](https://www.upwork.com/careers/job-post/4872867003?gh_jid=4872867003&gh_src=dd601e1c3us) | San Francisco, CA | 3/12
 | [Upwork - Product Designer](https://www.upwork.com/careers/job-post/4905506003?gh_jid=4905506003&gh_src=dd601e1c3us) | Remote | 3/12
 | [Docusign - Product Designer (2 YoE)](https://www.docusign.com/company/careers/open?gh_jid=3883300&gh_src=ua6xck) | San Francisco, CA/Seattle, WA/Remote | 3/12
@@ -279,6 +279,9 @@ https://jobs.sap.com/job/Chicago-User-Experience-Design-Specialist-IL-60606/7772
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Sourcegraph - Product Design - Code Insights](https://boards.greenhouse.io/sourcegraph91/jobs/4381638004?s=LinkedIn&source=LinkedIn) | Boston, MA | Summer 2022 | 3/12
+| [Docusign - Product Design](https://www.docusign.com/company/careers/open?gh_jid=3556050&gh_src=ua6xck) | San Franisco, CA | Summer 2022 | 3/12
+| [Marvel - Product Design](https://jobs.disneycareers.com/job/-/-/391/25108147808?cid=14187) | Glendale, CA | Summer 2022 | 3/12
 | [Wayfair - UX Content Strategy/Technical Writing](https://www.wayfair.com/careers/job/ux-content-strategy-technical-writing-co-op---summer-internship-2022/5864950002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
 | [Wayfair - Product Design](https://www.wayfair.com/careers/job/product-design-co-op---summer-internship-2022/5864815002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
 | [Wayfair - User Experience Research](https://www.wayfair.com/careers/job/user-experience-research-co-op---summer-internship-2022/5864887002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
