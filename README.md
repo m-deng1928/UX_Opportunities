@@ -31,6 +31,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Pinterest - Qualitative User Experience Researcher, Create (Contract)(3 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=571013&cid=8004&locvalue=1025&bid=1) | San Francisco, CA | 3/15
 | [Match - Associate User/UX Research (BS/1-3 YoE)](https://jobs.smartrecruiters.com/Visa/743999810689820-design-researcher) | Dallas, TX | 3/12
 | [Air - Junior Product Designer](https://www.linkedin.com/jobs/view/2964856571) | New York, NY (Remote) | 3/12
 | [PA Consulting- Design Consultant, Sustainable Product Design & Innovation](https://www.linkedin.com/jobs/view/2959360350) | Boston, MA | 3/12
@@ -253,7 +254,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Avanade - User Experience - Northeast](https://careers.avanade.com/jobsenus/JobDetail/Intern-User-Experience-Northeast/37645?source=LinkedIn) | Boston, MA/New York, NY/Philadelphia, PA | Summer 2022 | 3/12
+| [Mindbody - Technical Project Management (UX)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=571013&cid=8004&locvalue=1025&bid=1) | Remote| Summer 2022 | 3/15
+| [Avanade - User Experience - Northeast](https://careers.avanade.com/jobsenus/JobDetail/Intern-User-Experience-Northeast/37645?source=LinkedIn) | Boston, MA/New York, NY/Philadelphia, PA | Summer 2022 | 3/14
 | [Sourcegraph - Product Design - Code Insights](https://boards.greenhouse.io/sourcegraph91/jobs/4381638004?s=LinkedIn&source=LinkedIn) | Boston, MA | Summer 2022 | 3/12
 | [Marvel - Product Design](https://jobs.disneycareers.com/job/-/-/391/25108147808?cid=14187) | Glendale, CA | Summer 2022 | 3/12
 | [Wayfair - UX Content Strategy/Technical Writing](https://www.wayfair.com/careers/job/ux-content-strategy-technical-writing-co-op---summer-internship-2022/5864950002/apply?gh_src=&referredBy=) | Boston, MA | Summer 2022 | 3/11
