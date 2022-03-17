@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Mercari - UX Researcher](https://boards.greenhouse.io/mercari/jobs/5445607002?gh_src=36c078332us) | Remote | 3/17
+| [Google - User Experience Designer, University Graduate](https://careers.google.com/jobs/results/113779478242435782-user-experience-designer-university-graduate/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 3/17
 | [Pinterest - Qualitative User Experience Researcher, Create (Contract)(3 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=571013&cid=8004&locvalue=1025&bid=1) | San Francisco, CA | 3/15
 | [Match - Associate User/UX Research (BS/1-3 YoE)](https://jobs.smartrecruiters.com/Visa/743999810689820-design-researcher) | Dallas, TX | 3/12
 | [Air - Junior Product Designer](https://www.linkedin.com/jobs/view/2964856571) | New York, NY (Remote) | 3/12
@@ -254,6 +256,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Glassdoor - Product Design](https://boards.greenhouse.io/glassdoor/jobs/5991957002?gh_src=0ea659c22us) | Austin, TX | Summer 2022 | 3/17
+| [Mastercard - Product Design](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FNew-York-City-New-York%2FProduct-Design-Intern_R-135975-2%2Fapply%3Fsource%3DLINKEDIN) | New York, NY | Summer 2022 | 3/17
+| [Lovepop - UX/Product Design](https://jobs.lever.co/lovepopcards/9a60a31e-82f3-428e-8fc2-a57d4f71b633?utm_source=lovepop&utm_medium=referral&utm_campaign=Lovepop_careers) | Remote| Summer 2022 | 3/17
+| [OneDrive - UX/UI](https://company.overdrive.com/careers/?p=job%2FoYV0ifwV#positions) | Cleveland, OH| Summer 2022 | 3/17
+| [Northwestern Mutual - UX Design](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/UX-Design-Intern--Summer-2022_JR-27024?source=Linkedin) | Milwaukee, WI/New York, NY| Summer 2022 | 3/17
+| [Pluralsight - Product Design](https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Product-Design-Intern_R0008450?source=Linkedin) | Draper, Utah/Boston, MA/Remote| Summer 2022 | 3/17
+| [New Relic - Multimedia Design](https://jobs.jobvite.com/careers/newrelic/job/oFa2hfwS/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Remote| Summer 2022 | 3/17
 | [Mindbody - Technical Project Management (UX)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=571013&cid=8004&locvalue=1025&bid=1) | Remote| Summer 2022 | 3/15
 | [Avanade - User Experience - Northeast](https://careers.avanade.com/jobsenus/JobDetail/Intern-User-Experience-Northeast/37645?source=LinkedIn) | Boston, MA/New York, NY/Philadelphia, PA | Summer 2022 | 3/14
 | [Sourcegraph - Product Design - Code Insights](https://boards.greenhouse.io/sourcegraph91/jobs/4381638004?s=LinkedIn&source=LinkedIn) | Boston, MA | Summer 2022 | 3/12
