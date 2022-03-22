@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Spotify - User Researcher - Content Experience (3 YoE)](https://jobs.lever.co/spotify/bc7dd2b3-20aa-4793-9c12-6a15aa8afcde/apply?lever-source=LinkedIn) | New York, NY | 3/17
+| [Kernel - Product Designer](https://jobs.lever.co/kernel-2/2753a7a2-ecfa-4925-9c31-3fc5341c6740?lever-source=LinkedInJobs) | Culver City, CA | 3/17
 | [Mercari - UX Researcher](https://boards.greenhouse.io/mercari/jobs/5445607002?gh_src=36c078332us) | Remote | 3/17
 | [Google - User Experience Designer, University Graduate](https://careers.google.com/jobs/results/113779478242435782-user-experience-designer-university-graduate/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 3/17
 | [Pinterest - Qualitative User Experience Researcher, Create (Contract)(3 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=571013&cid=8004&locvalue=1025&bid=1) | San Francisco, CA | 3/15
@@ -232,6 +234,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Morning Brew - Product Design](https://jobs.lever.co/morningbrew/eaae5284-4003-4414-bdf0-89e13edaee22) | New York, NY | Summer 2022 | 3/22
+| [Fantasy - Design](https://jobs.lever.co/fantasy/f6e2af6c-b6a2-428c-8138-c47bf7255ca3/apply?lever-source=LinkedIn) | San Francisco, CA| Summer 2022 | 3/22
 | [Glassdoor - Product Design](https://boards.greenhouse.io/glassdoor/jobs/5991957002?gh_src=0ea659c22us) | Austin, TX | Summer 2022 | 3/17
 | [Mastercard - Product Design](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FNew-York-City-New-York%2FProduct-Design-Intern_R-135975-2%2Fapply%3Fsource%3DLINKEDIN) | New York, NY | Summer 2022 | 3/17
 | [Lovepop - UX/Product Design](https://jobs.lever.co/lovepopcards/9a60a31e-82f3-428e-8fc2-a57d4f71b633?utm_source=lovepop&utm_medium=referral&utm_campaign=Lovepop_careers) | Remote| Summer 2022 | 3/17
@@ -380,6 +384,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Ro - Product Design](https://jobs.lever.co/ro/17455351-d668-4818-b5f0-bd6db9fb7302?lever-source=LinkedInJobs) | Summer 2022 | 3/22
 | [Asana - AsanaUP Product Design Apprentice](https://boards.greenhouse.io/earlycareerprograms/jobs/3968571) | Summer 2022 | 2/28
 | [Amazon - Design & Research Apprentice](https://www.amazon.jobs/en/jobs/1930113/design-research-apprentice) | Summer 2022 | 2/12
 | [Color - Product Design Fellowship](https://jobs.lever.co/color/fc434828-2236-43ca-828e-859936bd776d) | Summer 2022 | 2/6
