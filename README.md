@@ -234,6 +234,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [frog - Interaction Design](https://www.frogdesign.com/careers/jobs/4040540?gh_jid=4040540) | Austin, TX | Summer 2022 | 3/23
+| [Wunderman Thompson - Design](https://www.wundermanthompson.com/careers/job/6004290002?gh_jid=6004290002) | Atlanta, GA | Summer 2022 | 3/23
+| [NVIDIA - UX/UI Product Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Santa-Clara%2FUI-UX-Product-Design-Intern_JR1956424-2%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Summer 2022 | 3/23
+| [Squarespace - Product Design](https://jobs.jobvite.com/careers/medidata-solutions/job/oig2ifwC/apply?jvs=LinkedIn&jvk=Apply&jvi=oig2ifwC,Apply&j=oig2ifwC&su=fvraVfwL&__jvst=Job%20Board&__jvsd=LinkedIn) | San Francisco, CA | Summer 2022 | 3/23
+| [Medidata Solutions - Product Design](https://jobs.jobvite.com/careers/medidata-solutions/job/oig2ifwC/apply?jvs=LinkedIn&jvk=Apply&jvi=oig2ifwC,Apply&j=oig2ifwC&su=fvraVfwL&__jvst=Job%20Board&__jvsd=LinkedIn) | San Francisco, CA | Summer 2022 | 3/23
 | [Morning Brew - Product Design](https://jobs.lever.co/morningbrew/eaae5284-4003-4414-bdf0-89e13edaee22) | New York, NY | Summer 2022 | 3/22
 | [Fantasy - Design](https://jobs.lever.co/fantasy/f6e2af6c-b6a2-428c-8138-c47bf7255ca3/apply?lever-source=LinkedIn) | San Francisco, CA| Summer 2022 | 3/22
 | [Glassdoor - Product Design](https://boards.greenhouse.io/glassdoor/jobs/5991957002?gh_src=0ea659c22us) | Austin, TX | Summer 2022 | 3/17
