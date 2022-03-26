@@ -32,6 +32,8 @@ New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
 | [JP Morgan Chase - Junior UX Researcher, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210252316/?utm_medium=jobshare&fbclid=IwAR1XEvU5a8--ce9N4EuWji-6Aq820U4AGgZ4dUX3OB0PyC3TK8qzeKxjU4I) | New York, NY | 3/26
+| [Johnson & Johnson - Jr Designer DXD](https://jobs.jnj.com/jobs/2206020782W?lang=en-us&src=JB-10280&src=JB-10280) | New York, NY | 3/26
+| [Grubhub - Asssociate Product Designer](https://careers-grubhub.icims.com/jobs/13723/associate-product-designer/job?mobile=false&width=939&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Boston, MA | 3/26
 | [Spotify - User Researcher - Growth](https://www.lifeatspotify.com/jobs/user-researcher-value) | London | 3/26
 | [MeasuringU - User Researcher](https://measuringu.com/job/uxr-spring2022/) | Denver, CO | 3/26
 | [Spotify - User Researcher - Content Experience (3 YoE)](https://jobs.lever.co/spotify/bc7dd2b3-20aa-4793-9c12-6a15aa8afcde/apply?lever-source=LinkedIn) | New York, NY | 3/21
