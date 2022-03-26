@@ -31,9 +31,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Spotify - User Researcher - Content Experience (3 YoE)](https://jobs.lever.co/spotify/bc7dd2b3-20aa-4793-9c12-6a15aa8afcde/apply?lever-source=LinkedIn) | New York, NY | 3/17
-| [Kernel - Product Designer](https://jobs.lever.co/kernel-2/2753a7a2-ecfa-4925-9c31-3fc5341c6740?lever-source=LinkedInJobs) | Culver City, CA | 3/17
-| [Mercari - UX Researcher](https://boards.greenhouse.io/mercari/jobs/5445607002?gh_src=36c078332us) | Remote | 3/17
+| [JP Morgan Chase - Junior UX Researcher, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210252316/?utm_medium=jobshare&fbclid=IwAR1XEvU5a8--ce9N4EuWji-6Aq820U4AGgZ4dUX3OB0PyC3TK8qzeKxjU4I) | New York, NY | 3/26
+| [Spotify - User Researcher - Growth](https://www.lifeatspotify.com/jobs/user-researcher-value) | London | 3/26
+| [MeasuringU - User Researcher](https://measuringu.com/job/uxr-spring2022/) | Denver, CO | 3/26
+| [Spotify - User Researcher - Content Experience (3 YoE)](https://jobs.lever.co/spotify/bc7dd2b3-20aa-4793-9c12-6a15aa8afcde/apply?lever-source=LinkedIn) | New York, NY | 3/21
+| [Kernel - Product Designer](https://jobs.lever.co/kernel-2/2753a7a2-ecfa-4925-9c31-3fc5341c6740?lever-source=LinkedInJobs) | Culver City, CA | 3/21
+| [Mercari - UX Researcher](https://boards.greenhouse.io/mercari/jobs/5445607002?gh_src=36c078332us) | Remote | 3/21
 | [Google - User Experience Designer, University Graduate](https://careers.google.com/jobs/results/113779478242435782-user-experience-designer-university-graduate/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 3/17
 | [Pinterest - Qualitative User Experience Researcher, Create (Contract)(3 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=571013&cid=8004&locvalue=1025&bid=1) | San Francisco, CA | 3/15
 | [Match - Associate User/UX Research (BS/1-3 YoE)](https://jobs.smartrecruiters.com/Visa/743999810689820-design-researcher) | Dallas, TX | 3/12
@@ -234,6 +237,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Disney - Instructional Design, Sales Learning Services](https://jobs.disneycareers.com/job/-/-/391/25980527696?cid=14187) | Celebration, FL | Fall 2022 | 3/26
+| [Volkswagen of America - Design](https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=ICC000106&lang=en&source=LinkedIn&src=LinkedIn) | California/Belmont | Fall 2022 | 3/26
+| [Medpace - Information Design](https://uscareers-medpace.icims.com/jobs/4991/information-design-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=919&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Cincinnati, OH | Summer 2022 | 3/26
+| [Rock Central - Conversational Design](https://www.myrocketcareer.com/job-detail-page/15381015/conversational-design-intern-summer-2022-detroit-mi/) | Detroit, MI | Summer 2022 | 3/26
 | [frog - Interaction Design](https://www.frogdesign.com/careers/jobs/4040540?gh_jid=4040540) | Austin, TX | Summer 2022 | 3/23
 | [Wunderman Thompson - Design](https://www.wundermanthompson.com/careers/job/6004290002?gh_jid=6004290002) | Atlanta, GA | Summer 2022 | 3/23
 | [NVIDIA - UX/UI Product Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login?redirect=%2FNVIDIAExternalCareerSite%2Fjob%2FUS-CA-Santa-Clara%2FUI-UX-Product-Design-Intern_JR1956424-2%2Fapply%3Fsource%3Djobboardlinkedin) | Santa Clara, CA | Summer 2022 | 3/23
