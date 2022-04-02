@@ -204,6 +204,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Spothero - Product Design](https://spothero.com/careers/4100557/?gh_jid=4100557) | Chicago, IL | Summer 2022 | 4/2
+| [Vidmob - Product Design](https://www.linkedin.com/jobs/view/2922584135) | Utica Rome, NY | Summer 2022 | 4/2
+| [BetterHelp - Product and Content Design](https://www.linkedin.com/jobs/view/2998328620) | Mountain View, CA | Summer 2022 | 4/2
 | [Jerry - Graphics & Motion Design](https://jobs.lever.co/getjerry/5754dfd3-bf88-4c41-9930-fad3b44cadfe) | Ottawa, ON | Summer 2022 | 3/31
 | [Balbix - Product Design](https://jobs.lever.co/balbix/608d05d9-5e1e-4d3c-806c-9666f9fdf2ba) | San Jose, CA | Summer 2022 | 3/31
 | [Walmart - UX Design - MBA](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-CA-SUNNYVALE-Home-Office-SUNNYVALE-V---640-W-CALIFORNIA/XMLNAME-2022-Summer-Intern--UX-Design-MBA-Intern_R-1001647?source=Advertising_Indeed_Organic&_ccid=1629576742896a0ebhn4is&ittk=945XQYL8ZT) | Sunnyvale, CA | Summer 2022 | 3/31
