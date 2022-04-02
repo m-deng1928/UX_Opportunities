@@ -204,6 +204,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Eddie Bauer - UX/UI](https://corporate-eddiebauer-sparcgroup.icims.com/jobs/38178/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Bellevue, WA | Summer 2022 | 4/2
+| [TMobile - UX Designer](https://www.tmobile.careers/job-details/15422296/ux-designer-intern-bellevue-wa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer%2520Intern&utm_term=729202) | Bellevue, WA | Summer 2022 | 4/2
+| [Avalara - UX Designer](https://jobs.jobvite.com/careers/avalara/job/oFkdjfwf?__jvst=Job%20Board&__jvsd=Indeed) | Seattle, WA | Summer 2022 | 4/2
+| [Waste Management - Product Design](https://wmtalent.taleo.net/careersection/ex/jobdetail.ftl?job=22006581&src=JB-10087) | Houston, TX | Summer 2022 | 4/2
+| [LogicGate - Product Design](https://www.logicgate.com/about-us/join-the-team/?gh_jid=4005098005&gh_src=35a0f8655u
+s) | Chicago, IL | Summer 2022 | 4/2
 | [Spothero - Product Design](https://spothero.com/careers/4100557/?gh_jid=4100557) | Chicago, IL | Summer 2022 | 4/2
 | [Vidmob - Product Design](https://www.linkedin.com/jobs/view/2922584135) | Utica Rome, NY | Summer 2022 | 4/2
 | [BetterHelp - Product and Content Design](https://www.linkedin.com/jobs/view/2998328620) | Mountain View, CA | Summer 2022 | 4/2
