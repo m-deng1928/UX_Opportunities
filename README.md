@@ -2,9 +2,9 @@
 
 Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. 
 
-If links die, let me know, but I just put the dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
+If links die, let me know, but dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
 
-I will try to include YoE (years of experience) if possible. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate otherwise through YoE. I will also add companies that add GPA requirements (Yes, some do.).
+I will try to include education, GPA, YoE (years of experience) requirements if available. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate through YoE.
 
 For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
 
@@ -12,7 +12,11 @@ For roles themselves, they will be **paid roles** as I believe people should be 
 
 Thanks, and don't forget to be awesome. :D
 
+---
+
 If you need further resources, here is a larger 100+ page [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back which includes more opportunities, where to find them, and general recruiting tips. 
+
+Here are [UX Resources](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122) I compiled.
 
 ---
 
@@ -31,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Poshmark - Visual Designer - CONTRACTOR (2 YoE)](https://boards.greenhouse.io/poshmark/jobs/3892449) | Reddwood City, CA | 4/3
 | [iCIMS - Product Designer](https://careers.icims.com/jobs/1833?mode=job&iis=Job+Board&iisn=LinkedIn) | Holmdel, NJ| 4/3
 | [Kroger - Associate Product Designer](https://kroger.eightfold.ai/careers?pid=10308099&domain=kroger.com) | Cincinnati, OH | 4/3
 | [Philadelphia Inquirer - User Researcher (0-3 YoE)](https://us61e2.dayforcehcm.com/CandidatePortal/en-US/philainquirer/Posting/View/478) | Philadelphia, PA| 3/30
@@ -206,6 +211,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Poshmark - Visual Designer](https://boards.greenhouse.io/poshmark/jobs/4002160) | Redwood City, CA | Summer 2022 | 4/3
 | [HKS - Design Research](https://hksinc.wd5.myworkdayjobs.com/en-US/HKSStudent/job/Dallas/Design-Research-Intern_2022-01374) | Dallas, TX | Summer 2022 | 4/2
 | [Eddie Bauer - UX/UI](https://corporate-eddiebauer-sparcgroup.icims.com/jobs/38178/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Bellevue, WA | Summer 2022 | 4/2
 | [TMobile - UX Designer](https://www.tmobile.careers/job-details/15422296/ux-designer-intern-bellevue-wa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer%2520Intern&utm_term=729202) | Bellevue, WA | Summer 2022 | 4/2
