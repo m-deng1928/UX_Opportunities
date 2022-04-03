@@ -31,6 +31,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [iCIMS - Product Designer](https://careers.icims.com/jobs/1833?mode=job&iis=Job+Board&iisn=LinkedIn) | Holmdel, NJ| 4/3
+| [Kroger - Associate Product Designer](https://kroger.eightfold.ai/careers?pid=10308099&domain=kroger.com) | Cincinnati, OH | 4/3
 | [Philadelphia Inquirer - User Researcher (0-3 YoE)](https://us61e2.dayforcehcm.com/CandidatePortal/en-US/philainquirer/Posting/View/478) | Philadelphia, PA| 3/30
 | [Johnson & Johnson - Jr Designer DXD](https://jobs.jnj.com/jobs/2206020782W?lang=en-us&src=JB-10280&src=JB-10280) | New York, NY | 3/26
 | [Spotify - User Researcher - Growth](https://www.lifeatspotify.com/jobs/user-researcher-value) | London | 3/26
@@ -204,12 +206,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [HKS - Design Research](https://hksinc.wd5.myworkdayjobs.com/en-US/HKSStudent/job/Dallas/Design-Research-Intern_2022-01374) | Dallas, TX | Summer 2022 | 4/2
 | [Eddie Bauer - UX/UI](https://corporate-eddiebauer-sparcgroup.icims.com/jobs/38178/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Bellevue, WA | Summer 2022 | 4/2
 | [TMobile - UX Designer](https://www.tmobile.careers/job-details/15422296/ux-designer-intern-bellevue-wa/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=&utm_content=UX%2520Designer%2520Intern&utm_term=729202) | Bellevue, WA | Summer 2022 | 4/2
 | [Avalara - UX Designer](https://jobs.jobvite.com/careers/avalara/job/oFkdjfwf?__jvst=Job%20Board&__jvsd=Indeed) | Seattle, WA | Summer 2022 | 4/2
 | [Waste Management - Product Design](https://wmtalent.taleo.net/careersection/ex/jobdetail.ftl?job=22006581&src=JB-10087) | Houston, TX | Summer 2022 | 4/2
-| [LogicGate - Product Design](https://www.logicgate.com/about-us/join-the-team/?gh_jid=4005098005&gh_src=35a0f8655u
-s) | Chicago, IL | Summer 2022 | 4/2
+| [LogicGate - Product Design](https://www.logicgate.com/about-us/join-the-team/?gh_jid=4005098005&gh_src=35a0f8655us) | Chicago, IL | Summer 2022 | 4/2
 | [Spothero - Product Design](https://spothero.com/careers/4100557/?gh_jid=4100557) | Chicago, IL | Summer 2022 | 4/2
 | [Vidmob - Product Design](https://www.linkedin.com/jobs/view/2922584135) | Utica Rome, NY | Summer 2022 | 4/2
 | [BetterHelp - Product and Content Design](https://www.linkedin.com/jobs/view/2998328620) | Mountain View, CA | Summer 2022 | 4/2
