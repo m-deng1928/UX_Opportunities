@@ -212,6 +212,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Docusign - Product Design (Design Systems)](https://www.docusign.com/company/careers/open?gh_jid=3547406&gh_src=ua6xck) | San Francisco, CA | Summer 2022 | 4/5
+| [DriveTime - UX/UI Design](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/UI--UX-Design-Intern_R1193?source=Linkedin) | Tempe, AZ | Summer 2022 | 4/5
+| [Media.Monks - Design](https://media.monks.com/careers/los-angeles/design/design-intern?gh_src=a9b949034us) | Los Angeles, CA | Summer 2022 | 4/5
+| [KAYAK - Design Ops - Design Systems](https://boards.greenhouse.io/embed/job_app?token=6037185002&s=LinkedIn&source=LinkedIn) | Cambridge, MA | Summer 2022 | 4/5
+| [BlueCross Blue Shield MN - Experience Design](https://stellahealth.wd5.myworkdayjobs.com/en-US/bluecrossmn/job/Eagan-MN/Experience-Design-Intern-in-Minnesota_R0002375) | Eagan, MN | Summer 2022 | 4/5
+| [Zoll Medical Corp - UX Design](https://phf.tbe.taleo.net/phf04/ats/careers/v2/viewRequisition?org=ZOLL&cws=43&rid=3810&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Pittsburgh, PA | Summer 2022 | 4/5
+| [DriveTime - UX/UI Design](https://media.monks.com/careers/los-angeles/design/design-intern?gh_src=a9b949034us) | Los Angeles, CA | Summer 2022 | 4/5
 | [Poshmark - Visual Designer](https://boards.greenhouse.io/poshmark/jobs/4002160) | Redwood City, CA | Summer 2022 | 4/3
 | [HKS - Design Research](https://hksinc.wd5.myworkdayjobs.com/en-US/HKSStudent/job/Dallas/Design-Research-Intern_2022-01374) | Dallas, TX | Summer 2022 | 4/2
 | [Eddie Bauer - UX/UI](https://corporate-eddiebauer-sparcgroup.icims.com/jobs/38178/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Bellevue, WA | Summer 2022 | 4/2
