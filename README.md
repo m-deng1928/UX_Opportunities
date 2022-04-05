@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Kroger - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/3001046416) | Cincinnati, OH | 4/4
 | [Poshmark - Visual Designer - CONTRACTOR (2 YoE)](https://boards.greenhouse.io/poshmark/jobs/3892449) | Reddwood City, CA | 4/3
 | [iCIMS - Product Designer](https://careers.icims.com/jobs/1833?mode=job&iis=Job+Board&iisn=LinkedIn) | Holmdel, NJ| 4/3
 | [Kroger - Associate Product Designer](https://kroger.eightfold.ai/careers?pid=10308099&domain=kroger.com) | Cincinnati, OH | 4/3
