@@ -35,8 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Pluralsight - Product Designer](https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Product-Designer_R0007626?source=Linkedin) | 
-Remote | 4/8
+| [Pluralsight - Product Designer](https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Product-Designer_R0007626?source=Linkedin) | Remote | 4/8
 | [Uber - Product Designer - Eats for Business (2 YoE)](https://www.uber.com/global/en/careers/list/113704/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113704&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220407T180308Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA | 4/8
 | [Devbridge - Associate Product Designer](https://www.linkedin.com/jobs/view/3012796208) | Chicago, IL | 4/8
 | [Pega - UX Product Designer](https://www.pega.com/about/careers/17256/ux-product-designer) | Cambridge, MA | 4/8
