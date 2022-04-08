@@ -210,7 +210,7 @@ Intern
 | [Leidos - UX Design](https://careers.leidos.com/jobs/9252676-ux-design-intern?tm_job=R-00081783-OTHLOC-PL-2D0476&tm_event=view&tm_company=2502&bid=56) | Charlottesville, VA | Summer 2022 | 4/8
 | [Zocdoc - Visual Brand Design](https://www.zocdoc.com/about/careers-list/?job_id=3998362&gh_jid=3998362?gh_src=068301fd1us) | New York, NY | Summer 2022 | 4/8
 | [Simon Markets - UX/UI Design](https://simon.io/careers/open-positions/?gh_jid=4337339004) | New York, NY | Summer 2022 | 4/8
-| [Disney - Creative Design, TA Marketing](https://jobs.disneycareers.com/job/-/-/391/26529094464?cid=14187 | Remote | Summer 2022/Fall 2022 | 4/8
+| [Disney - Creative Design, TA Marketing](https://jobs.disneycareers.com/job/-/-/391/26529094464?cid=14187) | Remote | Summer 2022/Fall 2022 | 4/8
 | [Ford Motor Credit - UX Design](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5311&jobId=549538#jobDetails=549538_5311) | Dearborn, MI | Summer 2022 | 4/8
 | [Acuity Design - UX/UI Design](https://careers.acuitybrands.com/job/Conyers-UIUX-Design-Intern-Job-GA-30012/837684600/?utm_source=LINKEDIN&utm_medium=referrer) | Remote | Summer 2022 | 4/8
 | [DriveTime - UX/UI Design](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/UI--UX-Design-Intern_R1193?source=Linkedin) | Tempe, AZ | Summer 2022 | 4/5
