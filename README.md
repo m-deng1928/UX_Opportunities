@@ -35,6 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Virgin Pulse - UX Researrcher (1-3 YoE)](https://careers-virginpulse.icims.com/jobs/2172/ux-researcher/job?s=LinkedIn&mode=job&iis=Job+Board&iisn=LinkedIn) | Minneapolis, MN/Providence, RI | 4/9
+| [National Basketball Association (NBA) - Product Designer (3 YoE)](https://nbacareers.nba.com/job/New-York-Senior-Product-Designer%2C-Mobile-New-10022/706768401/) | New York, NY | 4/9
+| [Zeplin - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/2998925243) | San Francisco, CA | 4/9
 | [Pluralsight - Product Designer](https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Product-Designer_R0007626?source=Linkedin) | Remote | 4/8
 | [Uber - Product Designer - Eats for Business (2 YoE)](https://www.uber.com/global/en/careers/list/113704/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113704&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220407T180308Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA | 4/8
 | [Devbridge - Associate Product Designer](https://www.linkedin.com/jobs/view/3012796208) | Chicago, IL | 4/8
@@ -207,6 +210,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Sonos - User Experience Researcher](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Sonos-User-Experience-Researcher-Intern_R1169?source=Linkedin) | Boston, MA/Atlanta, GA/Santa Barbara, CA/Seattle, WA/San Francisco, CA | Summer 2022 | 4/9
+| [Vera Institute of Justice - Design](https://www.linkedin.com/jobs/view/3017011721) | Remote | Summer 2022 | 4/9
+| [Brightline - UX Design](https://www.hellobrightline.com/careers?gh_jid=5071782003&gh_src=aa5cdef03us#job-description) | Berkeley, CA | Summer 2022 | 4/9
 | [Leidos - UX Design](https://careers.leidos.com/jobs/9252676-ux-design-intern?tm_job=R-00081783-OTHLOC-PL-2D0476&tm_event=view&tm_company=2502&bid=56) | Charlottesville, VA | Summer 2022 | 4/8
 | [Zocdoc - Visual Brand Design](https://www.zocdoc.com/about/careers-list/?job_id=3998362&gh_jid=3998362?gh_src=068301fd1us) | New York, NY | Summer 2022 | 4/8
 | [Simon Markets - UX/UI Design](https://simon.io/careers/open-positions/?gh_jid=4337339004) | New York, NY | Summer 2022 | 4/8
