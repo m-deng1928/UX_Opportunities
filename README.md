@@ -210,6 +210,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Toast - UX Coop](https://careers.toasttab.com/jobs/ux-co-op-boston-massachusetts-united-states) | Boston, MA | Summer 2022 | 4/10
 | [Sonos - User Experience Researcher](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Sonos-User-Experience-Researcher-Intern_R1169?source=Linkedin) | Boston, MA/Atlanta, GA/Santa Barbara, CA/Seattle, WA/San Francisco, CA | Summer 2022 | 4/9
 | [Vera Institute of Justice - Design](https://www.linkedin.com/jobs/view/3017011721) | Remote | Summer 2022 | 4/9
 | [Brightline - UX Design](https://www.hellobrightline.com/careers?gh_jid=5071782003&gh_src=aa5cdef03us#job-description) | Berkeley, CA | Summer 2022 | 4/9
