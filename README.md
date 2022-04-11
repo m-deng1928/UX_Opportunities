@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Cisco - User Experience Researrcher TD&R (2 YoE)](https://jobs.cisco.com/jobs/ProjectDetail/1366267) | Calgary, Alberta, CA | 4/11
 | [Virgin Pulse - UX Researrcher (1-3 YoE)](https://careers-virginpulse.icims.com/jobs/2172/ux-researcher/job?s=LinkedIn&mode=job&iis=Job+Board&iisn=LinkedIn) | Minneapolis, MN/Providence, RI | 4/9
 | [National Basketball Association (NBA) - Product Designer (3 YoE)](https://nbacareers.nba.com/job/New-York-Senior-Product-Designer%2C-Mobile-New-10022/706768401/) | New York, NY | 4/9
 | [Zeplin - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/2998925243) | San Francisco, CA | 4/9
@@ -210,6 +211,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Instrument - Strategy](https://www.instrument.com/careers/summer-strategy-intern-2960843/) | Remote | Summer 2022 | 4/11
 | [Toast - UX Coop](https://careers.toasttab.com/jobs/ux-co-op-boston-massachusetts-united-states) | Boston, MA | Summer 2022 | 4/10
 | [Sonos - User Experience Researcher](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Sonos-User-Experience-Researcher-Intern_R1169?source=Linkedin) | Boston, MA/Atlanta, GA/Santa Barbara, CA/Seattle, WA/San Francisco, CA | Summer 2022 | 4/9
 | [Vera Institute of Justice - Design](https://www.linkedin.com/jobs/view/3017011721) | Remote | Summer 2022 | 4/9
