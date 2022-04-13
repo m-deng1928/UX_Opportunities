@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Mindbody - Associate UX Researcher (0-2 YoE/BS)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=574750&cid=8004&locvalue=1025&bid=1) | Remote | 4/12
 | [Snapchat - UX Researrcher, AR Lenses (3 YoE)](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/UX-Researcher--AR-Lenses_R0023238) | Los Angeles, CA | 4/12
 | [Cisco - User Experience Researrcher TD&R (2 YoE)](https://jobs.cisco.com/jobs/ProjectDetail/1366267) | Calgary, Alberta, CA | 4/11
 | [Virgin Pulse - UX Researrcher (1-3 YoE)](https://careers-virginpulse.icims.com/jobs/2172/ux-researcher/job?s=LinkedIn&mode=job&iis=Job+Board&iisn=LinkedIn) | Minneapolis, MN/Providence, RI | 4/9
