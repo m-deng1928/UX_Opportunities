@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [LinkedIn - Product Designer, Internal Tools (2 YoE/BS)](https://www.linkedin.com/jobs/view/3020338916) | Sunnyvale, CA | 4/14
 | [Nova Credit - Consumer Insights and User Researcher (2-3 YoE/BS)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=574750&cid=8004&locvalue=1025&bid=1) | Remote | 4/13
 | [Mindbody - Associate UX Researcher (0-2 YoE/BS)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=574750&cid=8004&locvalue=1025&bid=1) | Remote | 4/12
 | [Snapchat - UX Researrcher, AR Lenses (3 YoE)](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/UX-Researcher--AR-Lenses_R0023238) | Los Angeles, CA | 4/12
