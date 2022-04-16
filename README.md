@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Truist - Experience Design Researcher (BS)](https://bbt.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Experience-Design-Researcher_R0056999-1) | Raleigh, NC/Charlotte, NC/Birmingham, AL/Tampa, FL/Phillipsburg, PA/Atlanta, GA/Nashville, NC | 4/16
 | [Bytedance - Gaming User Experience Researcher (BS)](https://jobs.bytedance.com/en/position/6848482632138475784/detail?spread=BSPP2KS) | Los Angeles, CA | 4/15
 | [Robinhood - User Experience Researcher (BS)](https://boards.greenhouse.io/robinhood/jobs/4075183?t=gh_src%3D&gh_jid=4075183&gh_src=ed898e781us&s=LinkedIn&source=LinkedIn&fbclid=IwAR3yA9HUZLLcz6cJEOge1fgl5Wyogowiko-g-f5IOc-3Bq9exSsHLwac9no) | Menlo Park, CA/ New York, NY | 4/15
 | [LinkedIn - Product Designer, Internal Tools (2 YoE/BS)](https://www.linkedin.com/jobs/view/3020338916) | Sunnyvale, CA | 4/14
@@ -198,6 +199,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Olo - UX Research](https://jobs.lever.co/olo/9e39ab9f-996a-472a-a30a-96301be4a4ae) | New York, NY/Remote| Summer 2022 | 4/16
 | [Envoy - Product Design](https://boards.greenhouse.io/envoy/jobs/6063384002?gh_src=00e702ae2us) | San Francisco, CA | Summer 2022 | 4/15
 | [Aya Healthcare - Product Design](https://www.ayahealthcare.com/corporate-careers/jobs/4142091?gh_jid=4142091&gh_src=c997ad561us) | Remote | Summer 2022 | 4/15
 | [Early Warning - Product Design](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Intern---Product-Design--Summer-2022-_REQ2021918?source=Linkedin) | Scottsdale, AZ | Summer 2022 | 4/15
