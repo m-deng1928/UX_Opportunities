@@ -199,7 +199,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Nissan- UX Research](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/UX-Research-Intern_R00103983?source=Linkedin) | San Jose, CA | Summer 2022 | 4/16
+| [Nissan- UX Research (MS/PhD/3.0)](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/UX-Research-Intern_R00103983?source=Linkedin) | San Jose, CA | Summer 2022/Fall 2022 | 4/16
 | [Olo - UX Research](https://jobs.lever.co/olo/9e39ab9f-996a-472a-a30a-96301be4a4ae) | New York, NY/Remote| Summer 2022 | 4/16
 | [Envoy - Product Design](https://boards.greenhouse.io/envoy/jobs/6063384002?gh_src=00e702ae2us) | San Francisco, CA | Summer 2022 | 4/15
 | [Aya Healthcare - Product Design](https://www.ayahealthcare.com/corporate-careers/jobs/4142091?gh_jid=4142091&gh_src=c997ad561us) | Remote | Summer 2022 | 4/15
