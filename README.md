@@ -4,7 +4,7 @@ Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a
 
 If links die, let me know, but dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
 
-I will try to include education, GPA, YoE (years of experience) requirements if available. I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate through YoE.
+I will try to include education, GPA, YoE (years of experience) requirements if available. Roles are full time employment (FTE) unless otherwise indicated. For years of exprience, I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate through YoE.
 
 For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
 
@@ -35,6 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [QVC - UX Product Designer (3 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-PA-West-Chester/UX-Product-Designer_R61873?source=LinkedIn) | St Petersburg, FL/Austin, TX/West Chester, PA/Atlanta, GA | 4/18
+| [WP Engine - Product Designer (2 YoE)](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/Product-Designer_JR101307?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job) | Multiple Locations | 4/18
+| [Amplify - Associate Product Designer - CONTRACT (1 YoE)](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Associate-Product-Designer--Contract-_Req_9703?source=Linkedin) | Remote | 4/18
 | [Truist - Experience Design Researcher (BS)](https://bbt.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Experience-Design-Researcher_R0056999-1) | Raleigh, NC/Charlotte, NC/Birmingham, AL/Tampa, FL/Phillipsburg, PA/Atlanta, GA/Nashville, NC | 4/16
 | [Bytedance - Gaming User Experience Researcher (BS)](https://jobs.bytedance.com/en/position/6848482632138475784/detail?spread=BSPP2KS) | Los Angeles, CA | 4/15
 | [Robinhood - User Experience Researcher (BS)](https://boards.greenhouse.io/robinhood/jobs/4075183?t=gh_src%3D&gh_jid=4075183&gh_src=ed898e781us&s=LinkedIn&source=LinkedIn&fbclid=IwAR3yA9HUZLLcz6cJEOge1fgl5Wyogowiko-g-f5IOc-3Bq9exSsHLwac9no) | Menlo Park, CA/ New York, NY | 4/15
@@ -199,6 +202,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Epsilon - Visual Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999814612961-intern-program-visual-design-intern?source=Linkedin) | Atlanta, GA | Summer 2022 | 4/18
+| [Nexthink - UX Research (BS)](https://www.linkedin.com/jobs/view/2948139452) | Boston, MA | Summer 2022 | 4/18
 | [Nissan- UX Research (MS/PhD/3.0)](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/UX-Research-Intern_R00103983?source=Linkedin) | San Jose, CA | Summer 2022/Fall 2022 | 4/16
 | [Olo - UX Research](https://jobs.lever.co/olo/9e39ab9f-996a-472a-a30a-96301be4a4ae) | New York, NY/Remote| Summer 2022 | 4/16
 | [Envoy - Product Design](https://boards.greenhouse.io/envoy/jobs/6063384002?gh_src=00e702ae2us) | San Francisco, CA | Summer 2022 | 4/15
