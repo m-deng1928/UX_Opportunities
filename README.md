@@ -1,6 +1,6 @@
 # UX_Opportunities_2021-2022
 
-Here's the Job Board Resources for [UX Growth](https://discord.gg/797CgtHMY4), a Discord community for designers and students to explore and meet people beyond their design bubble. 
+Here's a UX Job Board I curate.
 
 If links die, let me know, but dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
 
@@ -202,6 +202,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Colgate - User Experience](https://jobs.colgate.com/job/Piscataway-User-Experience-%28UX%29-Internship-NJ-08854/859391000/) | Piscataway, NJ/Remote | Summer 2022 | 4/22
 | [Epsilon - Visual Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999814612961-intern-program-visual-design-intern?source=Linkedin) | Atlanta, GA | Summer 2022 | 4/18
 | [Nexthink - UX Research (BS)](https://www.linkedin.com/jobs/view/2948139452) | Boston, MA | Summer 2022 | 4/18
 | [Nissan- UX Research (MS/PhD/3.0)](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/UX-Research-Intern_R00103983?source=Linkedin) | San Jose, CA | Summer 2022/Fall 2022 | 4/16
