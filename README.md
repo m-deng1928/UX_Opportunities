@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Discovery - UX Researcher (BS/1 YoE)](https://jobs.discovery.com/careers-home/jobs/31068?lang=en-us) | New York, NY/Los Angeles, CA | 4/22
+| [Cerebral - Associate Product Designer](https://boards.greenhouse.io/cerebral/jobs/5089233003?gh_src=432fbb863us) | Remote | 4/22
 | [QVC - UX Product Designer (3 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-PA-West-Chester/UX-Product-Designer_R61873?source=LinkedIn) | St Petersburg, FL/Austin, TX/West Chester, PA/Atlanta, GA | 4/18
 | [WP Engine - Product Designer (2 YoE)](https://wpengine.wd1.myworkdayjobs.com/WP_Engine/job/Austin/Product-Designer_JR101307?__jvst=JobBoard&__jvsd=LinkedIn_Paid_Job) | Multiple Locations | 4/18
 | [Amplify - Associate Product Designer - CONTRACT (1 YoE)](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Associate-Product-Designer--Contract-_Req_9703?source=Linkedin) | Remote | 4/18
