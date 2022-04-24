@@ -204,6 +204,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Wisk - UX/UI - Product Design](https://jobs.lever.co/wisk/dc862d8b-f26c-4cbf-bc7d-4775b39451c9) | Mountain View, CA | Summer 2022 | 4/22
 | [Colgate - User Experience](https://jobs.colgate.com/job/Piscataway-User-Experience-%28UX%29-Internship-NJ-08854/859391000/) | Piscataway, NJ/Remote | Summer 2022 | 4/22
 | [Epsilon - Visual Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999814612961-intern-program-visual-design-intern?source=Linkedin) | Atlanta, GA | Summer 2022 | 4/18
 | [Nexthink - UX Research (BS)](https://www.linkedin.com/jobs/view/2948139452) | Boston, MA | Summer 2022 | 4/18
