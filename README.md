@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Addepar - User Experience Researcher](https://boards.greenhouse.io/addepar1/jobs/6033348002?gh_src=31a4a9852&s=LinkedIn&source=LinkedIn) | Remote | 4/25
 | [Grubhub - User Experience Researcher (BS/2 YoE)](https://www.linkedin.com/jobs/view/3039389274/?fbclid=IwAR0MJZXpjvA0utbFvycYH7MZ-2_E-wrEQhKcIf77o78kx-FVpSuwppDevFw) | New York, NY | 4/25
 | [Discovery - UX Researcher (BS/1 YoE)](https://jobs.discovery.com/careers-home/jobs/31068?lang=en-us) | New York, NY/Los Angeles, CA | 4/22
 | [QVC - UX Product Designer (3 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-PA-West-Chester/UX-Product-Designer_R61873?source=LinkedIn) | St Petersburg, FL/Austin, TX/West Chester, PA/Atlanta, GA | 4/18
