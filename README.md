@@ -188,6 +188,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [The Hartford - Digital UX Design](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Digital-UX-Design_R215588?source=Direct_Employers_Association) | Hartford, CT | Summer 2022 | 4/25
 | [SAP - UX Product Designer](https://jobs.sap.com/job/Palo-Alto-SAP%C2%A0iXp-Intern-UX-Product-Designer-CA-94304/796369801/) | Palo Alto, CA | Summer 2022 | 4/22
 | [SAP - UX Product Design Operations](https://jobs.sap.com/job/Palo-Alto-SAP%C2%A0iXp-Intern-UX-Product-Design-Operations-CA-94304/796353201/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | Summer 2022 | 4/22
 | [Wisk - UX/UI - Product Design](https://jobs.lever.co/wisk/dc862d8b-f26c-4cbf-bc7d-4775b39451c9) | Mountain View, CA | Summer 2022 | 4/22
