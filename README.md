@@ -35,7 +35,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Addepar - User Experience Researcher](https://boards.greenhouse.io/addepar1/jobs/6033348002?gh_src=31a4a9852&s=LinkedIn&source=LinkedIn) | Remote | 4/25
+| [Amazon - UX Researcher, Alexa Health (3 YoE)](https://www.amazon.jobs/en/jobs/2022972/ux-researcher-alexa-health?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 4/25
+| [ByteDance - Product UX Designer (1 YoE)](https://jobs.bytedance.com/en/position/6823934819807185166/detail?spread=BSPP2KS) | Mountain View, CA | 4/25
+| [Rocket Central - Experience Designer - Solar (3 YoE)](https://www.myrocketcareer.com/job-detail-page/15044261/experience-designer-solar-remote-remote/) | Remote | 4/25
+| [Asana - Experience Researcher (2-4 YoE)](https://boards.greenhouse.io/addepar1/jobs/6033348002?gh_src=31a4a9852&s=LinkedIn&source=LinkedIn) | Remote | 4/25
+| [DocuSign - UX Researcher (2 YoE/MS)](https://www.docusign.com/company/careers/open?gh_jid=4047692&gh_src=ua6xck) | San Francisco, CA/Chicago, IL/Seattle, WA/Remote | 4/25
 | [Grubhub - User Experience Researcher (BS/2 YoE)](https://www.linkedin.com/jobs/view/3039389274/?fbclid=IwAR0MJZXpjvA0utbFvycYH7MZ-2_E-wrEQhKcIf77o78kx-FVpSuwppDevFw) | New York, NY | 4/25
 | [Discovery - UX Researcher (BS/1 YoE)](https://jobs.discovery.com/careers-home/jobs/31068?lang=en-us) | New York, NY/Los Angeles, CA | 4/22
 | [QVC - UX Product Designer (3 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-PA-West-Chester/UX-Product-Designer_R61873?source=LinkedIn) | St Petersburg, FL/Austin, TX/West Chester, PA/Atlanta, GA | 4/18
