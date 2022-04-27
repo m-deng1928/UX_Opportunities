@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Target - Design Researcher, Target Creative (1-3 YoE)](https://jobs.target.com/job/minneapolis/design-researcher-target-creative-full-time-remote-or-hybrid/1118/27865524528?fbclid=IwAR3ZIT9kOB5SHKErgiZdwUkfriwghN0wsFtZEsTlaMYeZeLmr6pLZVWWQTg) | Minneapolis, MN/Remote | 4/27
 | [Amazon - UX Researcher, Alexa Health (3 YoE)](https://www.amazon.jobs/en/jobs/2022972/ux-researcher-alexa-health?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 4/25
 | [ByteDance - Product UX Designer (1 YoE)](https://jobs.bytedance.com/en/position/6823934819807185166/detail?spread=BSPP2KS) | Mountain View, CA | 4/25
 | [Rocket Central - Experience Designer - Solar (3 YoE)](https://www.myrocketcareer.com/job-detail-page/15044261/experience-designer-solar-remote-remote/) | Remote | 4/25
