@@ -35,7 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Accenture - Design Researcher (2 YoE)](uhttps://www.accenture.com/us-en/careers/jobdetails.aspx?id=R00090460_en&src=LINKEDINJP) | Multiple locations | 4/27
+| [ServiceNow - Product Designer (2 YoE)](https://careers.servicenow.com/careers/jobs/743999819624220EXT?lang=en-us&src=linkedin&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | San Diego, CA | 4/28
+| [Accenture - Design Researcher (2 YoE)](https://www.accenture.com/us-en/careers/jobdetails.aspx?id=R00090460_en&src=LINKEDINJP) | Multiple locations | 4/28
 | [Uber - UX Researcher - Product Equity (1 YoE)](uber.com/global/en/careers/list/114114/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=114114&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220419T180301Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | New York, NY/Seattle, WA/Chicago, IL/San Francisco, CA/Toronto, CA | 4/27
 | [Target - Design Researcher, Target Creative (1-3 YoE)](https://jobs.target.com/job/minneapolis/design-researcher-target-creative-full-time-remote-or-hybrid/1118/27865524528?fbclid=IwAR3ZIT9kOB5SHKErgiZdwUkfriwghN0wsFtZEsTlaMYeZeLmr6pLZVWWQTg) | Minneapolis, MN/Remote | 4/27
 | [Amazon - UX Researcher, Alexa Health (3 YoE)](https://www.amazon.jobs/en/jobs/2022972/ux-researcher-alexa-health?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 4/25
@@ -195,6 +196,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [EA - UX Design](https://ea.gr8people.com/jobs/171884/ux-design-intern-fall-2022) | Redwood City, CA | Fall 2022 | 4/28
+| [Resound - Experience Design](https://gn.wd3.myworkdayjobs.com/GN-Careers/job/IL-Glenview/Experience-Designer-Intern_R14350-1?source=Linkedin) | Glenview, IL | Summer 2022 | 4/28
 | [The Hartford - Digital UX Design](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Digital-UX-Design_R215588?source=Direct_Employers_Association) | Hartford, CT | Summer 2022 | 4/25
 | [SAP - UX Product Designer](https://jobs.sap.com/job/Palo-Alto-SAP%C2%A0iXp-Intern-UX-Product-Designer-CA-94304/796369801/) | Palo Alto, CA | Summer 2022 | 4/22
 | [SAP - UX Product Design Operations](https://jobs.sap.com/job/Palo-Alto-SAP%C2%A0iXp-Intern-UX-Product-Design-Operations-CA-94304/796353201/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | Summer 2022 | 4/22
