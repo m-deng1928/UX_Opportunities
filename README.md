@@ -8,7 +8,7 @@ I will try to include education, GPA, YoE (years of experience) requirements if 
 
 For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
 
-For roles themselves, they will be **paid roles** as I believe peopxle should be properly compensated for their work. 
+For roles themselves, they will be **paid roles** as I believe people should be properly compensated for their work. 
 
 Thanks, and don't forget to be awesome. :D
 
