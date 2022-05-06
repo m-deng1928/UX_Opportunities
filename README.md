@@ -35,7 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
-| [Google - User Experience Researcher, Quantitative, Early-in-Career (1 YoE/BS)](https://careers.google.com/jobs/results/109297743354045126-user-experience-researcher-qualitative-early-career/?fbclid=IwAR1_7XaGZx471K-gf7ex0HR2qHb6wcozLl3JLwEBVqW2PLDLu9XdIQikNqU) | Multiple locations | 5/5
+| [Google - User Experience Researcher, Qualitative, Early-in-Career (1 YoE/BS)](https://careers.google.com/jobs/results/109297743354045126-user-experience-researcher-qualitative-early-career/?fbclid=IwAR1_7XaGZx471K-gf7ex0HR2qHb6wcozLl3JLwEBVqW2PLDLu9XdIQikNqU) | Multiple locations | 5/5
 | [Accenture - Design Researcher (2 YoE)](https://www.accenture.com/us-en/careers/jobdetails.aspx?id=R00090460_en&src=LINKEDINJP) | Multiple locations | 4/28
 | [Target - Design Researcher, Target Creative (1-3 YoE)](https://jobs.target.com/job/minneapolis/design-researcher-target-creative-full-time-remote-or-hybrid/1118/27865524528?fbclid=IwAR3ZIT9kOB5SHKErgiZdwUkfriwghN0wsFtZEsTlaMYeZeLmr6pLZVWWQTg) | Minneapolis, MN/Remote | 4/27
 | [Amazon - UX Researcher, Alexa Health (3 YoE)](https://www.amazon.jobs/en/jobs/2022972/ux-researcher-alexa-health?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 4/25
