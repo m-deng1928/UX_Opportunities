@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [JP Morgan Chase -  Associate Product Designer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210278979/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ | 5/7
+| [Discovery - Product Designer (VX)](https://jobs.discovery.com/careers-home/jobs/32137?lang=en-us) | West Hollywood, CA | 5/7
 | [Google - User Experience Researcher, Qualitative, Early-in-Career (1 YoE/BS)](https://careers.google.com/jobs/results/109297743354045126-user-experience-researcher-qualitative-early-career/?fbclid=IwAR1_7XaGZx471K-gf7ex0HR2qHb6wcozLl3JLwEBVqW2PLDLu9XdIQikNqU) | Multiple locations | 5/5
 | [Accenture - Design Researcher (2 YoE)](https://www.accenture.com/us-en/careers/jobdetails.aspx?id=R00090460_en&src=LINKEDINJP) | Multiple locations | 4/28
 | [Target - Design Researcher, Target Creative (1-3 YoE)](https://jobs.target.com/job/minneapolis/design-researcher-target-creative-full-time-remote-or-hybrid/1118/27865524528?fbclid=IwAR3ZIT9kOB5SHKErgiZdwUkfriwghN0wsFtZEsTlaMYeZeLmr6pLZVWWQTg) | Minneapolis, MN/Remote | 4/27
@@ -174,6 +176,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [ContentSquare - Visual Design](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Product-Designer-Intern_JR-58674) | New York, NY | Summer 2022 | 5/7
+| [Paycom - Product Design](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=16092&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526&source=LinkedIn) | Oklahoma City, OK | Summer 2022 | 5/5
 | [Workday - Product Design](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Product-Designer-Intern_JR-58674) | Atlanta, GA | Summer 2022 | 5/5
 | [Sovos - User Experience (UX)](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=569306&locvalue=1147&bid=1) | Boulder, CO | Summer 2022 | 5/4
 | [Informatica - User Exoerience UX - AI](https://ea.gr8people.com/jobs/171884/ux-design-intern-fall-2022) | Redwood City, CA | Summer 2022 | 5/4
