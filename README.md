@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [LogicGate - Product Designer](https://boards.greenhouse.io/logicgate/jobs/4014247005?gh_src=4e26ca375us) | Remote | 5/7
+| [Databricks - Product Designer (3 YoE)](https://databricks.com/company/careers/open-positions/job?gh_jid=6069277002&gh_src=62a881d62) | San Francisco, CA | 5/7
 | [JP Morgan Chase -  Associate Product Designer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210278979/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ | 5/7
 | [Discovery - Product Designer (VX)](https://jobs.discovery.com/careers-home/jobs/32137?lang=en-us) | West Hollywood, CA | 5/7
 | [Google - User Experience Researcher, Qualitative, Early-in-Career (1 YoE/BS)](https://careers.google.com/jobs/results/109297743354045126-user-experience-researcher-qualitative-early-career/?fbclid=IwAR1_7XaGZx471K-gf7ex0HR2qHb6wcozLl3JLwEBVqW2PLDLu9XdIQikNqU) | Multiple locations | 5/5
