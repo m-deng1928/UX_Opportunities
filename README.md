@@ -178,6 +178,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Tencent - UX Visual Design](https://boards.greenhouse.io/tencent/jobs/6101481002) | Palo Alto, CA | Summer 2022 | 5/7
 | [ContentSquare - Visual Design](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Product-Designer-Intern_JR-58674) | New York, NY | Summer 2022 | 5/7
 | [Paycom - Product Design](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=16092&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526&source=LinkedIn) | Oklahoma City, OK | Summer 2022 | 5/5
 | [Workday - Product Design](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Product-Designer-Intern_JR-58674) | Atlanta, GA | Summer 2022 | 5/5
