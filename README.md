@@ -179,6 +179,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Shopify - Digital Design](https://www.linkedin.com/jobs/view/3066367626/) | Remote | Fall 2022 | 5/9
 | [JP Morgan Chase & Co - User Experience Design Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210250631/?utm_medium=jobshare) | Columbus, OH | Summer 2022 | 5/9
 | [Tencent - UX Visual Design](https://boards.greenhouse.io/tencent/jobs/6101481002) | Palo Alto, CA | Summer 2022 | 5/7
 | [ContentSquare - Visual Design](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Product-Designer-Intern_JR-58674) | New York, NY | Summer 2022 | 5/7
