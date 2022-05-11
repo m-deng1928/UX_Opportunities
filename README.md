@@ -265,6 +265,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Uber - User Experience Design](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/11
 | [Pinterest - UX Research](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/4
 | [Google - User Experience Design](https://careers.google.com/jobs/results/93132050166358726-user-experience-design-apprenticeship-september-2022-start/?jid=127025001) | Summer 2022 | 5/4
 | [ServiceNow - UX Research](https://careers.servicenow.com/careers/jobs/743999820100344EXT?lang=en-us&src=linkedin&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Summer 2022 | 4/19
