@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Sony - UX Researcher (1-2 YoE/BS)(CONTRACTOR)](https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4442206004?gh_src=c81250474us&s=LinkedIn&source=LinkedIn) | Remote | 5/12
 | [Starbucks - UX Researcher (3 YoE)](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=220025900&lang=en&sns_id=gmail) | Remote | 5/7
 | [LogicGate - Product Designer](https://boards.greenhouse.io/logicgate/jobs/4014247005?gh_src=4e26ca375us) | Remote | 5/7
 | [Databricks - Product Designer (3 YoE)](https://databricks.com/company/careers/open-positions/job?gh_jid=6069277002&gh_src=62a881d62) | San Francisco, CA | 5/7
