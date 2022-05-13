@@ -180,7 +180,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Alaska Airlines - ITS Product Design](https://rr.jobsyn.org/D9064DB4A5C8447B9D0E6EB4192E29E11606) | Seattle, WA | Summer 2022 | 5/9
+| [TicketMaster - Product Design](https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/London-Pentonville-Road-N1/Product-Design-Intern_JR-48274-1) | London, UK/Quebec, Canada/Chicago, USA | Summer 2022 | 5/12
+| [Alaska Airlines - ITS Product Design](https://rr.jobsyn.org/D9064DB4A5C8447B9D0E6EB4192E29E11606) | Seattle, WA | Summer 2022 | 5/11
 | [Relativity - User Experience Research (BS)](https://jobs.lever.co/relativity/37b309b9-cd87-4559-9e81-b4d82df26b08) | Chicago, IL | Summer 2022 | 5/9
 | [Shopify - Digital Design](https://www.linkedin.com/jobs/view/3066367626/) | Remote | Fall 2022 | 5/9
 | [JP Morgan Chase & Co - User Experience Design Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210250631/?utm_medium=jobshare) | Columbus, OH | Summer 2022 | 5/9
