@@ -268,6 +268,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Code for America - User Research Apprentice](https://codeforamerica.org/jobs/posting/?gh_jid=4226804) | Summer 2022 | 5/13
 | [Uber - User Experience Design](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/11
 | [Pinterest - UX Research](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/4
 | [Google - User Experience Design](https://careers.google.com/jobs/results/93132050166358726-user-experience-design-apprenticeship-september-2022-start/?jid=127025001) | Summer 2022 | 5/4
