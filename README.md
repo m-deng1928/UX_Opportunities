@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Loom - Product Designer](https://boards.greenhouse.io/loominc/jobs/4010164005) | Remote | 5/16
 | [Plaid - UX Researcher](https://jobs.lever.co/plaid/cd84ca27-efc3-4d1a-acc8-75c8ee6ad0b9?lever-origin=applied&lever-source=LinkedInPaid) | Remote | 5/16
 | [Peacock - Product Designer (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=582294&codes=LinkedIn) | Remote | 5/16
 | [Liberty Mutual Group - UX Product Designer](https://jobs.libertymutualgroup.com/job/15614570/ux-product-designer-remote-remote/?mode=job&iis=Job+Board&iisn=LinkedIn+Jobs) | Remote | 5/15
