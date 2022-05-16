@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Plaid - UX Researcher](https://jobs.lever.co/plaid/cd84ca27-efc3-4d1a-acc8-75c8ee6ad0b9?lever-origin=applied&lever-source=LinkedInPaid) | Remote | 5/16
+| [Peacock - Product Designer (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=582294&codes=LinkedIn) | Remote | 5/16
 | [Liberty Mutual Group - UX Product Designer](https://jobs.libertymutualgroup.com/job/15614570/ux-product-designer-remote-remote/?mode=job&iis=Job+Board&iisn=LinkedIn+Jobs) | Remote | 5/15
 | [Uber - Product Designer, Uber for Business (2 YoE](https://jsv3.recruitics.com/redirect?rx_cid=874&rx_jobId=113796&rx_url=https%3A%2F%2Fwww.uber.com%2Fcareers%2Flist%2F113796%2F%3Fiis%3Dmarketing%26iisn%3DLinkedin%26iisp%3Dpaid%26linkedin_sponsored%3Dsponsored%26rx_campaign%3DLinkedin1%26rx_group%3D1462%26rx_job%3D113796%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20220514T180302Z) | San Francisco, CA | 5/15
 | [Wells Fargo - UX Product Designer, In-House Agency (2 YoE](https://www.wellsfargojobs.com/job/-/-/1251/28974826240) | Mineappolis, MN/Charlotte, NC | 5/15
@@ -171,6 +173,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Samsung - UX Research & Design (MS)](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5985500002?gh_src=13c38d562us) | Mountain View, CA | Summer 2022 | 5/16
 | [Teague - Human Factors/Design Research](https://seattle-teague.icims.com/jobs/1507/intern---human-factors---design-research/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=778&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Seattle, WA | Summer 2022 | 5/15
 | [TicketMaster - Product Design](https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/London-Pentonville-Road-N1/Product-Design-Intern_JR-48274-1) | London, UK/Quebec, Canada/Chicago, USA | Summer 2022 | 5/12
 | [Alaska Airlines - ITS Product Design](https://rr.jobsyn.org/D9064DB4A5C8447B9D0E6EB4192E29E11606) | Seattle, WA | Summer 2022 | 5/11
