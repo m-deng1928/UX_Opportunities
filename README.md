@@ -176,6 +176,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [UL - User Experience](https://usenglish-ul.icims.com/jobs/28917/user-experience-intern/job?hub=9) | Northbrook, IL/Latham, NY/Pittsburgh, PA/Overland Park, KS | Summer 2022 | 5/17
+| [OCC - End User Experience]([https://peapoddigitallabs.careerswithus.com/jobs/238897_external_USA-IL-Chicago_4202022/peapoddigitallabsrms/chicago/co-ops/ux-research-co-op/?utm_source=linkedin](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893)) | Chicago, IL | Summer 2022 | 5/17
 | [Peapod Digital Lab - UX Research Co-Op](https://peapoddigitallabs.careerswithus.com/jobs/238897_external_USA-IL-Chicago_4202022/peapoddigitallabsrms/chicago/co-ops/ux-research-co-op/?utm_source=linkedin) | Chicago, IL | Summer 2022 | 5/16
 | [Samsung - UX Research & Design (MS)](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5985500002?gh_src=13c38d562us) | Mountain View, CA | Summer 2022 | 5/16
 | [Teague - Human Factors/Design Research](https://seattle-teague.icims.com/jobs/1507/intern---human-factors---design-research/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=778&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Seattle, WA | Summer 2022 | 5/15
