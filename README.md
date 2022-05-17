@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added
 | ------------- | ------------- | -------------
+| [Microsoft - User Experience Researcher I (BS/1 YoE)](https://careers.microsoft.com/us/en/job/1342208/User-Experience-Researcher-1?fbclid=IwAR3CNyK_rFZsK3KaxXzGUjvP-kN8MHliRBZW4Qc9GiL1Le0FgB5Lb68F5Q8) | Redmond, WA,/Atlanta, GA/Detroit, MI/Charlotte, NC/Chicago, IL/Miami, FL/Boston, MA/New York, NY/Houston, TX/Austin, TX/Los Angeles, CA/Portland, OR | 5/16
 | [JP Morgan Chase & Co - Jr User Experience Researcher, Associate (BS/2-3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210272698) | Jersey City, NJ | 5/16
 | [Loom - Product Designer](https://boards.greenhouse.io/loominc/jobs/4010164005) | Remote | 5/16
 | [Plaid - UX Researcher](https://jobs.lever.co/plaid/cd84ca27-efc3-4d1a-acc8-75c8ee6ad0b9?lever-origin=applied&lever-source=LinkedInPaid) | Remote | 5/16
