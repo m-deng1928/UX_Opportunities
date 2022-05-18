@@ -178,6 +178,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Faire - Product Design]([https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Product-Designer-Intern_JR-58674?source=website_linkedin](https://boards.greenhouse.io/faire/jobs/5735039002?gh_src=b84852fd2us&s=LinkedIn&source=LinkedIn)) | US & Canada Remote | Summer 2022 | 5/18
+| [Workday - Product Design](https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Product-Designer-Intern_JR-58674?source=website_linkedin) | Pleasanton, CA | Summer 2022 | 5/18
+| [Silicon Valley Bank - UX Design]([https://usenglish-ul.icims.com/jobs/28917/user-experience-intern/job?hub=9](https://svb.wd5.myworkdayjobs.com/svbank/job/San-Francisco-CA/Summer-Internship---UX-Design-Intern_17564-1?SID=38) | San Francisco, CA | Summer 2022 | 5/18
 | [UL - User Experience](https://usenglish-ul.icims.com/jobs/28917/user-experience-intern/job?hub=9) | Northbrook, IL/Latham, NY/Pittsburgh, PA/Overland Park, KS | Summer 2022 | 5/17
 | [OCC - End User Experience](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893) | Chicago, IL | Summer 2022 | 5/17
 | [Peapod Digital Lab - UX Research Co-Op](https://peapoddigitallabs.careerswithus.com/jobs/238897_external_USA-IL-Chicago_4202022/peapoddigitallabsrms/chicago/co-ops/ux-research-co-op/?utm_source=linkedin) | Chicago, IL | Summer 2022 | 5/16
