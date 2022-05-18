@@ -35,6 +35,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Grubhub - Product Designer (3 YoE)](https://careers-grubhub.icims.com/jobs/13584/product-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Chicago, IL | 5/18
+| [Motorola - UX Designer)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/UX-Designer_R23107/apply/autofillWithResume?source=Linkedin) | Chicago, IL | 5/18
+| [Hubspot - Product Designer, Service Hub](https://boards.greenhouse.io/embed/job_app?token=4203179&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Remote | 5/18
+| [Visa - Design Researcher (BS/2 YoE)](https://jobs.smartrecruiters.com/Visa/743999810681666-design-researcher?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&source=Linkedin) | Austin, TX | 5/18
+| [United Airlines - UX Analyst (2-4 YoE))](https://careers.united.com/job/15255930/analyst-ux-chicago-il/) | Chicago, IL | 5/18
 | [Flatiron Health - Product Designer, Real World Evidence)](https://flatiron.com/careers/open-positions/4245961) | New York, NY/San Francisco, CA/Remote | 5/17
 | [Cardinal Health - UX Researcher (3 YoE)](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/UX-Researcher_20104927) | Remote | 5/17
 | [Microsoft - User Experience Researcher I (BS/1 YoE)](https://careers.microsoft.com/us/en/job/1342208/User-Experience-Researcher-1?fbclid=IwAR3CNyK_rFZsK3KaxXzGUjvP-kN8MHliRBZW4Qc9GiL1Le0FgB5Lb68F5Q8) | Redmond, WA,/Atlanta, GA/Detroit, MI/Charlotte, NC/Chicago, IL/Miami, FL/Boston, MA/New York, NY/Houston, TX/Austin, TX/Los Angeles, CA/Portland, OR | 5/16
