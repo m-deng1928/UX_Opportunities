@@ -184,6 +184,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [JusticeText - Product Design](https://docs.google.com/document/d/1eW2ll_12G_Pl7SOqolDN6aSLhTfOPmsknAqQHFqXR-g/edit) | US | Summer 2022 | 5/20
 | [Faire - Product Design](https://boards.greenhouse.io/faire/jobs/5735039002?gh_src=b84852fd2us&s=LinkedIn&source=LinkedIn) | US & Canada Remote | Summer 2022 | 5/18
 | [Workday - Product Design](https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Product-Designer-Intern_JR-58674?source=website_linkedin) | Pleasanton, CA | Summer 2022 | 5/18
 | [Silicon Valley Bank - UX Design](https://svb.wd5.myworkdayjobs.com/svbank/job/San-Francisco-CA/Summer-Internship---UX-Design-Intern_17564-1?SID=38) | San Francisco, CA | Summer 2022 | 5/18
