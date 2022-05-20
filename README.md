@@ -35,7 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Highspot - UX Researcher](https://jobs.lever.co/highspot/d0e85b51-db5e-4e76-84d3-eef43e42b05e?lever-via=WNePmazoGK&fbclid=IwAR3DXjdD7Q3WUxCgWUwj_nL6Tg4HMBd1d1p0dBoOShBuAgMDNJ8o7Dg8MAw) | Seattle, WA | 5/20
+| [Highspot - UX Researcher (1-2 YoE)](https://jobs.lever.co/highspot/d0e85b51-db5e-4e76-84d3-eef43e42b05e?lever-via=WNePmazoGK&fbclid=IwAR3DXjdD7Q3WUxCgWUwj_nL6Tg4HMBd1d1p0dBoOShBuAgMDNJ8o7Dg8MAw) | Seattle, WA | 5/20
 | [Grubhub - Product Designer (3 YoE)](https://careers-grubhub.icims.com/jobs/13584/product-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Chicago, IL | 5/18
 | [Motorola - UX Designer)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/UX-Designer_R23107/apply/autofillWithResume?source=Linkedin) | Chicago, IL | 5/18
 | [Hubspot - Product Designer, Service Hub](https://boards.greenhouse.io/embed/job_app?token=4203179&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Remote | 5/18
