@@ -35,6 +35,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Figma - Product Designer, Growth]([https://www.dropbox.com/jobs/listing/4038322?gh_src=aonhf1](https://boards.greenhouse.io/figma/jobs/4492757004?gh_jid=4492757004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn)) | San Francisco, CA/New York, NY/Remote | 5/22
+| [Figma - Product Designer, Enterprise](https://boards.greenhouse.io/figma/jobs/4492770004?gh_jid=4492770004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn) | San Francisco, CA/New York, NY/Remote | 5/22
+| [Dropbox - Product Designer, Sync Engagement](https://www.dropbox.com/jobs/listing/4038322?gh_src=aonhf1) | US & Canada Remote| 5/22
+| [Northwestern Mutual - Associate Product Designer, Design Systems](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/New-York-NY-Corporate/Associate-Product-Designer---Design-System_JR-33626) | New York, NY/Milwaukee, WI| 5/22
+| [Splunk - Product Designer](https://jobs.jobvite.com/careers/splunk/job/ok3xjfwX/apply?__jvst=Job+Board&__jvsd=LinkedIn) | Seattle, WA| 5/22
 | [Squarespace - Associate Product Designer](https://www.squarespace.com/careers/jobs/4261539?gh_src=04f7d4371us) | Remote | 5/20
 | [Bose - User Experience Researcher](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/User-Experience-Researcher_R22468?companyApplyUrl=%26Source%3DLinkedIn) | Framingham, MA | 5/20
 | [Xero - Design Researcher](https://jobs.lever.co/xero/b81bb16c-6e9c-4bf8-8356-57fe1d4c2a1e) | Remote | 5/20
@@ -187,6 +192,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Kayak - Product Design](https://boards.greenhouse.io/embed/job_app?token=6097036002&s=LinkedIn&source=LinkedIn) | Cambridge, MA | Summer 2022 | 5/22
+| [Digital Surgeons - Experience Design](https://www.linkedin.com/jobs/view/3086113874) | Remote | Summer 2022 | 5/22
 | [JusticeText - Product Design](https://docs.google.com/document/d/1eW2ll_12G_Pl7SOqolDN6aSLhTfOPmsknAqQHFqXR-g/edit) | US | Summer 2022 | 5/20
 | [Faire - Product Design](https://boards.greenhouse.io/faire/jobs/5735039002?gh_src=b84852fd2us&s=LinkedIn&source=LinkedIn) | US & Canada Remote | Summer 2022 | 5/18
 | [Workday - Product Design](https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Product-Designer-Intern_JR-58674?source=website_linkedin) | Pleasanton, CA | Summer 2022 | 5/18
