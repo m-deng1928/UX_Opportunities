@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [WarnerMedia - User Research Assistant](https://warnermediacareers.com/global/en/job/R000056691/User-Research-Assistant?fbclid=IwAR3NKORY_vMWAaOt2r_9Wc_wBSzTqcT91up_GAXYa4jNpDDYt5QlGPqbh_A) | Remote (?) | 5/23
 | [Figma - Product Designer, Growth](https://boards.greenhouse.io/figma/jobs/4492757004?gh_jid=4492757004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn)) | San Francisco, CA/New York, NY/Remote | 5/22
 | [Figma - Product Designer, Enterprise](https://boards.greenhouse.io/figma/jobs/4492770004?gh_jid=4492770004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn) | San Francisco, CA/New York, NY/Remote | 5/22
 | [Dropbox - Product Designer, Sync Engagement](https://www.dropbox.com/jobs/listing/4038322?gh_src=aonhf1) | US & Canada Remote| 5/22
