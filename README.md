@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Oracle - Entry-level User Experience Designer | Health Science](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/163347?utm_medium=jobboard&utm_source=LinkedIn) | United States | 5/24
+| [Apple - UX Researcher - Entertainment & Well-Being Experiences (BS)](https://jobs.apple.com/en-us/details/200380864/ux-researcher-entertainment-well-being-experiences) | Culver City, CA | 5/24
 | [WarnerMedia - User Research Assistant](https://warnermediacareers.com/global/en/job/R000056691/User-Research-Assistant?fbclid=IwAR3NKORY_vMWAaOt2r_9Wc_wBSzTqcT91up_GAXYa4jNpDDYt5QlGPqbh_A) | Remote (?) | 5/23
 | [Figma - Product Designer, Growth](https://boards.greenhouse.io/figma/jobs/4492757004?gh_jid=4492757004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn)) | San Francisco, CA/New York, NY/Remote | 5/22
 | [Figma - Product Designer, Enterprise](https://boards.greenhouse.io/figma/jobs/4492770004?gh_jid=4492770004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn) | San Francisco, CA/New York, NY/Remote | 5/22
