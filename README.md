@@ -195,6 +195,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Studio Rodrigo - Digital Design](https://workingnotworking.com/unjobboard/11615-studio-rodrigo-digital-design-intern) | Brooklyn, NY | Summer 2022 | 5/25
+| [ZScaler - Learning Experience Design](https://jobs.smartrecruiters.com/Zscaler/743999828802069-learning-experience-design-led-intern?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | San Jose, CA/Remote | Summer 2022 | 5/25
+| [P&G - Design](https://www.pgcareers.com/job/cincinnati/design-fall-co-op/936/27855874992?source=RS_LINKEDIN) | Cincinnati, OH | Fall 2022 | 5/25
 | [Kayak - Product Design](https://boards.greenhouse.io/embed/job_app?token=6097036002&s=LinkedIn&source=LinkedIn) | Cambridge, MA | Summer 2022 | 5/22
 | [Digital Surgeons - Experience Design](https://www.linkedin.com/jobs/view/3086113874) | Remote | Summer 2022 | 5/22
 | [JusticeText - Product Design](https://docs.google.com/document/d/1eW2ll_12G_Pl7SOqolDN6aSLhTfOPmsknAqQHFqXR-g/edit) | US | Summer 2022 | 5/20
