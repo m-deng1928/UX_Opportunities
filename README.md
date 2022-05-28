@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Northwestern Mutual - User Experience Researcher (MS/3 YoE)](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-milwaukee-wi-corporate-jr-30831/) | Milwaukee, WI/New York, NY | 5/28
 | [Ally - Associate UX Designer](https://ally.avature.net/careers/JobDetail/Associate-UX-Designer/6786) | Detroit, MI | 5/27
 | [Oracle - Entry-level User Experience Designer - Health Science](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/163347?utm_medium=jobboard&utm_source=LinkedIn) | United States | 5/24
 | [Apple - UX Researcher - Entertainment & Well-Being Experiences (BS)](https://jobs.apple.com/en-us/details/200380864/ux-researcher-entertainment-well-being-experiences) | Culver City, CA | 5/24
@@ -177,6 +178,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Blackbaud - User Experience](https://careers.blackbaud.com/us/en/job/BLBBUSR0009621EXTERNALENUS/User-Experience-Intern-EVERFI?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Summer 2022 | 5/28
 | [Bevy - Product Design](https://boards.greenhouse.io/bevy/jobs/6170059002?gh_src=fe65e5ec2us) | Seattle, WA | Summer 2022 | 5/27
 | [Berry - E-Learning & Instructional Design](https://careers-berryglobal.icims.com/jobs/15454/e-learning-%25252526-instructional-design-intern/job?hub=10&mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=652&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Charlotte, NC/Evansville, IN | Summer 2022 | 5/27
 | [Valmont - E-Learning Instructional Design](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/E-Learning-Instructional-Design-Intern---Bilingual_R12155-1?source=Linkedin) | Valley, NE | Summer 2022 | 5/27
@@ -253,7 +255,6 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-| [Code for America - User Research Apprentice](https://codeforamerica.org/jobs/posting/?gh_jid=4226804) | Summer 2022 | 5/13
 | [Uber - User Experience Design](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/11
 | [Pinterest - UX Research](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/4
 | [Google - User Experience Design](https://careers.google.com/jobs/results/93132050166358726-user-experience-design-apprenticeship-september-2022-start/?jid=127025001) | Summer 2022 | 5/4
