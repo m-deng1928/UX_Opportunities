@@ -35,6 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Blink - Visual Designer](https://jobs.lever.co/blinkux/e39a8278-5de0-4c6d-a48a-3306d561b51a) | All Locations | 5/30
+| [Blink - Motion Designer](https://jobs.lever.co/blinkux/a071da50-6edb-4b01-bcfc-92db95ca3a05) | All Locations | 5/30
+| [Blink - Product Designer](https://jobs.lever.co/blinkux/80bd5429-440b-4052-9e91-ad908e68c78b) | All Locations | 5/30
 | [Uber - Product Designer, Eats for Business (2 YoE)](https://www.uber.com/global/en/careers/list/113704/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113704&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220407T180308Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA | 5/30
 | [Uber - Product Designer, Safety (2 YoE)](https://www.uber.com/global/en/careers/list/113704/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113704&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220407T180308Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Seattle, WA/New York, NYSan Francisco, CA | 5/30
 | [Northwestern Mutual - User Experience Researcher (MS/3 YoE)](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-milwaukee-wi-corporate-jr-30831/) | Milwaukee, WI/New York, NY | 5/28
