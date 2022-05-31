@@ -36,6 +36,7 @@ New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
 | [Uber - Product Designer, Eats for Business (2 YoE)](https://www.uber.com/global/en/careers/list/113704/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113704&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220407T180308Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA | 5/30
+| [Uber - Product Designer, Safety (2 YoE)](https://www.uber.com/global/en/careers/list/113704/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113704&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220407T180308Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Seattle, WA/New York, NYSan Francisco, CA | 5/30
 | [Northwestern Mutual - User Experience Researcher (MS/3 YoE)](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-milwaukee-wi-corporate-jr-30831/) | Milwaukee, WI/New York, NY | 5/28
 | [Ally - Associate UX Designer](https://ally.avature.net/careers/JobDetail/Associate-UX-Designer/6786) | Detroit, MI | 5/27
 | [Oracle - Entry-level User Experience Designer - Health Science](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/163347?utm_medium=jobboard&utm_source=LinkedIn) | United States | 5/24
