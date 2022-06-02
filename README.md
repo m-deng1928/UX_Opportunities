@@ -201,6 +201,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Bose - UX Designer Co-Op](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/UX-Designer_R22079?companyApplyUrl=%26Source%3DLinkedIn&source=Linkedin) | Framingham, MA | Summer/Fall 2022 | 6/2
 | [Happify Health - Product Design](https://boards.greenhouse.io/happifyhealth/jobs/6173819002) | Remote | Summer 2022 | 6/1
 | [Blackbaud - User Experience](https://careers.blackbaud.com/us/en/job/BLBBUSR0009621EXTERNALENUS/User-Experience-Intern-EVERFI?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Summer 2022 | 5/28
 | [Bevy - Product Design](https://boards.greenhouse.io/bevy/jobs/6170059002?gh_src=fe65e5ec2us) | Seattle, WA | Summer 2022 | 5/27
