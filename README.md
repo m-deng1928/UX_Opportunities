@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Costco - User Experience/UX Designer-Costco Travel](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=48&rid=5842&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Issaquah, WA | 6/1
 | [Apple - UX Researcher (MS/3 YoE)](https://jobs.apple.com/en-us/details/200336129/ux-researcher?board_id=17682&cid=scrape_co_us_linkedin_nationwide_desig) | Austin, TX | 6/1
 | [Grammarly - User Researcher, Grammarly Business (3 YoE)](https://boards.greenhouse.io/grammarly/jobs/3918687?gh_src=0bb770131) | Remote | 6/1
 | [Podium - Product Designer (3 YoE)](https://boards.greenhouse.io/embed/job_app?token=3943726&gh_src=8b0de3d81&s=LinkedIn&source=LinkedIn) | Remote | 6/1
