@@ -186,6 +186,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Happify Health - Product Design](https://boards.greenhouse.io/happifyhealth/jobs/6173819002) | Remote | Summer 2022 | 6/1
 | [Blackbaud - User Experience](https://careers.blackbaud.com/us/en/job/BLBBUSR0009621EXTERNALENUS/User-Experience-Intern-EVERFI?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Summer 2022 | 5/28
 | [Bevy - Product Design](https://boards.greenhouse.io/bevy/jobs/6170059002?gh_src=fe65e5ec2us) | Seattle, WA | Summer 2022 | 5/27
 | [Berry - E-Learning & Instructional Design](https://careers-berryglobal.icims.com/jobs/15454/e-learning-%25252526-instructional-design-intern/job?hub=10&mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=652&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Charlotte, NC/Evansville, IN | Summer 2022 | 5/27
