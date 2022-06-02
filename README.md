@@ -35,7 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [NBC - Product Designer UI, Fandango (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=585043&codes=LinkedIn#jobDetails=585043_5108) | All Locations | 6/1
+| [Grammarly - User Researcher, Grammarly Business (3 YoE)](https://boards.greenhouse.io/grammarly/jobs/3918687?gh_src=0bb770131) | Remote | 6/1
+| [Podium - Product Designer (3 YoE)](https://boards.greenhouse.io/embed/job_app?token=3943726&gh_src=8b0de3d81&s=LinkedIn&source=LinkedIn) | Remote | 6/1
+| [NBC - Product Designer UI, Fandango (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=585043&codes=LinkedIn#jobDetails=585043_5108) | Remote | 6/1
 | [Blink - Visual Designer](https://jobs.lever.co/blinkux/e39a8278-5de0-4c6d-a48a-3306d561b51a) | All Locations | 5/30
 | [Blink - Motion Designer](https://jobs.lever.co/blinkux/a071da50-6edb-4b01-bcfc-92db95ca3a05) | All Locations | 5/30
 | [Blink - Product Designer](https://jobs.lever.co/blinkux/80bd5429-440b-4052-9e91-ad908e68c78b) | All Locations | 5/30
