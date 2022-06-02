@@ -35,6 +35,17 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046443003&gh_src=e39e311a3us) | TX, USA | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=4902131003&gh_src=e39e311a3us) | San Francisco, CA | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046429003&gh_src=e39e311a3us) | Remote - East Coast | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046441003&gh_src=e39e311a3us) | Atlanta | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046542003&gh_src=e39e311a3us) | Canada | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046445003&gh_src=e39e311a3us) | Washington | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046533003&gh_src=e39e311a3us) | Toronto, CA | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046447003&gh_src=e39e311a3us) | Illinois, USA | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046536003&gh_src=e39e311a3us) | Alberta, CA | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046447003&gh_src=e39e311a3us) | Illinois, USA | 6/2
+| [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046534003&gh_src=e39e311a3us) | Vancouver, CA | 6/2
 | [Curated - Product Designer](https://boards.greenhouse.io/curated/jobs/4349708004?s=LinkedIn&source=LinkedIn) | Remote | 6/1
 | [Costco - User Experience/UX Designer-Costco Travel](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=48&rid=5842&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Issaquah, WA | 6/1
 | [Apple - UX Researcher (MS/3 YoE)](https://jobs.apple.com/en-us/details/200336129/ux-researcher?board_id=17682&cid=scrape_co_us_linkedin_nationwide_desig) | Austin, TX | 6/1
