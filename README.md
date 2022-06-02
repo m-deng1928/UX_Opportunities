@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [EA - UX Researcher, Madden Sports (MS/1 YoE)](https://ea.gr8people.com/jobs/173542/ux-researcher-madden?sid=4) | Orlando, FL | 6/2
 | [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046443003&gh_src=e39e311a3us) | TX, USA | 6/2
 | [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=4902131003&gh_src=e39e311a3us) | San Francisco, CA | 6/2
 | [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046429003&gh_src=e39e311a3us) | Remote - East Coast | 6/2
