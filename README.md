@@ -200,7 +200,7 @@ New Grad
 
 Intern
 | Company  | Location | Details | Date Added
-| ------------- | ------------- | ------------- | -------------
+| [Labcorp - UX Research](https://careers.labcorp.com/global/en/job/COVAGLOBAL2228314EXTERNALENGLOBAL/UX-Research-Intern?utm_source=linkedin&utm_campaign=linkedin&source=Linkedin&utm_medium=phenom-feeds) | Durham, NC | Summer 2022 | 6/2
 | [Bose - UX Designer Co-Op](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/UX-Designer_R22079?companyApplyUrl=%26Source%3DLinkedIn&source=Linkedin) | Framingham, MA | Summer/Fall 2022 | 6/2
 | [Happify Health - Product Design](https://boards.greenhouse.io/happifyhealth/jobs/6173819002) | Remote | Summer 2022 | 6/1
 | [Blackbaud - User Experience](https://careers.blackbaud.com/us/en/job/BLBBUSR0009621EXTERNALENUS/User-Experience-Intern-EVERFI?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | Summer 2022 | 5/28
