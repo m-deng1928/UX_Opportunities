@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Target - Product Designer, Universal Thread, Sweaters, Knits, & Leisure (3 YoE)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Designer--Universal-Thread-Sweaters--Knits-and-Leisure_R0000184203?source=Linkedin) | Minneapolis, MN | 6/2
 | [EA - UX Researcher, Madden Sports (MS/1 YoE)](https://ea.gr8people.com/jobs/173542/ux-researcher-madden?sid=4) | Orlando, FL | 6/2
 | [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046443003&gh_src=e39e311a3us) | TX, USA | 6/2
 | [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=4902131003&gh_src=e39e311a3us) | San Francisco, CA | 6/2
