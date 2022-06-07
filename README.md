@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [LogicGate- Product Designer (2 YoE)](https://boards.greenhouse.io/logicgate/jobs/4014247005?t=cfc908b15us) | Remote | 6/6
+| [LogicGate - User Researcher (2 YoE)](https://boards.greenhouse.io/logicgate/jobs/4008398005?t=cfc908b15us) | Remote | 6/6
 | [Devbridge - Product Designer (2-5 YoE)](https://www.linkedin.com/jobs/view/3066531513) | Chicago, IL | 6/6
 | [Mackin Talent - UX Researcher (3 YoE)](https://jobs.jobvite.com/careers/mackin/job/oK4XjfwO/apply?__jvst=job%20board&__jvsd=LinkedInLimited) | Menlo Park, CA | 6/6
 | [Target - Product Designer, Universal Thread, Sweaters, Knits, & Leisure (3 YoE)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Designer--Universal-Thread-Sweaters--Knits-and-Leisure_R0000184203?source=Linkedin) | Minneapolis, MN | 6/2
