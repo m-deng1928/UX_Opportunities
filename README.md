@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Devbridge - Product Designer (2-5 YoE)](https://www.linkedin.com/jobs/view/3066531513) | Chicago, IL | 6/6
+| [Mackin Talent - UX Researcher (3 YoE)](https://jobs.jobvite.com/careers/mackin/job/oK4XjfwO/apply?__jvst=job%20board&__jvsd=LinkedInLimited) | Menlo Park, CA | 6/6
 | [Target - Product Designer, Universal Thread, Sweaters, Knits, & Leisure (3 YoE)](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Designer--Universal-Thread-Sweaters--Knits-and-Leisure_R0000184203?source=Linkedin) | Minneapolis, MN | 6/2
 | [EA - UX Researcher, Madden Sports (MS/1 YoE)](https://ea.gr8people.com/jobs/173542/ux-researcher-madden?sid=4) | Orlando, FL | 6/2
 | [UserTesting - User Experience Researcher (BS/3 YoE)](https://www.usertesting.com/about-us/jobs?gh_jid=5046443003&gh_src=e39e311a3us) | TX, USA | 6/2
@@ -202,6 +204,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Code & Theory - Interaction Design](https://www.linkedin.com/jobs/view/3114472462) | New York, NY | Summer 2022 | 6/6
 | [Porsche - Interaction Design](https://jobs.porsche.com/index.php?ac=jobad&id=32398) | Atlanta, GA | Summer 2022 | 6/3
 | [Thrive - Design Research](https://thrivethinking.com/careers/#design-research-intern) | Atlanta, GA | Summer 2022 | 6/3
 | [Labcorp - UX Research](https://careers.labcorp.com/global/en/job/COVAGLOBAL2228314EXTERNALENGLOBAL/UX-Research-Intern?utm_source=linkedin&utm_campaign=linkedin&source=Linkedin&utm_medium=phenom-feeds) | Durham, NC | Summer 2022 | 6/2
