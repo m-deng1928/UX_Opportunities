@@ -206,6 +206,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Slickdeals - Product Design](https://slickdeals.net/job/?gh_jid=6193249002) | Remote | Summer 2022 | 6/6
 | [Code & Theory - Interaction Design](https://www.linkedin.com/jobs/view/3114472462) | New York, NY | Summer 2022 | 6/6
 | [Porsche - Interaction Design](https://jobs.porsche.com/index.php?ac=jobad&id=32398) | Atlanta, GA | Summer 2022 | 6/3
 | [Thrive - Design Research](https://thrivethinking.com/careers/#design-research-intern) | Atlanta, GA | Summer 2022 | 6/3
