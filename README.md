@@ -209,6 +209,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Shutterstock - UX Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/UX-Design-Intern_R0001701) | New York, NY | Summer 2022 | 6/8
 | [Slickdeals - Product Design](https://slickdeals.net/job/?gh_jid=6193249002) | Remote | Summer 2022 | 6/6
 | [Code & Theory - Interaction Design](https://www.linkedin.com/jobs/view/3114472462) | New York, NY | Summer 2022 | 6/6
 | [Porsche - Interaction Design](https://jobs.porsche.com/index.php?ac=jobad&id=32398) | Atlanta, GA | Summer 2022 | 6/3
