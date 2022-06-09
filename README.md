@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Mathworks - User Experience Researcher (MS)](https://www.mathworks.com/company/jobs/opportunities/28682-user-experience-researcher?display=max&job_type_id%5B%5D=1756&keywords=ux+design&location%5B%5D=US) | Natick, MA | 6/9
 | [Microsoft - User Experience Researcher (MS/1-2 YoE)](https://careers.microsoft.com/us/en/job/1357308/User-Experience-Researcher?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Redmond, WA | 6/7
 | [LexisNexis - UX Researcher (1-2 YoE)](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/UX-Researcher_R41782?source=Linkedin) | Remote | 6/7
 | [LogicGate- Product Designer (2 YoE)](https://boards.greenhouse.io/logicgate/jobs/4014247005?t=cfc908b15us) | Remote | 6/6
