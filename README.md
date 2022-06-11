@@ -209,6 +209,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Toshiba - UX](https://recruiting.ultipro.com/TOS1001TGCSI/JobBoard/d0db2dde-a937-4e41-9070-d5414cabed66/OpportunityDetail?opportunityId=432cea2c-cec1-4b54-9a82-48c4d6ef0fd9&utm_source=LINKEDIN&utm_medium=referrer) | Durham, NC | Fall 2022 | 6/11
 | [Shutterstock - UX Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/UX-Design-Intern_R0001701) | New York, NY | Summer 2022 | 6/8
 | [Slickdeals - Product Design](https://slickdeals.net/job/?gh_jid=6193249002) | Remote | Summer 2022 | 6/6
 | [Code & Theory - Interaction Design](https://www.linkedin.com/jobs/view/3114472462) | New York, NY | Summer 2022 | 6/6
