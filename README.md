@@ -209,6 +209,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [MC Partners - Visual Design](https://www.linkedin.com/jobs/view/3118361201) | Chicago, IL | Summer 2022 | 6/13
 | [Spotify - Product Design](https://www.lifeatspotify.com/jobs/product-design-2022-summer-internship) | New York, NY | Summer 2022 | 6/13
 | [Toshiba - UX](https://recruiting.ultipro.com/TOS1001TGCSI/JobBoard/d0db2dde-a937-4e41-9070-d5414cabed66/OpportunityDetail?opportunityId=432cea2c-cec1-4b54-9a82-48c4d6ef0fd9&utm_source=LINKEDIN&utm_medium=referrer) | Durham, NC | Fall 2022 | 6/11
 | [Shutterstock - UX Design](https://shutterstock.wd1.myworkdayjobs.com/en-US/ShutterstockCareers/job/New-York-City/UX-Design-Intern_R0001701) | New York, NY | Summer 2022 | 6/8
