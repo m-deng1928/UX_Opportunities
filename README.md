@@ -36,6 +36,7 @@ New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
 | [GM - User Experience Researcher - SDV (BS/2 YoE)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/User-Experience-Researcher---SDV_JR-000085930-1) | Warren, MI | 6/14
+| [Instabase - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3125319267) | New York, NY | 6/14
 | [Nerdwallet - Product Designer, SMB (3 YoE)](https://www.nerdwallet.com/careers/job/4291547?gh_jid=3817487) | Remote | 6/14
 | [Radioflyer - Design Researcher (1-3 YoE)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8f7904d5-afa2-4f7b-994a-d4aaec6c669f&ccId=19000101_000001&jobId=433543&applicant_guid=385e4749-69ac-41ef-a267-0839de8f82e9&source=LinkedIn%20Limited%20Listing%20Organic&sourceContext=jtochash%3DW7wEgoI7zMbx1U4YNSjwXR%26jtocprof%3D-ocEwBcE5m1Jq0pQ4npLAmUDZy4FfgYD&utm_source=JobTarget&utm_medium=LinkedIn%20Limited%20Listing%20Organic&utm_campaign=Design%20Researcher%20(9200678826980_1)&_jtochash=W7wEgoI7zMbx1U4YNSjwXR&_jtocprof=-ocEwBcE5m1Jq0pQ4npLAmUDZy4FfgYD) | Chicago, IL | 6/14
 | [Mathworks - User Experience Researcher (MS)](https://www.mathworks.com/company/jobs/opportunities/28682-user-experience-researcher?display=max&job_type_id%5B%5D=1756&keywords=ux+design&location%5B%5D=US) | Natick, MA | 6/9
