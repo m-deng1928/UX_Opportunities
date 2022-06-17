@@ -303,6 +303,8 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+
+| [Lyft - UX Research Associate](https://boards.greenhouse.io/embed/job_app?token=6214556002&gh_src=uwvxb4jc2&fbclid=IwAR1Z_IVxt6WcpdWtt6mfyg1Xb1KuDjBBeW_qYa4qg73rFtEC4yvBdbyGz24) | Summer 2022 | 6/17
 | [Uber - User Experience Design](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/11
 | [Pinterest - UX Research](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/4
 | [Google - User Experience Design](https://careers.google.com/jobs/results/93132050166358726-user-experience-design-apprenticeship-september-2022-start/?jid=127025001) | Summer 2022 | 5/4
