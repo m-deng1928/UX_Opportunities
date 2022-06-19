@@ -305,6 +305,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Lyft - Design Program Management Associate](https://boards.greenhouse.io/lyft/jobs/6216009002?gh_jid=6216009002) | Summer 2022 | 6/19
 | [Lyft - UX Research Associate](https://boards.greenhouse.io/embed/job_app?token=6214556002&gh_src=uwvxb4jc2&fbclid=IwAR1Z_IVxt6WcpdWtt6mfyg1Xb1KuDjBBeW_qYa4qg73rFtEC4yvBdbyGz24) | Summer 2022 | 6/17
 | [Uber - User Experience Design](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/11
 | [Pinterest - UX Research](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/4
