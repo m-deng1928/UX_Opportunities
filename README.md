@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [DreamBox Learning - Associate UX Designer (Contract)](https://boards.greenhouse.io/dreamboxlearning/jobs/4503706004?s=LinkedIn&source=LinkedIn) | Bellevue, WA / Raleigh, NC / Winooski, VT / Remote | 6/18
 | [GM - Visual Designer - Brand Digital Experience (2 YoE)](https://search-careers.gm.com/jobs/job/visual-designer-brand-digital-experience-warren-jr-000086870/) | Warren, MI | 6/16
 | [GM - User Experience Researcher - SDV (BS/2 YoE)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/User-Experience-Researcher---SDV_JR-000085930-1) | Warren, MI | 6/14
 | [Instabase - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3125319267) | New York, NY | 6/14
