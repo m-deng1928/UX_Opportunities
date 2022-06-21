@@ -35,7 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [GreyNoise Intelligence - UX Analyst](https://jobs.greynoise.io/ux-analyst) | Washington DC | 6/19
+| [F45 Training - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3117543801) | Austin, TX | 6/20
+| [Rivalry.com - Product Designer (3 YoE)](https://rivalry.pinpointhq.com/jobs/50761/applications/new) | Remote | 6/20
+| [Morgan & Morgan - UX Strategist (2-5 YoE)](https://boards.greenhouse.io/morganmorganjobsapplynow/jobs/4541139004?gh_src=4e0132784us&s=LinkedIn&source=LinkedIn) | Remote | 6/20
 | [Discovery - Product Designer (VX/Motion](https://jobs.discovery.com/careers-home/jobs/32137?lang=en-us) | West Hollywood, CA | 6/19
 | [DreamBox Learning - Associate UX Designer (Contract)](https://boards.greenhouse.io/dreamboxlearning/jobs/4503706004?s=LinkedIn&source=LinkedIn) | Bellevue, WA / Raleigh, NC / Winooski, VT / Remote | 6/18
 | [GM - Visual Designer - Brand Digital Experience (2 YoE)](https://search-careers.gm.com/jobs/job/visual-designer-brand-digital-experience-warren-jr-000086870/) | Warren, MI | 6/16
