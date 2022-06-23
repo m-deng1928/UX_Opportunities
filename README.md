@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Contend - UX Designer (1-2 YoE)](https://www.linkedin.com/jobs/view/3125392223) | Los Angeles, CA | 6/22
+| [ServiceNow - Interaction Designer - Workflow Design Studio (3 YoE)](https://careers.servicenow.com/careers/jobs/743999832988606EXT?lang=en-us&src=linkedin&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | New York, NY | 6/22
 | [F45 Training - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3117543801) | Austin, TX | 6/20
 | [Rivalry.com - Product Designer (3 YoE)](https://rivalry.pinpointhq.com/jobs/50761/applications/new) | Remote | 6/20
 | [Morgan & Morgan - UX Strategist (2-5 YoE)](https://boards.greenhouse.io/morganmorganjobsapplynow/jobs/4541139004?gh_src=4e0132784us&s=LinkedIn&source=LinkedIn) | Remote | 6/20
