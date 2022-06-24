@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Finish Line - User Experience Researcher (1-3 YoE)](https://finishline.wd1.myworkdayjobs.com/Corporate_Careers/job/Boulder-Co/User-Experience-Researcher_JR10011195?source=Linkedin) | Boulder, CO | 6/23
 | [PayPal - Product Designer (1 YoE)](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/California-United-States-of-America-Remote/Product-Designer_R0089898?Codes=W-LINKEDIN) | Remote | 6/23
 | [Contend - UX Designer (1-2 YoE)](https://www.linkedin.com/jobs/view/3125392223) | Los Angeles, CA | 6/22
 | [ServiceNow - Interaction Designer - Workflow Design Studio (3 YoE)](https://careers.servicenow.com/careers/jobs/743999832988606EXT?lang=en-us&src=linkedin&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | New York, NY | 6/22
