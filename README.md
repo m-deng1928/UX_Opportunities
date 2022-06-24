@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Peloton - Associate User Researcher (1 YoE)](https://boards.greenhouse.io/peloton/jobs/4346316?gh_src=839cb4b41us) | New York, NY | 6/24
+| [BrainPOP - Associate User Researcher (1-2 YoE)](https://www.linkedin.com/jobs/view/3140287189/?refId=4aa5ceb1-506b-3285-a995-cf2265161010) | Remote Eligible | 6/24
 | [Capital One - UX Researcher (3 YoE)](https://www.capitalonecareers.com/job/richmond/ux-researcher-remote-eligible/1732/31029096624) | Remote Eligible | 6/24
 | [Finish Line - User Experience Researcher (1-3 YoE)](https://finishline.wd1.myworkdayjobs.com/Corporate_Careers/job/Boulder-Co/User-Experience-Researcher_JR10011195?source=Linkedin) | Boulder, CO | 6/23
 | [PayPal - Product Designer (1 YoE)](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/California-United-States-of-America-Remote/Product-Designer_R0089898?Codes=W-LINKEDIN) | Remote | 6/23
