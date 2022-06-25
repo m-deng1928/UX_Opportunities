@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Peloton - Associate User Researcher (1 YoE)](https://boards.greenhouse.io/peloton/jobs/4346316?gh_src=839cb4b41us) | New York, NY | 6/25
 | [Peloton - Associate User Researcher (1 YoE)](https://boards.greenhouse.io/peloton/jobs/4346316?gh_src=839cb4b41us) | New York, NY | 6/24
 | [BrainPOP - Associate User Researcher (1-2 YoE)](https://www.linkedin.com/jobs/view/3140287189/?refId=4aa5ceb1-506b-3285-a995-cf2265161010) | Remote Eligible | 6/24
 | [Capital One - UX Researcher (3 YoE)](https://www.capitalonecareers.com/job/richmond/ux-researcher-remote-eligible/1732/31029096624) | Remote Eligible | 6/24
@@ -183,6 +184,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [KeyBank - Design Undergraduate Intern-Laurel Road Digital Bank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/Undergraduate-Intern_R-12408?source%20=%20Linked_In&source+=+Linked_In) | Chicago, IL | Summer 2022 | 6/25
 | [MC Partners - Visual Design](https://www.linkedin.com/jobs/view/3118361201) | Chicago, IL | Summer 2022 | 6/13
 | [Code & Theory - Interaction Design](https://www.linkedin.com/jobs/view/3114472462) | New York, NY | Summer 2022 | 6/6
 | [Porsche - Interaction Design](https://jobs.porsche.com/index.php?ac=jobad&id=32398) | Atlanta, GA | Summer 2022 | 6/3
