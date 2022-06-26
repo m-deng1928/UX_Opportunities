@@ -35,7 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Peloton - Associate User Researcher (1 YoE)](https://boards.greenhouse.io/peloton/jobs/4346316?gh_src=839cb4b41us) | New York, NY | 6/25
+| [CVS - UX Researcher (2 YoE)](http://jobs.cvshealth.com/ShowJob/Id/1355391/UX%20Researcher?rx_c=alljobs&rx_job=2120376BR&rx_medium=post&rx_paid=0&rx_source=linkedinll&rx_ts=20220624T004001Z&utm_campaign=alljobs&utm_medium=recruitics_organic&utm_source=linkedinll) | Boston, MA | 6/25
 | [Peloton - Associate User Researcher (1 YoE)](https://boards.greenhouse.io/peloton/jobs/4346316?gh_src=839cb4b41us) | New York, NY | 6/24
 | [BrainPOP - Associate User Researcher (1-2 YoE)](https://www.linkedin.com/jobs/view/3140287189/?refId=4aa5ceb1-506b-3285-a995-cf2265161010) | Remote Eligible | 6/24
 | [Capital One - UX Researcher (3 YoE)](https://www.capitalonecareers.com/job/richmond/ux-researcher-remote-eligible/1732/31029096624) | Remote Eligible | 6/24
