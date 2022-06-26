@@ -185,6 +185,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [BMW Group - UX Engineer](https://bmwgroup.taleo.net/careersection/ex/jobdetail.ftl?job=55716) | Silicon Valley, CA | Summer 2022 | 6/26
 | [New York times - Product Designer](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Summer-2021-Intern--Product-Design_REQ-008869-1) | New York, NY | Summer 2022 | 6/26
 | [Delta Dental- Associate Product Designer](https://jobs.lever.co/deltadentalins./cd2c2db1-02d4-4315-814f-850c9a68852c/apply?lever-source=Job+postings+feed&lever-origin=applied&lever-source%5B%5D=LinkedIn) | Oakland, CA | Summer 2022 | 6/25
 | [KeyBank - Design Undergraduate Intern-Laurel Road Digital Bank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/Undergraduate-Intern_R-12408?source%20=%20Linked_In&source+=+Linked_In) | Chicago, IL | Summer 2022 | 6/25
