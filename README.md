@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [MITRE - Associate Human Factors Engineer](https://careers.mitre.org/us/en/job/MITRUSR105541EXTERNALENUS/Associate-Human-Factors-Engineer?utm_source=linkedin&src=JB-10062&utm_medium=phenom-feeds) | Bedford, MA/McLean, VA | 6/26
 | [Parsley Health - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3136788365) | Remote | 6/26
 | [CVS - UX Researcher (2 YoE)](http://jobs.cvshealth.com/ShowJob/Id/1355391/UX%20Researcher?rx_c=alljobs&rx_job=2120376BR&rx_medium=post&rx_paid=0&rx_source=linkedinll&rx_ts=20220624T004001Z&utm_campaign=alljobs&utm_medium=recruitics_organic&utm_source=linkedinll) | Boston, MA | 6/25
 | [Peloton - Associate User Researcher (1 YoE)](https://boards.greenhouse.io/peloton/jobs/4346316?gh_src=839cb4b41us) | New York, NY | 6/24
