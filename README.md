@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Actalent - Human Factors Engineer (3-5 YoE)](https://careers.actalentservices.com/us/en/job/JP-002956263/Human-Factors-Engineer) | Saint Paul, MN | 6/26
 | [Konrad Group - Associate UI/UX Designer](https://boards.greenhouse.io/konradgroup/jobs/5161526003?gh_src=b05d8bd53us) | New York, NY | 6/26
 | [Flatiron Health - Product Designer, Real World Evidence](https://flatiron.com/careers/open-positions/4245961?gh_jid=4245961&gh_src=64d3b9c11us) | New York, NY/San Francisco, CA/Remote | 6/26
 | [MITRE - Associate Human Factors Engineer](https://careers.mitre.org/us/en/job/MITRUSR105541EXTERNALENUS/Associate-Human-Factors-Engineer?utm_source=linkedin&src=JB-10062&utm_medium=phenom-feeds) | Bedford, MA/McLean, VA | 6/26
