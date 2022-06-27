@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Flatiron Health - Product Designer, Real World Evidence](https://flatiron.com/careers/open-positions/4245961?gh_jid=4245961&gh_src=64d3b9c11us) | New York, NY/San Francisco, CA/Remote | 6/26
 | [MITRE - Associate Human Factors Engineer](https://careers.mitre.org/us/en/job/MITRUSR105541EXTERNALENUS/Associate-Human-Factors-Engineer?utm_source=linkedin&src=JB-10062&utm_medium=phenom-feeds) | Bedford, MA/McLean, VA | 6/26
 | [Parsley Health - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3136788365) | Remote | 6/26
 | [CVS - UX Researcher (2 YoE)](http://jobs.cvshealth.com/ShowJob/Id/1355391/UX%20Researcher?rx_c=alljobs&rx_job=2120376BR&rx_medium=post&rx_paid=0&rx_source=linkedinll&rx_ts=20220624T004001Z&utm_campaign=alljobs&utm_medium=recruitics_organic&utm_source=linkedinll) | Boston, MA | 6/25
@@ -188,7 +189,7 @@ Intern
 | ------------- | ------------- | ------------- | -------------
 | [Formlabs - UI Software Engineering](https://careers.formlabs.com/job/4253258/apply/?gh_jid=4253258&gh_src=77fac6d41us) | Somerville, MA | Fall 2022 | 6/26
 | [BMW Group - UX Engineer](https://bmwgroup.taleo.net/careersection/ex/jobdetail.ftl?job=55716) | Silicon Valley, CA | Fall 2022 | 6/26
-| [New York times - Product Designer](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Summer-2021-Intern--Product-Design_REQ-008869-1) | New York, NY | Summer 2022 | 6/26
+| [New York Times - Product Designer](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Summer-2021-Intern--Product-Design_REQ-008869-1) | New York, NY | Summer 2022 | 6/26
 | [Delta Dental- Associate Product Designer](https://jobs.lever.co/deltadentalins./cd2c2db1-02d4-4315-814f-850c9a68852c/apply?lever-source=Job+postings+feed&lever-origin=applied&lever-source%5B%5D=LinkedIn) | Oakland, CA | Summer 2022 | 6/25
 | [KeyBank - Design Undergraduate Intern-Laurel Road Digital Bank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/Undergraduate-Intern_R-12408?source%20=%20Linked_In&source+=+Linked_In) | Chicago, IL | Summer 2022 | 6/25
 | [MC Partners - Visual Design](https://www.linkedin.com/jobs/view/3118361201) | Chicago, IL | Summer 2022 | 6/13
