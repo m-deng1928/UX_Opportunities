@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Adobe - Experience Designer (2 YoE))](https://adobe.design/jobs/job-posts/experience-design/r125366-experience-designer) | San Francisco, CA/San Jose, CA/Seattle ,WA | 6/28
 | [EA - Visual Experience Designer (2 YoE))](https://ea.gr8people.com/jobs/174165/visual-experience-designer?sid=4) | Multiple Locations (Remote) | 6/27
 | [Naughty Dog - Associate UI Technical Designer (Temporary Assignment) (1-3 YoE))](https://www.naughtydog.com/greenhouse/job/2226493?gh_jid=2226493) | Santa Monica, CA | 6/27
 | [Greater Good Studio - Design Researcher (1-3 YoE))](https://docs.google.com/forms/d/e/1FAIpQLSeXUDZzMMaBmz-p6HiE9gqu_V7X_Zst9VVBW1Gj96nE55gy0Q/viewform) | Chicago, IL | 6/26
