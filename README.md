@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Venn - Junior Designer (1-4 YoE)](https://www.comeet.com/jobs/venn/B6.000/junior-designer/A3.E28) | New York, NY | 6/29
 | [Verily - Learning Experience Designer (2 YoE)](https://verily.com/careers/job/?job_id=4221584&gh_jid=4221584&gh_src=44d0c4ce1us) | South San Francisco, CA/Dallas,TX/Boulder,CO/Raleigh, NC | 6/29
 | [Forum One - Visual Design Associate (2 YoE)](https://boards.greenhouse.io/forumone/jobs/6229493002?gh_src=8a07eeb22us) | DC/Seattle, WA/Remote | 6/28
 | [Blue State - UX Designer (3 YoE)](https://www.bluestate.co/careers/job/?gh_jid=3566316) | New York, NY/Oakland, CA/DC | 6/28
