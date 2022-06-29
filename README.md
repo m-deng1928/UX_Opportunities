@@ -2,7 +2,7 @@
 
 Here's a UX Job Board I curate.
 
-If links die, let me know, but dates there as reference as how recent I found it (not when it was posted). I will try to comb through these once a week. 
+If links are inactive, let me know. Dates referenced are how recently I found it (not when it was posted). I will try to comb through these once a week. 
 
 I will try to include education, GPA, YoE (years of experience) requirements if available. Roles are full time employment (FTE) unless otherwise indicated. For years of exprience, I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate through YoE.
 
@@ -35,6 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Forum One - Visual Design Associate (2 YoE)](https://boards.greenhouse.io/forumone/jobs/6229493002?gh_src=8a07eeb22us) | DC/Seattle, WA/Remote | 6/28
+| [Blue State - UX Designer (3 YoE)](https://www.bluestate.co/careers/job/?gh_jid=3566316) | New York, NY/Oakland, CA/DC | 6/28
+| [EA - UX Designer - Madden (Contract) (3 YoE))](https://ea.gr8people.com/jobs/174038/ux-designer-madden-contract?sid=4) | Multiple Locations (Remote) | 6/28
 | [Adobe - Experience Designer (2 YoE))](https://adobe.design/jobs/job-posts/experience-design/r125366-experience-designer) | San Francisco, CA/San Jose, CA/Seattle ,WA | 6/28
 | [EA - Visual Experience Designer (2 YoE))](https://ea.gr8people.com/jobs/174165/visual-experience-designer?sid=4) | Multiple Locations (Remote) | 6/27
 | [Naughty Dog - Associate UI Technical Designer (Temporary Assignment) (1-3 YoE))](https://www.naughtydog.com/greenhouse/job/2226493?gh_jid=2226493) | Santa Monica, CA | 6/27
