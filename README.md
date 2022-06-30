@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Activision - Associate UI Designer](https://careers.activision.com/job/ACPUUSR012897EXTERNAL/Associate-UI-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Los Angeles, CA | 6/30
 | [Activision - Associate UI Engineer (3 YoE)](https://careers.activision.com/job/ACPUUSR015190EXTERNAL/Associate-UI-Engineer?utm_source=linkedin&utm_medium=phenom-feeds) | Los Angeles, CA | 6/30
 | [Venn - Junior Designer (1-4 YoE)](https://www.comeet.com/jobs/venn/B6.000/junior-designer/A3.E28) | New York, NY | 6/29
 | [Verily - Learning Experience Designer (2 YoE)](https://verily.com/careers/job/?job_id=4221584&gh_jid=4221584&gh_src=44d0c4ce1us) | South San Francisco, CA/Dallas,TX/Boulder,CO/Raleigh, NC | 6/29
