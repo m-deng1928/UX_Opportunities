@@ -36,6 +36,7 @@ New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
 | [Splitwise - UI Designer](https://secure.splitwise.com/jobs/ui_designer) | Boston, MA/Providence, RI | 6/30
+| [NetherRealm Studios - UI Designer (2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000057396EXTERNALENGLOBAL/Designer-UI?utm_source=linkedin&utm_medium=phenom-feeds) | Chicago, IL | 6/30
 | [Amazon - UX Designer, Alexa Voice Service](https://www.amazon.jobs/en/jobs/2126325/ux-designer-alexa-voice-service?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 6/30
 | [Esri - Product Designer - ArcGIS StoryMaps (2 YoE)](https://www.esri.com/careers/product-designer-arcgis-storymaps-16038?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Redlands, CA/Arlington, VA/Charlotte, NC/ St Louis, MO/Minneapolis, MN | 6/30
 | [Activision - Associate UI Designer](https://careers.activision.com/job/ACPUUSR012897EXTERNAL/Associate-UI-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Los Angeles, CA | 6/30
