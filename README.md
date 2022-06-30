@@ -35,8 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Esri - Product Designer - ArcGIS StoryMaps (2 YoE)](
-https://www.esri.com/careers/product-designer-arcgis-storymaps-16038?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Redlands, CA/Arlington, VA/Charlotte, NC/ St Louis, MO/Minneapolis, MN | 6/30
+| [Amazon - UX Designer, Alexa Voice Service](https://www.amazon.jobs/en/jobs/2126325/ux-designer-alexa-voice-service?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 6/30
+| [Esri - Product Designer - ArcGIS StoryMaps (2 YoE)](https://www.esri.com/careers/product-designer-arcgis-storymaps-16038?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Redlands, CA/Arlington, VA/Charlotte, NC/ St Louis, MO/Minneapolis, MN | 6/30
 | [Activision - Associate UI Designer](https://careers.activision.com/job/ACPUUSR012897EXTERNAL/Associate-UI-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Los Angeles, CA | 6/30
 | [Activision - Associate UI Engineer (3 YoE)](https://careers.activision.com/job/ACPUUSR015190EXTERNAL/Associate-UI-Engineer?utm_source=linkedin&utm_medium=phenom-feeds) | Los Angeles, CA | 6/30
 | [Venn - Junior Designer (1-4 YoE)](https://www.comeet.com/jobs/venn/B6.000/junior-designer/A3.E28) | New York, NY | 6/29
