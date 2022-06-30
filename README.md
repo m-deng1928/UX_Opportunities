@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Activision - Associate UI Engineer (3 YoE)](https://careers.activision.com/job/ACPUUSR015190EXTERNAL/Associate-UI-Engineer?utm_source=linkedin&utm_medium=phenom-feeds) | Los Angeles, CA | 6/30
 | [Venn - Junior Designer (1-4 YoE)](https://www.comeet.com/jobs/venn/B6.000/junior-designer/A3.E28) | New York, NY | 6/29
 | [Verily - Learning Experience Designer (2 YoE)](https://verily.com/careers/job/?job_id=4221584&gh_jid=4221584&gh_src=44d0c4ce1us) | South San Francisco, CA/Dallas,TX/Boulder,CO/Raleigh, NC | 6/29
 | [Forum One - Visual Design Associate (2 YoE)](https://boards.greenhouse.io/forumone/jobs/6229493002?gh_src=8a07eeb22us) | DC/Seattle, WA/Remote | 6/28
@@ -198,6 +199,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [SAP - UX Product Design](https://jobs.sap.com/job/Palo-Alto-SAP%C2%A0iXp-Intern-UX-Product-Designer-CA-94304/796369801/) | Palo Alto, CA | Summer 2022 | 6/30
+| [SAP - UI Developer](https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-UI-Developer-CA-94304/732556701/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | Summer 2022 | 6/30
 | [Formlabs - UI Software Engineering](https://careers.formlabs.com/job/4253258/apply/?gh_jid=4253258&gh_src=77fac6d41us) | Somerville, MA | Fall 2022 | 6/26
 | [BMW Group - UX Engineer](https://bmwgroup.taleo.net/careersection/ex/jobdetail.ftl?job=55716) | Silicon Valley, CA | Fall 2022 | 6/26
 | [New York Times - Product Designer](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Summer-2021-Intern--Product-Design_REQ-008869-1) | New York, NY | Summer 2022 | 6/26
