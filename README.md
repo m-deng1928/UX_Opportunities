@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+Digital Product Designer
+| [Staples Store - Digital Product Designer (3-5 YoE)](https://retailcareers.staples.com/job/15157915/digital-product-designer-framingham-ma/) | Framingham, MA On-site | 6/30
 | [Splitwise - UI Designer](https://secure.splitwise.com/jobs/ui_designer) | Boston, MA/Providence, RI | 6/30
 | [NetherRealm Studios - UI Designer (2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000057396EXTERNALENGLOBAL/Designer-UI?utm_source=linkedin&utm_medium=phenom-feeds) | Chicago, IL | 6/30
 | [Amazon - UX Designer, Alexa Voice Service](https://www.amazon.jobs/en/jobs/2126325/ux-designer-alexa-voice-service?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Remote | 6/30
