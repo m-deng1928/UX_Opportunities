@@ -35,7 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Thrivent - Learning Experience Designer (2-3 YoE)](https://thrivent.wd5.myworkdayjobs.com/external/job/United-States/Learning-Experience-Designer--Remote_REQ-30638) | Appleton, WI/Minneapolis, MN | 6/30
+| [Arvest Bank - Customer Experience Designer (2 YoE)](https://css-arvest-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%28ARV,5049,8%29.JobPostingDisplay?pagesize=1&csk.JobBoard=LINKEDIN&csk.showusingxi=true&csk.HROrganization=ARV) | Bentonville, AR | 7/2
+| [Thrivent - Learning Experience Designer (2-3 YoE)](https://thrivent.wd5.myworkdayjobs.com/external/job/United-States/Learning-Experience-Designer--Remote_REQ-30638) | Appleton, WI/Minneapolis, MN | 7/2
 | [Staples Store - Digital Product Designer (3-5 YoE)](https://retailcareers.staples.com/job/15157915/digital-product-designer-framingham-ma/) | Framingham, MA On-site | 6/30
 | [Splitwise - UI Designer](https://secure.splitwise.com/jobs/ui_designer) | Boston, MA/Providence, RI | 6/30
 | [NetherRealm Studios - UI Designer (2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000057396EXTERNALENGLOBAL/Designer-UI?utm_source=linkedin&utm_medium=phenom-feeds) | Chicago, IL | 6/30
