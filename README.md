@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Miles - Visual Designer (1 YoE)](https://www.linkedin.com/jobs/view/3154649145) | Redwood City, CA | 7/3
 | [Johnson & Johnson - Visual Designer (2 YoE)](https://jobs.jnj.com/jobs/2206051913W?lang=en-us&src=JB-10280&src=JB-10280) | Redwood City, CA | 7/3
 | [DaySpring Designer- Digital UI/UX (3 YoE)](https://careers.hallmark.com/Dayspring/job/Siloam-Springs-DaySpring-Designer-Digital-UIUX-AR-72761/875500400/) | Siloam Springs, AR | 7/2
 | [NYCM Insurance - Experience Designer (2 YoE)](https://recruiting.ultipro.com/NEW1029NYCMF/JobBoard/3ab2e5da-8eb1-b343-1f6b-7eee93fcfcf0/OpportunityDetail?opportunityId=77e6ff27-2e95-42f7-ba80-3ade03f26ed2) | Edmeston, NY | 7/2
