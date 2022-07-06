@@ -213,6 +213,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Anduril Industries - Motion Design](https://jobs.lever.co/anduril/b951cf29-e2c2-4143-bb48-0698e91c26bb/apply?lever-source=Simplify) | Costa Mesa, CA | Fall 2022 | 7/6
 | [Konrad Group - UX/UI Design](https://www.linkedin.com/jobs/view/3143327202) | Toronto, CA | Fall 2022 | 7/6
 | [SAP - UX Product Design](https://jobs.sap.com/job/Palo-Alto-SAP%C2%A0iXp-Intern-UX-Product-Designer-CA-94304/796369801/) | Palo Alto, CA | Summer 2022 | 6/30
 | [SAP - UI Developer](https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-UI-Developer-CA-94304/732556701/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings) | Palo Alto, CA | Summer 2022 | 6/30
