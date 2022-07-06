@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Boston Globe - UI Designer (1 YoE)](https://www.linkedin.com/jobs/view/3146066146) | Boston, MA | 7/5
 | [Miles - Visual Designer (1 YoE)](https://www.linkedin.com/jobs/view/3154649145) | Redwood City, CA | 7/4
 | [Miles - Junior Visual Designer](https://www.linkedin.com/jobs/view/3154645438) | Redwood City, CA | 7/4
 | [Johnson & Johnson - Visual Designer (2 YoE)](https://jobs.jnj.com/jobs/2206051913W?lang=en-us&src=JB-10280&src=JB-10280) | Redwood City, CA | 7/3
