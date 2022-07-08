@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Octo - Junior UX Designer (1 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=581316&cid=6763&locvalue=1143) | Reston, VA | 7/8
 | [Stefanini North America and APAC - Product Designer](https://jobs2.smartsearchonline.com/stefanini/jobs/jobdetails.asp?jo_num=49157&da=&sourcename=Linkedin) | Dearborn, MI | 7/7
 | [MathWorks - Associate UX Designer - Engineering Development Group](https://www.mathworks.com/company/jobs/opportunities/26314-associate-ux-designer-engineering-development-group.html?source=14343&s_eid=rcj_14343) | Natick, MA | 7/7
 | [Boston Globe - UI Designer (1 YoE)](https://www.linkedin.com/jobs/view/3146066146) | Boston, MA | 7/5
