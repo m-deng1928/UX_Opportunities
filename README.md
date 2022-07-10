@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Blizzard - UI Artist (3 YoE)](https://careers.blizzard.com/global/en/job/BLENGLOBALR014745EXTERNALENGLOBAL/UI-Artist?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | 7/10
 | [Peapod Digital Labs - Experience Designer (1 YoE)](https://peapoddigitallabs.careerswithus.com/jobs/252958_external_MD-Hanover_672022/peapoddigitallabsrms/hanover/marketing/experience-designer/?utm_source=linkedin) | Hanover, MD | 7/10
 | [Octo - Junior UX Designer (1 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=581316&cid=6763&locvalue=1143) | Reston, VA | 7/8
 | [Stefanini North America and APAC - Product Designer](https://jobs2.smartsearchonline.com/stefanini/jobs/jobdetails.asp?jo_num=49157&da=&sourcename=Linkedin) | Dearborn, MI | 7/7
