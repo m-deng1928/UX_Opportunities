@@ -219,7 +219,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Signify - UX Research (BS)](https://www.careers.signify.com/global/en/job/329700/?utm_source=linkedin&utm_medium=jobposting&utm_campaign=linkedin_jobwrapping) | Burling, MA | Fall 2022 | 7/7
+| [Blackstone - UI UX Designer Summer Analyst](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2023-Blackstone-Technology-and-Innovations--UI-UX-Designer-Summer-Analyst--New-York-_23909?source=Linkedin) | New York, NY | Summer 2023 | 7/11
+| [Signify - UX Research (BS)](https://www.careers.signify.com/global/en/job/329700/?utm_source=linkedin&utm_medium=jobposting&utm_campaign=linkedin_jobwrapping) | Burlington, MA | Fall 2022 | 7/7
 | [LinkedIn - Ui Engineer](https://www.linkedin.com/jobs/view/3120069309) | Sunnyvale, CA | Fall 2022 | 7/7
 | [Anduril Industries - Motion Design](https://jobs.lever.co/anduril/b951cf29-e2c2-4143-bb48-0698e91c26bb/apply?lever-source=Simplify) | Costa Mesa, CA | Fall 2022 | 7/6
 | [Konrad Group - UX/UI Design](https://www.linkedin.com/jobs/view/3143327202) | Toronto, CA | Fall 2022 | 7/6
