@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Truist - UI Designer](https://careers.truist.com/job/16217844/ui-designer-charlotte-nc/) | Charlotte, NC | 7/11
 | [McKinsey - Product Designer - Social, Healthcare and Public Entities (SHaPE) (2 YoE)](https://www.mckinsey.com/careers/search-jobs/jobs/productdesigner-socialhealthcareandpublicentitiesshape-64507?appsource=LinkedIn) | Atlanta, GA/ Chicago, IL/Cleveland, OH/Dallas, TX/Seattle, WA/Waltham, MA | 7/10
 | [Blizzard - UI Artist (3 YoE)](https://careers.blizzard.com/global/en/job/BLENGLOBALR014745EXTERNALENGLOBAL/UI-Artist?utm_source=linkedin&utm_medium=phenom-feeds) | Santa Monica, CA | 7/10
 | [Peapod Digital Labs - Experience Designer (1 YoE)](https://peapoddigitallabs.careerswithus.com/jobs/252958_external_MD-Hanover_672022/peapoddigitallabsrms/hanover/marketing/experience-designer/?utm_source=linkedin) | Hanover, MD | 7/10
