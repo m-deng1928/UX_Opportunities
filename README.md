@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+
 | [Deloitte - DesignOps – UX Researcher (2 YoE)](https://careers.truist.com/job/16217844/ui-designer-charlotte-nc/) | Charlotte, NC | 7/13
 | [Truist - UI Designer](https://careers.truist.com/job/16217844/ui-designer-charlotte-nc/) | Charlotte, NC | 7/11
 | [McKinsey - Product Designer - Social, Healthcare and Public Entities (SHaPE) (2 YoE)](https://www.mckinsey.com/careers/search-jobs/jobs/productdesigner-socialhealthcareandpublicentitiesshape-64507?appsource=LinkedIn) | Atlanta, GA/ Chicago, IL/Cleveland, OH/Dallas, TX/Seattle, WA/Waltham, MA | 7/10
@@ -293,6 +294,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [The Home Depot - User Experience Apprentice](https://careers.homedepot.com/job/16196239/user-experience-apprentice-remote-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid&fbclid=IwAR20qORCIVPfGc8yIzGk40C-78P2ON7kJzlQ52S-KU5DCqsJP-QDy3HFsf4) | ? | 7/13
 | [Lyft - Design Program Management Associate](https://boards.greenhouse.io/lyft/jobs/6216009002?gh_jid=6216009002) | Summer 2022 | 6/19
 | [Lyft - UX Research Associate](https://boards.greenhouse.io/embed/job_app?token=6214556002&gh_src=uwvxb4jc2&fbclid=IwAR1Z_IVxt6WcpdWtt6mfyg1Xb1KuDjBBeW_qYa4qg73rFtEC4yvBdbyGz24) | Summer 2022 | 6/17
 | [Uber - User Experience Design](https://www.pinterestcareers.com/job/15667135/apprentice-ux-researcher-san-francisco-ca/) | Summer 2022 | 5/11
