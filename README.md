@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Nerd Wallet - Associate Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/3158099752) | Remote | 7/14
 | [Cloudflare - UX Content Designer (1-7 YoE)](https://www.linkedin.com/jobs/view/3101317954) | Boston, MA | 7/14
 | [Harvard - UX Designer/Researcher (3-5 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25240&siteid=5341&jobId=1963378) | Cambridge, MA | 7/13
 | [Deloitte - DesignOps – UX Researcher (2 YoE)](https://careers.truist.com/job/16217844/ui-designer-charlotte-nc/) | Multiple Locations | 7/13
