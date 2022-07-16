@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Red Ventures - Content Designer (3 YoE)](https://www.redventures.com/careers/apply/4154164?gh_jid=4154164) | Remote| 7/16
 | [American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job/11674767?domain=aexp.com&utm_source=linkedin&utm_source=linkedin) | Phoenix, AZ | 7/16
 | [NerdWallet - Associate Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/3158099752) | Remote | 7/14
 | [Cloudflare - UX Content Designer (1-7 YoE)](https://www.linkedin.com/jobs/view/3101317954) | Boston, MA | 7/14
