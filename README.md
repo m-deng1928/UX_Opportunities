@@ -226,6 +226,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Spatial - UX Design](https://www.linkedin.com/jobs/view/3171514244) | New York, NY | Summer (?) 2022 | 7/16
 | [ChaiOne - UX Design](https://boards.greenhouse.io/chaione/jobs/5222943003?gh_src=516c78823us) | Remote | Fall 2022 | 7/16
 | [ChaiOne - Behavioral Science](https://boards.greenhouse.io/chaione/jobs/5223070003?gh_src=437edaef3us) | Remote | Fall 2022 | 7/16
 | [EA - Live Content Designer](https://ea.gr8people.com/jobs/173724/live-content-designer-intern-fall-2022?sid=4) | Remote | Fall 2022 | 7/15
