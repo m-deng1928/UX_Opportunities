@@ -224,6 +224,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [ChaiOne - UX Design](https://boards.greenhouse.io/chaione/jobs/5222943003?gh_src=516c78823us) | Remote | Fall 2022 | 7/16
+| [ChaiOne - Behavioral Science](https://boards.greenhouse.io/chaione/jobs/5223070003?gh_src=437edaef3us) | Remote | Fall 2022 | 7/16
 | [EA - Live Content Designer](https://ea.gr8people.com/jobs/173724/live-content-designer-intern-fall-2022?sid=4) | Remote | Fall 2022 | 7/15
 | [Uber - Design Engineer](https://university-uber.icims.com/jobs/115333/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=115333&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220714T180306Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA | Fall 2022 | 7/15
 | [Blackstone - UI UX Designer Summer Analyst](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2023-Blackstone-Technology-and-Innovations--UI-UX-Designer-Summer-Analyst--New-York-_23909?source=Linkedin) | New York, NY | Summer 2023 | 7/11
