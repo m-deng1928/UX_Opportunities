@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Headspace Health - Service Designer (1-5 YoE)](https://jobs.lever.co/headspace/a736d58e-066c-410c-823f-ad6348629357?fbclid=IwAR1Bf5l-R01JaECGhoLCpmBpPYzZeXvhWNkdwAOfXPOafiE5n32dns14lB8) | Remote | 7/18
 | [Rocket Homes - Product Designer (3 YoE)](https://www.myrocketcareer.com/job-detail-page/15032891/product-designer-remote-detroit-mi/) | Remote | 7/18
 | [Employee Navigator - Associate Product Designer](https://www.employeenavigator.com/careers/4252661) | Bethesda, MD | 7/18
 | [OnePlus - Product Designer (Visual) (3 YoE)](https://www.linkedin.com/jobs/view/3174069804) | Remote| 7/18
