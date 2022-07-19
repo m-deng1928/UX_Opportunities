@@ -35,6 +35,16 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Rocket Homes - Product Designer (3 YoE)](https://www.myrocketcareer.com/job-detail-page/15032891/product-designer-remote-detroit-mi/) | Remote | 7/18
+| [Employee Navigator - Associate Product Designer](https://www.employeenavigator.com/careers/4252661) | Bethesda, MD | 7/18
+| [OnePlus - Product Designer (Visual) (3 YoE)](https://www.linkedin.com/jobs/view/3174069804) | Remote| 7/18
+| [Grubhub - Product Designer (3 YoE)](https://careers-grubhub.icims.com/jobs/13851/product-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn) | New York, NY | 7/18
+| [24G - Junior UX/UI Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/3164832711) | Troy, MI | 7/18
+| [Ford Motor Company - Product Designer (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&jobId=581437) | Detroit, MI | 7/18
+| [AAA - Auto Club Group - Associate User Experience Designer (0-3 YoE)](https://careers.acg.aaa.com/job/16240813/) | Dearborn, MI | 7/18
+| [Cengage - Associate UX/UI Web Designer (3-5 YoE)](https://cengage.wd5.myworkdayjobs.com/CengageNorthAmericaCareers/job/United-States/Associate-Web-Designer--remote-_R2022-497?mode=job&iis=LinkedIn&iisn=LinkedIn&source=Linkedin) | Remote | 7/18
+| [UKG - Learning Experience Designer (3 YoE)](https://careers.ukg.com/careers/JobDetail/Learning-Experience-Designer/39866?source=Internet%20-%20LinkedIn%20-%20Sponsored) | Lowell, MA | 7/18
+| [lululemon - User Researcher (Contract)(3 YoE)](https://careers.lululemon.com/en_US/careers/JobDetail/User-Researcher-Fixed-Term-Aug-2022-Aug-2023-Seattle/20143?source=LinkedIn) | Remote | 7/18
 | [Red Ventures - Content Designer (3 YoE)](https://www.redventures.com/careers/apply/4154164?gh_jid=4154164) | Remote| 7/16
 | [American Express - UX Designer (3 YoE)](https://aexp.eightfold.ai/careers/job/11674767?domain=aexp.com&utm_source=linkedin&utm_source=linkedin) | Phoenix, AZ | 7/16
 | [NerdWallet - Associate Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/3158099752) | Remote | 7/14
