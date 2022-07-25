@@ -35,6 +35,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [C3.ai - Product Designer (2 YoE)](https://c3.ai/job-description/?gh_jid=5029238002) | Redwood City, CA | 7/25
+| [C3.ai - Product Designer, Intelligence & Defense (2 YoE)](https://c3.ai/job-description/?gh_jid=5991077002) | Redwood City, CA | 7/25
+| [C3.ai - Product Designer, Design Systems (2 YoE)](https://c3.ai/job-description/?gh_jid=5625759002) | Redwood City, CA | 7/25
 | [Attentive - Visual Designer I)](https://jobs.lever.co/attentivemobile/787910c3-9817-44a2-b4d4-6a7b29dfcdb9?lever-source=LinkedInJobs) | Remote | 7/21
 | [Headspace Health - Service Designer (1-5 YoE)](https://jobs.lever.co/headspace/a736d58e-066c-410c-823f-ad6348629357?fbclid=IwAR1Bf5l-R01JaECGhoLCpmBpPYzZeXvhWNkdwAOfXPOafiE5n32dns14lB8) | Remote | 7/18
 | [WellDoc - UX Designer (3 YoE)](https://welldoc.bamboohr.com/jobs/view.php?id=116&source=aWQ9NA%3D%3D) | Columbia, MD | 7/18
