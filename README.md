@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [FIGS - Junior Product Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/3117167775) | Santa Monica, CA | 7/25
 | [C3.ai - Product Designer (2 YoE)](https://c3.ai/job-description/?gh_jid=5029238002) | Redwood City, CA | 7/25
 | [C3.ai - Product Designer, Intelligence & Defense (2 YoE)](https://c3.ai/job-description/?gh_jid=5991077002) | Redwood City, CA | 7/25
 | [C3.ai - Product Designer, Design Systems (2 YoE)](https://c3.ai/job-description/?gh_jid=5625759002) | Redwood City, CA | 7/25
