@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Patreon - Product Designer, Communication Tools](https://boards.greenhouse.io/patreon/jobs/4329080?TrackLink=https%3A%2F%2Fgrnh.se%2F2021baf31us&s=LinkedIn&source=LinkedIn) | New York, NY/San Francisco, CA | 7/27
 | [Figma - Product Designer, Growth](https://boards.greenhouse.io/figma/jobs/4492757004?gh_jid=4492757004&gh_src=28109e334us&s=LinkedIn&source=LinkedIn) | Remote | 7/27
 | [JPMorgan Chase - Associate, Product Designer, Financial Tools](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210271972/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ/New York, NY | 7/27
 | [FIGS - Junior Product Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/3117167775) | Santa Monica, CA | 7/25
