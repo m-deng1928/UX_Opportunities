@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [JPMorgan Chase - Associate, Product Designer, Financial Tools](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210271972/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ/New York, NY | 7/27
 | [FIGS - Junior Product Designer (1-3 YoE)](https://www.linkedin.com/jobs/view/3117167775) | Santa Monica, CA | 7/25
 | [C3.ai - Product Designer (2 YoE)](https://c3.ai/job-description/?gh_jid=5029238002) | Redwood City, CA | 7/25
 | [C3.ai - Product Designer, Intelligence & Defense (2 YoE)](https://c3.ai/job-description/?gh_jid=5991077002) | Redwood City, CA | 7/25
