@@ -35,6 +35,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Solomon Page - UX Researcher (1-3 YoE)](https://www.linkedin.com/jobs/view/3176622723) | Remote | 7/30
+| [Hopper - Product Designer (2-4 YoE)](https://www.linkedin.com/jobs/view/3182647453) | Remote | 7/30
+| [Fidelity Investments - User Experience Designer (2-5 YoE)](https://jobs.fidelity.com/job-details/15933407/user-experience-designer/) | Multiple Locations | 7/30
+| [Fidelity Investments - Product/UX Designer (3 YoE)](https://jobs.fidelity.com/job-details/15933403/product-ux-designer/) | Boston, MA | 7/30
+| [Interos - Associate UX Researcher (1 YoE)](https://www.interos.ai/job/?id=6195564002) | Arlington, VA | 7/30
+| [Patreon - Product Designer, Retention](https://boards.greenhouse.io/patreon/jobs/4005334?TrackLink=https%3A%2F%2Fgrnh.se%2F2021baf31us&s=LinkedIn&source=LinkedIn) | New York, NY/San Francisco, CA | 7/30
 | [SAP - UX Design Specialist (1 YoE)](https://jobs.sap.com/job/Palo-Alto-UX-Design-Specialist-CA-94304/821464701/) | Palo Alto, CA | 7/27
 | [Doordash - Product Designer, Driver Delivery Services (3 YoE)](https://www.linkedin.com/jobs/view/3063945991) | New York, NY | 7/27
 | [Patreon - Product Designer, Communication Tools](https://boards.greenhouse.io/patreon/jobs/4329080?TrackLink=https%3A%2F%2Fgrnh.se%2F2021baf31us&s=LinkedIn&source=LinkedIn) | New York, NY/San Francisco, CA | 7/27
