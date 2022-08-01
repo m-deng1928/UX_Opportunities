@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [PicnicHealth - Product Designer](https://picnichealth.com/career-details?gh_jid=6083690002) | Remote | 7/31
+| [PicnicHealth - Visual Designer (3 YoE)](https://picnichealth.com/career-details?gh_jid=6167894002) | Remote | 7/31
 | [Solomon Page - UX Researcher (1-3 YoE)](https://www.linkedin.com/jobs/view/3176622723) | Remote | 7/30
 | [Hopper - Product Designer (2-4 YoE)](https://www.linkedin.com/jobs/view/3182647453) | Remote | 7/30
 | [Fidelity Investments - User Experience Designer (2-5 YoE)](https://jobs.fidelity.com/job-details/15933407/user-experience-designer/) | Multiple Locations | 7/30
