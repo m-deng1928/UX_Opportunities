@@ -228,6 +228,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Blackrock - Technology & Innovation UIUX Designer Summer Analyst (BS)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2023-Blackstone-Technology-and-Innovations--UI-UX-Designer-Summer-Analyst--New-York-_23909?source=Linkedin) | New York, NY | Summer 2023 | 8/2
 | [Uber - UX Research Design (BS)](https://university-uber.icims.com/jobs/116530/job?iis=marketing&iisn=Indeed&iisp=organic&rx_campaign=indeed0&rx_group=129666&rx_job=116530&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20220728T125804Z&rx_p=R6LYTUKJSB&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Francisco, CA | Fall 2022 | 7/28
 | [Dataminr - Research, HCI/UX (PhD)](https://www.linkedin.com/jobs/view/3192678602/?refId=H5SkeJkMNjRjg2zqztHLdg%3D%3D&trackingId=kzm84Wt%2FYcHbVXvOpob1%2BQ%3D%3D) | Remote | Fall 2022 | 7/28
 | [Spatial - UX Design](https://www.linkedin.com/jobs/view/3171514244) | New York, NY | Summer (?) 2022 | 7/16
