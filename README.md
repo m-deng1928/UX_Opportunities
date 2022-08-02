@@ -35,6 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [LexisNexis - UX Researcher (2-3 YoE)(BS)](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/North-Carolina/UX-Researcher-II--Remote---in-EST-_R44284-2?source=Linkedin) | Remote | 8/1
 | [2K Games - User Researcher (BS)](https://www.linkedin.com/jobs/view/3200495674) | Novato, CA | 8/1
 | [PicnicHealth - Product Designer](https://picnichealth.com/career-details?gh_jid=6083690002) | Remote | 7/31
 | [PicnicHealth - Visual Designer (3 YoE)](https://picnichealth.com/career-details?gh_jid=6167894002) | Remote | 7/31
