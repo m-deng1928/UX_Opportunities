@@ -35,7 +35,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Amazon - User Experience (UX) Designer - 2023 (US)](https://www.amazon.jobs/en/jobs/2141726/user-experience-ux-designer-2023-us) | Varies | Summer 2023 | 8/3
+| [Amazon - User Experience (UX) Designer - 2023 (US)](https://www.amazon.jobs/en/jobs/2141726/user-experience-ux-designer-2023-us) | Multiple Locations | 8/3
 | [Garner - Associate UX Designer](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Lead-UX-Designer_66112?source=JB-10120&source=JB-10120) | Irving, TX | 8/2
 | [Podium - Product Designer - Marketing Platform](https://boards.greenhouse.io/embed/job_app?token=4447847&gh_src=8b0de3d81&s=LinkedIn&source=LinkedIn) | Remote | 8/2
 | [Activison - User Researcher (2 YoE)(BS)](https://careers.activision.com/job/ACPUUSR013431EXTERNAL/User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 8/1
