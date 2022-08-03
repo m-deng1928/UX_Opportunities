@@ -228,6 +228,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Amazon - User Experience (UX) Designer - 2023 (US)](https://www.amazon.jobs/en/jobs/2141726/user-experience-ux-designer-2023-us) | Varies | Summer 2023 | 8/2
+| [William Sonoma = People Insights Intern](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5825) | San Francisco, CA | Summer 2023 (?) | 8/2
+| [Oracle - UX Design Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175719) | Varies | Summer 2023 | 8/2
 | [Blackrock - Technology & Innovation UIUX Designer Summer Analyst (BS)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2023-Blackstone-Technology-and-Innovations--UI-UX-Designer-Summer-Analyst--New-York-_23909?source=Linkedin) | New York, NY | Summer 2023 | 8/2
 | [Uber - UX Research Design (BS)](https://university-uber.icims.com/jobs/116530/job?iis=marketing&iisn=Indeed&iisp=organic&rx_campaign=indeed0&rx_group=129666&rx_job=116530&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20220728T125804Z&rx_p=R6LYTUKJSB&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Francisco, CA | Fall 2022 | 7/28
 | [Dataminr - Research, HCI/UX (PhD)](https://www.linkedin.com/jobs/view/3192678602/?refId=H5SkeJkMNjRjg2zqztHLdg%3D%3D&trackingId=kzm84Wt%2FYcHbVXvOpob1%2BQ%3D%3D) | Remote | Fall 2022 | 7/28
