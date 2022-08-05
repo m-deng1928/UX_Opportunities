@@ -26,15 +26,20 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 
 [**Product - PM Openings 2022 - leestanley**](https://github.com/leestanley/pm-openings2022)
 
-[**CS - Summer 2022 Internships - pittcsc**](https://github.com/pittcsc/Summer2022-Internships)
+[**CS - Summer 2023 Internships - pittcsc**](https://github.com/pittcsc/Summer2023-Internships)
 
-[**CS - New Grad 2022 - coderQuad**](https://github.com/coderQuad/New-Grad-Positions-2022)
+[**CS - New Grad 2023 - coderQuad**](https://github.com/coderQuad/New-Grad-Positions-2023)
 
 ---
 
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[Granicus - UX Researcher (BS/1-3 YoE)](https://jobs.lever.co/granicus/102bdb53-00cf-4db3-96f0-ee26ededa3ba) | Remote | 8/4
+| [Gap - UX Designer,  Stores Apps (Android) (2-4 YoE)](https://www.gapinc.com/en-us/jobs/w61/51/ux-designer,%e2%80%af-stores-apps-android-%e2%80%af-remote-hybrid?rx_job=R46151&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220802T145213Z&src=JB-10340&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA| 8/4
+| [Athleta - Digital Designer (2 YoE)](https://www.gapinc.com/en-us/jobs/w66/08/digital-designer?rx_job=R46608&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220802T145213Z&src=JB-10340&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA| 8/4
+| [CapTech Consulting - UX Consultant (BS)(Graduating Dec. 2022- May 2023)](https://jobs.smartrecruiters.com/CapTechConsulting/743999842537218-associate-ux-consultant-graduating-dec-2022-may-2023-?source=Linkedin) | Richmond, VA | 8/4
+| [Samsung - Market & User Insights Researcher (2-5 YoE)](https://www.linkedin.com/jobs/view/3183784975) | New York, NY | 8/4
 | [Code for America - Qualitative UX Researcher (2 YoE)](https://codeforamerica.org/jobs/posting/?gh_jid=3920694) | San Francisco, CA/Remote | 8/4
 | [Obsidian - UX/UI Designer](https://www.linkedin.com/jobs/view/3196639838) | Irvine, CA | 8/4
 | [Amazon - User Experience (UX) Designer - 2023 (US)](https://www.amazon.jobs/en/jobs/2141726/user-experience-ux-designer-2023-us) | Multiple Locations | 8/3
