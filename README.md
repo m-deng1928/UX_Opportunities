@@ -1,6 +1,6 @@
 # UX_Opportunities_2021-2022
 
-Here's a UX Job Board I curate, started in August 2022. Opportunities are meant for more early in career whether co-ops/internships and or new grad opportunities. 
+Here's a UX Job Board I curate, started in August 2022. Opportunities are meant for more early in career whether co-ops/internships in addition to new grad opportunities. 
 
 All the best in your search :D / Don't Forget To Be Awesome 
 
@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[AllTrails - Product Designer, Growth (3 YoE)](https://jobs.lever.co/alltrails/fc184ee4-cc13-4354-a1c2-9c32ce6355d2/apply?lever-source=LinkedIn) | Remote | 8/4
 [Granicus - UX Researcher (BS/1-3 YoE)](https://jobs.lever.co/granicus/102bdb53-00cf-4db3-96f0-ee26ededa3ba) | Remote | 8/4
 | [Gap - UX Designer,  Stores Apps (Android) (2-4 YoE)](https://www.gapinc.com/en-us/jobs/w61/51/ux-designer,%e2%80%af-stores-apps-android-%e2%80%af-remote-hybrid?rx_job=R46151&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220802T145213Z&src=JB-10340&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA| 8/4
 | [Athleta - Digital Designer (2 YoE)](https://www.gapinc.com/en-us/jobs/w66/08/digital-designer?rx_job=R46608&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20220802T145213Z&src=JB-10340&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA| 8/4
