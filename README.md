@@ -156,6 +156,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Brivo - Product Design](https://www.linkedin.com/jobs/view/3202911715) | Remote | Fall 2022 | 8/4
 | [P&G - Design](https://www.pgcareers.com/job/cincinnati/design-co-op-spring-2023/936/32880034032) | Multiple Locations | Spring 2023 | 8/4
 | [Chick-Fil-A - Design](https://careers-chickfila.icims.com/jobs/12019/2023-design-summer-intern/job?mobile=false&width=718&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Multiple Locations | Summer 2023 | 8/4
 | [General Motors - Digital Transformation – Digital Experience Analyst](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2023-Summer-Intern---Digital-Transformation---Digital-Experience-Analyst_JR-000087716) | Detroit, MI/Remote | Summer 2023 | 8/4
