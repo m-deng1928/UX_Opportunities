@@ -35,6 +35,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Code for America - Qualitative UX Researcher (2 YoE)](https://codeforamerica.org/jobs/posting/?gh_jid=3920694) | San Francisco, CA/Remote | 8/4
+| [Obsidian - UX/UI Designer](https://www.linkedin.com/jobs/view/3196639838) | Irvine, CA | 8/4
 | [Amazon - User Experience (UX) Designer - 2023 (US)](https://www.amazon.jobs/en/jobs/2141726/user-experience-ux-designer-2023-us) | Multiple Locations | 8/3
 | [Amazon - User Experience (UX) Researcher - 2023 (US)](https://www.amazon.jobs/en/jobs/2141736/user-experience-ux-researcher-2023-us) | Multiple Locations | 8/3
 | [Garner - Associate UX Designer](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Lead-UX-Designer_66112?source=JB-10120&source=JB-10120) | Irving, TX | 8/2
@@ -230,6 +232,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [P&G - Design](https://www.pgcareers.com/job/cincinnati/design-co-op-spring-2023/936/32880034032) | Multiple Locations | Spring 2023 | 8/4
+| [Chick-Fil-A - Design](https://careers-chickfila.icims.com/jobs/12019/2023-design-summer-intern/job?mobile=false&width=718&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Multiple Locations | Summer 2023 | 8/4
+| [General Motors - Digital Transformation – Digital Experience Analyst](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2023-Summer-Intern---Digital-Transformation---Digital-Experience-Analyst_JR-000087716) | Detroit, MI/Remote | Summer 2023 | 8/4
 | [William Sonoma - People Insights Intern](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5825) | San Francisco, CA | Summer 2022 | 8/2
 | [Oracle - UX Design Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175719) | Varies | Summer 2023 | 8/2
 | [Blackrock - Technology & Innovation UIUX Designer Summer Analyst (BS)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2023-Blackstone-Technology-and-Innovations--UI-UX-Designer-Summer-Analyst--New-York-_23909?source=Linkedin) | New York, NY | Summer 2023 | 8/2
