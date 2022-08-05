@@ -6,9 +6,9 @@ All the best in your search :D / Don't Forget To Be Awesome
 
 ---
 
-🔥 Here are resources for [UX Resources](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122) (and general recruiting).🔥
+🔥 Here are resources for [User Experience & General Recruiting](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122).🔥
 
-🙏 **Contribute by submitting a [pull request]**(https://github.com/susam/gitpr#create-pull-request)!🙏
+🙏 **Contribute by submitting a** [**pull request**](https://github.com/susam/gitpr#create-pull-request)**!🙏**
 
 
 ---
