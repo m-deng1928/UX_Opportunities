@@ -1,22 +1,15 @@
 # UX_Opportunities_2021-2022
 
-Here's a UX Job Board I curate.
+Here's a UX Job Board I curate, started in August 2022. Opportunities are meant for more early in career whether co-ops/internships and or new grad opportunities. 
 
-If links are inactive, let me know. Dates referenced are how recently I found it (not when it was posted). I will try to comb through these once a week. 
-
-I will try to include education, GPA, YoE (years of experience) requirements if available. Roles are full time employment (FTE) unless otherwise indicated. For years of exprience, I know people who have landed roles that require 2-3 years of experience as a new grad but I will try to maintain it as mostly new grad or at most maybe 1-3 YoE or indicate through YoE.
-
-For UXR roles in particular, I will be highlighting **degree level** in addition to years of experience due to nature of that field and sometimes barrier to entry for more junior people. 
-
-For roles themselves, they will be **paid roles** as I believe people should be properly compensated for their work. 
-
-Thanks, and don't forget to be awesome. :D
+All the best in your search :D / Don't Forget To Be Awesome 
 
 ---
 
-If you need further resources, here is a larger 100+ page [recruiting guide](https://docs.google.com/document/d/1_o652mu836aJYEI047N4zaWgPNW4VaYMEUNpwFQOlfo/edit) I compiled a while back which includes more opportunities, where to find them, and general recruiting tips. 
+🔥 Here are resources for [UX Resources](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122) (and general recruiting).🔥
 
-Here are [UX Resources](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122) I compiled.
+🙏 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**🙏
+
 
 ---
 
