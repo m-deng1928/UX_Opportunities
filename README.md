@@ -157,6 +157,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Symplicity - User Experience Design Intern](https://jobs.lever.co/symplicity/61471e48-444d-4e94-b436-7053baa77386) | Arlington, VA | Summer 2023 | 8/5
+| [PNC - Digital Experience Team Intern](https://careers.pnc.com/global/en/job/R112803/Digital-Experience-Team-Summer-Intern-Program) | Varies | Summer 2023 | 8/5
+| [Nordstrom - UX (Experience Design) Internship](https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_internship/job/UX--Experience-Design--Internship-Summer-2023_R-478642) | Varies | Summer 2023 | 8/5
+| [Amazon - User Experience (UX) Researcher Intern](https://www.amazon.jobs/en/jobs/2141799/user-experience-ux-researcher-intern-2023-us) | Varies | Summer 2023 | 8/5
 | [Brivo - Product Design](https://www.linkedin.com/jobs/view/3202911715) | Remote | Fall 2022 | 8/4
 | [P&G - Design](https://www.pgcareers.com/job/cincinnati/design-co-op-spring-2023/936/32880034032) | Multiple Locations | Spring 2023 | 8/4
 | [Chick-Fil-A - Design](https://careers-chickfila.icims.com/jobs/12019/2023-design-summer-intern/job?mobile=false&width=718&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Multiple Locations | Summer 2023 | 8/4
