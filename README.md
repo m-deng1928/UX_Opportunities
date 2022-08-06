@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[Dave - Product Designer](https://jobs.lever.co/dave/8a5432a2-f2f8-4f6b-b066-9d17101fc1c2/apply) | Remote | 8/6
 [Spotify - Product Designer, Messaging (3 YoE)](https://jobs.lever.co/spotify/61c49fb8-7d70-4f78-adb4-c28d208a3ebb?lever-via=Vhc43QW1QO) | New York, NY | 8/4
 [AllTrails - Product Designer, Growth (3 YoE)](https://jobs.lever.co/alltrails/fc184ee4-cc13-4354-a1c2-9c32ce6355d2/apply?lever-source=LinkedIn) | Remote | 8/4
 [Granicus - UX Researcher (BS/1-3 YoE)](https://jobs.lever.co/granicus/102bdb53-00cf-4db3-96f0-ee26ededa3ba) | Remote | 8/4
