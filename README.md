@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[Nike - Experience Designer I](https://jobs.nike.com/job/00588412?utm_source=powertofly) | Beaverton, OR | 8/7
 [ScienceLogic - Associate UX Designer](https://boards.greenhouse.io/sciencelogic/jobs/4424748?gh_src=8f7f180b1us&s=LinkedIn&source=LinkedIn) | Remote | 8/7
 [DraftKings - Product Designer (3 YoE)](https://draftkings.wd1.myworkdayjobs.com/DraftKings/job/Boston-MA/Product-Designer_JR4391-2/apply?source=Applicant_Source_LinkedIn_Jobs) | Remote | 8/7
 [Kargo - Junior Interactive Designer](https://www.linkedin.com/jobs/view/3196626237) | Los Angeles, CA | 8/7
