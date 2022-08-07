@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[DraftKings - Product Designer (3 YoE)](https://draftkings.wd1.myworkdayjobs.com/DraftKings/job/Boston-MA/Product-Designer_JR4391-2/apply?source=Applicant_Source_LinkedIn_Jobs) | Remote | 8/7
 [Kargo - Junior Interactive Designer](https://www.linkedin.com/jobs/view/3196626237) | Los Angeles, CA | 8/7
 [Rently - Junior UX Designer](https://www.linkedin.com/jobs/view/3170223440) | Remote | 8/7
 [WAE - Junior UX Designer](https://www.linkedin.com/jobs/view/3185969284) | Rochester, NY | 8/7
