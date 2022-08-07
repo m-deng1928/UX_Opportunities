@@ -28,6 +28,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[Kargo - Junior Interactive Designer](https://www.linkedin.com/jobs/view/3196626237) | Los Angeles, CA | 8/7
+[Rently - Junior UX Designer](https://www.linkedin.com/jobs/view/3170223440) | Remote | 8/7
+[WAE - Junior UX Designer](https://www.linkedin.com/jobs/view/3185969284) | Rochester, NY | 8/7
+[PNC Bank - Experience Designer](https://careers.pnc.com/global/en/job/PNC1GLOBALR113757/Experience-Designer?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Pittsburgh, PA/Remote | 8/7
+[PNC Bank - Experience Designer - Mobile App](https://careers.pnc.com/global/en/job/PNC1GLOBALR106629/Experience-Designer-Mobile-App?utm_source=symphonytalentmpx&utm_medium=phenom-feeds) | Pittsburgh, PA/Remote | 8/7
 [Dave - Product Designer](https://jobs.lever.co/dave/8a5432a2-f2f8-4f6b-b066-9d17101fc1c2/apply) | Remote | 8/6
 [Spotify - Product Designer, Messaging (3 YoE)](https://jobs.lever.co/spotify/61c49fb8-7d70-4f78-adb4-c28d208a3ebb?lever-via=Vhc43QW1QO) | New York, NY | 8/4
 [AllTrails - Product Designer, Growth (3 YoE)](https://jobs.lever.co/alltrails/fc184ee4-cc13-4354-a1c2-9c32ce6355d2/apply?lever-source=LinkedIn) | Remote | 8/4
