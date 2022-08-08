@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[Vertaforte - Product Designer I (1 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=581071&cid=7743&locvalue=1011) | Denver, CO | 8/8
 [Accenture - Design Researcher (MS/3 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00090460_en&src=LINKEDINJP) | Multiple Locations | 8/7
 [Apple - Experience Designer](https://jobs.apple.com/en-us/details/200173565/experience-designer) | Cupertino, CA | 8/7
 [Nike - Experience Designer I](https://jobs.nike.com/job/00588412?utm_source=powertofly) | Beaverton, OR | 8/7
