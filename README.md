@@ -175,6 +175,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [LinkedIn - UI Engineer](https://www.linkedin.com/jobs/view/3120069309) | Sunnyvale, CA | Fall 2022 | 8/8
 | [Symplicity - User Experience Design Intern](https://jobs.lever.co/symplicity/61471e48-444d-4e94-b436-7053baa77386) | Arlington, VA | Summer 2023 | 8/5
 | [PNC - Digital Experience Team Intern](https://careers.pnc.com/global/en/job/R112803/Digital-Experience-Team-Summer-Intern-Program) | Varies | Summer 2023 | 8/5
 | [Nordstrom - UX (Experience Design) Internship](https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_internship/job/UX--Experience-Design--Internship-Summer-2023_R-478642) | Varies | Summer 2023 | 8/5
