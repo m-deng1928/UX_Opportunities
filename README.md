@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[GM Financial - User Experience Researcher, OnStar Insurance (3-5 YoE)](https://careers-gmfinancial.icims.com/jobs/42203/user-experience-researcher---onstar-insurance/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Remote | 8/8
+[GM Financial - Product Designer, OnStar Insurance (3-5 YoE)](https://careers-gmfinancial.icims.com/jobs/42419/product-designer---onstar-insurance/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1159&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | 8/8
 [Vertaforte - Product Designer I (1 YoE)](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=581071&cid=7743&locvalue=1011) | Denver, CO | 8/8
 [Accenture - Design Researcher (MS/3 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00090460_en&src=LINKEDINJP) | Multiple Locations | 8/7
 [Apple - Experience Designer](https://jobs.apple.com/en-us/details/200173565/experience-designer) | Cupertino, CA | 8/7
