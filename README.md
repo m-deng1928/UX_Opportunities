@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+[Fisher Investments - UX Designer (3 YoE)](https://jobs-fishercareers.icims.com/jobs/12257/ux-designer/job?mode=prepoulate&iis=LinkedIn&iisn=LinkedIn&mobile=false&width=1200&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Tampa, FL | 8/8
 [Devbridge - Product Designer (2-5 YoE)](https://apply.workable.com/devbridge/j/BF075C559F/?utm_campaign=4d74d760fd&utm_medium=eps&utm_source=linkedin) | Chicago, IL | 8/8
 [GM Financial - User Experience Researcher, OnStar Insurance (3-5 YoE)](https://careers-gmfinancial.icims.com/jobs/42203/user-experience-researcher---onstar-insurance/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Remote | 8/8
 [GM Financial - Product Designer, OnStar Insurance (3-5 YoE)](https://careers-gmfinancial.icims.com/jobs/42419/product-designer---onstar-insurance/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1159&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | 8/8
