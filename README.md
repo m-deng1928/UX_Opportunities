@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Sallie Mae - Associate UX Designer II (1-3 YoE)](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newton-MA/Associate-UX-Designer-II_R22_000543?rb=LINKEDIN) | Newton, MA | 8/8
 | [Amazon - Product Designer, UI/UX & Multimodal – Amazon Music, Amp Design (3 YoE)](https://www.amazon.jobs/en/jobs/2163043/product-designer-ui-ux-multimodal-amazon-music-amp-design?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Culver City, CA | 8/8
 | [American Express - UX Researcher/Sr UX Researcher (1-3 YoE)](https://aexp.eightfold.ai/careers/job/11944193?domain=aexp.com&utm_source=linkedin&utm_source=linkedin) | New York, NY/Phoenix, AZ | 8/8
 [Fisher Investments - UX Designer (3 YoE)](https://jobs-fishercareers.icims.com/jobs/12257/ux-designer/job?mode=prepoulate&iis=LinkedIn&iisn=LinkedIn&mobile=false&width=1200&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Tampa, FL | 8/8
