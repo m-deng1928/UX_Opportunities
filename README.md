@@ -29,6 +29,7 @@ New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
 | [Nuance Communications - UX Researcher - Healthcare User Experience (BS/3 YoE)](https://careers.tiktok.com/position/7128087553954285854/detail?spread=5MWH5CQ) | Burlington, MA | 8/9
+| [Nuance Communications - UX Researcher - Healthcare User Experience (BS/3 YoE)](https://careers.tiktok.com/position/7128087553954285854/detail?spread=5MWH5CQ) | Burlington, MA | 8/9
 | [Tiktok - Content Designer (3 YoE)](https://careers.tiktok.com/position/7128087553954285854/detail?spread=5MWH5CQ) | Mountain View, CA | 8/9
 | [Vevo - Product Designer (3 YoE)](https://jobs.lever.co/vevo/64ff3ced-373d-4fdf-a1d5-da62f1b8c135) | Remote | 8/9
 | [Merck - User Experience Researcher (BS/3 YoE)](https://jobs.merck.com/us/en/job/MERCUSR195477ENUS/User-Experience-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Rahway, NJ | 8/9
@@ -182,6 +183,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [CMG Financial - UX/UI Designer Intern](https://www.linkedin.com/jobs/view/3120069309) | San Ramon, CA | Fall 2022 | 8/10
 | [LinkedIn - UI Engineer](https://www.linkedin.com/jobs/view/3120069309) | Sunnyvale, CA | Fall 2022 | 8/8
 | [Symplicity - User Experience Design Intern](https://jobs.lever.co/symplicity/61471e48-444d-4e94-b436-7053baa77386) | Arlington, VA | Summer 2023 | 8/5
 | [PNC - Digital Experience Team Intern](https://careers.pnc.com/global/en/job/R112803/Digital-Experience-Team-Summer-Intern-Program) | Varies | Summer 2023 | 8/5
