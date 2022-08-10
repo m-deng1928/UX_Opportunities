@@ -28,6 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Vevo - Product Designer (3 YoE)](https://jobs.lever.co/vevo/64ff3ced-373d-4fdf-a1d5-da62f1b8c135) | Remote | 8/9
+| [Ancestry - User Experience Researcher (2-3 YoE)](https://careers.ancestry.com/jobs/user-research-experience-remote-san-francisco-california-united-states?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | Remote | 8/9
+| [Disney - UX Content Designer (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/34055128368) | Santa Monica, CA | 8/9
 | [Sallie Mae - Associate UX Designer II (1-3 YoE)](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newton-MA/Associate-UX-Designer-II_R22_000543?rb=LINKEDIN) | Newton, MA | 8/8
 | [Amazon - Product Designer, UI/UX & Multimodal – Amazon Music, Amp Design (3 YoE)](https://www.amazon.jobs/en/jobs/2163043/product-designer-ui-ux-multimodal-amazon-music-amp-design?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Culver City, CA | 8/8
 | [American Express - UX Researcher/Sr UX Researcher (1-3 YoE)](https://aexp.eightfold.ai/careers/job/11944193?domain=aexp.com&utm_source=linkedin&utm_source=linkedin) | New York, NY/Phoenix, AZ | 8/8
