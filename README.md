@@ -28,7 +28,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Nuance Communications - UX Researcher - Healthcare User Experience (BS/3 YoE)](https://careers.tiktok.com/position/7128087553954285854/detail?spread=5MWH5CQ) | Burlington, MA | 8/9
+| [Tiktok - Content Designer (3 YoE)](https://careers.tiktok.com/position/7128087553954285854/detail?spread=5MWH5CQ) | Mountain View, CA | 8/9
 | [Vevo - Product Designer (3 YoE)](https://jobs.lever.co/vevo/64ff3ced-373d-4fdf-a1d5-da62f1b8c135) | Remote | 8/9
+| [Merck - User Experience Researcher (BS/3 YoE)](https://jobs.merck.com/us/en/job/MERCUSR195477ENUS/User-Experience-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Rahway, NJ | 8/9
 | [Ancestry - User Experience Researcher (2-3 YoE)](https://careers.ancestry.com/jobs/user-research-experience-remote-san-francisco-california-united-states?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | Remote | 8/9
 | [Disney - UX Content Designer (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/34055128368) | Santa Monica, CA | 8/9
 | [Sallie Mae - Associate UX Designer II (1-3 YoE)](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newton-MA/Associate-UX-Designer-II_R22_000543?rb=LINKEDIN) | Newton, MA | 8/8
