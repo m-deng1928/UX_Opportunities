@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Flexcar - UX Researcher (2 YoE)](https://careers.flexcar.com/job-posting/?gh_jid=4544559004) | Boston, MA | 8/10
 | [County of Santa Clara - Associate User Experience Designer (3 YoE)](https://www.governmentjobs.com/careers/santaclara/jobs/3659206/associate-user-experience-ux-designer) | San Jose, CA | 8/10
 | [Duolingo - Experience Designer (3 YoE)](https://boards.greenhouse.io/duolingo/jobs/6298533002?gh_src=81b1e41f2us) | Pittsburgh, PA | 8/10
 | [Nuance Communications - UX Researcher - Healthcare User Experience (BS/3 YoE)](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/UX-Researcher---Healthcare-User-Experience_105364?source=LinkedIn&fbclid=IwAR1Se_eKkQd6km01KZJ08QNyp8nYzmddRcjCHp52uHw44nbDcdXgse33fAA) | Burlington, MA | 8/9
