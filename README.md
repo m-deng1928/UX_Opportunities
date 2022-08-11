@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Herman Miller - Digital Product Designer (3 YoE)](https://hermanmiller.taleo.net/careersection/hm_external/jobdetail.ftl?job=225982&src=JB-BB-11620) | Remote | 8/11
 | [Flexcar - UX Researcher (2 YoE)](https://careers.flexcar.com/job-posting/?gh_jid=4544559004) | Boston, MA | 8/10
 | [County of Santa Clara - Associate User Experience Designer (3 YoE)](https://www.governmentjobs.com/careers/santaclara/jobs/3659206/associate-user-experience-ux-designer) | San Jose, CA | 8/10
 | [Duolingo - Experience Designer (3 YoE)](https://boards.greenhouse.io/duolingo/jobs/6298533002?gh_src=81b1e41f2us) | Pittsburgh, PA | 8/10
