@@ -28,6 +28,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [CrowdStrike - UI/Visual Designer](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/UI-Visual-Designer--Remote-_R9444?source=LinkedIn_jobs) | Remote | 8/11
+| [Alfred - Product Designer (2 YoE)](https://www.helloalfred.com/details/?gh_jid=4476856&gh_src=f2c3f4731us) | New York, NY | 8/11
+| [Notion - Product Designer](https://boards.greenhouse.io/notion/jobs/4820341003?s=LinkedIn&source=LinkedIn) | San Francisco, CA | 8/11
+| [Uber - Product Designer, Uber for Business (2 YoE)](https://www.uber.com/global/en/careers/list/113796/?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=113796_1D5E5BD0&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220811T060324Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | San Francisco, CA | 8/11
+| [CVS - UX Researcher (3-5 YoE)](https://jobs.cvshealth.com/job/16417640/ux-researcher/) | Remote | 8/11
 | [Herman Miller - Digital Product Designer (3 YoE)](https://hermanmiller.taleo.net/careersection/hm_external/jobdetail.ftl?job=225982&src=JB-BB-11620) | Remote | 8/11
 | [Flexcar - UX Researcher (2 YoE)](https://careers.flexcar.com/job-posting/?gh_jid=4544559004) | Boston, MA | 8/10
 | [County of Santa Clara - Associate User Experience Designer (3 YoE)](https://www.governmentjobs.com/careers/santaclara/jobs/3659206/associate-user-experience-ux-designer) | San Jose, CA | 8/10
