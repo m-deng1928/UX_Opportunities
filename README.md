@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Google - UX Writer & Content Designer (2 YoE)](https://careers.google.com/jobs/results/130525006267327174-ux-writer-and-content-designer/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 8/11
 | [CrowdStrike - UI/Visual Designer](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/UI-Visual-Designer--Remote-_R9444?source=LinkedIn_jobs) | Remote | 8/11
 | [Alfred - Product Designer (2 YoE)](https://www.helloalfred.com/details/?gh_jid=4476856&gh_src=f2c3f4731us) | New York, NY | 8/11
 | [Notion - Product Designer](https://boards.greenhouse.io/notion/jobs/4820341003?s=LinkedIn&source=LinkedIn) | San Francisco, CA | 8/11
