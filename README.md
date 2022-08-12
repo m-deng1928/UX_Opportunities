@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Viasat - UX Researcher, Early Career (BS)](https://careers.viasat.com/careers/FolderDetail?folderId=11402&source=LinkedIn) | Remote | 8/12
 | [Blizzard - Associate User Experience Designer (1 YoE)](https://careers.blizzard.com/global/en/job/BLENGLOBALR016835EXTERNALENGLOBAL/Associate-User-Experience-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 8/11
 | [Google - UX Writer & Content Designer (2 YoE)](https://careers.google.com/jobs/results/130525006267327174-ux-writer-and-content-designer/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 8/11
 | [CrowdStrike - UI/Visual Designer](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/UI-Visual-Designer--Remote-_R9444?source=LinkedIn_jobs) | Remote | 8/11
@@ -172,6 +173,12 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Red Ventures - Digital Design](https://www.redventures.com/careers/apply/4345472?gh_jid=4345472) | Charlotte, NC | Summer 2023 | 8/11
+| [Viasat - UX Research](https://careers.viasat.com/careers/FolderDetail?folderId=11434&source=LinkedIn) | Remote | Summer 2023 | 8/11
+| [Viasat - Product Design](https://careers.viasat.com/careers/FolderDetail?folderId=11435&source=LinkedIn) | Remote | Summer 2023 | 8/11
+| [Epic Games - Technical UI Design](https://boards.greenhouse.io/embed/job_app?token=4620885004&gh_src=32b5d0474us) | Bellevue, WA | Summer(?) 2023 | 8/11
+| [Anduril Industries - Motion Design](https://jobs.lever.co/anduril/b951cf29-e2c2-4143-bb48-0698e91c26bb?lever-source=LinkedInJobs) | Costa Mesa, CA | Fall 2023 | 8/11
+| [Anduril Industries - Visual Design](https://jobs.lever.co/anduril/1a585220-0419-4055-95e2-820e6348c11d?lever-source=LinkedInJobs) | Costa Mesa, CA | Summer(?) 2023 | 8/11
 | [Konrad Group - UX/UI Design (BS)](https://boards.greenhouse.io/konradgroup/jobs/5262553003?gh_src=3b9720293us) | New York, NY | Summer 2023 | 8/11
 | [Northrop Grumman - Human Factors Engineer (UX/UI) (BS)](https://www.northropgrumman.com/jobs/Manhattan-Beach-----California/Administrative-Services/R10059987/2022-human-factors-engineer-ux-ui-fall-redondo-beach-ca/?jClickId=EWhqSmkEGs76qNVSCJrn3LZecHEwJ8Jtd1MjBoGftC98&utm_source=joveo_Linkedin%20Organic%20Contracts) | Redondo Beach, CA | Fall 2022 | 8/10
 | [Salesforce - Salesforce Research/Tableau Research (PhD)](https://salesforce.wd1.myworkdayjobs.com/en-US/Salesforce_Research/job/California---Palo-Alto/XMLNAME-2023-Research-Intern---Salesforce-Research-Tableau-Research_JR158577) | Palo Alto, CA/Seattle, WA | Summer 2023 | 8/10
