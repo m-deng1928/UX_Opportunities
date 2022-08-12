@@ -172,6 +172,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Konrad Group - UX/UI Design (BS)](https://boards.greenhouse.io/konradgroup/jobs/5262553003?gh_src=3b9720293us) | New York, NY | Summer 2023 | 8/11
 | [Northrop Grumman - Human Factors Engineer (UX/UI) (BS)](https://www.northropgrumman.com/jobs/Manhattan-Beach-----California/Administrative-Services/R10059987/2022-human-factors-engineer-ux-ui-fall-redondo-beach-ca/?jClickId=EWhqSmkEGs76qNVSCJrn3LZecHEwJ8Jtd1MjBoGftC98&utm_source=joveo_Linkedin%20Organic%20Contracts) | Redondo Beach, CA | Fall 2022 | 8/10
 | [Salesforce - Salesforce Research/Tableau Research (PhD)](https://salesforce.wd1.myworkdayjobs.com/en-US/Salesforce_Research/job/California---Palo-Alto/XMLNAME-2023-Research-Intern---Salesforce-Research-Tableau-Research_JR158577) | Palo Alto, CA/Seattle, WA | Summer 2023 | 8/10
 | [CMG Financial - UX/UI Designer](https://jobs.jobvite.com/cmgfi/job/odtwkfwg) | San Ramon, CA | Fall 2022 | 8/10
