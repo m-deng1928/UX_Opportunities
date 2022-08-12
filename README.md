@@ -173,6 +173,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Rocket Mortgage - Instructional Design](https://www.myrocketcareer.com/job-detail-page/16300969/instructional-designer-intern-fall-2022-detroit-mi/) | Detroit, MI | Fall 2022 | 8/12
 | [Viz.ai - UX Research](https://www.viz.ai/jobs?gh_jid=6217924002&gh_src=f93115562&gh_src=f93115562) | Remote | Fall 2022 | 8/12
 | [Kohler - User Experience](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/43073?c=kohler) | WI | Fall 2022 | 8/12
 | [Red Ventures - Digital Design](https://www.redventures.com/careers/apply/4345472?gh_jid=4345472) | Charlotte, NC | Summer 2023 | 8/12
