@@ -173,9 +173,11 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Red Ventures - Digital Design](https://www.redventures.com/careers/apply/4345472?gh_jid=4345472) | Charlotte, NC | Summer 2023 | 8/11
-| [Viasat - UX Research](https://careers.viasat.com/careers/FolderDetail?folderId=11434&source=LinkedIn) | Remote | Summer 2023 | 8/11
-| [Viasat - Product Design](https://careers.viasat.com/careers/FolderDetail?folderId=11435&source=LinkedIn) | Remote | Summer 2023 | 8/11
+| [Viz.ai - UX Research](https://www.viz.ai/jobs?gh_jid=6217924002&gh_src=f93115562&gh_src=f93115562) | Remote | Fall 2022 | 8/12
+| [Kohler - User Experience](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/43073?c=kohler) | WI | Fall 2022 | 8/12
+| [Red Ventures - Digital Design](https://www.redventures.com/careers/apply/4345472?gh_jid=4345472) | Charlotte, NC | Summer 2023 | 8/12
+| [Viasat - UX Research](https://careers.viasat.com/careers/FolderDetail?folderId=11434&source=LinkedIn) | Remote | Summer 2023 | 8/12
+| [Viasat - Product Design](https://careers.viasat.com/careers/FolderDetail?folderId=11435&source=LinkedIn) | Remote | Summer 2023 | 8/12
 | [Epic Games - Technical UI Design](https://boards.greenhouse.io/embed/job_app?token=4620885004&gh_src=32b5d0474us) | Bellevue, WA | Summer(?) 2023 | 8/11
 | [Anduril Industries - Motion Design](https://jobs.lever.co/anduril/b951cf29-e2c2-4143-bb48-0698e91c26bb?lever-source=LinkedInJobs) | Costa Mesa, CA | Fall 2023 | 8/11
 | [Anduril Industries - Visual Design](https://jobs.lever.co/anduril/1a585220-0419-4055-95e2-820e6348c11d?lever-source=LinkedInJobs) | Costa Mesa, CA | Summer(?) 2023 | 8/11
