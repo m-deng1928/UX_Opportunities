@@ -28,6 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [RSM - Associate Design Researcher (2-4 YoE)](https://jobs.rsmus.com/job/16480340/associate-design-researcher-boston-ma/) | Remote | 8/13
+| [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/56531e21-6951-45b5-9b57-a3b057828687?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Remote | 8/13
+| [US Bank - UX Designer, talech (3-5 YoE)](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220007571EXTERNALENGLOBAL/Remote-UX-Designer-talech?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | 8/13
 | [Viasat - UX Researcher, Early Career (BS)](https://careers.viasat.com/careers/FolderDetail?folderId=11402&source=LinkedIn) | Remote | 8/12
 | [Blizzard - Associate User Experience Designer (1 YoE)](https://careers.blizzard.com/global/en/job/BLENGLOBALR016835EXTERNALENGLOBAL/Associate-User-Experience-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Irvine, CA | 8/11
 | [Google - UX Writer & Content Designer (2 YoE)](https://careers.google.com/jobs/results/130525006267327174-ux-writer-and-content-designer/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin) | Multiple Locations | 8/11
@@ -173,6 +176,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Lockstep - Product Design](https://www.linkedin.com/jobs/view/3218833722) | Remote | Fall 2022 | 8/13
 | [Rocket Mortgage - Instructional Design](https://www.myrocketcareer.com/job-detail-page/16300969/instructional-designer-intern-fall-2022-detroit-mi/) | Detroit, MI | Fall 2022 | 8/12
 | [Viz.ai - UX Research](https://www.viz.ai/jobs?gh_jid=6217924002&gh_src=f93115562&gh_src=f93115562) | Remote | Fall 2022 | 8/12
 | [Kohler - User Experience](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/43073?c=kohler) | WI | Fall 2022 | 8/12
