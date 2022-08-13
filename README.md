@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Massmutual - User Researcher (1 YoE)](https://careers.massmutual.com/job/15690874/user-researcher-boston-ma/) | Remote | 8/13
 | [RSM - Associate Design Researcher (2-4 YoE)](https://jobs.rsmus.com/job/16480340/associate-design-researcher-boston-ma/) | Remote | 8/13
 | [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/56531e21-6951-45b5-9b57-a3b057828687?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Remote | 8/13
 | [US Bank - UX Designer, talech (3-5 YoE)](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220007571EXTERNALENGLOBAL/Remote-UX-Designer-talech?utm_source=linkedin&utm_medium=phenom-feeds) | Remote | 8/13
