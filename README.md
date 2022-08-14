@@ -28,6 +28,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Dutchie - Product Designer - Back of House (2 YoE))](https://dutchie.com/careers?gh_jid=6039658002&gh_src=39866db62us) | Remote | 8/14
+| [Braze - Product Designer - Core Objects (2-4 YoE)](https://boards.greenhouse.io/embed/job_app?token=4434129&gh_src=b73a210e1&s=LinkedIn&source=LinkedIn) | New York, NY | 8/14
+| [Monument - Junior Product Designer (2 YoE)](https://jobs.lever.co/joinmonument-2/89a00a2d-1215-45bf-ada2-6d233f59142a/apply?lever-source=LinkedIn) | New York, NY | 8/14
+| [Morningstar - Product Designer, Quantitative Research (3-5 YoE)](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Product-Designer--Quantitative-Research_REQ-032896?source=LinkedIn) | Chicago, IL | 8/14
 | [Massmutual - User Researcher (1 YoE)](https://careers.massmutual.com/job/15690874/user-researcher-boston-ma/) | Remote | 8/13
 | [RSM - Associate Design Researcher (2-4 YoE)](https://jobs.rsmus.com/job/16480340/associate-design-researcher-boston-ma/) | Remote | 8/13
 | [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/56531e21-6951-45b5-9b57-a3b057828687?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Remote | 8/13
