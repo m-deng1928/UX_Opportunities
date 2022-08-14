@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Wise - Design Researcher](https://www.wise.jobs/role/4469068-design-researcher/?gh_src=e5dcfa591us) | New York, NY | 8/14
 | [Dutchie - Product Designer - Back of House (2 YoE))](https://dutchie.com/careers?gh_jid=6039658002&gh_src=39866db62us) | Remote | 8/14
 | [Braze - Product Designer - Core Objects (2-4 YoE)](https://boards.greenhouse.io/embed/job_app?token=4434129&gh_src=b73a210e1&s=LinkedIn&source=LinkedIn) | New York, NY | 8/14
 | [Monument - Junior Product Designer (2 YoE)](https://jobs.lever.co/joinmonument-2/89a00a2d-1215-45bf-ada2-6d233f59142a/apply?lever-source=LinkedIn) | New York, NY | 8/14
@@ -181,6 +182,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Amazon - User Experience (UX) Designer](https://www.amazon.jobs/en/jobs/2141735/user-experience-ux-designer-internship-2023) | Varies | Summer 2023 | 8/14
 | [Lockstep - Product Design](https://www.linkedin.com/jobs/view/3218833722) | Remote | Fall 2022 | 8/13
 | [Rocket Mortgage - Instructional Design](https://www.myrocketcareer.com/job-detail-page/16300969/instructional-designer-intern-fall-2022-detroit-mi/) | Detroit, MI | Fall 2022 | 8/12
 | [Viz.ai - UX Research](https://www.viz.ai/jobs?gh_jid=6217924002&gh_src=f93115562&gh_src=f93115562) | Remote | Fall 2022 | 8/12
