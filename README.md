@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [MongoDB - Product Designer - Cloud](https://www.mongodb.com/careers/jobs/4282886) | New York, NY | 8/14
+| [Shield AI - Product Designer](https://jobs.lever.co/shieldai/633315c4-ed09-4ddd-9987-0aa97020a13e?lever-source=LinkedIn) | Dallas, TX | 8/14
 | [Wise - Design Researcher](https://www.wise.jobs/role/4469068-design-researcher/?gh_src=e5dcfa591us) | New York, NY | 8/14
 | [Dutchie - Product Designer - Back of House (2 YoE))](https://dutchie.com/careers?gh_jid=6039658002&gh_src=39866db62us) | Remote | 8/14
 | [Braze - Product Designer - Core Objects (2-4 YoE)](https://boards.greenhouse.io/embed/job_app?token=4434129&gh_src=b73a210e1&s=LinkedIn&source=LinkedIn) | New York, NY | 8/14
