@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Figma - Product Designer - New Grad](https://boards.greenhouse.io/figma/jobs/4602037004?gh_jid=4602037004) | New York, NY/San Francisco, CA | 8/15
 | [MongoDB - Product Designer - Cloud](https://www.mongodb.com/careers/jobs/4282886) | New York, NY | 8/14
 | [Shield AI - Product Designer](https://jobs.lever.co/shieldai/633315c4-ed09-4ddd-9987-0aa97020a13e?lever-source=LinkedIn) | Dallas, TX | 8/14
 | [Wise - Design Researcher](https://www.wise.jobs/role/4469068-design-researcher/?gh_src=e5dcfa591us) | New York, NY | 8/14
