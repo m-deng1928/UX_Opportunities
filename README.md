@@ -185,6 +185,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [LMI - Product Designer](https://careers-lmi.icims.com/jobs/8646/product-designer-graduate-intern-%28fall-2022%29/job?mobile=true&width=375&height=550&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Tyson Mills, VA | Fall 2022 | 8/16
 | [Amazon - User Experience (UX) Designer](https://www.amazon.jobs/en/jobs/2141735/user-experience-ux-designer-internship-2023) | Varies | Summer 2023 | 8/14
 | [Lockstep - Product Design](https://www.linkedin.com/jobs/view/3218833722) | Remote | Fall 2022 | 8/13
 | [Rocket Mortgage - Instructional Design](https://www.myrocketcareer.com/job-detail-page/16300969/instructional-designer-intern-fall-2022-detroit-mi/) | Detroit, MI | Fall 2022 | 8/12
