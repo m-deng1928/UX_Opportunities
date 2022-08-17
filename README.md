@@ -28,6 +28,13 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Adobe - Experience Designer, Adobe Fonts](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Experience-Designer--Adobe-Fonts_R130498-1?source=LinkedIn) | Multiple locations | 8/17
+| [Blackstone - Public Affairs - User Experience Designer](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs---User-Experience-Designer_23616?source=Linkedin) | New York, NY | 8/17
+| [KPMG - Junior Product/UX Designer (1 YoE)](https://us-jobs.kpmg.com/careers/JobDetail?jobId=89637&srcCat=Direct+Contact&specSrc=LinkedIn) | Multiple locations | 8/17
+| [Atlassian - Product Designer, Trello (3 YoE)](https://www.atlassian.com/company/careers/detail/6bcdcef4-6b1e-4fed-9265-f0365169bf4e?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Austin, TX | 8/17
+| [Blackstone - Public Affairs - User Experience Designer](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs---User-Experience-Designer_23616?source=Linkedin) | New York, NY | 8/17
+https://www.atlassian.com/company/careers/detail/6bcdcef4-6b1e-4fed-9265-f0365169bf4e?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601
+| [Scott's Cheap Flights - Product Designer](https://scottscheapflights.com/careers/product-designer2) | Remote | 8/17
 | [Scott's Cheap Flights - Product Designer](https://scottscheapflights.com/careers/product-designer2) | Remote | 8/16
 | [Figma - Product Designer - New Grad](https://boards.greenhouse.io/figma/jobs/4602037004?gh_jid=4602037004) | New York, NY/San Francisco, CA | 8/15
 | [MongoDB - Product Designer - Cloud](https://www.mongodb.com/careers/jobs/4282886) | New York, NY | 8/14
@@ -186,6 +193,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nasdaq - UI/UX](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/UI-UX-Intern---America-2023-Internship_R0011572?source=11663) | Remote | Summer 2023 | 8/17
+| [DriveTime - UX Design](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/UX-Design-Intern_R2272?source=Linkedin) | Tempe, AZ/Dallas, TX | Summer 2023 | 8/17
 | [Figma - Product Design](https://boards.greenhouse.io/figma/jobs/4601996004?gh_jid=4601996004&gh_src=28109e334us) | New York, NY/San Francisco, CA | Summer 2023 | 8/16
 | [LMI - Product Designer (Grad)](https://careers-lmi.icims.com/jobs/8646/product-designer-graduate-intern-%28fall-2022%29/job?mobile=true&width=375&height=550&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Tyson Mills, VA | Fall 2022 | 8/16
 | [Amazon - User Experience (UX) Designer](https://www.amazon.jobs/en/jobs/2141735/user-experience-ux-designer-internship-2023) | Varies | Summer 2023 | 8/14
