@@ -33,7 +33,6 @@ New Grad
 | [KPMG - Junior Product/UX Designer (1 YoE)](https://us-jobs.kpmg.com/careers/JobDetail?jobId=89637&srcCat=Direct+Contact&specSrc=LinkedIn) | Multiple locations | 8/17
 | [Atlassian - Product Designer, Trello (3 YoE)](https://www.atlassian.com/company/careers/detail/6bcdcef4-6b1e-4fed-9265-f0365169bf4e?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Austin, TX | 8/17
 | [Blackstone - Public Affairs - User Experience Designer](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs---User-Experience-Designer_23616?source=Linkedin) | New York, NY | 8/17
-https://www.atlassian.com/company/careers/detail/6bcdcef4-6b1e-4fed-9265-f0365169bf4e?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601
 | [Scott's Cheap Flights - Product Designer](https://scottscheapflights.com/careers/product-designer2) | Remote | 8/17
 | [Scott's Cheap Flights - Product Designer](https://scottscheapflights.com/careers/product-designer2) | Remote | 8/16
 | [Figma - Product Designer - New Grad](https://boards.greenhouse.io/figma/jobs/4602037004?gh_jid=4602037004) | New York, NY/San Francisco, CA | 8/15
