@@ -28,6 +28,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Duolingo - UX/Product Designer I, New Graduate](https://boards.greenhouse.io/duolingo/jobs/6332979002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 8/18
+| [Lowe's - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2347398BR/Product-Designer&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 8/18
+| [Reframe - Product Designer](https://www.linkedin.com/jobs/view/3145522368) | Atlanta, GA | 8/18
+| [Workato - UX Designer/Product Designer](https://boards.greenhouse.io/workato/jobs/6310721002?gh_src=1dad22d12us) | Remote | 8/18
 | [Adobe - Experience Designer, Adobe Fonts](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Experience-Designer--Adobe-Fonts_R130498-1?source=LinkedIn) | Multiple locations | 8/17
 | [Blackstone - Public Affairs - User Experience Designer](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs---User-Experience-Designer_23616?source=Linkedin) | New York, NY | 8/17
 | [KPMG - Junior Product/UX Designer (1 YoE)](https://us-jobs.kpmg.com/careers/JobDetail?jobId=89637&srcCat=Direct+Contact&specSrc=LinkedIn) | Multiple locations | 8/17
