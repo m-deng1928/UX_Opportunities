@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [FCB Chicago - Associate Designer, New Business](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=220000N5&lang=en) | Chicago, IL | 8/18
 | [Duolingo - UX/Product Designer I, New Graduate](https://boards.greenhouse.io/duolingo/jobs/6332979002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 8/18
 | [Lowe's - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2347398BR/Product-Designer&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 8/18
 | [Reframe - Product Designer](https://www.linkedin.com/jobs/view/3145522368) | Atlanta, GA | 8/18
