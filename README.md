@@ -28,7 +28,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [FCB Chicago - Associate Designer, New Business](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=220000N5&lang=en) | Chicago, IL | 8/18
+BairesDev
+| [Amplify - Associate UX Designer, Platform](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Experience-Designer_JR22042754-1) | Remote | 8/19
+| [Amplify - Associate UX Designer, Math (Contract)](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Associate-UX-UI-Designer--Math--contract-_Req_9923?source=Linkedin) | Remote | 8/19
+| [Manulife - Associate UX Designer](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Associate-UX-Designer--Platform_Req_9766) | Remote | 8/19
+| [BairesDev - Junior UX Designer / R+D](https://applicants.bairesdev.com/job/66/176860/apply?utm_source=websitebairesdev&utm_medium=erp&utm_campaign=erp_links) | Remote | 8/19
+| [FCB Chicago - Associate Designer, New Business](https://fcb.taleo.net/careersection/ex/jobdetail.ftl?job=220000N5&lang=en) | Chicago, IL | 8/19
 | [Duolingo - UX/Product Designer I, New Graduate](https://boards.greenhouse.io/duolingo/jobs/6332979002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 8/18
 | [Lowe's - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2347398BR/Product-Designer&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 8/18
 | [Reframe - Product Designer](https://www.linkedin.com/jobs/view/3145522368) | Atlanta, GA | 8/18
@@ -197,6 +202,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [First Bank - UX](https://recruiting.adp.com/srccar/public/nghome.guid?c=1169951&d=ExternalCareerSite&prc=RMPOD3&r=5000877215106#/) | Hazelwood, MO | Summer 2023 | 8/19
+| [Figma - Product Research](https://boards.greenhouse.io/figma/jobs/4601837004) | New York, NY/San Francisco, CA | Summer 2023 | 8/19
 | [Nasdaq - UI/UX](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/UI-UX-Intern---America-2023-Internship_R0011572?source=11663) | Remote | Summer 2023 | 8/17
 | [DriveTime - UX Design](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/UX-Design-Intern_R2272?source=Linkedin) | Tempe, AZ/Dallas, TX | Summer 2023 | 8/17
 | [Figma - Product Design](https://boards.greenhouse.io/figma/jobs/4601996004?gh_jid=4601996004&gh_src=28109e334us) | New York, NY/San Francisco, CA | Summer 2023 | 8/16
