@@ -34,7 +34,6 @@ New Grad
 | [Barclays - UX/UI Designer (2 YoE)](https://search.jobs.barclays/job/-/-/22545/34645462656?src=JB-12860) | Whippany, NJ | 8/20
 | [Expedia - Quantitative User Researcher I (Contract)(BS)](https://exp.insitecareers.com/job_posting.do?id=z22080817453527799732919&fromPage=advanceSearch&sgjy=null) | Austin, TX | 8/20
 | [Target - Digital Designer, Category Content](https://jobs.target.com/job/-/-/1118/34479194160?source=linkedin_jobposting&utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CKudt-S61fkCFU4MaAgdl1UGew) | Remote | 8/20
-| [Target - Digital Designer, Category Content](https://jobs.target.com/job/-/-/1118/34479194160?source=linkedin_jobposting&utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CKudt-S61fkCFU4MaAgdl1UGew) | Minneapolis, MN /Remote | 8/20
 | [UC Irvine - Associate Learning Experience Designer](https://careersucirvine.ttcportals.com/jobs/10309484-associate-learning-experience-designer) | Irvine, CA | 8/20
 | [FedEx - Product Design Associate](https://careers.fedex.com/dataworks/jobs/RC556620?lang=en-US) | Remote | 8/19
 | [Amplify - Associate UX Designer, Platform](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Experience-Designer_JR22042754-1) | Remote | 8/19
