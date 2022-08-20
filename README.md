@@ -202,6 +202,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Flex - Human Factors Engineering](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Human-Factors-Co-Op_WD146794/apply?source=LinkedIn_Slots) | Hollis, NH | Fall 2022/Spring 2023 | 8/20
 | [First Bank - UX](https://recruiting.adp.com/srccar/public/nghome.guid?c=1169951&d=ExternalCareerSite&prc=RMPOD3&r=5000877215106#/) | Hazelwood, MO | Summer 2023 | 8/19
 | [Figma - Product Research](https://boards.greenhouse.io/figma/jobs/4601837004) | New York, NY/San Francisco, CA | Summer 2023 | 8/19
 | [Nasdaq - UI/UX](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/UI-UX-Intern---America-2023-Internship_R0011572?source=11663) | Remote | Summer 2023 | 8/17
