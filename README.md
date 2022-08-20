@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [UC Irvine - Associate Learning Experience Designer](https://careersucirvine.ttcportals.com/jobs/10309484-associate-learning-experience-designer) | Irvine, CA | 8/20
 | [FedEx - Product Design Associate](https://careers.fedex.com/dataworks/jobs/RC556620?lang=en-US) | Remote | 8/19
 | [Amplify - Associate UX Designer, Platform](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Experience-Designer_JR22042754-1) | Remote | 8/19
 | [Amplify - Associate UX Designer, Math (Contract)](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Associate-UX-UI-Designer--Math--contract-_Req_9923?source=Linkedin) | Remote | 8/19
