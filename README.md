@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [CNH Industrial- UX/UI Researcher (3 YoE)](https://careers-cnhind.icims.com/jobs/20308/ui-ux-researcher/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Remote | 8/20
 | [Tiktok - User Communications Designer](https://careers.tiktok.com/position/7127275047995132196/detail?spread=5MWH5CQ) | New York, NY | 8/20
 | [BetMGM - Designer I - UI](https://www.betmgminc.com/careers/?gnk=job&gni=8a78839f7ce7e7f6017d29f6311309ed) | Jersey City, NJ | 8/20
 | [Rockstar Games - UX/UI Designer](https://boards.greenhouse.io/rockstargames/jobs/5272715003) | New York, NY | 8/20
