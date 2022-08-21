@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Chicago Public Media - User Experience Designer](https://phh.tbe.taleo.net/phh01/ats/careers/v2/applyRequisition?org=WBEZ&cws=38&rid=497&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Remote | 8/21
 | [CNH Industrial- UX/UI Researcher (3 YoE)](https://careers-cnhind.icims.com/jobs/20308/ui-ux-researcher/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Remote | 8/20
 | [Tiktok - User Communications Designer](https://careers.tiktok.com/position/7127275047995132196/detail?spread=5MWH5CQ) | New York, NY | 8/20
 | [BetMGM - Designer I - UI](https://www.betmgminc.com/careers/?gnk=job&gni=8a78839f7ce7e7f6017d29f6311309ed) | Jersey City, NJ | 8/20
