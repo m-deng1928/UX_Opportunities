@@ -186,6 +186,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Code & Theory - Experience Design](https://www.codeandtheory.com/careers/6187096002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
+| [Code & Theory - Motion Design](https://www.codeandtheory.com/careers/6261039002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
+| [Code & Theory - Product Strategy](https://www.codeandtheory.com/careers/6186764002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
+| [Code & Theory - User Research](https://www.codeandtheory.com/careers/6261035002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
 | [Flex - Human Factors Engineering](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Human-Factors-Co-Op_WD146794/apply?source=LinkedIn_Slots) | Hollis, NH | Fall 2022/Spring 2023 | 8/20
 | [First Bank - UX](https://recruiting.adp.com/srccar/public/nghome.guid?c=1169951&d=ExternalCareerSite&prc=RMPOD3&r=5000877215106#/) | Hazelwood, MO | Summer 2023 | 8/19
 | [Figma - Product Research](https://boards.greenhouse.io/figma/jobs/4601837004) | New York, NY/San Francisco, CA | Summer 2023 | 8/19
