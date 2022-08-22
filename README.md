@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [AnswerLab - UX Researcher- Sep - Dec 2022 (BS/3 YoE)(Contract)](https://answerlab.bamboohr.com/jobs/view.php?id=147&source=aWQ9OQ%3D%3D) | Atlanta, GA | 8/22
 | [Mathworks - Associate UX Designer - Engineering Development Group](https://www.mathworks.com/company/jobs/opportunities/26314-associate-ux-designer-engineering-development-group.html?source=14343&s_eid=rcj_14343) | Natick, MA | 8/22
 | [Booz Allen Hamilton - User Experience Design Specialist (2-3 YoE)](https://careers.boozallen.com/careers/JobDetail?jobId=59606&source=JB-16500) | Orlando, FL | 8/22
 | [Wawa - Experience Designer (2-3 YoE)](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Experience-Designer_JR109855) | Wawa, PA | 8/22
