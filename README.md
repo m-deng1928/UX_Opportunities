@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Amazon - UX Designer, Prime Video (3 YoE)](https://www.amazon.jobs/en/jobs/2193946/ux-designer-prime-video?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/22
+| [Nordstrom - UX Content Designer I (1 YoE)](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/UX-Content-Designer-1_R-483642-1/apply) | Denver, CO | 8/22
 | [AnswerLab - UX Researcher- Sep - Dec 2022 (BS/3 YoE)(Contract)](https://answerlab.bamboohr.com/jobs/view.php?id=147&source=aWQ9OQ%3D%3D) | Atlanta, GA | 8/22
 | [Mathworks - Associate UX Designer - Engineering Development Group](https://www.mathworks.com/company/jobs/opportunities/26314-associate-ux-designer-engineering-development-group.html?source=14343&s_eid=rcj_14343) | Natick, MA | 8/22
 | [Booz Allen Hamilton - User Experience Design Specialist (2-3 YoE)](https://careers.boozallen.com/careers/JobDetail?jobId=59606&source=JB-16500) | Orlando, FL | 8/22
