@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Peloton - User Researcher (3 YoE)](https://boards.greenhouse.io/peloton/jobs/4361675?gh_src=839cb4b41us&s=LinkedIn&source=LinkedIn) | New York, NY | 8/21
 | [Chicago Public Media - User Experience Designer](https://phh.tbe.taleo.net/phh01/ats/careers/v2/applyRequisition?org=WBEZ&cws=38&rid=497&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Remote | 8/21
 | [CNH Industrial- UX/UI Researcher (3 YoE)](https://careers-cnhind.icims.com/jobs/20308/ui-ux-researcher/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Remote | 8/20
 | [Tiktok - User Communications Designer](https://careers.tiktok.com/position/7127275047995132196/detail?spread=5MWH5CQ) | New York, NY | 8/20
