@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [propelland - Interaction Designer (2-3 YoE)](https://jobsatpropelland.kenjo.io/interaction-designer-220208/apply) | San Francisco, CA | 8/23
+| [WarnerMedia - Designer, User Experience (CW Network) (1-2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000055832EXTERNALENGLOBAL/Designer-User-Experience-CW-Network?utm_source=linkedin&utm_medium=phenom-feeds) | Burbank, CA | 8/23
 | [Amazon - UX Designer, Prime Video (3 YoE)](https://www.amazon.jobs/en/jobs/2193946/ux-designer-prime-video?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/22
 | [Nordstrom - UX Content Designer I (1 YoE)](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/UX-Content-Designer-1_R-483642-1/apply) | Denver, CO | 8/22
 | [AnswerLab - UX Researcher- Sep - Dec 2022 (BS/3 YoE)(Contract)](https://answerlab.bamboohr.com/jobs/view.php?id=147&source=aWQ9OQ%3D%3D) | Atlanta, GA | 8/22
