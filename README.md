@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Amazon - UX Designer, Freevee UX (3 YoE)](https://www.amazon.jobs/en/jobs/2170206/product-designer-freevee-ux?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/23
 | [propelland - Interaction Designer (2-3 YoE)](https://jobsatpropelland.kenjo.io/interaction-designer-220208/apply) | San Francisco, CA | 8/23
 | [WarnerMedia - Designer, User Experience (CW Network) (1-2 YoE)](https://warnermediacareers.com/global/en/job/WAMEGLOBALR000055832EXTERNALENGLOBAL/Designer-User-Experience-CW-Network?utm_source=linkedin&utm_medium=phenom-feeds) | Burbank, CA | 8/23
 | [Amazon - UX Designer, Prime Video (3 YoE)](https://www.amazon.jobs/en/jobs/2193946/ux-designer-prime-video?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/22
