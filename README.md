@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Capital One - Content Designer (1 YoE)](
+https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Content-Designer_R153772-1) | Multiple Cities | 8/24
 | [P&G - Designer UXUI](https://www.pgcareers.com/job/cincinnati/designer-uxui/936/34708772960?source=RS_LINKEDIN) | Cincinnati, OH | 8/24
 | [QVC - UX Product Designer (3 YoE)](https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-PA-West-Chester/UX-Product-Designer_R59692?source=LinkedIn) | Multiple Cities | 8/24
 | [Amazon - UX Designer, Freevee UX (3 YoE)](https://www.amazon.jobs/en/jobs/2170206/product-designer-freevee-ux?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Seattle, WA | 8/23
