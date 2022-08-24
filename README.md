@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Nuance Communications - User Interface Design Associate](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/User-Interface-Design-Associate_105694?source=LinkedIn) | Burlington, MA | 8/24
 | [John Deere - UX Designer (1 YoE)](https://jobs.deere.com/job/Chicago-UX-Designer-Illi-61265-8098/926256900/) | Chicago, IL | 8/24
 | [Capital One - Content Designer (1 YoE)](https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Content-Designer_R153772-1) | Multiple Cities | 8/24
 | [P&G - Designer UXUI](https://www.pgcareers.com/job/cincinnati/designer-uxui/936/34708772960?source=RS_LINKEDIN) | Cincinnati, OH | 8/24
