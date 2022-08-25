@@ -213,6 +213,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Scale AI - Product Design](https://productdesigninternrolescaleai.splashthat.com/) | Remote | Summer 2023 | 8/25
 | [Code & Theory - Experience Design](https://www.codeandtheory.com/careers/6187096002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
 | [Code & Theory - Motion Design](https://www.codeandtheory.com/careers/6261039002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
 | [Code & Theory - Product Strategy](https://www.codeandtheory.com/careers/6186764002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
