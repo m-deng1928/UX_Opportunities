@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Match Group (Hinge) - Research Operations Program Manager (1 YoE)](https://jobs.lever.co/matchgroup/34b0204d-9aab-4d89-824c-afeda426f836/apply?lever-source=LinkedInJobs) | New York, NY | 8/25
 | [Apple - UI/UX Designer (3 YoE)](https://jobs.apple.com/en-us/details/200415166/ui-ux-designer) | Culver City, CA | 8/25
 | [GM - UI Designer (3 YoE)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/UI-Designer_JR-000091644?source=LinkedIn) | Austin, TX (Remote) | 8/25
 | [Tiktok - Designer (2 YoE)](https://careers.tiktok.com/position/7132914183549896967/detail?spread=5MWH5CQ) | New York, NY | 8/25
