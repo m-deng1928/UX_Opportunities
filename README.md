@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Figma - Research - Rapid Research (2 YoE)](https://boards.greenhouse.io/figma/jobs/4637480004?gh_src=7c2edbbc4us) | New York/NYSan Francisco, CA | 8/25
 | [HoneyBook - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/honeybook/jobs/3933222?gh_jid=3933222) | San Francisco, CA | 8/25
 | [Match Group (Hinge) - Research Operations Program Manager (1 YoE)](https://jobs.lever.co/matchgroup/34b0204d-9aab-4d89-824c-afeda426f836/apply?lever-source=LinkedInJobs) | New York, NY | 8/25
 | [Apple - UI/UX Designer (3 YoE)](https://jobs.apple.com/en-us/details/200415166/ui-ux-designer) | Culver City, CA | 8/25
