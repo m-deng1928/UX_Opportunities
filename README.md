@@ -28,6 +28,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Capital One - Design Strategist - Commercial (2 YoE)](https://www.capitalonecareers.com/job/-/-/234/31674574048?p_sid=GvNt2Eb&ss=paid&utm_source=linkedin%20slotted&utm_content=pj_board&utm_campaign=null&utm_medium=jobad&p_uid=2HYXSuX0nM) | New York, NY | 8/26
+| [Disney - Visual Designer (2 YoE)](https://jobs.disneycareers.com/job/-/-/391/34996181744) | New York, NY | 8/26
+| [Disney - UX Content Designer (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/34055128368) | Santa Monica, CA | 8/26
+| [Disney - Content Designer/UX Writer (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/24131451888) | Santa Monica, CA | 8/26
 | [Figma - Research - Rapid Research (2 YoE)](https://boards.greenhouse.io/figma/jobs/4637480004?gh_src=7c2edbbc4us) | New York/NYSan Francisco, CA | 8/25
 | [HoneyBook - UX Researcher (2-3 YoE)](https://boards.greenhouse.io/honeybook/jobs/3933222?gh_jid=3933222) | San Francisco, CA | 8/25
 | [Match Group (Hinge) - Research Operations Program Manager (1 YoE)](https://jobs.lever.co/matchgroup/34b0204d-9aab-4d89-824c-afeda426f836/apply?lever-source=LinkedInJobs) | New York, NY | 8/25
