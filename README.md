@@ -28,6 +28,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Mastercard - Associate Managing Consultant – UX & Digital, Advisors (2-5 YoE)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FPurchase-New-York%2FAssociate-Managing-Consultant--Advisors_R-146006%2Fapply%3Fsource%3DLINKEDIN) | Purchase, NY | 8/27
+| [JP Morgan Chase - User Experience Designer (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210335931/?utm_medium=jobshare&src=LinkedIn_JPMC) | Columbus, OH | 8/27
+| [ESPN - UX Designer/Researcher (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/34179409536) | Remote | 8/27
+| [Edward Jones – Learning Experience Designer I (3 YoE)](https://careers.edwardjones.com/job/16561680/learning-experience-designer-i-saint-louis-mo/?codes=LINKEDIN) | Remote | 8/27
 | [Capital One - Design Strategist - Commercial (2 YoE)](https://www.capitalonecareers.com/job/-/-/234/31674574048?p_sid=GvNt2Eb&ss=paid&utm_source=linkedin%20slotted&utm_content=pj_board&utm_campaign=null&utm_medium=jobad&p_uid=2HYXSuX0nM) | New York, NY | 8/26
 | [Disney - Visual Designer (2 YoE)](https://jobs.disneycareers.com/job/-/-/391/34996181744) | New York, NY | 8/26
 | [Disney - UX Content Designer (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/34055128368) | Santa Monica, CA | 8/26
@@ -219,6 +223,14 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Epic Games - Technical UI Design - Fortnite](https://boards.greenhouse.io/embed/job_app?token=4620885004&gh_src=32b5d0474us) | Bellevue, WA | Summer 2023 | 8/27
+| [Epic Games - UX Design - Unreal Engine](https://boards.greenhouse.io/epicgames/jobs/4625750004?t=32b5d0474us) | Montreal, Quebec, Canada | Summer 2023 | 8/27
+| [IBM - UX Designer - IBM Consulting (Commercial)](https://careers.ibm.com/job/16562859/summer-2023-ux-designer-intern-ibm-consulting-commercial-remote/?codes=SN_LinkedIn) | Multiple Locations | Summer 2023 | 8/27
+| [IBM - Visual Design – IBM Consulting (Commercial)](https://careers.ibm.com/job/16562858/summer-2023-visual-designer-intern-ibm-consulting-commercial-remote/?codes=SN_LinkedIn) | Multiple Locations | Summer 2023 | 8/27
+| [Twitch - UX Design](https://boards.greenhouse.io/twitch/jobs/6291682002?gh_src=0c4ebc182&s=LinkedIn&source=LinkedIn) | San Francisco, CA | Summer 2023 | 8/27
+| [Workiva - Quantitative User Experience](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---Quantitative-User-Experience-Intern_R5533?source=LinkedIn) | Remote | Spring 2023 | 8/27
+| [Workiva - UX Research](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Spring-2023---UX-Research-Intern_R5544?source=LinkedIn) | Remote | Spring 2023 | 8/27
+| [Workiva - User Experience Design](https://workiva.wd1.myworkdayjobs.com/careers/job/Ames/XMLNAME-2023-Spring---User-Experience-Design-Intern_R5802?source=LinkedIn) | Remote | Spring 2023 | 8/27
 | [Scale AI - Product Design](https://productdesigninternrolescaleai.splashthat.com/) | Remote | Summer 2023 | 8/25
 | [Code & Theory - Experience Design](https://www.codeandtheory.com/careers/6187096002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
 | [Code & Theory - Motion Design](https://www.codeandtheory.com/careers/6261039002?location=new-york-city) | Remote | Fall 2022/Winter 2023/Spring 2023/Summer 2023/Fall 2023 | 8/21
