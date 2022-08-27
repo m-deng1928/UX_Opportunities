@@ -29,6 +29,8 @@ New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
 | [Mastercard - Associate Managing Consultant – UX & Digital, Advisors (2-5 YoE)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FPurchase-New-York%2FAssociate-Managing-Consultant--Advisors_R-146006%2Fapply%3Fsource%3DLINKEDIN) | Purchase, NY | 8/27
+| [Accenture - Federal - User Experience Designer Analyst (1 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00013778_en&src=LINKEDINJP) | Arlington, VA | 8/27
+| [CNH Industrial - UX/UI Designer (3 YoE)](https://careers-cnhind.icims.com/jobs/21251/ui-ux-designer/job) | Remote | 8/27
 | [JP Morgan Chase - User Experience Designer (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210335931/?utm_medium=jobshare&src=LinkedIn_JPMC) | Columbus, OH | 8/27
 | [ESPN - UX Designer/Researcher (3 YoE)](https://jobs.disneycareers.com/job/-/-/391/34179409536) | Remote | 8/27
 | [Edward Jones – Learning Experience Designer I (3 YoE)](https://careers.edwardjones.com/job/16561680/learning-experience-designer-i-saint-louis-mo/?codes=LINKEDIN) | Remote | 8/27
