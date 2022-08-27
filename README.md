@@ -223,6 +223,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap/slots&ss=paid) | Atlanta, GA | Summer 2023 | 8/27
 | [Epic Games - Technical UI Design - Fortnite](https://boards.greenhouse.io/embed/job_app?token=4620885004&gh_src=32b5d0474us) | Bellevue, WA | Summer 2023 | 8/27
 | [Epic Games - UX Design - Unreal Engine](https://boards.greenhouse.io/epicgames/jobs/4625750004?t=32b5d0474us) | Montreal, Quebec, Canada | Summer 2023 | 8/27
 | [IBM - UX Designer - IBM Consulting (Commercial)](https://careers.ibm.com/job/16562859/summer-2023-ux-designer-intern-ibm-consulting-commercial-remote/?codes=SN_LinkedIn) | Multiple Locations | Summer 2023 | 8/27
