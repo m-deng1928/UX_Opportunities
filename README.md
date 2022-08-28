@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Lenovo - User Experience Interaction Designer (AR/VR) (2 YoE)](https://jobs.lenovo.com/en_US/careers/JobDetail/UX-Designer/43247) | Morrisville, NC | 8/28
+| [Nuance Communications - UX Product Designer (3 YoE)](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/UX-Product-Designer_105769?source=LinkedIn) | Burlington, MA | 8/28
 | [Lockheed Martin - UI/UX Designer](https://www.lockheedmartinjobs.com/job/-/-/694/34518933248) | Bethesda, MD | 8/28
 | [Mastercard - Associate Managing Consultant – UX & Digital, Advisors (2-5 YoE)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FPurchase-New-York%2FAssociate-Managing-Consultant--Advisors_R-146006%2Fapply%3Fsource%3DLINKEDIN) | Purchase, NY | 8/27
 | [Accenture - Federal - User Experience Designer Analyst (1 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00013778_en&src=LINKEDINJP) | Arlington, VA | 8/27
