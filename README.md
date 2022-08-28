@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Lockheed Martin - UI/UX Designer](https://www.lockheedmartinjobs.com/job/-/-/694/34518933248) | Bethesda, MD | 8/28
 | [Mastercard - Associate Managing Consultant – UX & Digital, Advisors (2-5 YoE)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FPurchase-New-York%2FAssociate-Managing-Consultant--Advisors_R-146006%2Fapply%3Fsource%3DLINKEDIN) | Purchase, NY | 8/27
 | [Accenture - Federal - User Experience Designer Analyst (1 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00013778_en&src=LINKEDINJP) | Arlington, VA | 8/27
 | [CNH Industrial - UX/UI Designer (3 YoE)](https://careers-cnhind.icims.com/jobs/21251/ui-ux-designer/job) | Remote | 8/27
