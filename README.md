@@ -32,7 +32,6 @@ New Grad
 | [MassMutual - User Interface (UI) Designer (1 YoE)](https://careers.massmutual.com/job/15690873/user-interface-ui-designer-boston-ma/) | Boston, MA | 8/29
 | [Splunk - Product Designer (3 YoE)](https://jobs.jobvite.com/careers/splunk/job/ok3xjfwX/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Multiple locations | 8/29
 | [Mushroom.gg - Junior Visual Designer (1 YoE)](https://jobs.lever.co/mushroom/7e709276-0083-4522-a4e9-d7a9902770b8/apply?lever-source=LinkedIn) | Palo Alto, CA | 8/29
-https://jobs.lever.co/mushroom/7e709276-0083-4522-a4e9-d7a9902770b8/apply?lever-source=LinkedIn
 | [Lenovo - User Experience Interaction Designer (AR/VR) (2 YoE)](https://jobs.lenovo.com/en_US/careers/JobDetail/UX-Designer/43247) | Morrisville, NC | 8/28
 | [Nuance Communications - UX Product Designer (3 YoE)](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/UX-Product-Designer_105769?source=LinkedIn) | Burlington, MA | 8/28
 | [Lockheed Martin - UI/UX Designer](https://www.lockheedmartinjobs.com/job/-/-/694/34518933248) | Bethesda, MD | 8/28
