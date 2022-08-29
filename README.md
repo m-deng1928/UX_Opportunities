@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Konrad Group - Associate UX/UI Designer](https://boards.greenhouse.io/konradgroup/jobs/5229888003?gh_src=a8d3f0083us) | New York, NY | 8/29
 | [Lenovo - User Experience Interaction Designer (AR/VR) (2 YoE)](https://jobs.lenovo.com/en_US/careers/JobDetail/UX-Designer/43247) | Morrisville, NC | 8/28
 | [Nuance Communications - UX Product Designer (3 YoE)](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/UX-Product-Designer_105769?source=LinkedIn) | Burlington, MA | 8/28
 | [Lockheed Martin - UI/UX Designer](https://www.lockheedmartinjobs.com/job/-/-/694/34518933248) | Bethesda, MD | 8/28
