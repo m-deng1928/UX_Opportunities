@@ -28,6 +28,14 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Imperfect Foods - Product Designer (3 YoE)](https://jobs.lever.co/imperfectfoods/c0169753-9715-435a-a8c5-3050cb2561e6?lever-source=LinkedInJobs) | Remote | 8/30
+| [Adobe - 2023 University Graduate - Associate Experience Design Strategist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2023-University-Graduate---Associate-Experience-Design-Strategist_R130682-1?source=LinkedIn) | New York, NY/San Francisco, CA | 8/30
+| [Herman Miller - Experience Design Strategist (3-5 YoE)](https://hermanmiller.taleo.net/careersection/hm_external/jobdetail.ftl?job=222801&src=JB-BB-11620) | Remote | 8/30
+| [Capital One - Design Operations Program Manager, Card & Bank Design (2 YoE)](https://www.capitalonecareers.com/job/-/-/234/32533540784?utm_source=linkedin%20slotted&p_uid=jwOoBGVQWc&utm_medium=jobad&p_sid=LfWTnqb&utm_campaign=null&ss=paid&utm_content=pj_board) | McLean, VA | 8/30
+| [Bain & Company - Associate Product Designer, N.G.S.S. - Chicago (1-2 YoE)](https://careers.bain.com/jobs/FolderDetail?folderId=65578&source=Linked-In) | Chicago, IL | 8/30
+| [Jama Software - Product Designer, Associate (1-2 YoE)](https://www.jamasoftware.com/company/careers/posting?gh_jid=4514656&gh_src=5a99cc651us) | Remote | 8/30
+| [Bungie - User Researcher (Unannounced Project) (2 YoE)](https://careers.bungie.com/jobs/4384897/unannounced-project-user-researcher) | Bellevue, WA/Seattle, WA | 8/30
+| [Kroger - User Researcher (KTD) (BS/2 YoE)](https://kroger.eightfold.ai/careers?location=Current%20Location&pid=10078667&domain=kroger.com&triggerGoButton=false) | Cincinnati, OH | 8/30
 | [Konrad Group - Associate UX/UI Designer](https://boards.greenhouse.io/konradgroup/jobs/5229888003?gh_src=a8d3f0083us) | New York, NY | 8/29
 | [MassMutual - User Interface (UI) Designer (1 YoE)](https://careers.massmutual.com/job/15690873/user-interface-ui-designer-boston-ma/) | Boston, MA | 8/29
 | [Splunk - Product Designer (3 YoE)](https://jobs.jobvite.com/careers/splunk/job/ok3xjfwX/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Multiple locations | 8/29
