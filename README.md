@@ -245,6 +245,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Xcel Energy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
+| [Atmosfy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
 | [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap/slots&ss=paid) | Atlanta, GA | Summer 2023 | 8/27
 | [Epic Games - Technical UI Design - Fortnite](https://boards.greenhouse.io/embed/job_app?token=4620885004&gh_src=32b5d0474us) | Bellevue, WA | Summer 2023 | 8/27
 | [Epic Games - UX Design - Unreal Engine](https://boards.greenhouse.io/epicgames/jobs/4625750004?t=32b5d0474us) | Montreal, Quebec, Canada | Summer 2023 | 8/27
