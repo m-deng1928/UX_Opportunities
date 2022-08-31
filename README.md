@@ -28,6 +28,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Buildertrend - Product Designer (3 YoE)](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=84801&clientkey=75455AEDEFEE1B7FCB1F59A9D5FA8292) | Remote | 8/31
+| [Zillow - Product Designer (3-5 YoE)](https://zillowgroup.eightfold.ai/careers/job/240528877178?domain=zillowgroup.com) | Remote | 8/31
+| [Glassdoor - Product Designer - B2C Career Access Team (3-5 YoE)](https://boards.greenhouse.io/glassdoor/jobs/6358575002?gh_src=2906d2432us) | Chicago, IL | 8/31
+| [Goldman Sachs - Product Designer - Marquee - Associate - NY (3 YoE)](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/99975?utm_medium=jobshare&mode=job&iis=LinkedIn) | New York, NY | 8/31
 | [Imperfect Foods - Product Designer (3 YoE)](https://jobs.lever.co/imperfectfoods/c0169753-9715-435a-a8c5-3050cb2561e6?lever-source=LinkedInJobs) | Remote | 8/30
 | [Adobe - 2023 University Graduate - Associate Experience Design Strategist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2023-University-Graduate---Associate-Experience-Design-Strategist_R130682-1?source=LinkedIn) | New York, NY/San Francisco, CA | 8/30
 | [Herman Miller - Experience Design Strategist (3-5 YoE)](https://hermanmiller.taleo.net/careersection/hm_external/jobdetail.ftl?job=222801&src=JB-BB-11620) | Remote | 8/30
