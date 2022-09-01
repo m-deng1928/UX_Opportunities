@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Siemens - UX Conception Designer](https://jobs.siemens.com/jobs/333006?lang=en-us&sourceType=PREMIUM_POST_SITE) | Chicago, IL | 9/1
 | [Twitch - UX Designer, Design Systems (2 YoE)](https://www.amazon.jobs/en/jobs/2220634/ux-designer-design-system?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | 9/1
 | [Duolingo - Product Designer, Internal Tools](https://boards.greenhouse.io/duolingo/jobs/6358054002?gh_src=81b1e41f2us) | New York, NY | 9/1
 | [Buildertrend - Product Designer (3 YoE)](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=84801&clientkey=75455AEDEFEE1B7FCB1F59A9D5FA8292) | Remote | 8/31
@@ -247,6 +248,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Norfolk Southern - UX Design](https://jobs.nscorp.com/job/Atlanta-UX-Design-Intern-Spring-2023-GA-30308/927754800/) | Atlanta, GA | Spring 2023 | 9/1
 | [Mastercard - UX/Product Experience Design](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FOFallon-Missouri%2FUX---Product-Experience-Design-Intern_R-173695-1%2Fapply%3Fsource%3DLINKEDIN) | Fallon, Missouri | Summer 2023 | 9/1
 | [OCC - End User Experience](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893?source=Linkedin) | Chicago, IL | Summer 2023 | 9/1
 | [Lennox International - UX](https://uscareers-lennox.icims.com/jobs/34400/ux-intern/job) | Richardson, TX | Summer 2023 | 9/1
