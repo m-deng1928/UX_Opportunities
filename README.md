@@ -247,6 +247,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Mastercard - UX/Product Experience Design](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FOFallon-Missouri%2FUX---Product-Experience-Design-Intern_R-173695-1%2Fapply%3Fsource%3DLINKEDIN) | Fallon, Missouri | Summer 2023 | 9/1
 | [OCC - End User Experience](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893?source=Linkedin) | Chicago, IL | Summer 2023 | 9/1
 | [Lennox International - UX](https://uscareers-lennox.icims.com/jobs/34400/ux-intern/job) | Richardson, TX | Summer 2023 | 9/1
 | [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UI-Design-Intern_R5801?source=LinkedIn) | Remote | Summer 2023 | 9/1
