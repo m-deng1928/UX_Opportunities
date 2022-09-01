@@ -28,7 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Twitch - UX Designer, Design Systems](https://www.amazon.jobs/en/jobs/2220634/ux-designer-design-system?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | 9/1
+| [Twitch - UX Designer, Design Systems (2 YoE)](https://www.amazon.jobs/en/jobs/2220634/ux-designer-design-system?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | 9/1
 | [Duolingo - Product Designer, Internal Tools](https://boards.greenhouse.io/duolingo/jobs/6358054002?gh_src=81b1e41f2us) | New York, NY | 9/1
 | [Buildertrend - Product Designer (3 YoE)](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=84801&clientkey=75455AEDEFEE1B7FCB1F59A9D5FA8292) | Remote | 8/31
 | [Zillow - Product Designer (3-5 YoE)](https://zillowgroup.eightfold.ai/careers/job/240528877178?domain=zillowgroup.com) | Remote | 8/31
