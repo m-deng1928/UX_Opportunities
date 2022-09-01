@@ -247,7 +247,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UI-Design-Intern_R5801?source=LinkedIn) | Remote | Spring 2023 | 9/1
+| [OCC - End User Experience](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893?source=Linkedin) | Chicago, IL | Summer 2023 | 9/1
+| [Lennox International - UX](https://uscareers-lennox.icims.com/jobs/34400/ux-intern/job) | Richardson, TX | Summer 2023 | 9/1
+| [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UI-Design-Intern_R5801?source=LinkedIn) | Remote | Summer 2023 | 9/1
 | [Chamberlain Group - Co-Op, UX/UI Design](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/XMLNAME-2023-Summer--May---Aug--Co-Op--UX-UI-Design_JR25001?source=Linkedin) | Oak Brook, IL | Summer 2023 | 9/1
 | [Xcel Energy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
 | [Atmosfy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
