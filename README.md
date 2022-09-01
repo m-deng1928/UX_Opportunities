@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Twitch - UX Designer, Design Systems](https://www.amazon.jobs/en/jobs/2220634/ux-designer-design-system?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | 9/1
+| [Duolingo - Product Designer, Internal Tools](https://boards.greenhouse.io/duolingo/jobs/6358054002?gh_src=81b1e41f2us) | New York, NY | 9/1
 | [Buildertrend - Product Designer (3 YoE)](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=84801&clientkey=75455AEDEFEE1B7FCB1F59A9D5FA8292) | Remote | 8/31
 | [Zillow - Product Designer (3-5 YoE)](https://zillowgroup.eightfold.ai/careers/job/240528877178?domain=zillowgroup.com) | Remote | 8/31
 | [Glassdoor - Product Designer - B2C Career Access Team (3-5 YoE)](https://boards.greenhouse.io/glassdoor/jobs/6358575002?gh_src=2906d2432us) | Chicago, IL | 8/31
@@ -245,6 +247,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UI-Design-Intern_R5801?source=LinkedIn) | Remote | Spring 2023 | 9/1
+| [Chamberlain Group - Co-Op, UX/UI Design](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/XMLNAME-2023-Summer--May---Aug--Co-Op--UX-UI-Design_JR25001?source=Linkedin) | Oak Brook, IL | Summer 2023 | 9/1
 | [Xcel Energy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
 | [Atmosfy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
 | [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap/slots&ss=paid) | Atlanta, GA | Summer 2023 | 8/27
