@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Yeti - UX/UI Designer (2 YoE)](https://boards.greenhouse.io/embed/job_app?token=4520465&gh_src=8d68df4e1) | Austin, TX | 9/2
 | [Esri - UX Designer (3 YoE)](https://www.esri.com/careers/ux-designer-16586?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 9/2
 | [Seatgeek - Product Designer - New Grad](https://seatgeek.com/jobs/2445375) | New York, NY | 9/2
 | [Siemens - UX Conception Designer](https://jobs.siemens.com/jobs/333006?lang=en-us&sourceType=PREMIUM_POST_SITE) | Chicago, IL | 9/1
