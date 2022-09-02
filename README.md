@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Seatgeek - Product Designer - New Grad](https://seatgeek.com/jobs/2445375) | New York, NY | 9/2
 | [Siemens - UX Conception Designer](https://jobs.siemens.com/jobs/333006?lang=en-us&sourceType=PREMIUM_POST_SITE) | Chicago, IL | 9/1
 | [Twitch - UX Designer, Design Systems (2 YoE)](https://www.amazon.jobs/en/jobs/2220634/ux-designer-design-system?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | 9/1
 | [Duolingo - Product Designer, Internal Tools](https://boards.greenhouse.io/duolingo/jobs/6358054002?gh_src=81b1e41f2us) | New York, NY | 9/1
@@ -248,11 +249,17 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Salesforce - Content Designer](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---Content-Designer_JR161996-1) | San Francisco, CA | Summer 2023 | 9/2
+| [ServiceNow - Product Content Internship (Technical Writing, Technical Editing, Multimedia)](https://careers.servicenow.com/careers/jobs/743999848873771EXT?lang=en-us&trid=35ab2906-b356-4a56-8472-f60d30d2e2f0) | San Diego, CA | Summer 2023 | 9/2
+| [SAP - Visual Design & Knowledge Management](https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Visual-Design-&-Knowledge-Management-PA-19073/779789101/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed) | Newtown Square, PA | Summer 2023 | 9/2
+| [Riot Games - Visual Design Art](https://www.riotgames.com/en/work-with-us/job/4526866?gh_jid=4526866&gh_src=de3296a31us) | Los Angeles, CA | Summer 2023 | 9/2
 | [Riot Games - UX/UI Design](https://www.riotgames.com/en/work-with-us/job/4526877/ux-design-intern-los-angeles-usa?gh_src=dbd2c69c1us) | Los Angeles, CA | Summer 2023 | 9/2
 | [Riot Games - UX/UI Design - Project L](https://www.riotgames.com/en/j/4526870?gh_src=dbd2c69c1us) | San Francisco, CA | Summer 2023 | 9/2
 | [GEICO - UX/UI Design - Corporate](https://careers.geico.com/us/en/job/GEICUSR0038406EXTERNALENUS/UX-UI-Summer-Internship-Corporate?utm_source=indeed&utm_medium=phenom-feeds) | Chevy Chase, MD | Summer 2023 | 9/2
 | [Nike - Digital Product Design (Undergraduate)](https://jobs.nike.com/job/URSRCDPDUI23) | Beaverton, OR | Summer 2023 | 9/2
 | [Nike - UX/UI Design (Undergraduate)](https://jobs.nike.com/job/URSRCUXUIDSNUI23) | Beaverton, OR | Spring 2023 | 9/2
+| [Epic - User Experience Design](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-User-Experience-Design-Intern/1437) | Verona, WI | Summer 2023 | 9/2
+| [Radioflyer - Visual Communication Design](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8f7904d5-afa2-4f7b-994a-d4aaec6c669f&ccId=19000101_000001&jobId=438647&source=IN&lang=en_US&ittk=DEWAGIRUUU) | Chicago, IL | Summer 2023 | 9/2
 | [Norfolk Southern - UX Design](https://jobs.nscorp.com/job/Atlanta-UX-Design-Intern-Spring-2023-GA-30308/927754800/) | Atlanta, GA | Spring 2023 | 9/1
 | [Mastercard - UX/Product Experience Design](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FOFallon-Missouri%2FUX---Product-Experience-Design-Intern_R-173695-1%2Fapply%3Fsource%3DLINKEDIN) | Fallon, Missouri | Summer 2023 | 9/1
 | [OCC - End User Experience](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893?source=Linkedin) | Chicago, IL | Summer 2023 | 9/1
