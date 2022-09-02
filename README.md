@@ -251,6 +251,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Bayer - User Experience Design](https://jobs.bayer.com/job/Residence-Based-User-Experience-Design-Intern-Resi/845129201/?utm_source=LINKEDIN&utm_medium=referrer) | St Louis, MI | Summer 2023 | 9/2
 | [Nissan - AI & User Experience Researcher](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/Intern--AI---User-Experience-Researcher_R00118757?source=Linkedin) | San Jose, CA | Fall 2022 | 9/2
 | [Salesforce - Content Designer](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---Content-Designer_JR161996-1) | San Francisco, CA | Summer 2023 | 9/2
 | [ServiceNow - Product Content Internship (Technical Writing, Technical Editing, Multimedia)](https://careers.servicenow.com/careers/jobs/743999848873771EXT?lang=en-us&trid=35ab2906-b356-4a56-8472-f60d30d2e2f0) | San Diego, CA | Summer 2023 | 9/2
