@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Esri - UX Designer (3 YoE)](https://www.esri.com/careers/ux-designer-16586?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 9/2
 | [Seatgeek - Product Designer - New Grad](https://seatgeek.com/jobs/2445375) | New York, NY | 9/2
 | [Siemens - UX Conception Designer](https://jobs.siemens.com/jobs/333006?lang=en-us&sourceType=PREMIUM_POST_SITE) | Chicago, IL | 9/1
 | [Twitch - UX Designer, Design Systems (2 YoE)](https://www.amazon.jobs/en/jobs/2220634/ux-designer-design-system?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Seattle, WA | 9/1
