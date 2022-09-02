@@ -248,11 +248,16 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Riot Games - UX/UI Design](https://www.riotgames.com/en/work-with-us/job/4526877/ux-design-intern-los-angeles-usa?gh_src=dbd2c69c1us) | Los Angeles, CA | Summer 2023 | 9/2
+| [Riot Games - UX/UI Design - Project L](https://www.riotgames.com/en/j/4526870?gh_src=dbd2c69c1us) | San Francisco, CA | Summer 2023 | 9/2
+| [GEICO - UX/UI Design - Corporate](https://careers.geico.com/us/en/job/GEICUSR0038406EXTERNALENUS/UX-UI-Summer-Internship-Corporate?utm_source=indeed&utm_medium=phenom-feeds) | Chevy Chase, MD | Summer 2023 | 9/2
+| [Nike - Digital Product Design (Undergraduate)](https://jobs.nike.com/job/URSRCDPDUI23) | Beaverton, OR | Summer 2023 | 9/2
+| [Nike - UX/UI Design (Undergraduate)](https://jobs.nike.com/job/URSRCUXUIDSNUI23) | Beaverton, OR | Spring 2023 | 9/2
 | [Norfolk Southern - UX Design](https://jobs.nscorp.com/job/Atlanta-UX-Design-Intern-Spring-2023-GA-30308/927754800/) | Atlanta, GA | Spring 2023 | 9/1
 | [Mastercard - UX/Product Experience Design](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FOFallon-Missouri%2FUX---Product-Experience-Design-Intern_R-173695-1%2Fapply%3Fsource%3DLINKEDIN) | Fallon, Missouri | Summer 2023 | 9/1
 | [OCC - End User Experience](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/End-User-Experience-Intern_REQ-1893?source=Linkedin) | Chicago, IL | Summer 2023 | 9/1
 | [Lennox International - UX](https://uscareers-lennox.icims.com/jobs/34400/ux-intern/job) | Richardson, TX | Summer 2023 | 9/1
-| [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UI-Design-Intern_R5801?source=LinkedIn) | Remote | Summer 2023 | 9/1
+| [Workiva - UI Design](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UI-Design-Intern_R5801?source=LinkedIn) | Remote | Spring 2023 | 9/1
 | [Chamberlain Group - Co-Op, UX/UI Design](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/XMLNAME-2023-Summer--May---Aug--Co-Op--UX-UI-Design_JR25001?source=Linkedin) | Oak Brook, IL | Summer 2023 | 9/1
 | [Xcel Energy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
 | [Atmosfy - UX Design](https://jobs.xcelenergy.com/job/UX-Design-Intern-Job-MN-55401/928587600/?feedId=643&utm_source=Indeed) | Minneapolis, MN/Denver, CO | Summer 2023 | 8/31
