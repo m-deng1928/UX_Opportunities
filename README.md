@@ -28,6 +28,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Hitachi Vantara - Product Designer (3-5 YoE)](https://www.hitachivantara.com/en-us/company/careers/job-details.html?gh_jid=6182960002&gh_src=9a8bd6422#jobid=6182960002) | Santa Clara, CA | 9/3
+| [Baker Tilly - Product Designer (1 YoE)](https://bakertilly.jibeapply.com/jobs/19634?lang=en-us) | Multiple locations | 9/3
+| [The Atlantic - Product Designer (3 YoE)](https://atlanticmedia.wd1.myworkdayjobs.com/Careers/job/Washington-DC/Product-Designer--The-Atlantic-_R441?source=Linkedin) | Washington DC/New York, NY | 9/3
+| [Loop - Product Designer](https://app.dover.io/apply/loop/cede7c53-ee35-478c-8bd6-cbf4584c568c?rs=42706078) | Remote | 9/3
+| [OpenAI - Product Designer](https://boards.greenhouse.io/embed/job_app?token=4101622004&gh_src=fa4a4d7b4us&s=LinkedIn&source=LinkedIn) | San Francisco, CA | 9/3
 | [Yeti - UX/UI Designer (2 YoE)](https://boards.greenhouse.io/embed/job_app?token=4520465&gh_src=8d68df4e1) | Austin, TX | 9/2
 | [Esri - UX Designer (3 YoE)](https://www.esri.com/careers/ux-designer-16586?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 9/2
 | [Seatgeek - Product Designer - New Grad](https://seatgeek.com/jobs/2445375) | New York, NY | 9/2
@@ -251,6 +256,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Uline - User Experience Researcher (BS)](https://www.uline.jobs/JobDetails?culture=en&jobid=R224620&jobtitle=User-Experience-Researcher-Internship---Summer-2023) | Pleasant Prairie, WI | Summer 2023 | 9/3
 | [Bayer - User Experience Design](https://jobs.bayer.com/job/Residence-Based-User-Experience-Design-Intern-Resi/845129201/?utm_source=LINKEDIN&utm_medium=referrer) | St Louis, MI | Summer 2023 | 9/2
 | [Nissan - AI & User Experience Researcher](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/Intern--AI---User-Experience-Researcher_R00118757?source=Linkedin) | San Jose, CA | Fall 2022 | 9/2
 | [Salesforce - Content Designer](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---Content-Designer_JR161996-1) | San Francisco, CA | Summer 2023 | 9/2
