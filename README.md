@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [SAP - UX Design Specialist](https://jobs.sap.com/job/Palo-Alto-UX-Design-Specialist-CA-94304/821464701/) | Palo Alto, CA | 9/4
 | [Bungie - Destiny UX Designer](https://careers.bungie.com/jobs/4020606/destiny-ux-designer) | Remote | 9/4
 | [Apple - Product Designer](https://jobs.apple.com/en-us/details/200418093/product-designer?board_id=17682&cid=scrape_co_us_linkedin_nationwide_software%2Bservices) | Cupertino, CA | 9/4
 | [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/31861187712?iisn=li&utm_medium=jobad&utm_content=pj_board&p_uid=4tz2pltO0P&p_sid=EZRji4b&utm_campaign=null&utm_source=linkedin%20slots&cid=pjob_li_click_us_dsgnux-fy23_cn_text_job_intuit-talent&iis=pjob&ss=paid) | Mountain View, CA | 9/4
