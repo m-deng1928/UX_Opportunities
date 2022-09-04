@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Intuit - Product Designer](https://jobs.intuit.com/job/-/-/27595/31861187712?iisn=li&utm_medium=jobad&utm_content=pj_board&p_uid=4tz2pltO0P&p_sid=EZRji4b&utm_campaign=null&utm_source=linkedin%20slots&cid=pjob_li_click_us_dsgnux-fy23_cn_text_job_intuit-talent&iis=pjob&ss=paid) | Mountain View, CA | 9/4
+| [Everlast - Product Designer (1 YoE)](https://www.linkedin.com/jobs/view/3244183601) | New York, NY | 9/4
 | [Johnson & Johnson - UX Designer (2 YoE)](https://jobs.jnj.com/jobs/2206063460W?lang=en-us&src=JB-10280&src=JB-10280) | Redwood City, CA | 9/3
 | [Human Factors Researcher - Human Factors Researcher)](https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=INSTITUTEDA&cws=39&rid=2476&source=LinkedIn&src=LinkedIn&gns=LinkedIn) | Arlington, VA | 9/3
 | [OneGoal - User Experience Analyst (1 YoE)](https://www.onegoalgraduation.org/position/uea-dpp-0314/) | Chicago, IL | 9/3
