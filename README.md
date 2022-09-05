@@ -28,6 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Oracle - UI/UX Designer/Developer (3-5 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/179506?utm_medium=jobboard&utm_source=LinkedIn) | Reston, VA | 9/5
+| [Cardinal Health - UI/UX Designer - Design Systems (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/uiux-designer---design-systems/63dec652-affd-4a8f-bac7-458cf21f1c3d?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin) | Dublin, OH | 9/5
+| [The Hartford - Junior UX Designer](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Junior-UX-Designer_R2210351-1) | Hartford, CT | 9/5
 | [Trek Bikes - Digital Product Designer (3-5 YoE)](https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Digital-Product-Designer_Trek103665) | Waterloo, WI | 9/5
 | [SAP - UX Design Specialist](https://jobs.sap.com/job/Palo-Alto-UX-Design-Specialist-CA-94304/821464701/) | Palo Alto, CA | 9/4
 | [Bungie - Destiny UX Designer](https://careers.bungie.com/jobs/4020606/destiny-ux-designer) | Remote | 9/4
