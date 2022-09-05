@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Trek Bikes - Digital Product Designer (3-5 YoE)](https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Digital-Product-Designer_Trek103665) | Waterloo, WI | 9/5
 | [SAP - UX Design Specialist](https://jobs.sap.com/job/Palo-Alto-UX-Design-Specialist-CA-94304/821464701/) | Palo Alto, CA | 9/4
 | [Bungie - Destiny UX Designer](https://careers.bungie.com/jobs/4020606/destiny-ux-designer) | Remote | 9/4
 | [Apple - Product Designer](https://jobs.apple.com/en-us/details/200418093/product-designer?board_id=17682&cid=scrape_co_us_linkedin_nationwide_software%2Bservices) | Cupertino, CA | 9/4
