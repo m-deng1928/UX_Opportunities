@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [JP Morgan Chase - Associate Product Designer (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210249881/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ/New York, NY/Plano, TX | 9/6
+| [SiriusXM - UX/UI Designer (2-3 YoE)](https://careers.siriusxm.com/careers/jobs/13522?lang=en-us) | New York, NY | 9/6
 | [Oracle - UI/UX Designer/Developer (3-5 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/179506?utm_medium=jobboard&utm_source=LinkedIn) | Reston, VA | 9/5
 | [Cardinal Health - UI/UX Designer - Design Systems (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/uiux-designer---design-systems/63dec652-affd-4a8f-bac7-458cf21f1c3d?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin) | Dublin, OH | 9/5
 | [The Hartford - Junior UX Designer](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Junior-UX-Designer_R2210351-1) | Hartford, CT | 9/5
