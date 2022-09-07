@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [LinkSquares - Product Designer (1 YoE)](https://linksquares.com/careers/open-positions/?gh_jid=4067531005) | Remote | 9/7
 | [Babson College - Multimedia and UX Designer I (2 YoE)](https://vizi.vizirecruiter.com/Babson-College-3002/217080/index.html) | Babson Park, MA | 9/7
 | [T Mobile - Content Designer (3 YoE)](https://careers.t-mobile.com/job-details/16639676/?codes=INT-LinkedIn) | Bellevue, WA | 9/7
 | [Xero - Associate Product Designer - New York - Remote](https://jobs.lever.co/xero/cf96cd79-5bf3-4169-94f0-9f784370700a) | Remote | 9/7
@@ -232,6 +233,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Silicon Valley Bank - UX Data Scientist (BS)](https://svb.wd5.myworkdayjobs.com/svbank/job/California---Remote/UX-Data-Scientist_19517-1?SID=38) | Remote | Summer 2023 | 9/7
+| [SimplePractice - Content Design](https://www.simplepractice.com/careers-list/?gh_jid=4655932004&gh_src=ba8703724us) | Santa Monica, CA/Remote | Summer 2023 | 9/7
 | [AMP - UX/UI](https://www.linkedin.com/jobs/view/3256780465) | Santa Fe Springs, CA | Summer 2023 | 9/7
 | [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/6368246002?s=LinkedIn&source=LinkedIn) | Multiple locations | Summer 2023 | 9/7
 | [Garmin - Product Design](https://careers.garmin.com/careers-home/auth/1/login?jobId=9002) | Olathe, KS | Summer 2023 | 9/7
