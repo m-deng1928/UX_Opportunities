@@ -307,6 +307,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [RingCentral - Product Design Fellowship](https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/details/Product-Designer-Fellow_R065782) | Summer 2022 | 9/7
 | [Upperstudy - Product Design Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSd3U6nZu0ru_juQ6XySoavn3d5qVgO5WkwSMGuYsBKxwevt0A/viewform) | Summer 2022 | 1/24
 | [Coding it Forward - Product Design/Management Fellowship](https://www.codingitforward.com/summer-fellowships?utm_source=rsvp) | Summer 2022 | 1/5
 | [Wayfair - Global Experience Design Apprenticeship](https://apprenticareers.org/) | Summer 2022 | 10/21
