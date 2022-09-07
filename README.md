@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Babson College - Multimedia and UX Designer I (2 YoE)](https://vizi.vizirecruiter.com/Babson-College-3002/217080/index.html) | Babson Park, MA | 9/7
+| [T Mobile - Content Designer (3 YoE)](https://careers.t-mobile.com/job-details/16639676/?codes=INT-LinkedIn) | Bellevue, WA | 9/7
 | [Xero - Associate Product Designer - New York - Remote](https://jobs.lever.co/xero/cf96cd79-5bf3-4169-94f0-9f784370700a) | Remote | 9/7
 | [Redox - Associate Product Designer](https://jobs.lever.co/redoxengine/c4ee3225-d9f0-4749-9a49-a67095c66929?lever-source=LinkedInJobs) | Remote | 9/7
 | [Lockheed Martin - UI/UX Designer](https://www.lockheedmartinjobs.com/job/-/-/694/34518933248) | Multiple locations | 9/7
