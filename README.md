@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Novo Nordisk - UX Designer (3 YoE)](https://careers.novonordisk.com/job/Seattle-UX-Designer-WA-98101/814855101/) | Seattle, WA | 9/7
 | [Oracle - User Experience Designer (1 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/181331/?utm_medium=jobshare) | Portsmouth, NH or Portland, ME | 9/7
 | [LinkSquares - Product Designer (1 YoE)](https://linksquares.com/careers/open-positions/?gh_jid=4067531005) | Remote | 9/7
 | [Babson College - Multimedia and UX Designer I (2 YoE)](https://vizi.vizirecruiter.com/Babson-College-3002/217080/index.html) | Babson Park, MA | 9/7
