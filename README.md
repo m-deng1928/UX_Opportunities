@@ -28,6 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Visa - Design Researcher (2 YoE)](https://jobs.smartrecruiters.com/Visa/743999817290604-design-researcher?source=Linkedin) | New York, NY | 9/6
+| [Visa - Product Designer (2 YoE)](https://jobs.smartrecruiters.com/Visa/743999845027861-product-designer?source=Linkedin) | Foster City, CA | 9/6
+| [Twitch - User Experience Researcher (Rapid Research) (2 YoE)](https://www.amazon.jobs/en/jobs/2225893/user-experience-researcher-rapid-research?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | San Francisco, CA | 9/6
 | [Twitch - User Experience Researcher (Rapid Research) (2 YoE)](https://www.amazon.jobs/en/jobs/2225893/user-experience-researcher-rapid-research?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | San Francisco, CA | 9/6
 | [JP Morgan Chase - Associate Product Designer (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210249881/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ/New York, NY/Plano, TX | 9/6
 | [SiriusXM - UX/UI Designer (2-3 YoE)](https://careers.siriusxm.com/careers/jobs/13522?lang=en-us) | New York, NY | 9/6
