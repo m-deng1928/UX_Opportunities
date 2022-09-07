@@ -28,6 +28,12 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Xero - Associate Product Designer - New York - Remote](https://jobs.lever.co/xero/cf96cd79-5bf3-4169-94f0-9f784370700a) | Remote | 9/7
+| [Redox - Associate Product Designer](https://jobs.lever.co/redoxengine/c4ee3225-d9f0-4749-9a49-a67095c66929?lever-source=LinkedInJobs) | Remote | 9/7
+| [Lockheed Martin - UI/UX Designer](https://www.lockheedmartinjobs.com/job/-/-/694/34518933248) | Multiple locations | 9/7
+| [Lucid Motors - UI/UX Designer (3 YoE)](https://jobs.lever.co/lucidmotors/1d1737f2-9301-4a95-bdfa-cd5e306a78bb?lever-origin=applied&lever-source%255B%255D=LinkedIn) | Newark, CA | 9/7
+| [Goodwill of Central & Northern Arizona - Product Designer (3 YoE)](https://goodwillaz.wd1.myworkdayjobs.com/GoodwillAZ/job/Goodwill-Corporate-Office-25th-Ave--Peoria/Product-Designer_R10129) | Phoenix, AZ | 9/7
+| [Verde Finance - Product Designer (2 YoE)](https://careers.verde.finance/jobs/7IJA2kO15_n9/product-designer) | Remote | 9/7
 | [Visa - Design Researcher (2 YoE)](https://jobs.smartrecruiters.com/Visa/743999817290604-design-researcher?source=Linkedin) | New York, NY | 9/6
 | [Visa - Product Designer (2 YoE)](https://jobs.smartrecruiters.com/Visa/743999845027861-product-designer?source=Linkedin) | Foster City, CA | 9/6
 | [Twitch - User Experience Researcher (Rapid Research) (2 YoE)](https://www.amazon.jobs/en/jobs/2225893/user-experience-researcher-rapid-research?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | San Francisco, CA | 9/6
@@ -224,6 +230,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/6368246002?s=LinkedIn&source=LinkedIn) | Multiple locations | Summer 2023 | 9/7
+| [Garmin - Product Design](https://careers.garmin.com/careers-home/auth/1/login?jobId=9002) | Olathe, KS | Summer 2023 | 9/7
+| [Verde Finance - Product Design](https://careers.verde.finance/jobs/8Mkhn90k07Pj/product-designer-intern) | Remote | Summer 2023 | 9/7
+| [Signify - Product Design Engineering](https://www.careers.signify.com/global/en/job/330018/?utm_source=linkedin&utm_medium=jobposting&utm_campaign=linkedin_jobwrapping) | Boston, MA | Fall 2022 | 9/7
 | [Uline - User Experience Researcher (BS)](https://www.uline.jobs/JobDetails?culture=en&jobid=R224620&jobtitle=User-Experience-Researcher-Internship---Summer-2023) | Pleasant Prairie, WI | Summer 2023 | 9/3
 | [Bayer - User Experience Design](https://jobs.bayer.com/job/Residence-Based-User-Experience-Design-Intern-Resi/845129201/?utm_source=LINKEDIN&utm_medium=referrer) | St Louis, MI | Summer 2023 | 9/2
 | [Nissan - AI & User Experience Researcher](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/Intern--AI---User-Experience-Researcher_R00118757?source=Linkedin) | San Jose, CA | Fall 2022 | 9/2
