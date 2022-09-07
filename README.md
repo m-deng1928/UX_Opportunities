@@ -230,6 +230,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [AMP - UX/UI](https://www.linkedin.com/jobs/view/3256780465) | Santa Fe Springs, CA | Summer 2023 | 9/7
 | [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/6368246002?s=LinkedIn&source=LinkedIn) | Multiple locations | Summer 2023 | 9/7
 | [Garmin - Product Design](https://careers.garmin.com/careers-home/auth/1/login?jobId=9002) | Olathe, KS | Summer 2023 | 9/7
 | [Verde Finance - Product Design](https://careers.verde.finance/jobs/8Mkhn90k07Pj/product-designer-intern) | Remote | Summer 2023 | 9/7
