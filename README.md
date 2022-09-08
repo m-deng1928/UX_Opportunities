@@ -235,6 +235,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Symbotic - User Experience Designer (BS)](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin) | Wilmington, MA | Summer 2023 (?) | 9/7
 | [Silicon Valley Bank - UX Data Scientist (BS)](https://svb.wd5.myworkdayjobs.com/svbank/job/California---Remote/UX-Data-Scientist_19517-1?SID=38) | Remote | Summer 2023 | 9/7
 | [SimplePractice - Content Design](https://www.simplepractice.com/careers-list/?gh_jid=4655932004&gh_src=ba8703724us) | Santa Monica, CA/Remote | Summer 2023 | 9/7
 | [AMP - UX/UI](https://www.linkedin.com/jobs/view/3256780465) | Santa Fe Springs, CA | Summer 2023 | 9/7
