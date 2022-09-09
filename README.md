@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Vivun - Junior Product Designer (3 YoE)](https://jobs.lever.co/Vivun/c2f13471-9fdf-4a67-83a3-55b67f552dbd/apply?lever-source=LinkedIn) | Oakland, CA | 9/9
 | [Wellmark Technology - Technology Associate Program](https://jobs.smartrecruiters.com/WellmarkInc/743999849771711-technology-associate-program-new-grad-2-year-rotational-program-) | Des Moines, IA | 9/8
 | [Novo Nordisk - UX Designer (3 YoE)](https://careers.novonordisk.com/job/Seattle-UX-Designer-WA-98101/814855101/) | Seattle, WA | 9/7
 | [Oracle - User Experience Designer (1 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/181331/?utm_medium=jobshare) | Portsmouth, NH or Portland, ME | 9/7
