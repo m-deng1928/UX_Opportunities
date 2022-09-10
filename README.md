@@ -28,9 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
-| [Lightforce Games - UX Designer](https://www.lightforge.gg/careers?gh_jid=4002959005) | Remote | 9/2
-| [Cresta - UX Researcher (AI-Assisted Products) - Contractor (3 YoE)(MS)](https://jobs.lever.co/cresta/c2209efb-ff83-4a68-acaa-db0e1ef1a1b9?lever-source=LinkedInJobs) | Remote | 9/2
-| [Esri - System Designer – UX/UI Marketing (2-3 YoE)](https://www.esri.com/careers/system-designer-ux-ui-marketing-17097?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 9/2
+| [Lightforce Games - UX Designer](https://www.lightforge.gg/careers?gh_jid=4002959005) | Remote | 9/9
+| [Cresta - UX Researcher (AI-Assisted Products) - Contractor (3 YoE)(MS)](https://jobs.lever.co/cresta/c2209efb-ff83-4a68-acaa-db0e1ef1a1b9?lever-source=LinkedInJobs) | Remote | 9/9
+| [Esri - System Designer – UX/UI Marketing (2-3 YoE)](https://www.esri.com/careers/system-designer-ux-ui-marketing-17097?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 9/9
 | [Vivun - Visual Designer I, Email](https://jobs.lever.co/attentive/8a7bd112-21c6-483e-b0bc-ec55e4692786) | New York, NY | 9/9
 | [KIND - Digital Designer (3 YoE)](https://www.linkedin.com/jobs/view/3247403299/?refId=4b9709ad-956f-4336-b301-9b068e54dcec&trackingId=Df%2FN2809SCWKpQGUtWZ6DA%3D%3D&trk=flagship3_job_home_savedjobs) | New York, NY | 9/9
 | [Guidehouse - UX Consultant (1-3 YoE)](https://careers.guidehouse.com/jobs/17872?lang=en-us&iis=job+board&iisn=linkedin?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Core_Media&utm_content=social_media&utm_term=277974857&ss=paid) | Washington D.C. | 9/9
@@ -247,7 +247,6 @@ Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
 | [Crowdstrike - User Interface](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/User-Interface--UI--Intern--Remote-_R10309?source=LinkedIn_jobs) | Remote | Summer 2023 | 9/9
-| [GM - Digital Transformation - Digital Experience Analyst](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2023-Summer-Intern---Digital-Transformation---Digital-Experience-Analyst_JR-000087716?source=LinkedIn) | Detroit, MI | Summer 2023 | 9/9
 | [Symbotic - User Experience Designer (BS)](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin) | Wilmington, MA | Summer 2023 (?) | 9/7
 | [Silicon Valley Bank - UX Data Scientist (BS)](https://svb.wd5.myworkdayjobs.com/svbank/job/California---Remote/UX-Data-Scientist_19517-1?SID=38) | Remote | Summer 2023 | 9/7
 | [SimplePractice - Content Design](https://www.simplepractice.com/careers-list/?gh_jid=4655932004&gh_src=ba8703724us) | Santa Monica, CA/Remote | Summer 2023 | 9/7
