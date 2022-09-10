@@ -28,6 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [ESPN - Digital Designer I, Grande & Leonard Creative](https://jobs.disneycareers.com/job/-/-/391/35829197264) | New York, NY | 9/10
+| [Hubspot - Product Designer](https://boards.greenhouse.io/embed/job_app?token=4538611&gh_src=240b46771) | Remote | 9/10
+| [Apple - User Research Scientist/Engineering - Human Engineering](https://jobs.apple.com/en-us/details/200422663/user-research-scientist-engineering-human-engineering) | Cupertino, CA | 9/10
 | [Lightforce Games - UX Designer](https://www.lightforge.gg/careers?gh_jid=4002959005) | Remote | 9/9
 | [Cresta - UX Researcher (AI-Assisted Products) - Contractor (3 YoE)(MS)](https://jobs.lever.co/cresta/c2209efb-ff83-4a68-acaa-db0e1ef1a1b9?lever-source=LinkedInJobs) | Remote | 9/9
 | [Esri - System Designer – UX/UI Marketing (2-3 YoE)](https://www.esri.com/careers/system-designer-ux-ui-marketing-17097?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 9/9
@@ -246,6 +249,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid) | Atlanta, GA | Summer 2023 | 9/9
 | [Autodesk - Product Design](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---California---San-Francisco---One-Market/Product-Design-Intern_22WD63742?src=JB-10065) | San Francisco, CA | Summer 2023 | 9/10
 | [Crowdstrike - User Interface](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/User-Interface--UI--Intern--Remote-_R10309?source=LinkedIn_jobs) | Remote | Summer 2023 | 9/9
 | [Symbotic - User Experience Designer (BS)](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin) | Wilmington, MA | Summer 2023 (?) | 9/7
