@@ -250,7 +250,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid) | Atlanta, GA | Summer 2023 | 9/9
+| [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid) | Atlanta, GA | Summer 2023 | 9/10
 | [Autodesk - Product Design](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---California---San-Francisco---One-Market/Product-Design-Intern_22WD63742?src=JB-10065) | San Francisco, CA | Summer 2023 | 9/10
 | [Crowdstrike - User Interface](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/User-Interface--UI--Intern--Remote-_R10309?source=LinkedIn_jobs) | Remote | Summer 2023 | 9/9
 | [Symbotic - User Experience Designer (BS)](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin) | Wilmington, MA | Summer 2023 (?) | 9/7
