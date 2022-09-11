@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Yext - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3202772020) | New York, NY | 9/11
 | [CNH Industrial - UI/UX Researcher (3 YoE)](https://careers-cnhind.icims.com/jobs/20308/ui-ux-researcher/job?mode=job&iis=Job+Board&iisn=LinkedIn) | Remote (?) | 9/11
 | [Target - Associate Designer, Inclusive Products](https://jobs.target.com/job/-/-/1118/35894919696?source=linkedin_jobposting&utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CNbnmZ2Zi_oCFULewAod_qINDw) | Minneapolis, MN | 9/10
 | [ESPN - Digital Designer I, Grande & Leonard Creative](https://jobs.disneycareers.com/job/-/-/391/35829197264) | New York, NY | 9/10
