@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Cisco - Product Designer - CDR](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1377344&user=1) | Remote | 9/13
 | [Amazon Web Servies - UX Researcher, CX Health (3 YoE)](https://www.amazon.jobs/en/jobs/2228052/ux-researcher-cx-health?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Irvine, CA | 9/13
 | [Northern Trust - Design Researcher](https://careers.northerntrust.com/jobs/design-researcher-33078?src=sns-102) | Chicago, IL | 9/13
 | [American Red Cross - Associate Service Designer – Digital Product Management (2 YoE)](https://www.linkedin.com/jobs/view/3202772020) | New York, NY | 9/13
