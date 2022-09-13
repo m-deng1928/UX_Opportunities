@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [JP Morgan Chase - User Experience Researcher (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/requisitions/preview/210332606/?mode=location) | San Francisco, CA | 9/13
 | [Cisco - Product Designer - CDR](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1377344&user=1) | Remote | 9/13
 | [Amazon Web Servies - UX Researcher, CX Health (3 YoE)](https://www.amazon.jobs/en/jobs/2228052/ux-researcher-cx-health?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Irvine, CA | 9/13
 | [Northern Trust - Design Researcher](https://careers.northerntrust.com/jobs/design-researcher-33078?src=sns-102) | Chicago, IL | 9/13
