@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Nuance Communications - Conversational Experience Designer](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Agoura-Hills-California-US/Conversation-Experience-Designer_106094-1?source=LinkedIn) | Remote | 9/14
 | [BlueCross BlueShield Minnesota - Experience Designer (2 YoE)](https://stellahealth.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Experience-Designer_R0002874-1?source=Linkedin) | Eagan, MN | 9/13
 | [New Relic - Associate Product Designer](https://newrelic.careers/careers/JobDetail/Associate-Product-Designer/2858?s=LinkedIn&nl=0) | San Francisco, CA | 9/13
 | [JP Morgan Chase - User Experience Researcher (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/requisitions/preview/210332606/?mode=location) | San Francisco, CA | 9/13
