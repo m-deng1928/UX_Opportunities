@@ -265,6 +265,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Workiva - UX Research Operations](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UX-Research-Operations-Intern_R5885?source=LinkedIn) | Remote | Spring 2023 | 9/15
 | [PwC - Products & Tech - PwC Labs Designer Associate](https://jobs.us.pwc.com/job/-/-/932/33431421584?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CMvrqrX7jvoCFcd4wQod7f4Lvg) | Multiple locations | Summer 2023/Fall 2023 | 9/12
 | [Santander - User Experience](https://www.santandercareers.com/job/-/-/1771/35929066048?source=rd_linkedin&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=CBB&utm_content=social_media&utm_term=323725941&ss=paid&dclid=CKzkqb71jPoCFd3I9gId3fAPdA) | Miami, FL | Summer 2023 | 9/11
 | [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid) | Atlanta, GA | Summer 2023 | 9/10
