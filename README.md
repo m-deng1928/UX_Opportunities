@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Mobile Health - Junior UX/UI Designer](https://jobs.apploi.com/view/881686?utm_campaign=integration&utm_medium=job-board-feed&utm_source=linkedin-feed) | Remote | 9/15
+| [Vanguard - UX/UI Design Strategist](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Digital-Design-Strategist_150362) | Malvern, PA/Charlotte, NC | 9/15
 | [BetterUp - Learning Experience Designer (3 YoE)](https://boards.greenhouse.io/betterup/jobs/4264002?gh_src=j6pt7f1&s=LinkedIn&source=LinkedIn) | Remote | 9/15
 | [Invesco - UI/UX Engineer](https://careers.invesco.com/job/16637854/ui-ux-engineer-boston-ma/) | Boston, MA | 9/15
 | [Nuance Communications - Conversational Experience Designer](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Agoura-Hills-California-US/Conversation-Experience-Designer_106094-1?source=LinkedIn) | Remote | 9/14
