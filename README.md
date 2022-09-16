@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [The Washington Post - Design Editor](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Design-Editor_JR-90273940?source=APPLICANT_SOURCE-LinkedIn-Sponsored) | Washington D.C. | 9/16
 | [Forward - Product Designer (New Grad)](https://jobs.lever.co/goforward/6c814866-e7f0-4a20-9882-c7fa646cebc7?lever-source=LinkedInJobs) | San Francisco, CA | 9/15
 | [Airtable - Visual Designer](https://boards.greenhouse.io/airtable/jobs/6334980002?gh_src=aef790d02us) | San Francisco, CA | 9/15
 | [Zillow - Product Designer (3-5 YoE)](https://zillowgroup.eightfold.ai/careers/job/240528877178?domain=zillowgroup.com) | Remote | 9/15
