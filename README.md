@@ -267,6 +267,13 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Allegion - Internation Designer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Interaction-Design_JR23445-2) | Carmel, IN | Summer 2023 | 9/16
+| [Appian - User Experience Design Intern](https://app.ripplematch.com/job/appian/633b1cc3/) | McLean, VA | Summer 2023 | 9/16
+| [Nutanix - Product Designer](https://nutanix.eightfold.ai/careers?query=22276&pid=13226758&domain=nutanix.com) | Remote | Summer 2023 | 9/16
+| [West Monroe - Experience Designer](https://www.westmonroe.com/careers/job-search-students/apply?gh_jid=4656787004) | Chicago, Los Angeles, Minneapolis or Seattle | Summer 2023 | 9/16
+| [West Monroe - Product Designer](https://www.westmonroe.com/careers/job-search-students/apply?gh_jid=4656750004) | Chicago, Los Angeles, Minneapolis or Seattle | Summer 2023 | 9/16
+| [Shure - User Experience Design Intern](https://careers-shure.icims.com/jobs/2797/user-experience-design-intern/job) | Niles, Illinois | Summer 2023 | 9/16
+| [Shure - Design Research Intern](https://careers-shure.icims.com/jobs/2802/design-research-intern/job) | Niles, Illinois | Summer 2023 | 9/16
 | [Workiva - UX Research Operations](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---UX-Research-Operations-Intern_R5885?source=LinkedIn) | Remote | Spring 2023 | 9/15
 | [PwC - Products & Tech - PwC Labs Designer Associate](https://jobs.us.pwc.com/job/-/-/932/33431421584?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CMvrqrX7jvoCFcd4wQod7f4Lvg) | Multiple locations | Summer 2023/Fall 2023 | 9/12
 | [Santander - User Experience](https://www.santandercareers.com/job/-/-/1771/35929066048?source=rd_linkedin&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=CBB&utm_content=social_media&utm_term=323725941&ss=paid&dclid=CKzkqb71jPoCFd3I9gId3fAPdA) | Miami, FL | Summer 2023 | 9/11
@@ -280,7 +287,7 @@ Intern
 | [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/6368246002?s=LinkedIn&source=LinkedIn) | Multiple locations | Summer 2023 | 9/7
 | [Garmin - Product Design](https://careers.garmin.com/careers-home/auth/1/login?jobId=9002) | Olathe, KS | Summer 2023 | 9/7
 | [Verde Finance - Product Design](https://careers.verde.finance/jobs/8Mkhn90k07Pj/product-designer-intern) | Remote | Summer 2023 | 9/7
-| [Signify - Product Design Engineering](https://www.careers.signify.com/global/en/job/330018/?utm_source=linkedin&utm_medium=jobposting&utm_campaign=linkedin_jobwrapping) | Boston, MA | Fall 2022 | 9/7
+| [Signify - Product Design Engineering](https://www.careers.signify.com/global/en/job/330018/?utm_source=linkedin&utm_medium=jobposting&utm_campaign=linkedin_jobwrng) | Boston, MA | Fall 2022 | 9/7
 | [Uline - User Experience Researcher (BS)](https://www.uline.jobs/JobDetails?culture=en&jobid=R224620&jobtitle=User-Experience-Researcher-Internship---Summer-2023) | Pleasant Prairie, WI | Summer 2023 | 9/3
 | [Bayer - User Experience Design](https://jobs.bayer.com/job/Residence-Based-User-Experience-Design-Intern-Resi/845129201/?utm_source=LINKEDIN&utm_medium=referrer) | St Louis, MI | Summer 2023 | 9/2
 | [Nissan - AI & User Experience Researcher](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Silicon-Valley/Intern--AI---User-Experience-Researcher_R00118757?source=Linkedin) | San Jose, CA | Fall 2022 | 9/2
