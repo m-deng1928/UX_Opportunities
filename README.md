@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | ------------- 
+| [Forward - Product Designer (New Grad)](https://jobs.lever.co/goforward/6c814866-e7f0-4a20-9882-c7fa646cebc7?lever-source=LinkedInJobs) | San Francisco, CA | 9/15
 | [Airtable - Visual Designer](https://boards.greenhouse.io/airtable/jobs/6334980002?gh_src=aef790d02us) | San Francisco, CA | 9/15
 | [Zillow - Product Designer (3-5 YoE)](https://zillowgroup.eightfold.ai/careers/job/240528877178?domain=zillowgroup.com) | Remote | 9/15
 | [Mobile Health - Junior UX/UI Designer](https://jobs.apploi.com/view/881686?utm_campaign=integration&utm_medium=job-board-feed&utm_source=linkedin-feed) | Remote | 9/15
