@@ -269,6 +269,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Workiva - Quantitative User Experience (BS)](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---Quantitative-User-Experience-Intern_R5533?source=LinkedIn) | Remote | Spring 2023 | 9/18
 | [Allegion - Internation Designer](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Interaction-Design_JR23445-2) | Carmel, IN | Summer 2023 | 9/16
 | [Appian - User Experience Design Intern](https://app.ripplematch.com/job/appian/633b1cc3/) | McLean, VA | Summer 2023 | 9/16
 | [Nutanix - Product Designer](https://nutanix.eightfold.ai/careers?query=22276&pid=13226758&domain=nutanix.com) | Remote | Summer 2023 | 9/16
