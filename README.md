@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Adobe - Experience Designer, Premiere Pro (2 YoE))](https://careers.adobe.com/us/en/job/ADOBUSR125366EXTERNALENUS/Experience-Designer-Premiere-Pro?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | San Francisco, CA/San Jose, CA/Seattle ,WA | 9/19
 | [AcreTrader - UX Researcher (2 YoE)](https://acretrader-inc.rippling-ats.com/job/431997/ux-researcher) | Fayetteville, AK | 9/19
 | [Meta - Product Design Prototyper, Reality Labs (2 YoE)](https://www.metacareers.com/jobs/1476145706204560/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008UMn4UAG&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220917T060317Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Menlo Park, CA/Burlingame, CA/Remote | 9/17
 | [The Washington Post - Design Editor](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Design-Editor_JR-90273940?source=APPLICANT_SOURCE-LinkedIn-Sponsored) | Washington D.C. | 9/16
