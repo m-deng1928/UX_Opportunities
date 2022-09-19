@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Bank of America - Experience Design Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-984e146c0e58/candidate/so/pm/1/pl/1/opp/9118-Experience-Design-Analyst-Program-2023/en-GB) | Charlotte, NC/San Francisco, CA/Boston, MA | 9/19
 | [Adobe - Experience Designer, Premiere Pro (2 YoE))](https://careers.adobe.com/us/en/job/ADOBUSR125366EXTERNALENUS/Experience-Designer-Premiere-Pro?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | San Francisco, CA/San Jose, CA/Seattle ,WA | 9/19
 | [AcreTrader - UX Researcher (2 YoE)](https://acretrader-inc.rippling-ats.com/job/431997/ux-researcher) | Fayetteville, AK | 9/19
 | [Meta - Product Design Prototyper, Reality Labs (2 YoE)](https://www.metacareers.com/jobs/1476145706204560/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008UMn4UAG&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220917T060317Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Menlo Park, CA/Burlingame, CA/Remote | 9/17
