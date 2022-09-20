@@ -28,7 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Activision - User Research Moderator](https://careers.activision.com/job/ACPUUSR017699EXTERNAL/User-Research-Moderator?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 6/30
+| [Activision - User Research Moderator](https://careers.activision.com/job/ACPUUSR017699EXTERNAL/User-Research-Moderator?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 9/20
 | [Bank of America - Experience Design Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-984e146c0e58/candidate/so/pm/1/pl/1/opp/9118-Experience-Design-Analyst-Program-2023/en-GB) | Charlotte, NC/San Francisco, CA/Boston, MA | 9/19
 | [Adobe - Experience Designer, Premiere Pro (2 YoE))](https://careers.adobe.com/us/en/job/ADOBUSR125366EXTERNALENUS/Experience-Designer-Premiere-Pro?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | San Francisco, CA/San Jose, CA/Seattle ,WA | 9/19
 | [AcreTrader - UX Researcher (2 YoE)](https://acretrader-inc.rippling-ats.com/job/431997/ux-researcher) | Fayetteville, AK | 9/19
