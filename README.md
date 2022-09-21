@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Arup - Graduate Software Experience Designer (Available 2023)](https://jobs.arup.com/jobs/graduate-software-experience-designer-available-2023-13299) | New York, NY | 9/21
 | [Caravana - Product Designer (2-5 YoE))](https://www.carvana.com/careers/apply?gh_jid=4565960) | Los Angeles, CA/Phoenix, AZ | 9/21
 | [General Motors - User Researcher Center of Excellence CX)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/User-Researcher-Center-of-Excellence-CX_JR-000095423?source=LinkedIn) | Warren, MI | 9/21
 | [Airtable - Content Designer I](https://boards.greenhouse.io/airtable/jobs/6277852002?gh_src=aef790d02us) | Mountain View, CA | 9/21
