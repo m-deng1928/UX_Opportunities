@@ -226,6 +226,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Gulfstream Aerospace Corporation - Human Factors](https://careers.gulfstream.com/job/Savannah-Summer-2023-Human-Factors-Intern-GA-31401/937260300/?feedId=325100&utm_source=Indeed&utm_campaign=Gulfstream_Indeed&jobPipeline=Indeed) | Savannah, GA | Summer 2023 | 9/21
 | [Disney - Consumer Insight](https://jobs.disneycareers.com/job/celebration/consumer-insight-internship-spring-2023/391/35867375520) | Celebration, FL | Spring 2023 | 9/21
 | [Disney - UX Design and Digital Production](https://jobs.disneycareers.com/job/-/-/391/36522630768) | Glendale, CA | Spring 2023 | 9/21
 | [Pattern - UX Design](https://pattern.breezy.hr/p/fac3fa46f7fa-internship-ux-design) | Lehi, UT | Summer 2023 | 9/20
