@@ -28,7 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [General Motors - User Researcher Center of Excellence CX)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/User-Researcher-Center-of-Excellence-CX_JR-000095423?source=LinkedIn) | warren, MI | 9/21
+| [Caravana - Product Designer (2-5 YoE))](https://www.carvana.com/careers/apply?gh_jid=4565960) | Los Angeles, CA/Phoenix, AZ | 9/21
+| [General Motors - User Researcher Center of Excellence CX)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/User-Researcher-Center-of-Excellence-CX_JR-000095423?source=LinkedIn) | Warren, MI | 9/21
 | [Airtable - Content Designer I](https://boards.greenhouse.io/airtable/jobs/6277852002?gh_src=aef790d02us) | Mountain View, CA | 9/21
 | [Elementum - Product Designer I](https://www.linkedin.com/jobs/view/3264731280) | Lehi, UT | 9/21
 | [JP Morgan Chase - User Experience Researcher (2 YoE/BS)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210236659/?utm_medium=jobshare&src=LinkedIn_JPMC) | Palo Alto, CA/Plano, TX/Chicago, IL | 9/20
