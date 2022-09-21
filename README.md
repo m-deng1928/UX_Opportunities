@@ -226,6 +226,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Disney - UX Design and Digital Production](https://jobs.disneycareers.com/job/-/-/391/36522630768) | Glendale, CA | Spring 2023 | 9/21
 | [Pattern - UX Design](https://pattern.breezy.hr/p/fac3fa46f7fa-internship-ux-design) | Lehi, UT | Summer 2023 | 9/20
 | [Zoox - Technical Writer](https://jobs.lever.co/zoox/f126fa3a-0042-4295-a828-5a9cfead7efb?lever-source=LinkedInJobs) | Foster City, CA | Summer 2023 | 9/19
 | [Workiva - Quantitative User Experience (BS)](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2023-Spring---Quantitative-User-Experience-Intern_R5533?source=LinkedIn) | Remote | Spring 2023 | 9/18
