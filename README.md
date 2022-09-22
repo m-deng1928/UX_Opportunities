@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Wayfair - Technical Writer](https://www.wayfair.com/careers/job/technical-writer-/5940263002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5940263002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220921T000302Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Seattle, WA | 9/22
 | [Bank of America - Experience Design Associate (MS)](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-007698844848/candidate/so/pm/1/pl/1/opp/9119-Experience-Design-Associate-Program-2023/en-GB) | Charlotte, NC/San Francisco, CA/Boston, MA | 9/22
 | [Anthrotech - User Experience Researcher (3 YoE)](https://careers.jobscore.com/careers/anthrotech/jobs/user-experience-researcher-ccj_6nw2DfMQYH3mNbtKZU?ref=rss&sid=68) | Remote | 9/22
 | [Nuance - UX Researcher - Healthcare User Experience (3 YoE)](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Salt-Lake-City-Utah-US/UX-Researcher---Healthcare-User-Experience_105364?source=LinkedIn) | Salt Lake City, UT | 9/22
