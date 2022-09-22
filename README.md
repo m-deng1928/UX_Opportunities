@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Ford - Experience Designer (3 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25385&siteid=5186&Areq=63742BR#jobDetails=597800_5186) | Remote | 9/22
 | [Activision - Associate User Researcher](https://careers.activision.com/job/ACPUUSR017700EXTERNAL/Associate-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 9/22
 | [Arup - Graduate Software Experience Designer (Available 2023)](https://jobs.arup.com/jobs/graduate-software-experience-designer-available-2023-13299) | New York, NY | 9/21
 | [Caravana - Product Designer (2-5 YoE))](https://www.carvana.com/careers/apply?gh_jid=4565960) | Los Angeles, CA/Phoenix, AZ | 9/21
