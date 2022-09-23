@@ -28,7 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [JP Morgan Chase - Associate Product Designer)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210342233/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ | 9/23
+| [CoStar Group - Homes - Associate UI Developer](https://www.linkedin.com/jobs/view/3260538217) | Irvine, CA | 9/23
+| [JP Morgan Chase - Associate Product Designer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210342233/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ | 9/23
 | [Delta Denta of Washington - User Experience (UX) Researcher (2 YoE)](https://recruiting.ultipro.com/WAS1006WADEN/JobBoard/7e58dffa-c060-4f5c-89a8-415b768055e9/OpportunityDetail?opportunityId=3c8666d2-5b29-4f7a-924b-60d7fb1885a8&utm_source=LINKEDIN) | Seattle, WA | 9/23
 | [Wayfair - Technical Writer](https://www.wayfair.com/careers/job/technical-writer-/5940263002?gh_src=a32ad8192&rx_campaign=Linkedin1&rx_group=116511&rx_job=5940263002&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220921T000302Z&__jvst=JobBoard&__jvsd=LinkedIn&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Seattle, WA | 9/22
 | [Bank of America - Experience Design Associate (MS)](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-007698844848/candidate/so/pm/1/pl/1/opp/9119-Experience-Design-Associate-Program-2023/en-GB) | Charlotte, NC/San Francisco, CA/Boston, MA | 9/22
