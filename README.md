@@ -238,6 +238,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Jerry - Research](https://jobs.ashbyhq.com/Jerry/5fb9cdcf-6a3b-4c77-ade9-42cf58c2a1be/application?utm_source=nrdvbko4PA) | Multiple locations | Summer 2023 | 9/24
+| [Cruise - Brand Design](https://boards.greenhouse.io/cruise/jobs/4563121?gh_jid=4563121&gh_src=1xdap08r1) | San Francisco, CA | Summer 2023 | 9/24
 | [BCG - User Experience](https://careers.bcg.com/job/BCG1US18549BREXTERNALENUS/User-Experience-Co-Op?utm_source=linkedin&utm_medium=phenom-feeds) | Boston, MA | Summer 2023 | 9/21
 | [Gulfstream Aerospace Corporation - Human Factors](https://careers.gulfstream.com/job/Savannah-Summer-2023-Human-Factors-Intern-GA-31401/937260300/?feedId=325100&utm_source=Indeed&utm_campaign=Gulfstream_Indeed&jobPipeline=Indeed) | Savannah, GA | Summer 2023 | 9/21
 | [Disney - Consumer Insight](https://jobs.disneycareers.com/job/celebration/consumer-insight-internship-spring-2023/391/35867375520) | Celebration, FL | Spring 2023 | 9/21
