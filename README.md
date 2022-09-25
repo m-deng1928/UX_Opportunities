@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Jerry - Product Designer - Mobile](https://jobs.ashbyhq.com/Jerry/ddcf4d90-8b40-4485-b3b8-f4a41ff148a5/application?utm_source=nrdvbko4PA) | Multiple locations | 9/25
 | [Reddit - Quantitative Researcher, Consumer Products (MS)](https://boards.greenhouse.io/reddit/jobs/4586484) | Remote | 9/23
 | [CoStar Group - Homes - Associate UI Developer](https://www.linkedin.com/jobs/view/3260538217) | Irvine, CA | 9/23
 | [JP Morgan Chase - Associate Product Designer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210342233/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, NJ | 9/23
