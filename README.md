@@ -240,6 +240,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Aerojet Rocketdrive - Design Engineering](https://aerojet.searchgreatcareers.com/job/-/-/38/35449679616?p_uid=iDM4WihltQ&utm_content=pj_board&utm_campaign=all_jobs&p_sid=3aAmk6b&ss=paid&utm_medium=jobad&utm_source=indeed&dclid=CJjCmvGZsvoCFQgMaAgdP7UNuw) | Jupiter, FL | Summer 2023 | 9/26
 | [Bluebeam - Product Design (encompasses it)](https://boards.greenhouse.io/bluebeam/jobs/4541871?gh_src=gr1plk1&s=LinkedIn&source=LinkedIn) | Pasadena, CA | Summer 2023 | 9/24
 | [Jerry - Research](https://jobs.ashbyhq.com/Jerry/5fb9cdcf-6a3b-4c77-ade9-42cf58c2a1be/application?utm_source=nrdvbko4PA) | Multiple locations | Summer 2023 | 9/24
 | [Cruise - Brand Design](https://boards.greenhouse.io/cruise/jobs/4563121?gh_jid=4563121&gh_src=1xdap08r1) | San Francisco, CA | Summer 2023 | 9/24
