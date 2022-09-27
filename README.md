@@ -240,6 +240,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Truist - Experience Design Early Exposure Research Assistant ](https://careers.truist.com/job/16681131/experience-design-early-exposure-research-assistant-internship-charlotte-nc/) | Charlotte, NC | Summer 2023 | 9/26
 | [Disney - Product Design](https://jobs.disneycareers.com/job/-/-/391/36595748784) | Orlando, FL | Spring 2023 | 9/26
 | [Aerojet Rocketdrive - Design Engineering](https://aerojet.searchgreatcareers.com/job/-/-/38/35449679616?p_uid=iDM4WihltQ&utm_content=pj_board&utm_campaign=all_jobs&p_sid=3aAmk6b&ss=paid&utm_medium=jobad&utm_source=indeed&dclid=CJjCmvGZsvoCFQgMaAgdP7UNuw) | Jupiter, FL | Summer 2023 | 9/26
 | [Bluebeam - Product Design (encompasses it)](https://boards.greenhouse.io/bluebeam/jobs/4541871?gh_src=gr1plk1&s=LinkedIn&source=LinkedIn) | Pasadena, CA | Summer 2023 | 9/24
