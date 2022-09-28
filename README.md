@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Enquizit - UX Researcher](https://enquizit.catsone.com/careers/71110-General/jobs/15729263-UX-RESEARCHER-and-HCDUX-DESIGNER)| McLean, VA | 9/28
+| [Enquizit - UX Researcher & HCD/UX Designer](https://enquizit.catsone.com/careers/71110-General/jobs/15729263-UX-RESEARCHER-and-HCDUX-DESIGNER)| McLean, VA | 9/28
 | [Barclays - UX Designer](https://www.wayup.com/i-Banking-j-UX-Designer-Barclays-711989799374905/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5322926-30081340&refer=lnkxml-APPS-5322926-30081340)| Whippany, NJ | 9/28
 | [Barclays - Experience Designer](https://www.wayup.com/i-Banking-j-Experience-Designer-Barclays-705690440103215/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5322926-30630013&refer=lnkxml-APPS-5322926-30630013)| Wilmington, DE | 9/28
 | [Expedia - Quantitative User Experience Researcher I (US - Contract)(BS)](https://exp.insitecareers.com/job_posting.do?id=z22080817453527799732919&fromPage=advanceSearch&sgjy=null)| Austin, TX | 9/27
