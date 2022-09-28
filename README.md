@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Barclays - UX Designer](https://www.wayup.com/i-Banking-j-UX-Designer-Barclays-711989799374905/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5322926-30081340&refer=lnkxml-APPS-5322926-30081340)| Whippany, NJ | 9/28
+| [Barclays - Experience Designer](https://www.wayup.com/i-Banking-j-Experience-Designer-Barclays-705690440103215/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5322926-30630013&refer=lnkxml-APPS-5322926-30630013)| Wilmington, DE | 9/28
 | [Expedia - Quantitative User Experience Researcher I (US - Contract)(BS)](https://exp.insitecareers.com/job_posting.do?id=z22080817453527799732919&fromPage=advanceSearch&sgjy=null)| Austin, TX | 9/27
 | [Expedia - UX Content Designer](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FAustin-Domain-11---HomeAway%2FXMLNAME-2023-New-Graduate---UX-Content-Designer-I_R-77080%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1629576742896a0ebhn4is%26pk_vid%3D8508135379d0d1bd16642789527b0b65)| Austin, TX | 9/27
 | [Hyland - User Experience Researcher I](https://careers-hyland.icims.com/jobs/10415/user-experience-researcher-1/job?mobile=false&width=1110&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | 9/27
