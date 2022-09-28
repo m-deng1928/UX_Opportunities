@@ -248,6 +248,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Electronic Arts - TS4 Experience Design](https://ea.gr8people.com/jobs/175924/ts4-experience-design-intern) | Redwood City, CA | Summer 2023 | 9/28
 | [Redfin - UX Research](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/UX-Research--2023-Internship_49430-1) | Seattle, WA | Summer 2023 | 9/27
 | [Redfin - Product Design](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Design--2023-Internship_49175-1) | Remote | Summer 2023 | 9/27
 | [Truist - Experience Design Early Exposure Research Assistant ](https://careers.truist.com/job/16681131/experience-design-early-exposure-research-assistant-internship-charlotte-nc/) | Charlotte, NC | Summer 2023 | 9/27
