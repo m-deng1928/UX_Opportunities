@@ -248,6 +248,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [IBM - Design Research (Cloud Design)(BS)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&jobid=628801#jobDetails=628801_5016) | Multiple locations | Summer 2023 | 9/28
 | [State Farm - UX Generalist and UX Digital Content Strategist](https://jobs.statefarm.com/main/jobs/27744?lang=en-us) | Bloomington, Illinois/Dunwoody, Georgia/Tempe, Arizona | Summer 2023 | 9/28
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME--USA--2023-Summer-Intern--Sam-s-Club-UX-Designer_R-1223988?source=Advertising_Indeed_Organic&_ccid=1629576742896a0ebhn4is&ittk=YDSORGBCNK) | San Bruno, CA | Summer 2023 | 9/28
 | [Electronic Arts - TS4 Experience Design](https://ea.gr8people.com/jobs/175924/ts4-experience-design-intern) | Redwood City, CA | Summer 2023 | 9/28
