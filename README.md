@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [iHeartMedia - UX Designer (2 YoE)](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/login?redirect=%2FExternal_iHM%2Fjob%2FNew-York-NY-55th-St%2FUX-Designer_Req29614%2Fapply)| New York, NY | 9/29
 | [UKG - User Experience Researcher (2 YoE)](https://careers.ukg.com/careers/JobDetail/User-Experience-Researcher/41940?source=Internet%20-%20LinkedIn%20-%20Sponsored)| Multiple locations | 9/29
 | [Jackpot - Associate UX/UI Designer (2 YoE)](https://us.jackpot.com/careers/?gh_jid=4002314006&gh_src=305c60826us)| Remote | 9/29
 | [Rocket Travel - Experience Designer](https://boards.greenhouse.io/rocketmiles/jobs/4481362?s=LinkedIn&source=LinkedIn)| Chicago, IL | 9/29
