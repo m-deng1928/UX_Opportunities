@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [NBCUniversal - UX Prototyper, TVEverywhere (3 YoE)](https://jobs.smartrecruiters.com/NBCUniversal3/743999851328043-ux-prototyper-tveverywhere-peacock)| Los Angeles, CA | 9/28
 | [Enquizit - UX Researcher](https://enquizit.catsone.com/careers/71110-General/jobs/15729263-UX-RESEARCHER-and-HCDUX-DESIGNER)| McLean, VA | 9/28
 | [Enquizit - UX Researcher & HCD/UX Designer](https://enquizit.catsone.com/careers/71110-General/jobs/15729263-UX-RESEARCHER-and-HCDUX-DESIGNER)| McLean, VA | 9/28
 | [Barclays - UX Designer](https://www.wayup.com/i-Banking-j-UX-Designer-Barclays-711989799374905/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5322926-30081340&refer=lnkxml-APPS-5322926-30081340)| Whippany, NJ | 9/28
