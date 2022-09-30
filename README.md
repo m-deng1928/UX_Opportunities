@@ -253,6 +253,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Punchcut - Visual Design](https://punchcut.bamboohr.com/careers/19) | Remote | Spring 2023 | 9/30
 | [Datadog - Product Design Data Visualization](https://app.ripplematch.com/job/datadog/6b5dc8f0/?tl=700d9f63&from_page=tracking_link) | New York, NY | Summer 2023 | 9/29
 | [IBM - Design Research (Cloud Design)(BS)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&jobid=628801#jobDetails=628801_5016) | Multiple locations | Summer 2023 | 9/28
 | [State Farm - UX Generalist and UX Digital Content Strategist](https://jobs.statefarm.com/main/jobs/27744?lang=en-us) | Bloomington, Illinois/Dunwoody, Georgia/Tempe, Arizona | Summer 2023 | 9/28
