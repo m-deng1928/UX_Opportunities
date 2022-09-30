@@ -253,6 +253,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Tiktok - Product Design](https://careers.tiktok.com/position/7148703423239981343/detail?spread=5MWH5CQ) | Los Angeles, CA | Summer 2023 | 9/30
 | [IBM - Digital Designer, Research](https://careers.ibm.com/job/16777271/2023-intern-digital-designer-research-yorktown-heights-ny/?codes=JB_Indeed) | Yorktown Heights, NY | Summer 2023 | 9/30
 | [Punchcut - Visual Design](https://punchcut.bamboohr.com/careers/19) | Remote | Spring 2023 | 9/30
 | [Datadog - Product Design Data Visualization](https://app.ripplematch.com/job/datadog/6b5dc8f0/?tl=700d9f63&from_page=tracking_link) | New York, NY | Summer 2023 | 9/29
