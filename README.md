@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [KPMG - Associate Designer)](https://us-jobs.kpmg.com/careers/JobDetail?jobId=94444&srcCat=Direct+Contact&specSrc=LinkedIn)| Multiple locations | 10/1
 | [State Farm - UX Generalist (3-5 YoE)](https://jobs.statefarm.com/main/jobs/28439?lang=en-us&iis=LinkedIn&iisn=LinkedInx)| Multiple locations | 9/30
 | [iHeartMedia - UX Designer (2 YoE)](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/login?redirect=%2FExternal_iHM%2Fjob%2FNew-York-NY-55th-St%2FUX-Designer_Req29614%2Fapply)| New York, NY | 9/29
 | [UKG - User Experience Researcher (2 YoE)](https://careers.ukg.com/careers/JobDetail/User-Experience-Researcher/41940?source=Internet%20-%20LinkedIn%20-%20Sponsored)| Multiple locations | 9/29
