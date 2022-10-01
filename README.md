@@ -256,6 +256,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Lab Corp - IT User Experience Design](https://careers.labcorp.com/global/en/job/COVAGLOBAL2258646EXTERNALENGLOBAL/2023-IT-User-Experience-Design-Intern?utm_source=indeed&utm_campaign=indeed&source=APPLICANT_SOURCE_Indeed&utm_medium=phenom-feeds) | Durham, NC | Summer 2023 | 10/1
 | [New Relic - UI Design](https://newrelic.careers/careers/JobDetail/UI-Design-Intern/2946?s=LinkedIn&nl=0) | Remote | Fall 2022 | 10/1
 | [Oliver Wyman - Visual Communications Design](https://careers.marshmclennan.com/global/en/job/R_207171/Winter-Intern-Visual-Communication-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots) | New York, NY | Winter 2022 | 10/1
 | [Hudl - Product Design](https://boards.greenhouse.io/hudl/jobs/4508197?s=LinkedIn&source=LinkedIn) | Lincoln, NE | Summer 2023 | 10/1
