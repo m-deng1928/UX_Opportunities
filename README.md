@@ -256,6 +256,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Oliver Wyman - Visual Communications Design](https://careers.marshmclennan.com/global/en/job/R_207171/Winter-Intern-Visual-Communication-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots) | New Yok, NY | Winter 2022 | 10/1
 | [Hudl - Product Design](https://boards.greenhouse.io/hudl/jobs/4508197?s=LinkedIn&source=LinkedIn) | Lincoln, NE | Summer 2023 | 10/1
 | [Nokia - UI/UX Design](https://aluperf.referrals.selectminds.com/jobs/ui-ux-design-coop-89565) | Austin, TX | Winter 2023 | 9/30
 | [Tiktok - Product Design](https://careers.tiktok.com/position/7148703423239981343/detail?spread=5MWH5CQ) | Los Angeles, CA | Summer 2023 | 9/30
