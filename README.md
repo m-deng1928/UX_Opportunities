@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [John Deere - UX Researcher (read carefully)](https://career8.successfactors.com/career?_s.crb=gabU5cU%252baGMT2A1J3VYRe4h3LjCW4dCN0nd3qnakGYo%253d)| Urbandale, IA | 10/2
 | [Hinge Health - User Reseach Opeations](https://jobs.lever.co/hingehealth/7987732c-dc6a-4194-b199-cd0f72680603)| Multiple locations | 10/2
 | [Homeward - Junior Product Designer, Growth (1 YoE)](https://boards.greenhouse.io/homewardhealth/jobs/4102108005?s=LinkedIn&source=LinkedIn)| San Francisco, CA | 10/1
 | [KPMG - Associate Designer](https://us-jobs.kpmg.com/careers/JobDetail?jobId=94444&srcCat=Direct+Contact&specSrc=LinkedIn)| Multiple locations | 10/1
