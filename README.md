@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Hinge Health - User Reseach Opeations](https://jobs.lever.co/hingehealth/7987732c-dc6a-4194-b199-cd0f72680603)| Multiple locations | 10/2
 | [Homeward - Junior Product Designer, Growth (1 YoE)](https://boards.greenhouse.io/homewardhealth/jobs/4102108005?s=LinkedIn&source=LinkedIn)| San Francisco, CA | 10/1
 | [KPMG - Associate Designer](https://us-jobs.kpmg.com/careers/JobDetail?jobId=94444&srcCat=Direct+Contact&specSrc=LinkedIn)| Multiple locations | 10/1
 | [State Farm - UX Generalist (3-5 YoE)](https://jobs.statefarm.com/main/jobs/28439?lang=en-us&iis=LinkedIn&iisn=LinkedInx)| Multiple locations | 9/30
@@ -256,6 +257,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Autodesk - Content Design](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Content-Design---Platform-Experiences_22WD64423-1?src=JB-10065) | San Francisco, CA | Summer 2023 | 10/2
 | [IBM - Visual Designer, Weather & Alliances](https://careers.ibm.com/job/16795808/visual-design-intern-summer-2023-weather-and-alliances-remote/?codes=SN_LinkedIn) | Multiple locations | Summer 2023 | 10/2
 | [Lab Corp - IT User Experience Design](https://careers.labcorp.com/global/en/job/COVAGLOBAL2258646EXTERNALENGLOBAL/2023-IT-User-Experience-Design-Intern?utm_source=indeed&utm_campaign=indeed&source=APPLICANT_SOURCE_Indeed&utm_medium=phenom-feeds) | Durham, NC | Summer 2023 | 10/1
 | [New Relic - UI Design](https://newrelic.careers/careers/JobDetail/UI-Design-Intern/2946?s=LinkedIn&nl=0) | Remote | Fall 2022 | 10/1
