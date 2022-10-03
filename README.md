@@ -260,6 +260,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [General Motors - Digital Business Team (Design)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/XMLNAME-2023-Summer-Intern---Customer-Experience--Design-_JR-000087711?source=LinkedIn)| Remote | Summer 2023 | 10/3
 | [NBCU - Location Stations Digital Design](https://jobs.smartrecruiters.com/NBCUniversal3/743999852456822-local-stations-digital-design-internships-spring-2023-new-york-ny)| New York, NY | Spring 2023 | 10/3
 | [Tanium - Creative Design](https://www.tanium.com/careers/4511176?gh_jid=4511176) | Remote | Summer 2023 | 10/3
 | [iRobot - Visual Design](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/Spring-2023--Visual-Design-Intern--Undergraduate-_R3238?APPLICANT_SOURCE-6-108&source=Linkedin) | Remote | Spring 2023 | 10/3
