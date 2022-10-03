@@ -260,7 +260,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Tanium - Creative Design](https://www.tanium.com/careers/4511176?gh_jid=4511176 | Remote | Summer 2023 | 10/3
+| [NBCU - Location Stations Digital Design](https://jobs.smartrecruiters.com/NBCUniversal3/743999852456822-local-stations-digital-design-internships-spring-2023-new-york-ny)| New York, NY | Spring 2023 | 10/3
+| [Tanium - Creative Design](https://www.tanium.com/careers/4511176?gh_jid=4511176) | Remote | Summer 2023 | 10/3
 | [iRobot - Visual Design](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/Spring-2023--Visual-Design-Intern--Undergraduate-_R3238?APPLICANT_SOURCE-6-108&source=Linkedin) | Remote | Spring 2023 | 10/3
 | [Autodesk - Content Design](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Content-Design---Platform-Experiences_22WD64423-1?src=JB-10065) | San Francisco, CA | Summer 2023 | 10/2
 | [IBM - Visual Designer, Weather & Alliances](https://careers.ibm.com/job/16795808/visual-design-intern-summer-2023-weather-and-alliances-remote/?codes=SN_LinkedIn) | Multiple locations | Summer 2023 | 10/2
