@@ -258,6 +258,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [iRobot - Visual Design](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/Spring-2023--Visual-Design-Intern--Undergraduate-_R3238?APPLICANT_SOURCE-6-108&source=Linkedin) | Remote | Spring 2023 | 10/3
 | [Autodesk - Content Design](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Content-Design---Platform-Experiences_22WD64423-1?src=JB-10065) | San Francisco, CA | Summer 2023 | 10/2
 | [IBM - Visual Designer, Weather & Alliances](https://careers.ibm.com/job/16795808/visual-design-intern-summer-2023-weather-and-alliances-remote/?codes=SN_LinkedIn) | Multiple locations | Summer 2023 | 10/2
 | [Lab Corp - IT User Experience Design](https://careers.labcorp.com/global/en/job/COVAGLOBAL2258646EXTERNALENGLOBAL/2023-IT-User-Experience-Design-Intern?utm_source=indeed&utm_campaign=indeed&source=APPLICANT_SOURCE_Indeed&utm_medium=phenom-feeds) | Durham, NC | Summer 2023 | 10/1
