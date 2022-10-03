@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Wonder - Product Designer (3 YoE)](https://boards.greenhouse.io/careersatwonder/jobs/5084407003)| Remote | 10/3
 | [Red Hat - Technical Writer](https://us-redhat.icims.com/jobs/96847/technical-writer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting)| Remote | 10/3
 | [Nordstrom - UX Content Designer (1-2 YoE))](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_careers/login?redirect=%2Fnordstrom_careers%2Fjob%2FSeattle-WA%2FUX-Content-Designer-1_R-483642-1%2Fapply)| San Francisco, CA | 10/3
 | [John Deere - UX Researcher (MS/PhD)(read carefully)](https://career8.successfactors.com/career?_s.crb=gabU5cU%252baGMT2A1J3VYRe4h3LjCW4dCN0nd3qnakGYo%253d)| Urbandale, IA | 10/2
