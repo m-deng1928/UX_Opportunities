@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Starbucks - UX Researcher (3 YoE)](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=220075092&lang=en&src=JB-12147)| Seattle, WA | 10/4
 | [SeatGeek - UX Researcher - New Graduate](https://boards.greenhouse.io/embed/job_app?token=4603929&gh_src=94e407181)| New Yok, NY | 10/4
 | [Wonder - Product Designer (3 YoE)](https://boards.greenhouse.io/careersatwonder/jobs/5084407003)| Remote | 10/3
 | [Red Hat - Technical Writer](https://us-redhat.icims.com/jobs/96847/technical-writer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting)| Remote | 10/3
