@@ -193,6 +193,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nasdaq - UI/UX](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/UI-UX-Intern---America-2023-Internship_R0011572?source=11663)| Remote | Summer 2023 | 10/4
 | [SAP - iXP Design](https://jobs.sap.com/job/Palo-Alto-iXP-Design-Intern-CA-94304/856110501/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings)| Palo Alto, CA | Summer 2023 | 10/4
 | [General Motors - Digital Business Team (Design)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/XMLNAME-2023-Summer-Intern---Customer-Experience--Design-_JR-000087711?source=LinkedIn)| Remote | Summer 2023 | 10/3
 | [NBCU - Location Stations Digital Design](https://jobs.smartrecruiters.com/NBCUniversal3/743999852456822-local-stations-digital-design-internships-spring-2023-new-york-ny)| New York, NY | Spring 2023 | 10/3
