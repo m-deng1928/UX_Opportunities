@@ -28,7 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [SeatGeek - UX Researcher](https://boards.greenhouse.io/embed/job_app?token=4603929&gh_src=94e407181)| New Yok, NY | 10/4
+| [SeatGeek - UX Researcher - New Graduate](https://boards.greenhouse.io/embed/job_app?token=4603929&gh_src=94e407181)| New Yok, NY | 10/4
 | [Wonder - Product Designer (3 YoE)](https://boards.greenhouse.io/careersatwonder/jobs/5084407003)| Remote | 10/3
 | [Red Hat - Technical Writer](https://us-redhat.icims.com/jobs/96847/technical-writer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting)| Remote | 10/3
 | [Nordstrom - UX Content Designer (1-2 YoE))](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_careers/login?redirect=%2Fnordstrom_careers%2Fjob%2FSeattle-WA%2FUX-Content-Designer-1_R-483642-1%2Fapply)| San Francisco, CA | 10/3
@@ -193,6 +193,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [SAP - iXP Design](https://jobs.sap.com/job/Palo-Alto-iXP-Design-Intern-CA-94304/856110501/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings)| Palo Alto, CA | Summer 2023 | 10/4
 | [General Motors - Digital Business Team (Design)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/XMLNAME-2023-Summer-Intern---Customer-Experience--Design-_JR-000087711?source=LinkedIn)| Remote | Summer 2023 | 10/3
 | [NBCU - Location Stations Digital Design](https://jobs.smartrecruiters.com/NBCUniversal3/743999852456822-local-stations-digital-design-internships-spring-2023-new-york-ny)| New York, NY | Spring 2023 | 10/3
 | [Tanium - Creative Design](https://www.tanium.com/careers/4511176?gh_jid=4511176) | Remote | Summer 2023 | 10/3
