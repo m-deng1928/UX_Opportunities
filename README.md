@@ -194,6 +194,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [P&G - Design Co-Op](https://www.pgcareers.com/job/cincinnati/design-co-op-summer-2023/936/35284913232?source=RS_LINKEDIN)| Cincinnati, OH | Summer 2023 | 10/4
 | [Expedia - UX Content](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FWashington---Seattle-Campus%2FXMLNAME-2023-Intern---UX-Content_R-76543%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1629576742896a0ebhn4is)| Seattle, WA | Summer 2023 | 10/4
 | [Nasdaq - UI/UX](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/UI-UX-Intern---America-2023-Internship_R0011572?source=11663)| Remote | Summer 2023 | 10/4
 | [SAP - iXP Design](https://jobs.sap.com/job/Palo-Alto-iXP-Design-Intern-CA-94304/856110501/?feedId=244601&utm_campaign=limitedlistings&utm_source=LinkedinJobPostings)| Palo Alto, CA | Summer 2023 | 10/4
