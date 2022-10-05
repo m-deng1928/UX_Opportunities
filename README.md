@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [AviaGames - User Research Moderator](https://www.linkedin.com/jobs/view/3282846922)| Remote | 10/5
 | [Merck - Digital Content Design Specialist](https://jobs.merck.com/us/en/job/MERCUSR205180ENUS/Digital-Content-Design-Specialist?utm_source=linkedin&utm_medium=phenom-feeds)| Madison, NJ | 10/5
 | [Starbucks - UX Researcher (3 YoE)](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=220075092&lang=en&src=JB-12147)| Seattle, WA | 10/4
 | [SeatGeek - UX Researcher - New Graduate](https://boards.greenhouse.io/embed/job_app?token=4603929&gh_src=94e407181)| New Yok, NY | 10/4
