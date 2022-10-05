@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [JP Morgan - Firmwide Design Development Program Full Time Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210337667/?utm_medium=jobshare&src=LinkedIn_JPMC)| Multiple locations | 10/5
 | [Slalom - Experience Design Associate Consultant](https://jobs.slalom.com/?nostate=1&tSource=a121R00000NSLLRQA5#/post/a0h1R00000DDuAW)| Chicago, IL | 10/5
 | [AviaGames - User Research Moderator](https://www.linkedin.com/jobs/view/3282846922)| Remote | 10/5
 | [Merck - Digital Content Design Specialist](https://jobs.merck.com/us/en/job/MERCUSR205180ENUS/Digital-Content-Design-Specialist?utm_source=linkedin&utm_medium=phenom-feeds)| Madison, NJ | 10/5
