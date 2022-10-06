@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [SitusAMC - Associate, UX Designer (3-5 YoE)(MS)](https://careers.situsamc.com/job-detail/associate-ux-designer-13940?utm_campaign=LinkedInSponsored)| Remote | 10/6
 | [Relativity - User Experience Researcher (3 YoE)(MS)](https://jobs.lever.co/relativity/36b03543-d37f-4d3c-841a-56acf8acc2b6)| Chicago, IL | 10/5
 | [JP Morgan - Firmwide Design Development Program Full Time Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210337667/?utm_medium=jobshare&src=LinkedIn_JPMC)| Multiple locations | 10/5
 | [Slalom - Experience Design Associate Consultant](https://jobs.slalom.com/?nostate=1&tSource=a121R00000NSLLRQA5#/post/a0h1R00000DDuAW)| Chicago, IL | 10/5
