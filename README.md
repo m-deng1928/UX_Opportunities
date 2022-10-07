@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Booz Allen Hamilton - Digital Product Designer (3 YoE)](https://careers.boozallen.com/careers/JobDetail?jobId=65163&source=JB-16500)| Remote | 10/7
 | [SitusAMC - Associate, UX Designer (3-5 YoE)(MS)](https://careers.situsamc.com/job-detail/associate-ux-designer-13940?utm_campaign=LinkedInSponsored)| Remote | 10/6
 | [Relativity - User Experience Researcher (3 YoE)(MS)](https://jobs.lever.co/relativity/36b03543-d37f-4d3c-841a-56acf8acc2b6)| Chicago, IL | 10/5
 | [JP Morgan - Firmwide Design Development Program Full Time Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210337667/?utm_medium=jobshare&src=LinkedIn_JPMC)| Multiple locations | 10/5
