@@ -201,6 +201,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Tesla - Digital Design Developer](https://www.tesla.com/careers/search/job/digital-designdeveloperinternshipspring2023-152482)| Hawthorne, CA | Summer 2023 | 10/8
 | [Fanduel - Product Design](https://boards.greenhouse.io/fanduel/jobs/4618407?gh_src=ba823b7b1us)| Atlanta, GA | Summer 2023 | 10/7
 | [P&G - Design Co-Op](https://www.pgcareers.com/job/cincinnati/design-co-op-summer-2023/936/35284913232?source=RS_LINKEDIN)| Cincinnati, OH | Summer 2023 | 10/4
 | [Expedia - UX Content](https://expedia.wd5.myworkdayjobs.com/search/login?redirect=%2Fsearch%2Fjob%2FWashington---Seattle-Campus%2FXMLNAME-2023-Intern---UX-Content_R-76543%2Fapply%3Fsource%3DLinkedIn%26_ccid%3D1629576742896a0ebhn4is)| Seattle, WA | Summer 2023 | 10/4
