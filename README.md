@@ -201,6 +201,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Ferrara - Consumer Insights & Market Research](https://jobs.ferrarausa.com/job/Chicago-IL/943107100/?utm_source=LINKEDIN&utm_medium=referrer)| Chicago, IL | Summer 2023 | 10/8
 | [Tesla - Digital Design Developer](https://www.tesla.com/careers/search/job/digital-designdeveloperinternshipspring2023-152482)| Hawthorne, CA | Summer 2023 | 10/8
 | [Fanduel - Product Design](https://boards.greenhouse.io/fanduel/jobs/4618407?gh_src=ba823b7b1us)| Atlanta, GA | Summer 2023 | 10/7
 | [P&G - Design Co-Op](https://www.pgcareers.com/job/cincinnati/design-co-op-summer-2023/936/35284913232?source=RS_LINKEDIN)| Cincinnati, OH | Summer 2023 | 10/4
