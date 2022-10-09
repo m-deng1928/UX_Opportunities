@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Bank of America - Digital Designer (2 YoE)](https://careers.bankofamerica.com/en-us/job-detail/22084942/digital-designer-pennington-nj-pennington-new-jersey-united-states)| Pennington, NJ | 10/9
 | [Tempus - Product Designer (2 YoE)](https://www.tempus.com/about-us/careers/job/?gh_jid=6317720002)| New York, NY | 10/9
 | [Sysco Labs - Product Designer (3 YoE)](https://www.syscolabs.com/careers?p=job/owD7kfwk&nl=1)| Austin, TX/Houston, TX | 10/9
 | [Booz Allen Hamilton - Digital Product Designer (3 YoE)](https://careers.boozallen.com/careers/JobDetail?jobId=65163&source=JB-16500)| Remote | 10/7
