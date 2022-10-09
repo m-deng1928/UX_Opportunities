@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Roblox - Product Designer (2 YoE)](https://jobs.roblox.com/careers?pid=137452499568&gh_jid=4590963&domain=roblox.com)| San Mateo, CA | 10/9
+| [ADP - Associate Experience Design Engineer](https://tech.adp.com/job/16833397/associate-experience-design-engineer-roseland-nj/?rb=LINKEDIN)| Roseland, NJ | 10/9
 | [Bank of America - Digital Designer (2 YoE)](https://careers.bankofamerica.com/en-us/job-detail/22084942/digital-designer-pennington-nj-pennington-new-jersey-united-states)| Pennington, NJ | 10/9
 | [Tempus - Product Designer (2 YoE)](https://www.tempus.com/about-us/careers/job/?gh_jid=6317720002)| New York, NY | 10/9
 | [Sysco Labs - Product Designer (3 YoE)](https://www.syscolabs.com/careers?p=job/owD7kfwk&nl=1)| Austin, TX/Houston, TX | 10/9
