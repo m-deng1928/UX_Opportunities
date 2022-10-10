@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [WorkRamp - Product Designer (2 YoE)](https://jobs.lever.co/workramp/b7019d7c-38b4-40cc-b980-c530f749ea5d/apply?lever-source=LinkedIn)| New York, NY | 10/10
 | [Havas - CX Strategist (2-5 YoE)](https://www.linkedin.com/jobs/view/3292906500)| New York, NY | 10/10
 | [JP Morgan - CB Digital Product Design Associate (2-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210298733/?utm_medium=jobshare&src=LinkedIn_JPMC)| New York, NY/Palo Alto, CA | 10/10
 | [Roblox - Product Designer (2 YoE)](https://jobs.roblox.com/careers?pid=137452499568&gh_jid=4590963&domain=roblox.com)| San Mateo, CA | 10/9
@@ -208,6 +209,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [CNH Industrial - Human Factors & Ergonomics](https://careers-cnhind.icims.com/jobs/22352/human-factors-%26-ergonomics-co-op/job?mobile=false&width=1355&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Burr Ridge, IL | Summer 2023 | 10/10
 | [Ferrara - Consumer Insights & Market Research](https://jobs.ferrarausa.com/job/Chicago-IL/943107100/?utm_source=LINKEDIN&utm_medium=referrer)| Chicago, IL | Summer 2023 | 10/8
 | [Tesla - Digital Design Developer](https://www.tesla.com/careers/search/job/digital-designdeveloperinternshipspring2023-152482)| Hawthorne, CA | Summer 2023 | 10/8
 | [Fanduel - Product Design](https://boards.greenhouse.io/fanduel/jobs/4618407?gh_src=ba823b7b1us)| Atlanta, GA | Summer 2023 | 10/7
