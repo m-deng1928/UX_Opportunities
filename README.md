@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Revel - Digital Designer (3 YoE)](https://www.linkedin.com/jobs/view/3303574040)| Brooklyn, NY | 10/10
 | [WorkRamp - Product Designer (2 YoE)](https://jobs.lever.co/workramp/b7019d7c-38b4-40cc-b980-c530f749ea5d/apply?lever-source=LinkedIn)| New York, NY | 10/10
 | [Havas - CX Strategist (2-5 YoE)](https://www.linkedin.com/jobs/view/3292906500)| New York, NY | 10/10
 | [JP Morgan - CB Digital Product Design Associate (2-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210298733/?utm_medium=jobshare&src=LinkedIn_JPMC)| New York, NY/Palo Alto, CA | 10/10
