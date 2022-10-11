@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Expedia - UX Researcher I](https://careers.expediagroup.com/apply/R-76645/1/?source=LinkedIn&_ccid=1629576742896a0ebhn4is)| Austin, TX | 10/11
 | [Revel - Digital Designer (3 YoE)](https://www.linkedin.com/jobs/view/3303574040)| Brooklyn, NY | 10/10
 | [WorkRamp - Product Designer (2 YoE)](https://jobs.lever.co/workramp/b7019d7c-38b4-40cc-b980-c530f749ea5d/apply?lever-source=LinkedIn)| New York, NY | 10/10
 | [Havas - CX Strategist (2-5 YoE)](https://www.linkedin.com/jobs/view/3292906500)| New York, NY | 10/10
