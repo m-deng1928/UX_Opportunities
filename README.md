@@ -315,6 +315,7 @@ Intern
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [LinkedIn - Engineer - User Interface](https://www.linkedin.com/jobs/view/3298970475) | Summer 2023 | 10/11
 | [RingCentral - Product Design Fellowship](https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/details/Product-Designer-Fellow_R065782) | Summer 2022 | 9/7
 | [Upperstudy - Product Design Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSd3U6nZu0ru_juQ6XySoavn3d5qVgO5WkwSMGuYsBKxwevt0A/viewform) | Summer 2022 | 1/24
 | [Coding it Forward - Product Design/Management Fellowship](https://www.codingitforward.com/summer-fellowships?utm_source=rsvp) | Summer 2022 | 1/5
