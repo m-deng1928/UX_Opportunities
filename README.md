@@ -213,6 +213,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Cruise - User Research, Research & Insights (MS)](https://boards.greenhouse.io/cruiseuniversity/jobs/4542512At)| San Francisco, CA | Summer 2023 | 10/11
 | [CNH Industrial - Human Factors & Ergonomics](https://careers-cnhind.icims.com/jobs/22352/human-factors-%26-ergonomics-co-op/job?mobile=false&width=1355&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Burr Ridge, IL | Summer 2023 | 10/10
 | [Ferrara - Consumer Insights & Market Research](https://jobs.ferrarausa.com/job/Chicago-IL/943107100/?utm_source=LINKEDIN&utm_medium=referrer)| Chicago, IL | Summer 2023 | 10/8
 | [Tesla - Digital Design Developer](https://www.tesla.com/careers/search/job/digital-designdeveloperinternshipspring2023-152482)| Hawthorne, CA | Summer 2023 | 10/8
