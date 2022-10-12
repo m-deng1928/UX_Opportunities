@@ -213,6 +213,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Stellantis - Product Design Office - User Experience Design](https://www.candidatecare.com/srccsh/RTI.home?r=5000892658510&c=40&d=fcagroup.candidatecare.com&rb=APPCAST&rb=INDEEDe)| Auburn Hills, MI | Summer 2023 | 10/12
 | [Insomniac Games - UI/UX Art](https://boards.greenhouse.io/insomniac/jobs/4657589004)| Burbank, CA | Summer 2023 | 10/11
 | [Cruise - User Research, Research & Insights (MS)](https://boards.greenhouse.io/cruiseuniversity/jobs/4542512At)| San Francisco, CA | Summer 2023 | 10/11
 | [CNH Industrial - Human Factors & Ergonomics](https://careers-cnhind.icims.com/jobs/22352/human-factors-%26-ergonomics-co-op/job?mobile=false&width=1355&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Burr Ridge, IL | Summer 2023 | 10/10
