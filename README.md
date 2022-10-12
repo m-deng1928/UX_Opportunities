@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [JP Morgan - UX Designer (Cyber Ops), Associate (2-3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210350960/?utm_medium=jobshare&src=LinkedIn_JPMC) | Brooklyn, NY/New York, NY | 10/12
 | [Zeplin - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3243524654) | Remote | 10/12
 | [ADP - Digital Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3284392160) | Roseland, NJ | 10/11
 | [Airtable - Product Designer](https://boards.greenhouse.io/airtable/jobs/5937643002?gh_src=aef790d02us) | Multiple locations | 10/11
