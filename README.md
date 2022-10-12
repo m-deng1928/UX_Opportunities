@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Amazon - UX Designer, Advertising UX, Design Systems (3 YoE)](https://www.amazon.jobs/en/jobs/2267540/ux-designer-advertising-ux-design-systems?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Multiple locations | 10/12
 | [Datadog - Product Designer - Data Science (2 YoE)](https://www.datadoghq.com/careers/detail/?gh_jid=4610694&gh_src=8363eca61) | New York, NY | 10/12
 | [Prepared - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/3312886669) | New York, NY | 10/12
 | [JP Morgan - UX Designer (Cyber Ops), Associate (2-3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210350960/?utm_medium=jobshare&src=LinkedIn_JPMC) | Brooklyn, NY/New York, NY | 10/12
