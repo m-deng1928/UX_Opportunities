@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Zeplin - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3243524654) | Remote | 10/12
 | [ADP - Digital Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3284392160) | Roseland, NJ | 10/11
 | [Airtable - Product Designer](https://boards.greenhouse.io/airtable/jobs/5937643002?gh_src=aef790d02us) | Multiple locations | 10/11
 | [Expedia - UX Researcher I](https://careers.expediagroup.com/apply/R-76645/1/?source=LinkedIn&_ccid=1629576742896a0ebhn4is)| Austin, TX | 10/11
