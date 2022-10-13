@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Alkami - Associate UX Researcher](https://recruiting2.ultipro.com/ALK1000ALKMI/JobBoard/14a93591-2185-4546-9bdb-db71739b106a/OpportunityDetail?opportunityId=63b16d90-2180-4ac5-8ffa-87e1129f7896) | Remote | 10/13
 | [JP Morgan - UX Researcher (Cyber Ops), Associate (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210350985/?utm_medium=jobshare&src=LinkedIn_JPMC) | Brooklyn, NY/New York, NY | 10/13
 | [Fidelity - UX Content Associate](https://jobs.fidelity.com/job-details/16862812/ux-content-associate-jersey-city-nj/?source=LinkedIn_Job%20Boards) | Jersey City, NJ | 10/13
 | [Fidelity - User Experience Architect](https://jobs.fidelity.com/job-details/16832821/user-experience-architect-smithfield-ri/?source=LinkedIn_Job%20Boards) | Smithfield, RI | 10/13
