@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Fidelity - UX Content Associate](https://jobs.fidelity.com/job-details/16862812/ux-content-associate-jersey-city-nj/?source=LinkedIn_Job%20Boards) | Jersey City, NJ | 10/13
+| [Fidelity - User Experience Architect](https://jobs.fidelity.com/job-details/16832821/user-experience-architect-smithfield-ri/?source=LinkedIn_Job%20Boards) | Smithfield, RI | 10/13
 | [Amazon - UX Designer, Advertising UX, Design Systems (3 YoE)](https://www.amazon.jobs/en/jobs/2267540/ux-designer-advertising-ux-design-systems?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Multiple locations | 10/12
 | [Datadog - Product Designer - Data Science (2 YoE)](https://www.datadoghq.com/careers/detail/?gh_jid=4610694&gh_src=8363eca61) | New York, NY | 10/12
 | [Prepared - Product Designer (3 YoE)](https://www.linkedin.com/jobs/view/3312886669) | New York, NY | 10/12
