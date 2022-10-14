@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Spectrum - Product Designer UI/UX Spectrum Enterprise (3 YoE)](https://jobs.spectrum.com/job/-/-/4673/37899024320?utm_source=linkedIn&utm_medium=job-listings&utm_campaign=brand&utm_term=RD&ss=paid&dclid=CKvBxdTk3_oCFcMOaAgdABoMLg) | Greenwood Village, CO | 10/14
 | [Tesla - Enterprise UX Designer (3 YoE)](https://www.tesla.com/careers/search/job/enterprise-ux-designer--154138?source=LinkedIn) | Fremont, CA | 10/14
 | [Cisco - Product Designer - Duo Security](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1384830&user=1) | Remote | 10/14
 | [Alkami - Associate UX Researcher](https://recruiting2.ultipro.com/ALK1000ALKMI/JobBoard/14a93591-2185-4546-9bdb-db71739b106a/OpportunityDetail?opportunityId=63b16d90-2180-4ac5-8ffa-87e1129f7896) | Remote | 10/13
