@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Tesla - Enterprise UX Designer (3 YoE)](https://www.tesla.com/careers/search/job/enterprise-ux-designer--154138?source=LinkedIn) | Fremont, CA | 10/14
 | [Cisco - Product Designer - Duo Security](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1384830&user=1) | Remote | 10/14
 | [Alkami - Associate UX Researcher](https://recruiting2.ultipro.com/ALK1000ALKMI/JobBoard/14a93591-2185-4546-9bdb-db71739b106a/OpportunityDetail?opportunityId=63b16d90-2180-4ac5-8ffa-87e1129f7896) | Remote | 10/13
 | [JP Morgan - UX Researcher (Cyber Ops), Associate (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210350985/?utm_medium=jobshare&src=LinkedIn_JPMC) | Brooklyn, NY/New York, NY | 10/13
