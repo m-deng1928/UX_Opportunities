@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Microsoft - UX Designer (3 YoE)](https://careers.microsoft.com/us/en/job/1481274/UX-Designer?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Redmond, WA | 10/15
 | [The Trade Desk - UX Researcher I (0-3 YoE)](https://careers.thetradedesk.com/us/en/job/TTDEUSREQ4430EXTERNALENUS/UX-Researcher-I?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY | 10/14
 | [Paradox - Associate Product Designer](https://careers.paradox.ai/associate-product-designer/job/20690434?utm_source=LinkedIn&utm_medium=Paid&utm_campaign=Jobs) | Scottsdale, AZ | 10/14
 | [Spectrum - Product Designer UI/UX Spectrum Enterprise (3 YoE)](https://jobs.spectrum.com/job/-/-/4673/37899024320?utm_source=linkedIn&utm_medium=job-listings&utm_campaign=brand&utm_term=RD&ss=paid&dclid=CKvBxdTk3_oCFcMOaAgdABoMLg) | Greenwood Village, CO | 10/14
@@ -227,6 +228,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Okta - Technical Writer](https://www.okta.com/company/careers/technical-writer-intern-summer-2023-4633966/?gh_src=7j0um41)| San Francisco, CA/Bellevue, WA | Summer 2023 | 10/15
 | [Stellantis - Product Design Office - User Experience Design](https://www.candidatecare.com/srccsh/RTI.home?r=5000892658510&c=40&d=fcagroup.candidatecare.com&rb=APPCAST&rb=INDEEDe)| Auburn Hills, MI | Summer 2023 | 10/12
 | [Insomniac Games - UI/UX Art](https://boards.greenhouse.io/insomniac/jobs/4657589004)| Burbank, CA | Summer 2023 | 10/11
 | [Cruise - User Research, Research & Insights (MS)](https://boards.greenhouse.io/cruiseuniversity/jobs/4542512At)| San Francisco, CA | Summer 2023 | 10/11
