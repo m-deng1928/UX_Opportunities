@@ -28,6 +28,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Meta - Visual Designer](https://www.linkedin.com/jobs/view/3317485517) | Los Angeles, CA | 10/16
+| [Airtable - Research Operations Coordinator](https://boards.greenhouse.io/airtable/jobs/6142557002?gh_src=aef790d02us&source=LinkedIn) | Multiple locations | 10/16
+| [JP Morgan - Research Operations Associate (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210353130/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, CA | 10/16
 | [iRobot - UX Designer (2 YoE)](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/UX-Designer--Smart-Home_R3231?APPLICANT_SOURCE-6-108&source=Linkedin) | Remote | 10/15
 | [Microsoft - UX Designer (3 YoE)](https://careers.microsoft.com/us/en/job/1481274/UX-Designer?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | Redmond, WA | 10/15
 | [The Trade Desk - UX Researcher I (0-3 YoE)](https://careers.thetradedesk.com/us/en/job/TTDEUSREQ4430EXTERNALENUS/UX-Researcher-I?utm_source=linkedin&utm_medium=phenom-feeds) | New York, NY | 10/14
