@@ -28,7 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Meta - Visual Designer](https://www.linkedin.com/jobs/view/3317485517) | Los Angeles, CA | 10/16
+| [Colgate Palmolive - User Experience Designer (2 YoE)](https://jobs.colgate.com/job/Piscataway-User-Experience-Designer-NJ/947970400/?feedId=173900) | Piscataway, NJ | 10/17
 | [Airtable - Research Operations Coordinator](https://boards.greenhouse.io/airtable/jobs/6142557002?gh_src=aef790d02us&source=LinkedIn) | Multiple locations | 10/16
 | [JP Morgan - Research Operations Associate (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210353130/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, CA | 10/16
 | [iRobot - UX Designer (2 YoE)](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/UX-Designer--Smart-Home_R3231?APPLICANT_SOURCE-6-108&source=Linkedin) | Remote | 10/15
