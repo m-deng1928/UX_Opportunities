@@ -233,6 +233,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Volvo Group - UX/UI Analyst](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25079&siteid=5171&PageType=JobDetails&jobid=749490#jobDetails=749490_5171)| Greensboro, NC | Summer 2023 | 10/17
+| [KeyBank - Design Studio](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2023-Design-Studio-Intern_R-15848)| Remote | Summer 2023 | 10/17
 | [iRobot - Research Consumer Insights](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/Spring-2023--Research-Consumer-Insights-Intern--Masters-_R3272?APPLICANT_SOURCE-6-108&source=Linkedin)| Remote | Spring 2023 | 10/15
 | [Okta - Technical Writer](https://www.okta.com/company/careers/technical-writer-intern-summer-2023-4633966/?gh_src=7j0um41)| San Francisco, CA/Bellevue, WA | Summer 2023 | 10/15
 | [Stellantis - Product Design Office - User Experience Design](https://www.candidatecare.com/srccsh/RTI.home?r=5000892658510&c=40&d=fcagroup.candidatecare.com&rb=APPCAST&rb=INDEEDe)| Auburn Hills, MI | Summer 2023 | 10/12
