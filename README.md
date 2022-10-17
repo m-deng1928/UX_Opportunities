@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Amazon - Program Manager, Research Operations, Amazon Music Design, Research & Beta (3 YoE)](https://www.amazon.jobs/en/jobs/2269872/program-manager-research-operations-amazon-music-design-research-beta?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Remote | 10/17
 | [Colgate Palmolive - User Experience Designer (2 YoE)](https://jobs.colgate.com/job/Piscataway-User-Experience-Designer-NJ/947970400/?feedId=173900) | Piscataway, NJ | 10/17
 | [Airtable - Research Operations Coordinator](https://boards.greenhouse.io/airtable/jobs/6142557002?gh_src=aef790d02us&source=LinkedIn) | Multiple locations | 10/16
 | [JP Morgan - Research Operations Associate (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210353130/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, CA | 10/16
