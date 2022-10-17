@@ -235,6 +235,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [SAP - iXD Design](https://jobs.sap.com/job/Palo-Alto-iXP-Design-Intern-CA-94304/856110501/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed)| Remote | Fall 2022 (?) | 10/17
 | [Volvo Group - UX/UI Analyst](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25079&siteid=5171&PageType=JobDetails&jobid=749490#jobDetails=749490_5171)| Greensboro, NC | Summer 2023 | 10/17
 | [KeyBank - Design Studio](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2023-Design-Studio-Intern_R-15848)| Remote | Summer 2023 | 10/17
 | [iRobot - Research Consumer Insights](https://irobot.wd5.myworkdayjobs.com/irobot/job/US-Remote/Spring-2023--Research-Consumer-Insights-Intern--Masters-_R3272?APPLICANT_SOURCE-6-108&source=Linkedin)| Remote | Spring 2023 | 10/15
