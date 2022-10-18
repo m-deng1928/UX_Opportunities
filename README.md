@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Western Digital - Associate UX Designer (1-3 YoE)](https://jobs.smartrecruiters.com/WesternDigital/743999858328844-jr-ux-designer?src=JB-10069&trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Irvine, CA | 10/18
 | [Ogilvy - Experience Designer (3 YoE)](https://uscareers-ogilvy.icims.com/jobs/12330/experience-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Denver, CO | 10/18
 | [Boeing - Early Career Human Factors Engineer](https://jobs.boeing.com/job/-/-/185/37877443312?utm_source=linkedin&utm_medium=job_posting&utm_campaign=ra-us&dclid=CK-olJrZ6foCFQtDDQod26UFEw) | Multiple locations | 10/18
 | [Lowe's - Associate Product Designer](https://talent.lowes.com/us/en/job/2448110BR/Associate-Product-Designer-Remote&utm_source=617LinkedInPaidSlots) | Remote | 10/18
