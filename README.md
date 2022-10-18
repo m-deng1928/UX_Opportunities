@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Lowe's - Associate Product Designer](https://talent.lowes.com/us/en/job/2448110BR/Associate-Product-Designer-Remote&utm_source=617LinkedInPaidSlots) | Remote | 10/18
 | [Members Cooperative Credit Union - Customer Insights - Customer Experience Analyst](https://mccu.clearcompany.com/careers/jobs/1d05d15c-d273-ae0c-7eb3-4525af977756/apply?source=2212064-CS-49981) | Milwaukee, WI | 10/17
 | [Indeed - UX Researcher, Jobs, Campaigns, & Analytics (2 YoE)](https://careers-indeed.icims.com/jobs/42426/job?mobile=false&width=890&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Multiple locations | 10/17
 | [Amazon - Program Manager, Research Operations, Amazon Music Design, Research & Beta (3 YoE)](https://www.amazon.jobs/en/jobs/2269872/program-manager-research-operations-amazon-music-design-research-beta?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Remote | 10/17
