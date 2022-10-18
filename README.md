@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Boeing - Early Career Human Factors Engineer](https://jobs.boeing.com/job/-/-/185/37877443312?utm_source=linkedin&utm_medium=job_posting&utm_campaign=ra-us&dclid=CK-olJrZ6foCFQtDDQod26UFEw) | Multiple locations | 10/18
 | [Lowe's - Associate Product Designer](https://talent.lowes.com/us/en/job/2448110BR/Associate-Product-Designer-Remote&utm_source=617LinkedInPaidSlots) | Remote | 10/18
 | [Members Cooperative Credit Union - Customer Insights - Customer Experience Analyst](https://mccu.clearcompany.com/careers/jobs/1d05d15c-d273-ae0c-7eb3-4525af977756/apply?source=2212064-CS-49981) | Milwaukee, WI | 10/17
 | [Indeed - UX Researcher, Jobs, Campaigns, & Analytics (2 YoE)](https://careers-indeed.icims.com/jobs/42426/job?mobile=false&width=890&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Multiple locations | 10/17
