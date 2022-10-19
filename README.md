@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Tesla - UX Designer, Material Flow Software](https://www.tesla.com/careers/search/job/ux-designer-material-flow-software-155920?source=LinkedIn) | Palo Alto, CA | 10/19
 | [H-E-B - Digital Design Technologist (3 YoE)](https://careers-heb.icims.com/jobs/50336/digital-design-technologist/job?mobile=false&width=1197&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Austin, TX | 10/19
 | [Merck - User Experience Researcher (1-2 YoE)](https://jobs.merck.com/us/en/job/MERCUSR207248ENUS/User-Experience-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Rahway, NJ | 10/18
 | [JP Morgan Chase - Service Designer, cxLoyalty (1 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210295210/?utm_medium=jobshare&src=LinkedIn_JPMC) | Multiple locations | 10/18
