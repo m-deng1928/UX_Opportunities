@@ -240,6 +240,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Equinix - Fabric UX Design](https://careers.equinix.com/jobs/fabric-ux-design-intern-sunnyvale-california-united-states)| Sunnyvale, CA | Summer 2023 | 10/18
 | [Bose - UX Writing](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/UX-Writing-Intern_R23705)| Framingham, MA | Summer 2023 | 10/18
 | [SAP - iXD Design](https://jobs.sap.com/job/Palo-Alto-iXP-Design-Intern-CA-94304/856110501/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed)| Remote | Fall 2022 (?) | 10/17
 | [Volvo Group - UX/UI Analyst](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25079&siteid=5171&PageType=JobDetails&jobid=749490#jobDetails=749490_5171)| Greensboro, NC | Summer 2023 | 10/17
