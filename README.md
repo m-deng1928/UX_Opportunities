@@ -172,6 +172,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [SiriusXM - Product Design](https://careers.siriusxm.com/careers/jobs/13819?lang=en-us)| Oakland, CA | Summer 2023 | 10/19
 | [Adobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR131693EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Jose, CA | Summer 2023 | 10/18
 | [Equinix - Fabric UX Design](https://careers.equinix.com/jobs/fabric-ux-design-intern-sunnyvale-california-united-states)| Sunnyvale, CA | Summer 2023 | 10/18
 | [Bose - UX Writing](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/UX-Writing-Intern_R23705)| Framingham, MA | Summer 2023 | 10/18
