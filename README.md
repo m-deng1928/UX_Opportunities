@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [H-E-B - Digital Design Technologist (3 YoE)](https://careers-heb.icims.com/jobs/50336/digital-design-technologist/job?mobile=false&width=1197&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Austin, TX | 10/19
 | [Merck - User Experience Researcher (1-2 YoE)](https://jobs.merck.com/us/en/job/MERCUSR207248ENUS/User-Experience-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Rahway, NJ | 10/18
 | [JP Morgan Chase - Service Designer, cxLoyalty (1 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210295210/?utm_medium=jobshare&src=LinkedIn_JPMC) | Multiple locations | 10/18
 | [Western Digital - Associate UX Designer (1-3 YoE)](https://jobs.smartrecruiters.com/WesternDigital/743999858328844-jr-ux-designer?src=JB-10069&trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Irvine, CA | 10/18
