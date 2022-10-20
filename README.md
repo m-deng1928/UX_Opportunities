@@ -175,6 +175,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Blue Crosss Blue Shield Michigan - Instructional Design](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/requisitions/preview/7876)| Detroit, MI | Summer 2023 | 10/20
 | [Activision - UI/UX - Treyarch](https://careers.activision.com/job/ACPUUSR018426EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds)| Los Angeles, CA | Summer 2023 | 10/20
 | [SiriusXM - Product Design](https://careers.siriusxm.com/careers/jobs/13819?lang=en-us)| Oakland, CA | Summer 2023 | 10/19
 | [Adobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR131693EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Jose, CA | Summer 2023 | 10/18
