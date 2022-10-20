@@ -177,6 +177,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Autodesk - UX Design - Fusion 360](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Oregon-USA---Remote/Intern--UX-Design--Fusion-360-Electronics-_22WD65014-1?src=JB-10065)| Remote | Summer 2023 | 10/20
 | [Blue Crosss Blue Shield Michigan - Instructional Design](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/requisitions/preview/7876)| Detroit, MI | Summer 2023 | 10/20
 | [Activision - UI/UX - Treyarch](https://careers.activision.com/job/ACPUUSR018426EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds)| Los Angeles, CA | Summer 2023 | 10/20
 | [SiriusXM - Product Design](https://careers.siriusxm.com/careers/jobs/13819?lang=en-us)| Oakland, CA | Summer 2023 | 10/19
