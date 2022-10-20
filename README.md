@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/41a55fd5-d75d-4c53-b671-3fb22e854315?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | 10/20
 | [JP Morgan Chase - UX Researcher & Strategist, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210349750/?utm_medium=jobshare&src=LinkedIn_JPMC) | Plano, TX | 10/20
 | [LPL - AVP, UX Research Analyst (3 YoE)](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Boston/AVP--UX-Research-Analyst_R-026306) | Remote | 10/19
 | [Tesla - UX Designer, Material Flow Software](https://www.tesla.com/careers/search/job/ux-designer-material-flow-software-155920?source=LinkedIn) | Palo Alto, CA | 10/19
