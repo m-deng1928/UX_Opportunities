@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [JP Morgan Chase - UX Researcher & Strategist, Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210349750/?utm_medium=jobshare&src=LinkedIn_JPMC) | Plano, TX | 10/20
 | [LPL - AVP, UX Research Analyst (3 YoE)](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Boston/AVP--UX-Research-Analyst_R-026306) | Remote | 10/19
 | [Tesla - UX Designer, Material Flow Software](https://www.tesla.com/careers/search/job/ux-designer-material-flow-software-155920?source=LinkedIn) | Palo Alto, CA | 10/19
 | [H-E-B - Digital Design Technologist (3 YoE)](https://careers-heb.icims.com/jobs/50336/digital-design-technologist/job?mobile=false&width=1197&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Austin, TX | 10/19
@@ -174,6 +175,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Activision - UI/UX - Treyarch](https://careers.activision.com/job/ACPUUSR018426EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds)| Los Angeles, CA | Summer 2023 | 10/20
 | [SiriusXM - Product Design](https://careers.siriusxm.com/careers/jobs/13819?lang=en-us)| Oakland, CA | Summer 2023 | 10/19
 | [Adobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR131693EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Jose, CA | Summer 2023 | 10/18
 | [Equinix - Fabric UX Design](https://careers.equinix.com/jobs/fabric-ux-design-intern-sunnyvale-california-united-states)| Sunnyvale, CA | Summer 2023 | 10/18
