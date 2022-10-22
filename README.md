@@ -28,7 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Snackpass - Product Designer](https://boards.greenhouse.io/snackpass/jobs/4712604004?gh_src=ead655454us) | San Francisco, CA | 10/22
+| [Atlassian - Product Designer, Trello Experience (3 YoE)](https://boards.greenhouse.io/snackpass/jobs/4712604004?gh_src=ead655454us) | San Francisco, CA | 10/22
+| [Snackpass - Product Designer (3 YoE)](https://boards.greenhouse.io/snackpass/jobs/4712604004?gh_src=ead655454us) | San Francisco, CA | 10/22
 | [KPMG - Associate Designer](https://us-jobs.kpmg.com/careers/JobDetail?jobId=94444&srcCat=Direct+Contact&specSrc=LinkedIn) | Multiple locations | 10/22
 | [Actvision - Quantitative User Researcher (2-3 YoE)](https://careers.activision.com/job/ACPUUSR018418EXTERNAL/Quantitative-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 10/20
 | [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/41a55fd5-d75d-4c53-b671-3fb22e854315?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | 10/20
