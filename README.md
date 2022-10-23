@@ -180,6 +180,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [CMU - Human-Centered AI Research Assistant](https://cmu.wd5.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Human-Centered-AI-Research-Assistant_2018819-1)| Pittsburgh, PA | Summer 2023 | 10/23
 | [Tesla - Visual Design](https://www.tesla.com/careers/search/job/visual-designinternshipspring2023-156358)| Hawthorne, CA | Summer 2023 | 10/21
 | [Autodesk - UX Design - Fusion 360](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Oregon-USA---Remote/Intern--UX-Design--Fusion-360-Electronics-_22WD65014-1?src=JB-10065)| Remote | Summer 2023 | 10/20
 | [Blue Crosss Blue Shield Michigan - Instructional Design](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/requisitions/preview/7876)| Detroit, MI | Summer 2023 | 10/20
