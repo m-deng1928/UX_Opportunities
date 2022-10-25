@@ -181,6 +181,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Delta - Innovation Design](https://delta.avature.net/careers/JobDetail/Intern-Innovation-Designer-Fall-2022/17644)| Atlanta, GA | Fall 2022 | 10/25
 | [Jack Henry - User Experience Design](https://jackhenry.avature.net/careers/ApplicationMethods?jobId=11982)| Remote | Summer 2023 | 10/25
 | [CMU - Human-Centered AI Research Assistant](https://cmu.wd5.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Human-Centered-AI-Research-Assistant_2018819-1)| Pittsburgh, PA | Summer 2023 | 10/23
 | [Tesla - Visual Design](https://www.tesla.com/careers/search/job/visual-designinternshipspring2023-156358)| Hawthorne, CA | Summer 2023 | 10/21
