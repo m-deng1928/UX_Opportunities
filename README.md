@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Marqeta - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3262119775) | Remote | 10/26
 | [ICS - CW Content Designer (2-3 YoE)](https://www.infinity-cs.com/jobs/information-technology-jobs/22-06301/CA?rx_campaign=Linkedin1&rx_group=136265&rx_job=22-06301&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221005T060408Z&source=linkedin&source=LinkedIn&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7) | Mountain View, CA | 10/24
 | [Atlassian - Product Designer, Trello Experience (3 YoE)](https://boards.greenhouse.io/snackpass/jobs/4712604004?gh_src=ead655454us) | San Francisco, CA | 10/22
 | [Snackpass - Product Designer (3 YoE)](https://boards.greenhouse.io/snackpass/jobs/4712604004?gh_src=ead655454us) | San Francisco, CA | 10/22
