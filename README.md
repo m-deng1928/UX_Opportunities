@@ -182,6 +182,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Veritas - CX Design](https://veritas.wd1.myworkdayjobs.com/careers/job/Augustine-Drive-Santa-Clara/CX-Design-Intern--Summer-2023_60427)| Remote | Summer 2023 | 10/26
 | [Alcon - Human Factors Engineer](https://delta.avature.net/careers/JobDetail/Intern-Innovation-Designer-Fall-2022/17644)| Lake Forest, CA | Summer 2023 | 10/26
 | [Delta - Innovation Design](https://delta.avature.net/careers/JobDetail/Intern-Innovation-Designer-Fall-2022/17644)| Atlanta, GA | Fall 2022 | 10/25
 | [Jack Henry - User Experience Design](https://jackhenry.avature.net/careers/ApplicationMethods?jobId=11982)| Remote | Summer 2023 | 10/25
