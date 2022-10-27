@@ -183,6 +183,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Zipline - User Experience Research](https://www.flyzipline.com/job?gh_jid=5348759003)| South San Francisco, CA | Summer 2023 | 10/27
 | [Autodesk - Content Design - Platform Experiences](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Content-Design---Platform-Experiences_22WD64423-1?src=JB-10065)| Remote | Summer 2023 | 10/27
 | [Johnson & Johnson - UX UI Design](https://jobs.jnj.com/jobs/2206079572W?lang=en-us&previousLocale=en-US)| Santa Clara, CA | Spring 2023 | 10/26
 | [Veritas - CX Design](https://veritas.wd1.myworkdayjobs.com/careers/job/Augustine-Drive-Santa-Clara/CX-Design-Intern--Summer-2023_60427)| Remote | Summer 2023 | 10/26
