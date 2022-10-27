@@ -184,6 +184,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Electronic Arts - Experience Design (Star Wars Jedi: Survivor)](https://ea.gr8people.com/jobs/176062/experience-design-intern-star-wars-jedi-survivor)| Los Angeles, CA | Summer 2023 | 10/27
 | [Zipline - User Experience Research](https://www.flyzipline.com/job?gh_jid=5348759003)| South San Francisco, CA | Summer 2023 | 10/27
 | [Autodesk - Content Design - Platform Experiences](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Content-Design---Platform-Experiences_22WD64423-1?src=JB-10065)| Remote | Summer 2023 | 10/27
 | [Johnson & Johnson - UX UI Design](https://jobs.jnj.com/jobs/2206079572W?lang=en-us&previousLocale=en-US)| Santa Clara, CA | Spring 2023 | 10/26
