@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Lowe's - Product Designer (2-4 YoE)](https://talent.lowes.com/us/en/job/2451954BR/Product-Designer&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 10/28
 | [Ipsos - Researcher, UX (2-4 YoE)](https://jobs.silkroad.com/Ipsos/Careers/jobs/7676) | San Francisco, CA | 10/27
 | [M&T Bank - Product Designer, New Ventures (2 YoE)](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Product-Designer---New-Ventures_R44033?source=LinkedIn_corporate_page&src=SNS-102) | Buffalo, NY | 10/26
 | [Marqeta - Product Designer (2 YoE)](https://www.linkedin.com/jobs/view/3262119775) | Remote | 10/26
