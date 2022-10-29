@@ -28,7 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Workday - Associate UX Designer](https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Palo-Alto/Associate-UX-Designer_JR-73607?source=website_linkedin) | Palo Alto, CA | 10/29
+| [Workday - UX Researcher](https://directsourcepro-wky.eightfold.ai/careers?query=171812749251&pid=171812749251&domain=directsourcepro-wky.com&triggerGoButton=false&triggerGoButton=true) | Pleasanton, CA | 10/29
 | [Paper Tiger - Junior Interactive Designer](https://www.linkedin.com/jobs/view/3333712891) | Ridgewood, NJ | 10/28
 | [Lowe's - Product Designer (2-4 YoE)](https://talent.lowes.com/us/en/job/2451954BR/Product-Designer&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 10/28
 | [Ipsos - Researcher, UX (2-4 YoE)](https://jobs.silkroad.com/Ipsos/Careers/jobs/7676) | San Francisco, CA | 10/27
