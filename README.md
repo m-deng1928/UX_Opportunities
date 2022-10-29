@@ -187,6 +187,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Electronic Arts - UX Design](https://ea.gr8people.com/jobs/176559/ux-design-intern?sid=4)| Marina del Rey, CA | Summer 2023 | 10/29
 | [American Express - Enterprise Digital & Data Solution Design Analyst](https://aexp.eightfold.ai/careers/job/13679048?domain=aexp.com&utm_source=linkedin&utm_source=linkedin)| New York, NY | Summer 2023 | 10/28
 | [Electronic Arts - Experience Design (Star Wars Jedi: Survivor)](https://ea.gr8people.com/jobs/176062/experience-design-intern-star-wars-jedi-survivor)| Los Angeles, CA | Summer 2023 | 10/27
 | [Zipline - User Experience Research](https://www.flyzipline.com/job?gh_jid=5348759003)| South San Francisco, CA | Summer 2023 | 10/27
