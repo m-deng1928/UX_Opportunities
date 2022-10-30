@@ -190,6 +190,7 @@ https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDeta
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nuance - Conversational Experience Design](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/Conversation-Experience-Design-Intern_106510?source=LinkedIn)| Remote | Summer 2023 | 10/29
 | [Electronic Arts - UX Design](https://ea.gr8people.com/jobs/176559/ux-design-intern?sid=4)| Marina del Rey, CA | Summer 2023 | 10/29
 | [American Express - Enterprise Digital & Data Solution Design Analyst](https://aexp.eightfold.ai/careers/job/13679048?domain=aexp.com&utm_source=linkedin&utm_source=linkedin)| New York, NY | Summer 2023 | 10/28
 | [Electronic Arts - Experience Design (Star Wars Jedi: Survivor)](https://ea.gr8people.com/jobs/176062/experience-design-intern-star-wars-jedi-survivor)| Los Angeles, CA | Summer 2023 | 10/27
