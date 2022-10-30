@@ -190,6 +190,7 @@ https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDeta
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Avanade - UX Design](https://careers.avanade.com/jobs/ApplicationConfirmation?jobId=58828)| Boston, MA/Philadelphia, PA | Summer 2023 | 10/29
 | [Sabre - UI Design Technologist](https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/UI-Design-Technologist---Intern_JR100681)| Dallas Fort Worth, TX | Summer 2023 | 10/29
 | [Mathworks - User Experience Designer](https://www.mathworks.com/company/jobs/opportunities/24887-user-experience-designer-intern-undergrad-students.html)| Natick, MA | Fall 2022/Spring 2023/Summer 2023 | 10/29
 | [Amazon - Design Technologist](https://www.amazon.jobs/en/jobs/2141734/design-technologist-internship-2023-us)| Seattle, WA | Summer 2023 | 10/29
