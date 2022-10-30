@@ -190,6 +190,9 @@ https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDeta
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Sabre - UI Design Technologist](https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/UI-Design-Technologist---Intern_JR100681)| Dallas Fort Worth, TX | Summer 2023 | 10/29
+| [Mathworks - User Experience Designer](https://www.mathworks.com/company/jobs/opportunities/24887-user-experience-designer-intern-undergrad-students.html)| Natick, MA | Fall 2022/Spring 2023/Summer 2023 | 10/29
+| [Amazon - Design Technologist](https://www.amazon.jobs/en/jobs/2141734/design-technologist-internship-2023-us)| Seattle, WA | Summer 2023 | 10/29
 | [Nuance - Conversational Experience Design](https://nuance.wd1.myworkdayjobs.com/Nuance/job/Burlington-Massachusetts-US/Conversation-Experience-Design-Intern_106510?source=LinkedIn)| Remote | Summer 2023 | 10/29
 | [Electronic Arts - UX Design](https://ea.gr8people.com/jobs/176559/ux-design-intern?sid=4)| Marina del Rey, CA | Summer 2023 | 10/29
 | [American Express - Enterprise Digital & Data Solution Design Analyst](https://aexp.eightfold.ai/careers/job/13679048?domain=aexp.com&utm_source=linkedin&utm_source=linkedin)| New York, NY | Summer 2023 | 10/28
