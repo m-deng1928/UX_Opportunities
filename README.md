@@ -28,8 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Lockheed Martin - Human Factors Engineer (2 YoE)](
-https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=667179) | Englewood, CO | 10/29
+| [Lockheed Martin - Human Factors Engineer (2 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=667179) | Englewood, CO | 10/29
 | [Paypal - UX Designer I](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Timonium-Maryland-United-States-of-America/UX-Designer-1_R0096025?Codes=W-LINKEDIN) | Timonium, MD | 10/29
 | [Workday - UX Researcher](https://directsourcepro-wky.eightfold.ai/careers?query=171812749251&pid=171812749251&domain=directsourcepro-wky.com&triggerGoButton=false&triggerGoButton=true) | Pleasanton, CA | 10/29
 | [Paper Tiger - Junior Interactive Designer](https://www.linkedin.com/jobs/view/3333712891) | Ridgewood, NJ | 10/28
