@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [DISH - Product Ddesigner](https://jobs.dish.com/jobs/67424?mode=job&iis=Job+Board&iisn=LinkedIN.COM) | Englewood, CO | 11/1
 | [JP Morgan - UX Researcher, Associate (Resiliency) (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210358959/?utm_medium=jobshare&src=LinkedIn_JPMC) | Columbus, OH | 10/30
 | [Lockheed Martin - Human Factors Engineer (2 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=667179) | Englewood, CO | 10/29
 | [Paypal - UX Designer I](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Timonium-Maryland-United-States-of-America/UX-Designer-1_R0096025?Codes=W-LINKEDIN) | Timonium, MD | 10/29
@@ -190,7 +191,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Dish - Customer Experience Operations, Techops](https://attract-careers1-dish.icims.com/jobs/68263/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Christiansberg, VA | Summer 2023 | 10/30
+| [DISH - Customer Experience Operations, Techops](https://attract-careers1-dish.icims.com/jobs/68263/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Christiansberg, VA | Summer 2023 | 10/30
 | [Amazon - User Experience Researcher](https://www.amazon.jobs/en/jobs/2141799/user-experience-ux-researcher-intern-2023-us)| Seattle,WA | Summer 2023 | 10/30
 | [Avanade - UX Design](https://careers.avanade.com/jobs/ApplicationConfirmation?jobId=58828)| Boston, MA/Philadelphia, PA | Summer 2023 | 10/29
 | [Sabre - UI Design Technologist](https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/UI-Design-Technologist---Intern_JR100681)| Dallas Fort Worth, TX | Summer 2023 | 10/29
