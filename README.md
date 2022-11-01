@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Atlassian - Content Designer](https://www.atlassian.com/company/careers/detail/7d698f98-3012-4ccd-a591-f828a57d7700?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Remote | 11/1
 | [DISH - Product Ddesigner](https://jobs.dish.com/jobs/67424?mode=job&iis=Job+Board&iisn=LinkedIN.COM) | Englewood, CO | 11/1
 | [JP Morgan - UX Researcher, Associate (Resiliency) (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210358959/?utm_medium=jobshare&src=LinkedIn_JPMC) | Columbus, OH | 10/30
 | [Lockheed Martin - Human Factors Engineer (2 YoE)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobId=667179) | Englewood, CO | 10/29
