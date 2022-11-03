@@ -145,6 +145,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nokia - UX Design-Developer](https://careers.nokia.com/jobs/bell-labs-ux-designer-developer-intern-91293)| Sunnyvale, CA | Summer 2023 | 11/3
 | [DISH - Customer Experience Operations, Techops](https://attract-careers1-dish.icims.com/jobs/68263/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Christiansberg, VA | Summer 2023 | 10/30
 | [Amazon - User Experience Researcher](https://www.amazon.jobs/en/jobs/2141799/user-experience-ux-researcher-intern-2023-us)| Seattle,WA | Summer 2023 | 10/30
 | [Sabre - UI Design Technologist](https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/UI-Design-Technologist---Intern_JR100681)| Dallas Fort Worth, TX | Summer 2023 | 10/29
