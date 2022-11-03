@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Elevance Health - UX Researcher (3 YoE)](https://careers.elevancehealth.com/jobs/jr22425/ux-researcher/) | Multiple locations | 11/3
 | [GoodRx - Product Designer, Member Growth (2-4 YoE)](https://jobs.lever.co/goodrx/b1b2beb6-e43e-483d-b49d-95db2a612f44) | Los Angeles, CA/San Fracisco, CA | 11/3
 | [Lowe's - Product Researcher (3 YoE)](https://talent.lowes.com/us/en/job/2455218BR/Product-Researcher&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 11/3
 | [Activision - Associate User Researcher](https://careers.activision.com/job/ACPUUSR017700EXTERNAL/Associate-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 11/2
