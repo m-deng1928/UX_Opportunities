@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Lowe's - Product Researcher](https://talent.lowes.com/us/en/job/2455218BR/Product-Researcher&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 11/3
 | [Activision - Associate User Researcher](https://careers.activision.com/job/ACPUUSR017700EXTERNAL/Associate-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds) | Woodland Hills, CA | 11/2
 | [Tiktok - Content Designer](https://careers.tiktok.com/position/7161211498021505317/detail?spread=5MWH5CQ) | Mountain View, CA | 11/2
 | [Atlassian - Content Designer](https://www.atlassian.com/company/careers/detail/7d698f98-3012-4ccd-a591-f828a57d7700?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Remote | 11/1
