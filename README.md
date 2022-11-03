@@ -145,6 +145,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Hashicorp - Research & Insights](https://www.hashicorp.com/career/4637311?gh_jid=4637311)| Remote | Summer 2023 | 11/3
+| [Hashicorp - Product Design](https://www.hashicorp.com/career/4635635?gh_src=66d596a11us&gh_jid=4635635)| San Francisco, CA | Summer 2023 | 11/3
 | [Atlassian - Content Design](https://jobs.lever.co/atlassian/6a8401f0-71b1-4c37-a9a4-ad1f998778d0)| San Francisco, CA | Summer 2023 | 11/3
 | [Nokia - UX Design-Developer](https://careers.nokia.com/jobs/bell-labs-ux-designer-developer-intern-91293)| Sunnyvale, CA | Summer 2023 | 11/3
 | [DISH - Customer Experience Operations, Techops](https://attract-careers1-dish.icims.com/jobs/68263/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Christiansberg, VA | Summer 2023 | 10/30
