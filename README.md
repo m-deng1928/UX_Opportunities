@@ -146,6 +146,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Autodesk - UX Design, Data Experience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Michigan-USA---Remote/Intern--UX-Design---Data-Experience_22WD65342-1?src=JB-10065)| Remote | Summer 2023 | 11/4
 | [Salesforce - User Research (PhD)](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/User-Research-Doctoral-Internship_JR167478-2?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/4
 | [Avanade - Visual Design](https://careers.avanade.com/jobs/JobDetail?jobId=58829)| Boston, MA/Philadelphia, PA | Summer 2023 | 11/3
 | [Unum - UX Design](https://careers.unum.com/global/en/job/824573/UX-Design-Intern-Summer-2023)| Chattanooga, TN | Summer 2023 | 11/3
