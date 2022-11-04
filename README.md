@@ -146,6 +146,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Salesforce - User Research (PhD)](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/User-Research-Doctoral-Internship_JR167478-2?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/4
 | [Avanade - Visual Design](https://careers.avanade.com/jobs/JobDetail?jobId=58829)| Boston, MA/Philadelphia, PA | Summer 2023 | 11/3
 | [Unum - UX Design](https://careers.unum.com/global/en/job/824573/UX-Design-Intern-Summer-2023)| Chattanooga, TN | Summer 2023 | 11/3
 | [Hashicorp - Research & Insights](https://www.hashicorp.com/career/4637311?gh_jid=4637311)| Remote | Summer 2023 | 11/3
