@@ -146,6 +146,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Activision - UX/UI - Treyarch](https://careers.activision.com/job/ACPUUSR018426EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds)| Los Angeles, CA | Summer 2023 | 11/4
 | [Autodesk - UX Design, Data Experience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Michigan-USA---Remote/Intern--UX-Design---Data-Experience_22WD65342-1?src=JB-10065)| Remote | Summer 2023 | 11/4
 | [Salesforce - User Research (PhD)](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/User-Research-Doctoral-Internship_JR167478-2?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/4
 | [Avanade - Visual Design](https://careers.avanade.com/jobs/JobDetail?jobId=58829)| Boston, MA/Philadelphia, PA | Summer 2023 | 11/3
