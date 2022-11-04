@@ -146,6 +146,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Unum - UX Design](https://careers.unum.com/global/en/job/824573/UX-Design-Intern-Summer-2023)| Chattanooga, TN | Summer 2023 | 11/3
 | [Hashicorp - Research & Insights](https://www.hashicorp.com/career/4637311?gh_jid=4637311)| Remote | Summer 2023 | 11/3
 | [Hashicorp - Product Design](https://www.hashicorp.com/career/4635635?gh_src=66d596a11us&gh_jid=4635635)| San Francisco, CA | Summer 2023 | 11/3
 | [Atlassian - Content Design](https://jobs.lever.co/atlassian/6a8401f0-71b1-4c37-a9a4-ad1f998778d0)| San Francisco, CA | Summer 2023 | 11/3
