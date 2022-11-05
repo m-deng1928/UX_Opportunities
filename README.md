@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [NBA - Product Designer (3 YoE)](https://nbacareers.nba.com/job/New-York-Product-Designer-New-10022/865840801/?feedId=356101&utm_source=LinkedInJobPostings&utm_campaign=NBA_LinkedIn) | New York, NY | 11/5
 | [Elevance Health - UX Researcher (3 YoE)](https://careers.elevancehealth.com/jobs/jr22425/ux-researcher/) | Multiple locations | 11/3
 | [GoodRx - Product Designer, Member Growth (2-4 YoE)](https://jobs.lever.co/goodrx/b1b2beb6-e43e-483d-b49d-95db2a612f44) | Los Angeles, CA/San Fracisco, CA | 11/3
 | [Lowe's - Product Researcher (3 YoE)](https://talent.lowes.com/us/en/job/2455218BR/Product-Researcher&utm_source=617LinkedInPaidSlots) | Charlotte, NC | 11/3
