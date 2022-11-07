@@ -148,6 +148,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Peapod Digital Labs - Experience Design Co-Op](https://peapoddigitallabs.careerswithus.com/jobs/?ad=271192_external_USA-IL-Chicago_9282022&v=peapoddigitallabsrms&location=chicago&category=co-ops&title=experience-design-co-op&utm_source=linkedin)| Chicago, IL | Summer 2023 | 11/7
 | [Netflix - Design Technologist - Experience Design](https://jobs.netflix.com/jobs/240798696)| Los Gatos, CA | Summer 2023 | 11/5
 | [Activision - UX/UI - Treyarch](https://careers.activision.com/job/ACPUUSR018426EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds)| Los Angeles, CA | Summer 2023 | 11/4
 | [Autodesk - UX Design, Data Experience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Michigan-USA---Remote/Intern--UX-Design---Data-Experience_22WD65342-1?src=JB-10065)| Remote | Summer 2023 | 11/4
