@@ -148,6 +148,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Duolingo - Product Designer](https://boards.greenhouse.io/duolingo/jobs/6475905002)| Pittsburgh, PA | Summer 2023 | 11/7
+| [Duolingo - Product Designer, Thrive](https://boards.greenhouse.io/duolingo/jobs/6476542002)| Pittsburgh, PA | Summer 2023 | 11/7
 | [Formlabs - UI Software Development](https://careers.formlabs.com/job/4635610/apply/?gh_jid=4635610&gh_src=b0fb643a1us)| Somerville, MA | Winter 2022/Spring 2023 | 11/7
 | [Mastercard - Experience Research & Strategy](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FNew-York-City-New-York%2FExperience-Research---Strategy-Intern_R-173785%2Fapply%3Fsource%3DLINKEDIN)| New York, NY | Summer 2023 | 11/7
 | [Pitney Bowes - UX Data Science Analyst](https://careers.pitneybowes.com/global/en/job/R10108/UX-Data-Science-Analyst-Intern-Remote-Opportunity?rx_c=general-ppc&rx_job=R10108&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedinll&rx_ts=20221021T020432Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7)| Shelton, CT | Summer 2023 | 11/7
