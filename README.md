@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Bose - Design Program Manager (3 YoE)](https://www.linkedin.com/jobs/view/3303581077) | Framingham, MA | 11/7
 | [Autodesk - UX Researcher (3-5 YoE)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Georgia---Atlanta---Peachtree-St-NW/UX-Researcher_22WD65009?src=JB-10065&source=Linkedin) | Multiple locations | 11/7
 | [Paradox - Product Designer (3 YoE)](https://careers.paradox.ai/product-designer-mobile-ui/job/20749122?utm_source=LinkedIn&utm_medium=Paid&utm_campaign=Jobs) | Scottsdale, AZ | 11/6
 | [NBA - Product Designer (3 YoE)](https://nbacareers.nba.com/job/New-York-Product-Designer-New-10022/865840801/?feedId=356101&utm_source=LinkedInJobPostings&utm_campaign=NBA_LinkedIn) | New York, NY | 11/5
