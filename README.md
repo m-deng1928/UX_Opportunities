@@ -148,6 +148,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Pitney Bowes - UX Data Science Analyst](https://careers.pitneybowes.com/global/en/job/R10108/UX-Data-Science-Analyst-Intern-Remote-Opportunity?rx_c=general-ppc&rx_job=R10108&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedinll&rx_ts=20221021T020432Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7)| Shelton, CT | Summer 2023 | 11/7
 | [Peapod Digital Labs - Experience Design Co-Op](https://peapoddigitallabs.careerswithus.com/jobs/?ad=271192_external_USA-IL-Chicago_9282022&v=peapoddigitallabsrms&location=chicago&category=co-ops&title=experience-design-co-op&utm_source=linkedin)| Chicago, IL | Summer 2023 | 11/7
 | [Netflix - Design Technologist - Experience Design](https://jobs.netflix.com/jobs/240798696)| Los Gatos, CA | Summer 2023 | 11/5
 | [Activision - UX/UI - Treyarch](https://careers.activision.com/job/ACPUUSR018426EXTERNAL/UI-UX-Internship-Treyarch?utm_source=linkedin&utm_medium=phenom-feeds)| Los Angeles, CA | Summer 2023 | 11/4
