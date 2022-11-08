@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Nintendo - Web Designer (3-5 YoE)](https://careers.nintendo.com/job-openings/listing/22000000EH.html?src=JB-10460) | Redmond, WA | 11/8
 | [Bose - Design Program Manager (3 YoE)](https://www.linkedin.com/jobs/view/3303581077) | Framingham, MA | 11/7
 | [Autodesk - UX Researcher (3-5 YoE)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Georgia---Atlanta---Peachtree-St-NW/UX-Researcher_22WD65009?src=JB-10065&source=Linkedin) | Multiple locations | 11/7
 | [Paradox - Product Designer (3 YoE)](https://careers.paradox.ai/product-designer-mobile-ui/job/20749122?utm_source=LinkedIn&utm_medium=Paid&utm_campaign=Jobs) | Scottsdale, AZ | 11/6
