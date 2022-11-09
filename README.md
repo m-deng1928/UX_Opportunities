@@ -152,6 +152,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [PTC - Onshape UI](https://ptc.eightfold.ai/careers?query=JR102781%20UI%2FUX%20Designer&pid=137453256310&domain=ptc.com#apply)| Boston, MA | Summer 2023 | 11/9
 | [Tesla - Product Design](https://www.tesla.com/careers/search/job/product-designinternshipsummer2023-159025)| Hawthorne, CA | Summer 2023 | 11/8
 | [Duolingo - Product Designer](https://boards.greenhouse.io/duolingo/jobs/6475905002)| Pittsburgh, PA | Summer 2023 | 11/7
 | [Duolingo - Product Designer, Thrive](https://boards.greenhouse.io/duolingo/jobs/6476542002)| Pittsburgh, PA | Summer 2023 | 11/7
