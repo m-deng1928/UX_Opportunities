@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Costco - Digital Accessibility Analyst (UX Designer) (2 YoE)](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=6263) | Seattle, WA | 11/9
 | [National Grid - Product Designer - User Centered Design (2 YoE)](https://jobs.nationalgrid.com/USA/job/Waltham-Product-Designer%2C-User-Centered-Design-MA-02451/954945000/?from=email&refid=17051797300&utm_source=J2WEmail&source=2&eid=143600-202208090908-24729212800&locale=en_US) | Remote | 11/9
 | [WEX - UX Strategist (3 YoE)](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/UX-Strategist---E2E-Experiences_R9951) | Remote | 11/9
 | [Nintendo - Web Designer (3-5 YoE)](https://careers.nintendo.com/job-openings/listing/22000000EH.html?src=JB-10460) | Redmond, WA | 11/8
