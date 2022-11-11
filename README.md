@@ -28,6 +28,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Playstation - Associate User Experience Researcher (2 YoE)](https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4715185004?gh_src=c81250474us) | San Mateo, CA | 11/10
+| [Gearbox Software - UX/UI Designer (2 YoE)](https://gearboxsoftware.bamboohr.com/jobs/view.php?id=507) | Frisco, TX | 11/10
 | [JP Morgan - UX Research & Strategist, Associate (3 YoE)](https://ars2.equest.com/?response_id=73ec89e402df3ad9108a6edb687b0a07) | Remote | 11/10
 | [Apple - Junior AR/VR UI Frameworks Engineer](https://jobs.apple.com/en-us/details/200442637/junior-ar-vr-ui-frameworks-engineer) | Cupertino, CA | 11/10
 | [Costco - Digital Accessibility Analyst (UX Designer) (2 YoE)](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=6263) | Seattle, WA | 11/9
