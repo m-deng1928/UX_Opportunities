@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [MLB - Product Designer (3 YoE)](hhttps://www.mlb.com/careers/opportunities?gh_jid=3912695) | New York, NY | 11/11
 | [Tiktok - User Experience Specialist (1-3 YoE)](https://careers.tiktok.com/position/7163690206746118408/detail?spread=5MWH5CQ) | Los Angeles, CA | 11/10
 | [Jam City - UI/UX Designer](https://jobs.lever.co/jamcity/32c25e38-68e7-454b-b251-a6cfc8ff4119?name=LinkedIn&SID=69&lever-source=LinkedInJobs) | San Francisco, CA | 11/10
 | [H-E-B - Digital Product Designer - eCommerce (3 YoE)](https://careers-heb.icims.com/jobs/58314/digital-product-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1090&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Austin, TX | 11/10
