@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Cargill - UX UI Design Associate)](https://careers.cargill.com/job/-/-/23251/39584038336?utm_source=LinkedInJobPostings&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid) | Hopkins, MN | 11/12
 | [National Grid - UX Researcher - User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119246320?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CNvK647-pfsCFZwCaAgdh9MJMg) | Brooklyn, NY | 11/11
 | [MLB - Product Designer (3 YoE)](hhttps://www.mlb.com/careers/opportunities?gh_jid=3912695) | New York, NY | 11/11
 | [Tiktok - User Experience Specialist (1-3 YoE)](https://careers.tiktok.com/position/7163690206746118408/detail?spread=5MWH5CQ) | Los Angeles, CA | 11/10
