@@ -15,7 +15,7 @@ All the best in your search :D / Don't Forget To Be Awesome
 
 If you want equivalent ones for Product and CS (SWE/etc...), here are some repos below:
 
-[**Underclassmen Internship Programs 2022 - /u/No-Bicycle-7947**](https://docs.google.com/spreadsheets/d/15arh2xiWZ9noq_ogtD_IvfXZ-Np8ZnVdaKEbw0_g-Oo/edit#gid=1540676130)
+[**Underclassmen Internship Programs 2022 - /u/No-Bicycle-7947**]([https://docs.google.com/spreadsheets/d/15arh2xiWZ9noq_ogtD_IvfXZ-Np8ZnVdaKEbw0_g-Oo/edit#gid=1540676130](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnKUwwEW-efubdQ_RFrrcOFkCiSw8gQ1THkS5sec-CjQvusuOQLHANPc_izk-bSWEB91rT7beAaYBz/pubhtml))
 
 [**Product - PM Openings 2022 - leestanley**](https://github.com/leestanley/pm-openings2022)
 
