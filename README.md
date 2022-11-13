@@ -28,6 +28,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Capital One - Design Researcher (2 YoE)](https://www.capitalonecareers.com/job/-/-/234/39234431872?utm_source=linkedin%20slotted&p_uid=RdWpaKeOFs&p_sid=pZiBdab&utm_campaign=cap%20one%20all%20jobs&utm_medium=jobad&ss=paid&utm_content=pj_board&source=rd_linkedin_job_posting_tm&dclid=CIfYtPaAq_sCFZUPaAgd3tABpg) | Multiple locations | 11/13
 | [Cargill - UX UI Design Associate)](https://careers.cargill.com/job/-/-/23251/39584038336?utm_source=LinkedInJobPostings&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid) | Hopkins, MN | 11/12
 | [National Grid - UX Researcher - User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119246320?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CNvK647-pfsCFZwCaAgdh9MJMg) | Brooklyn, NY | 11/11
 | [MLB - Product Designer (3 YoE)](hhttps://www.mlb.com/careers/opportunities?gh_jid=3912695) | New York, NY | 11/11
