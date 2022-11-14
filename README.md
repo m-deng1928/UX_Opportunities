@@ -165,6 +165,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Heartland - Product Designer](https://tsys.wd1.myworkdayjobs.com/en-US/HeartlandCareers/job/Oklahoma-City-OK/Product-Designer---Internship--Summer-2023-_R0037886)| Oklahoma City, OK/Jeffersonville, IN | Summer 2023 | 11/14
 | [Tiktok - Product Content Operations Specialist](https://careers.tiktok.com/position/7154157473652803876/detail?spread=5MWH5CQ)| Los Angeles, CA | Summer 2023 | 11/14
 | [UnitedHealthGroup - Visual Designer](https://careers.unitedhealthgroup.com/job/17049943/?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=branding&utm_term=linkedin_organic_job_postings&utm_content=na_na_na_na&Taleo_ID=JB-14948)| Boston, MA | Summer 2023 | 11/11
 | [Chobani - Creative - UX Design](https://careers.chobani.com/job/New-York-Creative-Intern-UX-Design-NY-10001/957651000/)| New York, NY | Summer 2023 | 11/9
