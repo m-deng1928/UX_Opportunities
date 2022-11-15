@@ -33,7 +33,7 @@ New Grad
 | [Capital One - Design Researcher (2 YoE)](https://www.capitalonecareers.com/job/-/-/234/39234431872?utm_source=linkedin%20slotted&p_uid=RdWpaKeOFs&p_sid=pZiBdab&utm_campaign=cap%20one%20all%20jobs&utm_medium=jobad&ss=paid&utm_content=pj_board&source=rd_linkedin_job_posting_tm&dclid=CIfYtPaAq_sCFZUPaAgd3tABpg) | Multiple locations | 11/13
 | [Cargill - UX UI Design Associate)](https://careers.cargill.com/job/-/-/23251/39584038336?utm_source=LinkedInJobPostings&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid) | Hopkins, MN | 11/12
 | [National Grid - UX Researcher - User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119246320?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CNvK647-pfsCFZwCaAgdh9MJMg) | Brooklyn, NY | 11/11
-| [MLB - Product Designer (3 YoE)](hhttps://www.mlb.com/careers/opportunities?gh_jid=3912695) | New York, NY | 11/11
+| [MLB - Product Designer (3 YoE)](https://www.mlb.com/careers/opportunities?gh_jid=3912695) | New York, NY | 11/11
 | [Tiktok - User Experience Specialist (1-3 YoE)](https://careers.tiktok.com/position/7163690206746118408/detail?spread=5MWH5CQ) | Los Angeles, CA | 11/10
 | [Jam City - UI/UX Designer](https://jobs.lever.co/jamcity/32c25e38-68e7-454b-b251-a6cfc8ff4119?name=LinkedIn&SID=69&lever-source=LinkedInJobs) | San Francisco, CA | 11/10
 | [H-E-B - Digital Product Designer - eCommerce (3 YoE)](https://careers-heb.icims.com/jobs/58314/digital-product-designer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1090&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Austin, TX | 11/10
