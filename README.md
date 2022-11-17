@@ -134,6 +134,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Adobe - Experience Content Strategy](https://careers.adobe.com/us/en/job/ADOBUSR131702EXTERNALENUS/2023-Intern-Experience-Content-Strategy?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Francisco, CA | Summer 2023 | 11/17
 | [Mathworks - User Experience Designer](https://www.mathworks.com/company/jobs/opportunities/24887-user-experience-designer-intern-undergrad-students.html?source=14343&s_eid=rcj_14343)| Natick, MA | Summer 2023 | 11/17
 | [Atmosfy - Product Design](https://forms.monday.com/forms/33ffaabe0b02128d671ad3b870bbe328?r=use1)| Remote | Summer 2023 | 11/17
 | [Microsoft - UX Research](https://careers.microsoft.com/us/en/job/1375832/UX-Research-Intern-Opportunities-for-University-Students?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Atlanta, GA/Redmond, WA | Summer 2023 | 11/16
