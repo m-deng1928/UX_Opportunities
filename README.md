@@ -135,6 +135,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Atmosfy - Product Design](https://forms.monday.com/forms/33ffaabe0b02128d671ad3b870bbe328?r=use1)| Remote | Summer 2023 | 11/17
 | [Microsoft - UX Research](https://careers.microsoft.com/us/en/job/1375832/UX-Research-Intern-Opportunities-for-University-Students?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Atlanta, GA/Redmond, WA | Summer 2023 | 11/16
 | [Costco - UX/UI Designer](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=6790)| Seattle, WA | Summer 2023 | 11/15
 | [Salesforce - User Research (PhD)](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/User-Research-Doctoral-Internship_JR167478-2?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/15
