@@ -120,7 +120,6 @@ New Grad
 | [CapTech Consulting - UX Consultant (BS)(Graduating Dec. 2022- May 2023)](https://jobs.smartrecruiters.com/CapTechConsulting/743999842537218-associate-ux-consultant-graduating-dec-2022-may-2023-?source=Linkedin) | Richmond, VA | 8/4
 | [Amazon - User Experience (UX) Designer - 2023 (US)](https://www.amazon.jobs/en/jobs/2141726/user-experience-ux-designer-2023-us) | Multiple Locations | 8/3
 | [Fidelity Investments - User Experience Designer (2-5 YoE)](https://jobs.fidelity.com/job-details/15933407/user-experience-designer/) | Multiple Locations | 7/30
-| [MathWorks - Associate UX Designer - Engineering Development Group](https://www.mathworks.com/company/jobs/opportunities/26314-associate-ux-designer-engineering-development-group.html?source=14343&s_eid=rcj_14343) | Natick, MA | 7/7
 | [EA - Visual Experience Designer (2 YoE))](https://ea.gr8people.com/jobs/174165/visual-experience-designer?sid=4) | Multiple Locations (Remote) | 6/27
 | [Naughty Dog - Associate UI Technical Designer (Temporary Assignment) (1-3 YoE))](https://www.naughtydog.com/greenhouse/job/2226493?gh_jid=2226493) | Santa Monica, CA | 6/27
 | [Xero - Design Researcher](https://jobs.lever.co/xero/b81bb16c-6e9c-4bf8-8356-57fe1d4c2a1e) | Remote | 5/20
@@ -135,6 +134,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Mathworks - User Experience Designer](https://www.mathworks.com/company/jobs/opportunities/24887-user-experience-designer-intern-undergrad-students.html?source=14343&s_eid=rcj_14343)| Natick, MA | Summer 2023 | 11/17
 | [Atmosfy - Product Design](https://forms.monday.com/forms/33ffaabe0b02128d671ad3b870bbe328?r=use1)| Remote | Summer 2023 | 11/17
 | [Microsoft - UX Research](https://careers.microsoft.com/us/en/job/1375832/UX-Research-Intern-Opportunities-for-University-Students?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)| Atlanta, GA/Redmond, WA | Summer 2023 | 11/16
 | [Costco - UX/UI Designer](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=6790)| Seattle, WA | Summer 2023 | 11/15
