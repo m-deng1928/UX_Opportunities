@@ -29,6 +29,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Media.Monks - Designer](https://media.monks.com/careers/los-angeles/design/design?gh_src=a9b949034us) | Los Angeles, CA | 11/18
 | [NEMERA - Human Factors Engineer](https://fa-emia-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1758?utm_medium=jobboard&utm_source=LinkedIn_Slots) | Chicago, IL | 11/18
 | [Penn Interactive - Product Designer](https://boards.greenhouse.io/penninteractive/jobs/4677611004?source=LinkedIn) | Newport Beach, CA/Philadelphia, PA | 11/14
 | [JP Morgan - InstaMed, User Experience Designer- Associate (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210220996/?utm_medium=jobshare&src=LinkedIn_JPMC) | Newport Beach, CA/Philadelphia, PA | 11/14
