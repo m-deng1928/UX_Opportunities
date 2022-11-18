@@ -29,6 +29,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [NEMERA - Human Factors Engineer](https://fa-emia-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1758?utm_medium=jobboard&utm_source=LinkedIn_Slots) | Chicago, IL | 11/18
 | [Penn Interactive - Product Designer](https://boards.greenhouse.io/penninteractive/jobs/4677611004?source=LinkedIn) | Newport Beach, CA/Philadelphia, PA | 11/14
 | [JP Morgan - InstaMed, User Experience Designer- Associate (3 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210220996/?utm_medium=jobshare&src=LinkedIn_JPMC) | Newport Beach, CA/Philadelphia, PA | 11/14
 | [Capital One - Design Researcher (2 YoE)](https://www.capitalonecareers.com/job/-/-/234/39234431872?utm_source=linkedin%20slotted&p_uid=RdWpaKeOFs&p_sid=pZiBdab&utm_campaign=cap%20one%20all%20jobs&utm_medium=jobad&ss=paid&utm_content=pj_board&source=rd_linkedin_job_posting_tm&dclid=CIfYtPaAq_sCFZUPaAgd3tABpg) | Multiple locations | 11/13
