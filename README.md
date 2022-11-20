@@ -29,6 +29,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [FIA Tech - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3328049862) | Remote | 11/20
 | [Tory Burch - Digital Designer, International](https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers/job/New-York-NY/Digital-Designer--International_R0015294) | New York, NY | 11/19
 | [Media.Monks - Designer](https://media.monks.com/careers/los-angeles/design/design?gh_src=a9b949034us) | Los Angeles, CA | 11/18
 | [NEMERA - Human Factors Engineer](https://fa-emia-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1758?utm_medium=jobboard&utm_source=LinkedIn_Slots) | Chicago, IL | 11/18
