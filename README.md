@@ -29,6 +29,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Oakley - Analyst - User Experience](https://jobs.luxottica.com/LRNA/job/Foothill-Ranch-Oakley-Analyst-User-Experience-CA-92610/861284301/?utm_source=LINKEDIN&utm_medium=referrer) | Foothill Ranch, CA | 11/20
 | [FIA Tech - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3328049862) | Remote | 11/20
 | [Tory Burch - Digital Designer, International](https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers/job/New-York-NY/Digital-Designer--International_R0015294) | New York, NY | 11/19
 | [Media.Monks - Designer](https://media.monks.com/careers/los-angeles/design/design?gh_src=a9b949034us) | Los Angeles, CA | 11/18
