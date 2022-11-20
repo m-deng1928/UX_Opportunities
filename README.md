@@ -138,6 +138,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Stellantis - Product Design](Product Design Office - User Experience Design)| Auburn Hills, MI | Summer 2023 | 11/19
 | [Yahoo - Product Design](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Product-Design-Intern_JR0021566)| Remote | Summer 2023 | 11/19
 | [Figma - Product Design](https://boards.greenhouse.io/figma/jobs/4601996004?gh_src=28109e334us&source=LinkedIn)| New York, NY/San Francisco, CA | Summer 2023 | 11/18
 | [Adobe - Experience Content Strategy](https://careers.adobe.com/us/en/job/ADOBUSR131702EXTERNALENUS/2023-Intern-Experience-Content-Strategy?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Francisco, CA | Summer 2023 | 11/17
