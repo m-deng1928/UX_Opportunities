@@ -144,6 +144,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Fanduel - Product Design](https://boards.greenhouse.io/fanduel/jobs/4618407?gh_src=ba823b7b1us)| Atlanta, GA | Summer 2023 | 11/21
 | [Hashicorp - Design Systems Engineer](https://www.hashicorp.com/career/4674082?gh_src=c93882831us&gh_jid=4674082)| Remote | Summer 2023 | 11/21
 | [OCC - Enabling Services, UIUX](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Intern---Enabling-Services--UIUX_REQ-3033?source=Linkedin)| Chicago, IL | Summer 2023 | 11/21
 | [Tiktok - Content Design and Product Writing](https://careers.tiktok.com/position/7166297826396473637/detail?spread=5MWH5CQ)| Mountain View, CA | Summer 2023 | 11/21
