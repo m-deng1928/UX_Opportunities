@@ -29,6 +29,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Oracle - Junior UX Researcher (0-2 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/188212?utm_medium=jobboard&utm_source=LinkedIn) | United States (unspecified) | 11/21
 | [Oakley - Analyst - User Experience](https://jobs.luxottica.com/LRNA/job/Foothill-Ranch-Oakley-Analyst-User-Experience-CA-92610/861284301/?utm_source=LINKEDIN&utm_medium=referrer) | Foothill Ranch, CA | 11/20
 | [FIA Tech - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3328049862) | Remote | 11/20
 | [Tory Burch - Digital Designer, International](https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers/job/New-York-NY/Digital-Designer--International_R0015294) | New York, NY | 11/19
@@ -140,6 +141,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Tiktok - Content Design and Product Writing](https://careers.tiktok.com/position/7166297826396473637/detail?spread=5MWH5CQ)| Mountain View, CA | Summer 2023 | 11/21
 | [iHeartMedia - UX/UI Design](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/login?redirect=%2FExternal_iHM%2Fjob%2FVirtual-TX%2FUX-UI-Intern_Req30204%2Fapply)| New York, NY | Summer 2023 | 11/20
 | [Stellantis - Product Design](https://recruiting.adp.com/srccar/public/RTI.home?r=10000773585000&c=2183219&d=ExternalCareerSite&rb=???#/)| Auburn Hills, MI | Summer 2023 | 11/19
 | [Yahoo - Product Design](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Product-Design-Intern_JR0021566)| Remote | Summer 2023 | 11/19
