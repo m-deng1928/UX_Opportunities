@@ -141,6 +141,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [OCC - Enabling Services, UIUX](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Intern---Enabling-Services--UIUX_REQ-3033?source=Linkedin)| Chicago, IL | Summer 2023 | 11/21
 | [Tiktok - Content Design and Product Writing](https://careers.tiktok.com/position/7166297826396473637/detail?spread=5MWH5CQ)| Mountain View, CA | Summer 2023 | 11/21
 | [iHeartMedia - UX/UI Design](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/login?redirect=%2FExternal_iHM%2Fjob%2FVirtual-TX%2FUX-UI-Intern_Req30204%2Fapply)| New York, NY | Summer 2023 | 11/20
 | [Stellantis - Product Design](https://recruiting.adp.com/srccar/public/RTI.home?r=10000773585000&c=2183219&d=ExternalCareerSite&rb=???#/)| Auburn Hills, MI | Summer 2023 | 11/19
