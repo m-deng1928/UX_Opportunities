@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Verily - Digital Experience Specialist](https://verily.com/careers/job/?job_id=4702319&gh_jid=4702319&gh_src=44d0c4ce1us) | South San Francisco, CA | 11/21
 | [Morningside - Associate Designer](https://careers.morningstar.com/us/en/job/MORMORUSREQ029303EXTERNALENUS/Associate-Designer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Chicago, IL | 11/21
 | [University of Pennsylvania - Design and Content Strategist (Palliative Research Center) (1-3 YoE)](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Blockley-Hall/Design-and-Content-Strategist--Palliative-Research-Center-_JR00063736-1) | Philadelphia, PA | 11/21
 | [Oracle - Junior UX Researcher (0-2 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/188212?utm_medium=jobboard&utm_source=LinkedIn) | United States (unspecified) | 11/21
