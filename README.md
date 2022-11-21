@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [University of Pennsylvania - Design and Content Strategist (Palliative Research Center) (1-3 YoE)](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Blockley-Hall/Design-and-Content-Strategist--Palliative-Research-Center-_JR00063736-1) | Philadelphia, PA) | 11/21
 | [Oracle - Junior UX Researcher (0-2 YoE)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/188212?utm_medium=jobboard&utm_source=LinkedIn) | United States (unspecified) | 11/21
 | [Oakley - Analyst - User Experience](https://jobs.luxottica.com/LRNA/job/Foothill-Ranch-Oakley-Analyst-User-Experience-CA-92610/861284301/?utm_source=LINKEDIN&utm_medium=referrer) | Foothill Ranch, CA | 11/20
 | [FIA Tech - Product Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3328049862) | Remote | 11/20
