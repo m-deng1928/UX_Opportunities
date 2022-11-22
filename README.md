@@ -30,6 +30,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Zipline - Design Researcher (3-5 YoE)](https://www.flyzipline.com/job?gh_jid=4968435003) | Remote | 11/21
+| [Benjamin Moore & Co - UX and Product Designer (3-5 YoE)](https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v026AeedYlN3yUtSC9uHBECoj6wdmzOr0gsSLljEjmdLN92uD0BH%2Fb1VOnWx05WcJZV&c=1146411&_dissimuloSSO=X-NC85QHxW4:9RcOFYucXww30L-0zC2gedIJpew#/) | Montvale, CA | 11/21
 | [Verily - Digital Experience Specialist](https://verily.com/careers/job/?job_id=4702319&gh_jid=4702319&gh_src=44d0c4ce1us) | South San Francisco, CA | 11/21
 | [Morningside - Associate Designer](https://careers.morningstar.com/us/en/job/MORMORUSREQ029303EXTERNALENUS/Associate-Designer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Chicago, IL | 11/21
 | [University of Pennsylvania - Design and Content Strategist (Palliative Research Center) (1-3 YoE)](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Blockley-Hall/Design-and-Content-Strategist--Palliative-Research-Center-_JR00063736-1) | Philadelphia, PA | 11/21
