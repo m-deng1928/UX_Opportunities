@@ -30,6 +30,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [AKQA - UX Designer](https://www.akqa.com/careers/ux-designer-4655689/) | Atlanta, GA  | 11/22
+| [Aspen Technologies - Associate User Interface Designer](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Associate-User-Interface-Designer_R3732) | Bedford, MA  | 11/22
+| [Key Software Systems - UX/UI Designer](https://www.linkedin.com/jobs/view/1092044186) | Farmingdale, NJ  | 11/22
 | [Zipline - Design Researcher (3-5 YoE)](https://www.flyzipline.com/job?gh_jid=4968435003) | Remote | 11/21
 | [Benjamin Moore & Co - UX and Product Designer (3-5 YoE)](https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v026AeedYlN3yUtSC9uHBECoj6wdmzOr0gsSLljEjmdLN92uD0BH%2Fb1VOnWx05WcJZV&c=1146411&_dissimuloSSO=X-NC85QHxW4:9RcOFYucXww30L-0zC2gedIJpew#/) | Montvale, CA | 11/21
 | [Verily - Digital Experience Specialist](https://verily.com/careers/job/?job_id=4702319&gh_jid=4702319&gh_src=44d0c4ce1us) | South San Francisco, CA | 11/21
