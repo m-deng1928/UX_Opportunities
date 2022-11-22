@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Emerson - User Experience Designer (2 YoE)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22027829?utm_medium=LinkedIn_Other) | Austin, TX | 11/22
 | [IDEMIA - Product Designer I (3-5 YoE)](https://uscareers-idemia.icims.com/jobs/5495/product-designer-i/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Bedford, MA  | 11/22
 | [AKQA - UX Designer](https://www.akqa.com/careers/ux-designer-4655689/) | Atlanta, GA  | 11/22
 | [Aspen Technologies - Associate User Interface Designer](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Associate-User-Interface-Designer_R3732) | Bedford, MA  | 11/22
