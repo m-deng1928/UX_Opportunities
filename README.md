@@ -152,6 +152,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [HPE - UX Design](https://careers.hpe.com/us/en/job/HPE1US1131900EXTERNALENUS/UX-Design-Intern?utm_source=indeed&utm_medium=phenom-feeds)| Fort Collins, CO | Summer 2023 | 11/23
 | [Salesforce - Product Design (Slack)](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/XMLNAME-2023-Summer-Intern-Product-Design--Slack-_JR167167-2?source=LinkedIn_Jobs)| San Francisco, CA | Summer 2023 | 11/22
 | [Hashicorp - Design Systems Engineer](https://www.hashicorp.com/career/4674082?gh_src=c93882831us&gh_jid=4674082)| Remote | Summer 2023 | 11/21
 | [OCC - Enabling Services, UIUX](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Intern---Enabling-Services--UIUX_REQ-3033?source=Linkedin)| Chicago, IL | Summer 2023 | 11/21
