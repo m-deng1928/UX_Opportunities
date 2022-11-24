@@ -154,7 +154,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Salesforce - UX/UI Design, Mulesoft](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---UX-UI-Design--Mulesoft_JR167838-1?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/15
+| [Xometry - Product Design](https://jobs.lever.co/xometry/a6e7040d-4e86-4c22-a038-eadba33395e4)| Los Angeles, CA | Summer 2023 | 11/24
+| [Salesforce - UX/UI Design, Mulesoft](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---UX-UI-Design--Mulesoft_JR167838-1?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/23
 | [HPE - UX Design](https://careers.hpe.com/us/en/job/HPE1US1131900EXTERNALENUS/UX-Design-Intern?utm_source=indeed&utm_medium=phenom-feeds)| Fort Collins, CO | Summer 2023 | 11/23
 | [Salesforce - Product Design (Slack)](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/XMLNAME-2023-Summer-Intern-Product-Design--Slack-_JR167167-2?source=LinkedIn_Jobs)| San Francisco, CA | Summer 2023 | 11/22
 | [Hashicorp - Design Systems Engineer](https://www.hashicorp.com/career/4674082?gh_src=c93882831us&gh_jid=4674082)| Remote | Summer 2023 | 11/21
