@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Stanford - Associate UI/UX Designer (1-2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Palo Alto, CA | 11/24
 | [Tiktok - User Experience Specialist (1-3 YoE)](https://careers.tiktok.com/position/7163690206746118408/detail?spread=5MWH5CQ) | Los Angeles, CA | 11/23
 | [Emerson - User Experience Designer (2 YoE)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22027829?utm_medium=LinkedIn_Other) | Austin, TX | 11/22
 | [IDEMIA - Product Designer I (3-5 YoE)](https://uscareers-idemia.icims.com/jobs/5495/product-designer-i/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Bedford, MA  | 11/22
