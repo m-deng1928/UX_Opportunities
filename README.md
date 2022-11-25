@@ -154,6 +154,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [S&C Electric - UI/UX Design](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102112/)| Rockville, MD | Summer 2023 | 11/25
+| [Discover - UX Research](https://jobs.discovery.com/careers-home/jobs/33726?lang=en-us)| Seattle, WA/Culver City, CA/New York, NY | Summer 2023 | 11/25
+| [Red Hat - Digital UX Research](https://us-redhat.icims.com/jobs/97657/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Remote | Summer 2023 | 11/25
 | [Dropbox - Content Design](https://www.dropbox.com/jobs/listing/4642262)| Remote | Summer 2023 | 11/25
 | [CGI - Product Design](https://cgi.njoyn.com/cgi/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0922-2465&lang=1)| Pittsburgh, PA | Summer 2023 | 11/24
 | [Xometry - Product Design](https://jobs.lever.co/xometry/a6e7040d-4e86-4c22-a038-eadba33395e4)| Los Angeles, CA | Summer 2023 | 11/24
