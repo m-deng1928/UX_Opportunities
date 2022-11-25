@@ -154,6 +154,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Dropbox - Content Design](https://www.dropbox.com/jobs/listing/4642262)| Remote | Summer 2023 | 11/25
 | [CGI - Product Design](https://cgi.njoyn.com/cgi/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0922-2465&lang=1)| Pittsburgh, PA | Summer 2023 | 11/24
 | [Xometry - Product Design](https://jobs.lever.co/xometry/a6e7040d-4e86-4c22-a038-eadba33395e4)| Los Angeles, CA | Summer 2023 | 11/24
 | [Salesforce - UX/UI Design, Mulesoft](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---UX-UI-Design--Mulesoft_JR167838-1?source=LinkedIn_Jobs)| Multiple locations | Summer 2023 | 11/23
