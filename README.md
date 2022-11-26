@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/7d698f98-3012-4ccd-a591-f828a57d7700?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | 11/26
 | [Booz Allen Hamilton - UX Business Analyst (2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Washington D.C. | 11/24
 | [Stanford - Associate UI/UX Designer (1-2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Palo Alto, CA | 11/24
 | [Tiktok - User Experience Specialist (1-3 YoE)](https://careers.tiktok.com/position/7163690206746118408/detail?spread=5MWH5CQ) | Los Angeles, CA | 11/23
@@ -155,6 +156,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Atlassian - UX Research](https://jobs.lever.co/atlassian/cd9c117a-39c7-4605-b3d8-4fe9a2f9ea87)| Remote | Summer 2023 | 11/3
+| [Atlassian - Product Design](https://jobs.lever.co/atlassian/b67d16f8-da02-45af-a8cc-b21951eb8413)| Remote | Summer 2023 | 11/3
 | [S&C Electric - UI/UX Design](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102112/)| Rockville, MD | Summer 2023 | 11/25
 | [Discover - UX Research](https://jobs.discovery.com/careers-home/jobs/33726?lang=en-us)| Seattle, WA/Culver City, CA/New York, NY | Summer 2023 | 11/25
 | [Red Hat - Digital UX Research](https://us-redhat.icims.com/jobs/97657/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Remote | Summer 2023 | 11/25
