@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Cardinal Health - UX UI Product Experience Designer (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/uxui-product-experience-designer/dfaec7cb-8bd2-42b5-93da-7e4e7a7b53dd?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin) | Multiple locations | 11/27
 | [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/7d698f98-3012-4ccd-a591-f828a57d7700?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | 11/26
 | [Booz Allen Hamilton - UX Business Analyst (2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Washington D.C. | 11/24
 | [Stanford - Associate UI/UX Designer (1-2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Palo Alto, CA | 11/24
