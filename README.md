@@ -30,11 +30,13 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [State Farm - UX Generalist](https://jobs.statefarm.com/main/jobs/29251?lang=en-us&iis=LinkedIn&iisn=LinkedIn) | Bloomington, Illinois/Dunwoody, Georgia/Tempe, Arizona | Summer 2023 | 9/28
+| [Jam City - UI/UX Designer](https://jobs.lever.co/jamcity/32c25e38-68e7-454b-b251-a6cfc8ff4119?name=LinkedIn&SID=69&lever-source=LinkedInJobs) | San Francisco, CA | 11/27
+| [Booz Allen Hamilton - Innovation Content Design Strategist](https://careers.boozallen.com/careers/JobDetail?jobId=70584&source=JB-16500) | Arlington, VA | 11/27
+| [State Farm - UX Generalist](https://jobs.statefarm.com/main/jobs/29251?lang=en-us&iis=LinkedIn&iisn=LinkedIn) | Bloomington, IL/Dunwoody, GA/Tempe, AZ | 11/27
 | [Walmart - UX Designer (2 YoE)](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/UX--Designer_R-1052023?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is) | Dallas,TX | 11/27
 | [Cardinal Health - UX UI Product Experience Designer (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/uxui-product-experience-designer/dfaec7cb-8bd2-42b5-93da-7e4e7a7b53dd?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin) | Multiple locations | 11/27
 | [Atlassian - UX Researcher (2 YoE)](https://www.atlassian.com/company/careers/detail/7d698f98-3012-4ccd-a591-f828a57d7700?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, CA | 11/26
-| [Booz Allen Hamilton - UX Business Analyst (2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Washington D.C. | 11/24
+| [Booz Allen Hamilton - UX Business Analyst (2 YoE)](https://careers.boozallen.com/teams/JobDetail/Washington-UX-Business-Analyst-R0157773/70438) | Washington D.C. | 11/24
 | [Stanford - Associate UI/UX Designer (1-2 YoE)](https://careers.stanfordhealthcare.org/us/en/job/SHCAUSR2223356EXTERNALENUS/Associate-UI-UX-Designer?utm_source=linkedin&utm_medium=phenom-feeds) | Palo Alto, CA | 11/24
 | [Tiktok - User Experience Specialist (1-3 YoE)](https://careers.tiktok.com/position/7163690206746118408/detail?spread=5MWH5CQ) | Los Angeles, CA | 11/23
 | [Emerson - User Experience Designer (2 YoE)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22027829?utm_medium=LinkedIn_Other) | Austin, TX | 11/22
@@ -237,7 +239,7 @@ Intern
 | [IBM - Digital Designer, Research](https://careers.ibm.com/job/16777271/2023-intern-digital-designer-research-yorktown-heights-ny/?codes=JB_Indeed) | Yorktown Heights, NY | Summer 2023 | 9/30
 | [Punchcut - Visual Design](https://punchcut.bamboohr.com/careers/19) | Remote | Spring 2023 | 9/30
 | [Datadog - Product Design Data Visualization](https://app.ripplematch.com/job/datadog/6b5dc8f0/?tl=700d9f63&from_page=tracking_link) | New York, NY | Summer 2023 | 9/29
-| [State Farm - UX Generalist and UX Digital Content Strategist](https://jobs.statefarm.com/main/jobs/27744?lang=en-us) | Bloomington, Illinois/Dunwoody, Georgia/Tempe, Arizona | Summer 2023 | 9/28
+| [State Farm - UX Generalist and UX Digital Content Strategist](https://jobs.statefarm.com/main/jobs/27744?lang=en-us) | Bloomington, IL/Dunwoody, GA/Tempe, AZ | Summer 2023 | 9/28
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME--USA--2023-Summer-Intern--Sam-s-Club-UX-Designer_R-1223988?source=Advertising_Indeed_Organic&_ccid=1629576742896a0ebhn4is&ittk=YDSORGBCNK) | San Bruno, CA | Summer 2023 | 9/28
 | [Electronic Arts - TS4 Experience Design](https://ea.gr8people.com/jobs/175924/ts4-experience-design-intern) | Redwood City, CA | Summer 2023 | 9/28
 | [Redfin - UX Research](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/UX-Research--2023-Internship_49430-1) | Seattle, WA | Summer 2023 | 9/27
