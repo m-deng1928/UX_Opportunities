@@ -157,8 +157,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Atlassian - UX Research](https://jobs.lever.co/atlassian/cd9c117a-39c7-4605-b3d8-4fe9a2f9ea87)| Remote | Summer 2023 | 11/3
-| [Atlassian - Product Design](https://jobs.lever.co/atlassian/b67d16f8-da02-45af-a8cc-b21951eb8413)| Remote | Summer 2023 | 11/3
+| [Atlassian - UX Research](https://jobs.lever.co/atlassian/cd9c117a-39c7-4605-b3d8-4fe9a2f9ea87)| Remote | Summer 2023 | 11/26
+| [Atlassian - Product Design](https://jobs.lever.co/atlassian/b67d16f8-da02-45af-a8cc-b21951eb8413)| Remote | Summer 2023 | 11/26
 | [S&C Electric - UI/UX Design](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102112/)| Rockville, MD | Summer 2023 | 11/25
 | [Discover - UX Research](https://jobs.discovery.com/careers-home/jobs/33726?lang=en-us)| Seattle, WA/Culver City, CA/New York, NY | Summer 2023 | 11/25
 | [Red Hat - Digital UX Research](https://us-redhat.icims.com/jobs/97657/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Remote | Summer 2023 | 11/25
