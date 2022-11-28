@@ -161,6 +161,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Walmart - Product Design, Data Ventures](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/XMLNAME--USA--2023-Summer-Intern--Product-Design--Data-Ventures_R-1306900-1?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is)| Hoboken, NJ/San Bruno, CA/Bentonville, AR | Summer 2023 | 11/28
 | [Atlassian - UX Research](https://jobs.lever.co/atlassian/cd9c117a-39c7-4605-b3d8-4fe9a2f9ea87)| Remote | Summer 2023 | 11/26
 | [Atlassian - Product Design](https://jobs.lever.co/atlassian/b67d16f8-da02-45af-a8cc-b21951eb8413)| Remote | Summer 2023 | 11/26
 | [S&C Electric - UI/UX Design](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102112/)| Rockville, MD | Summer 2023 | 11/25
