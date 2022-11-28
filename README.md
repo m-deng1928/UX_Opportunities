@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Hitachi Vantara - Product Designer (3-5 YoE)](https://www.hitachivantara.com/en-us/company/careers/job-details.html?gh_jid=6182960002&gh_src=9a8bd6422#jobid=6182960002) | Santa Clara, CA | 11/28
 | [Jam City - UI/UX Designer](https://jobs.lever.co/jamcity/32c25e38-68e7-454b-b251-a6cfc8ff4119?name=LinkedIn&SID=69&lever-source=LinkedInJobs) | San Francisco, CA | 11/27
 | [Booz Allen Hamilton - Innovation Content Design Strategist](https://careers.boozallen.com/careers/JobDetail?jobId=70584&source=JB-16500) | Arlington, VA | 11/27
 | [State Farm - UX Generalist](https://jobs.statefarm.com/main/jobs/29251?lang=en-us&iis=LinkedIn&iisn=LinkedIn) | Bloomington, IL/Dunwoody, GA/Tempe, AZ | 11/27
