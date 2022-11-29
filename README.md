@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Palantir - Product Designer, US Government](https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | Washington D.C. | 11/29
 | [Tidal - Product Designer, Streaming, Tidal (3 YoE)](https://jobs.smartrecruiters.com/Square/743999868091911-product-designer-streaming-tidal) | Remote | 11/28
 | [Hitachi Vantara - Product Designer (3-5 YoE)](https://www.hitachivantara.com/en-us/company/careers/job-details.html?gh_jid=6182960002&gh_src=9a8bd6422#jobid=6182960002) | Santa Clara, CA | 11/28
 | [Jam City - UI/UX Designer](https://jobs.lever.co/jamcity/32c25e38-68e7-454b-b251-a6cfc8ff4119?name=LinkedIn&SID=69&lever-source=LinkedInJobs) | San Francisco, CA | 11/27
