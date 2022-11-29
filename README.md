@@ -164,6 +164,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Duolingo - Product Design, Thrive](https://boards.greenhouse.io/duolingo/jobs/6476542002?gh_src=81b1e41f2us)| Pittsburgh, PA | Summer 2023 | 11/29
+| [Duolingo - Product Design](https://boards.greenhouse.io/duolingo/jobs/6475905002?gh_src=81b1e41f2us&source=LinkedIn)| Pittsburgh, PA | Summer 2023 | 11/29
+| [Amplitude - Product Design](https://app.ripplematch.com/job/amplitude/260fe959/?tl=9dc9e25c&from_page=tracking_link)| San Francisco, CA | Summer 2023 | 11/29
 | [Walmart - Product Design, Data Ventures](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/XMLNAME--USA--2023-Summer-Intern--Product-Design--Data-Ventures_R-1306900-1?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is)| Hoboken, NJ/San Bruno, CA/Bentonville, AR | Summer 2023 | 11/28
 | [Atlassian - UX Research](https://jobs.lever.co/atlassian/cd9c117a-39c7-4605-b3d8-4fe9a2f9ea87)| Remote | Summer 2023 | 11/26
 | [Atlassian - Product Design](https://jobs.lever.co/atlassian/b67d16f8-da02-45af-a8cc-b21951eb8413)| Remote | Summer 2023 | 11/26
