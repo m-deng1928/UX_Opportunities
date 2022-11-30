@@ -30,6 +30,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [FanDuel - Associate Product Designer, Media Products](https://boards.greenhouse.io/fanduel/jobs/4693664?gh_src=ba823b7b1us) | Atlanta, GA | 11/30
+| [HSBC - Digital Design Specialist](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Digital-Design-Specialist/170632?src=JB-257546) | Depew, NY | 11/29
+| [National Grid - UX Researcher, User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119246320?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CLmBicLW1fsCFRpTDQodthYAIg) | Brooklyn, NY | 11/29
 | [Tesla - UX Designer (2-4 YoE)](https://www.tesla.com/careers/search/job/ux-designer-163609?source=LinkedIn) | Fremont,CA | 11/29
 | [Palantir - Product Designer, US Government](https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24?lever-source%255B%255D=Job%2520Board%3A%2520LinkedIn&lever-origin=applied) | Washington D.C. | 11/29
 | [Tidal - Product Designer, Streaming, Tidal (3 YoE)](https://jobs.smartrecruiters.com/Square/743999868091911-product-designer-streaming-tidal) | Remote | 11/28
