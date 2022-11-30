@@ -168,6 +168,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nintendo - UX Research (NTD)](https://careers.nintendo.com/job-openings/listing/22000000ER.html?src=JB-10460)| Redmond, WA | Summer 2023 | 11/30
 | [Duolingo - Product Design, Thrive](https://boards.greenhouse.io/duolingo/jobs/6476542002?gh_src=81b1e41f2us)| Pittsburgh, PA | Summer 2023 | 11/29
 | [Duolingo - Product Design](https://boards.greenhouse.io/duolingo/jobs/6475905002?gh_src=81b1e41f2us&source=LinkedIn)| Pittsburgh, PA | Summer 2023 | 11/29
 | [Amplitude - Product Design](https://app.ripplematch.com/job/amplitude/260fe959/?tl=9dc9e25c&from_page=tracking_link)| San Francisco, CA | Summer 2023 | 11/29
