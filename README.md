@@ -30,6 +30,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Bosch - UX Researcher (3 YoE)](https://jobs.smartrecruiters.com/BoschGroup/743999855572469-ux-researcher) | Mt Prospect, IL | 12/1
 | [FanDuel - Associate Product Designer, Media Products](https://boards.greenhouse.io/fanduel/jobs/4693664?gh_src=ba823b7b1us) | Atlanta, GA | 11/30
 | [HSBC - Digital Design Specialist](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Digital-Design-Specialist/170632?src=JB-257546) | Depew, NY | 11/29
 | [National Grid - UX Researcher, User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119246320?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CLmBicLW1fsCFRpTDQodthYAIg) | Brooklyn, NY | 11/29
