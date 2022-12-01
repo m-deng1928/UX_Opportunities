@@ -169,6 +169,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Citizens Bank - UX Research (BS)](https://jobs.citizensbank.com/job/-/-/288/40686559360?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CI2o-5-k2fsCFXgGaAgdM5EJaQ)| Westwood, MA | Summer 2023 | 12/1
 | [HPE - User Experience Research (BS)](https://careers.hpe.com/us/en/job/1131726/User-Experience-research-Intern?utm_source=linkedin)| Fort Collins, CO/San Jose, CA | Summer 2023 | 11/30
 | [Nintendo - UX Research (NTD)](https://careers.nintendo.com/job-openings/listing/22000000ER.html?src=JB-10460)| Redmond, WA | Summer 2023 | 11/30
 | [Duolingo - Product Design, Thrive](https://boards.greenhouse.io/duolingo/jobs/6476542002?gh_src=81b1e41f2us)| Pittsburgh, PA | Summer 2023 | 11/29
