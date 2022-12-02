@@ -171,6 +171,7 @@ Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
 | [Symbotic - Co-Op - User Experience Designer](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin)| Wilmington, MA | Summer 2023 | 12/2
+| [Citizens Bank - UX Development](https://jobs.citizensbank.com/job/-/-/288/40655427952?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CL3Sqd-e2_sCFQqonwodPEMJbg)| Westwood, MA | Summer 2023 | 12/1
 | [Citizens Bank - UX Design](https://jobs.citizensbank.com/job/-/-/288/40655427136?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CPbKzsik2fsCFRsGaAgdfugFEw)| Westwood, MA | Summer 2023 | 12/1
 | [Citizens Bank - UX Research (BS)](https://jobs.citizensbank.com/job/-/-/288/40686559360?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CI2o-5-k2fsCFXgGaAgdM5EJaQ)| Westwood, MA | Summer 2023 | 12/1
 | [HPE - User Experience Research (BS)](https://careers.hpe.com/us/en/job/1131726/User-Experience-research-Intern?utm_source=linkedin)| Fort Collins, CO/San Jose, CA | Summer 2023 | 11/30
