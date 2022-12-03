@@ -172,7 +172,7 @@ Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
 | [Yahoo - User Experience Researcher](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/User-Experience-Researcher-Intern_JR0021733)| Remote | Summer 2023 | 12/3
-| [Autodesk - SErvice Experience Designer](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Service-Experience-Designer_22WD65756)| San Francisco, CA | Summer 2023 | 12/2
+| [Autodesk - Service Experience Designer](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Service-Experience-Designer_22WD65756)| San Francisco, CA | Summer 2023 | 12/2
 | [Symbotic - Co-Op - User Experience Designer](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin)| Wilmington, MA | Summer 2023 | 12/2
 | [Citizens Bank - UX Development](https://jobs.citizensbank.com/job/-/-/288/40655427952?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CL3Sqd-e2_sCFQqonwodPEMJbg)| Westwood, MA | Summer 2023 | 12/1
 | [Citizens Bank - UX Design](https://jobs.citizensbank.com/job/-/-/288/40655427136?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=job_board&utm_content=job_posting&ss=paid&dclid=CPbKzsik2fsCFRsGaAgdfugFEw)| Westwood, MA | Summer 2023 | 12/1
