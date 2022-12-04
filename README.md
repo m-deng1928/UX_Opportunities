@@ -8,6 +8,8 @@ All the best in your search :D / Don't Forget To Be Awesome
 
 🔥 Here are resources for [User Experience & General Recruiting](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122).🔥
 
+📖 Here are [Apprenticeships/Fellowships in User Experience](https://docs.google.com/spreadsheets/d/1ejPHgm4oK6bYMvcNmqAoRhh5_os2L1bRzgoKoaOCFCw/edit?usp=sharing).📖
+
 📙 Here are [Staffing Agencies Supporting User Experience](https://docs.google.com/spreadsheets/d/1bvmvjpw6S2eng2sOblC1ahHOR2IvPua5Vqr8_INZU7I/edit?usp=sharing).📙
 
 🙏 **Contribute by submitting a** [**pull request**](https://github.com/susam/gitpr#create-pull-request)**!🙏**
