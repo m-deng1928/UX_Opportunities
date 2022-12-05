@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [MetroStar - UX Designer](https://www.linkedin.com/jobs/view/3380329499) | Remote | 12/5
 | [Lowes - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2473084BR/Product-Designer?utm_source=617LinkedInPaidSlots) | Remote | 12/2
 | [JP Morgan Chase - Research Operations Associate (3-5 YoE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210353130/?utm_medium=jobshare&src=LinkedIn_JPMC) | Jersey City, CA | 12/2
 | [Bosch - UX Researcher (3 YoE)](https://jobs.smartrecruiters.com/BoschGroup/743999855572469-ux-researcher) | Mt Prospect, IL | 12/1
