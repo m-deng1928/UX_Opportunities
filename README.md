@@ -177,6 +177,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Stryker - Human Factors, Digital, Robotics, and Enabling Technologies (BS)](https://careers.stryker.com/job/16974037/intern-human-factors-digital-robotics-and-enabling-technologies-fort-lauderdale-fl/)| Remote | Summer 2023 | 12/6
 | [IA Collaborative - Design Research (MS)](https://mark43.com/list-job/?gh_jid=4734589)| Chicago, IL | Summer 2023 | 12/6
 | [Dexcom - Product Design](https://careers.dexcom.com/careers?pid=14412905&domain=dexcom.com)| Remote | Summer 2023 | 12/6
 | [Juniper Networks - User Experience Design](https://mark43.com/list-job/?gh_jid=4734589)| Cupertino, CA | Summer 2023 | 12/6
