@@ -174,6 +174,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [IA Collaborative - Design Research (MS)](https://mark43.com/list-job/?gh_jid=4734589)| Chicago, IL | Summer 2023 | 12/6
+| [Dexcom - Product Design](https://careers.dexcom.com/careers?pid=14412905&domain=dexcom.com)| Remote | Summer 2023 | 12/6
+| [Juniper Networks - User Experience Design](https://mark43.com/list-job/?gh_jid=4734589)| Cupertino, CA | Summer 2023 | 12/6
 | [Mark43 - Product Design](https://mark43.com/list-job/?gh_jid=4734589)| New York, NY | Summer 2023 | 12/6
 | [Axios - Product Design](https://boards.greenhouse.io/axios/jobs/4716845)| Remote | Summer 2023 | 12/5
 | [Sigma Computing - Product Design](https://boards.greenhouse.io/duolingo/jobs/6475905002?gh_src=81b1e41f2us&source=LinkedIn)| San Francisco, CA | Summer 2023 | 12/4
