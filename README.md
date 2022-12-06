@@ -174,6 +174,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Mark43 - Product Design](https://mark43.com/list-job/?gh_jid=4734589)| New York, NY | Summer 2023 | 12/6
 | [Axios - Product Design](https://boards.greenhouse.io/axios/jobs/4716845)| Remote | Summer 2023 | 12/5
 | [Sigma Computing - Product Design](https://boards.greenhouse.io/duolingo/jobs/6475905002?gh_src=81b1e41f2us&source=LinkedIn)| San Francisco, CA | Summer 2023 | 12/4
 | [Yahoo - User Experience Researcher](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/User-Experience-Researcher-Intern_JR0021733)| Remote | Summer 2023 | 12/3
