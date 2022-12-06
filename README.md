@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Duolingo - Product Designer, Duolingo English Test](=https://boards.greenhouse.io/duolingo/jobs/6173305002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 12/6
 | [JP Morgan - UX Researcher, Associate (2-3 YoE)(BS)](https://www.linkedin.com/jobs/view/3380329499) | Columbus, OH/New York, NY | 12/6
 | [MetroStar - UX Designer](https://www.linkedin.com/jobs/view/3380329499) | Remote | 12/5
 | [Lowes - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2473084BR/Product-Designer?utm_source=617LinkedInPaidSlots) | Remote | 12/2
