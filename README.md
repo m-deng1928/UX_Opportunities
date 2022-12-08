@@ -179,6 +179,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Blue Cross Blue Shield of Michigan - UX Design](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/7960/?utm_medium=jobshare&src=SNS-102)| Detroit, MI | Summer 2023 | 12/8
+| [Hitachi Energy - UX Design](https://www.hitachienergy.com/career/jobs/details/US54402738_E1)| Atlanta, GA | Summer 2023 | 12/8
 | [Ogilvy - Design](https://boards.greenhouse.io/ogilvy/jobs/4145834005?gh_src=9f1260f05us)| Chicago, IL/Denver, CO/Los Angeles, CA/New York, NY/Washington, D.C | Summer 2023 | 12/8
 | [Elevance Health -  UI Developer](https://careers.elevancehealth.com/jobs/jr24344/ui-developer-intern-undergraduate-summer-2023/)| Atlanta, GA/Indianapolis, IN/Palo Alto, CA/Richmond, VA | Summer 2023 | 12/6
 | [Stryker - Human Factors, Digital, Robotics, and Enabling Technologies (BS)](https://careers.stryker.com/job/16974037/intern-human-factors-digital-robotics-and-enabling-technologies-fort-lauderdale-fl/)| Remote | Summer 2023 | 12/6
