@@ -179,6 +179,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Ogilvy - Design](https://boards.greenhouse.io/ogilvy/jobs/4145834005?gh_src=9f1260f05us)| Chicago, IL/Denver, CO/Los Angeles, CA/New York, NY/Washington, D.C | Summer 2023 | 12/8
 | [Elevance Health -  UI Developer](https://careers.elevancehealth.com/jobs/jr24344/ui-developer-intern-undergraduate-summer-2023/)| Atlanta, GA/Indianapolis, IN/Palo Alto, CA/Richmond, VA | Summer 2023 | 12/6
 | [Stryker - Human Factors, Digital, Robotics, and Enabling Technologies (BS)](https://careers.stryker.com/job/16974037/intern-human-factors-digital-robotics-and-enabling-technologies-fort-lauderdale-fl/)| Remote | Summer 2023 | 12/6
 | [IA Collaborative - Design Research (MS)](https://mark43.com/list-job/?gh_jid=4734589)| Chicago, IL | Summer 2023 | 12/6
