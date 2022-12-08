@@ -32,7 +32,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Walmart - UX Designer, Tech (3 YoE)](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Designer---Tech_R-1342485?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is) | Sunnyvale, CA | 12/7
+| [Love's - Associate UX Researcher (BS)](https://jobs.loves.com/loves/job/Oklahoma-City-Associate-UX-Researcher-OK-73120/966540100/?from=email&refid=12700015500&utm_source=J2WEmail&source=2&eid=443-202220081020-20843997900&locale=en_US) | Sunnyvale, CA | 12/8
+| [Walmart - UX Designer, Tech (3 YoE)](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Designer---Tech_R-1342485?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is) | Oklahoma City, OK | 12/8
 | [Arizona State University - Associate UX Researcher (BS)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25620&siteid=5494&PageType=JobDetails&jobid=4674011#jobDetails=4674011_5494) | Tempe, AZ | 12/6
 | [Duolingo - Product Designer, Duolingo English Test](=https://boards.greenhouse.io/duolingo/jobs/6173305002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 12/6
 | [JP Morgan - UX Researcher, Associate (2-3 YoE)(BS)](https://www.linkedin.com/jobs/view/3380329499) | Columbus, OH/New York, NY | 12/6
