@@ -35,7 +35,7 @@ New Grad
 | [Love's - Associate UX Researcher (BS)](https://jobs.loves.com/loves/job/Oklahoma-City-Associate-UX-Researcher-OK-73120/966540100/?from=email&refid=12700015500&utm_source=J2WEmail&source=2&eid=443-202220081020-20843997900&locale=en_US) | Sunnyvale, CA | 12/8
 | [Walmart - UX Designer, Tech (3 YoE)](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Designer---Tech_R-1342485?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is) | Oklahoma City, OK | 12/8
 | [Arizona State University - Associate UX Researcher (BS)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25620&siteid=5494&PageType=JobDetails&jobid=4674011#jobDetails=4674011_5494) | Tempe, AZ | 12/6
-| [Duolingo - Product Designer, Duolingo English Test](=https://boards.greenhouse.io/duolingo/jobs/6173305002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 12/6
+| [Duolingo - Product Designer, Duolingo English Test](https://boards.greenhouse.io/duolingo/jobs/6173305002?gh_src=81b1e41f2us&s=LinkedIn&source=LinkedIn) | Pittsburgh, PA | 12/6
 | [JP Morgan - UX Researcher, Associate (2-3 YoE)(BS)](https://www.linkedin.com/jobs/view/3380329499) | Columbus, OH/New York, NY | 12/6
 | [MetroStar - UX Designer](https://www.linkedin.com/jobs/view/3380329499) | Remote | 12/5
 | [Lowes - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2473084BR/Product-Designer?utm_source=617LinkedInPaidSlots) | Remote | 12/2
@@ -179,7 +179,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Yahoo - Product Design](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Product-Design-Intern_JR0021566?source=Linkedin)| Remote | Summer 2023 | 12/3
+| [Yahoo - Product Design](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Product-Design-Intern_JR0021566?source=Linkedin)| Remote | Summer 2023 | 12/10
 | [BMW - UX Engineer](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UW.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Mountain View, CA | Spring 2023 | 12/9
 | [Blue Cross Blue Shield of Michigan - UX Design](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/7960/?utm_medium=jobshare&src=SNS-102)| Detroit, MI | Summer 2023 | 12/8
 | [Hitachi Energy - UX Design](https://www.hitachienergy.com/career/jobs/details/US54402738_E1)| Atlanta, GA | Summer 2023 | 12/8
