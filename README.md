@@ -179,6 +179,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Yahoo - Product Design](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Product-Design-Intern_JR0021566?source=Linkedin)| Remote | Summer 2023 | 12/3
 | [BMW - UX Engineer](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UW.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Mountain View, CA | Spring 2023 | 12/9
 | [Blue Cross Blue Shield of Michigan - UX Design](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/7960/?utm_medium=jobshare&src=SNS-102)| Detroit, MI | Summer 2023 | 12/8
 | [Hitachi Energy - UX Design](https://www.hitachienergy.com/career/jobs/details/US54402738_E1)| Atlanta, GA | Summer 2023 | 12/8
