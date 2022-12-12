@@ -179,6 +179,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Oracle - UX Design](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181041/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CInternUX%22)| Remote | Summer 2023 | 12/12
 | [Dropbox - Product Design](https://jobs.dropbox.com/listing/4644035)| Remote | Summer 2023 | 12/11
 | [Yahoo - Product Design](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Product-Design-Intern_JR0021566?source=Linkedin)| Remote | Summer 2023 | 12/10
 | [BMW - UX Engineer](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UW.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Mountain View, CA | Spring 2023 | 12/9
