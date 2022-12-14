@@ -182,6 +182,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Universal Music Group - Global Technology (Opportunities in User Enablement, Change Management & User Experience-UXR)](https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Remote-California/Universal-Music-Group-2023-Summer-Internship--Global-Technology---Opportunities-in-User-Enablement--Change-Management---User-Experience-UXR----Remote_UMG-8260)| Remote | Summer 2023 | 12/14
 | [Rocket Companies - UX Research](https://www.myrocketcareer.com/job-detail-page/17296575/ux-research-intern-summer-2023-detroit-mi/)| Detroit, MI | Summer 2023 | 12/14
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME--USA--2023-Summer-Intern--Sam-s-Club-UX-Designer_R-1223988?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is)| San Bruno, CA | Summer 2023 | 12/13
 | [Oracle - UX Design](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181041/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CInternUX%22)| Remote | Summer 2023 | 12/12
