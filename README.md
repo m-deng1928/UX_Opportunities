@@ -152,7 +152,7 @@ New Grad
 | [Herman Miller - Experience Design Strategist (3-5 YoE)](https://hermanmiller.taleo.net/careersection/hm_external/jobdetail.ftl?job=222801&src=JB-BB-11620) | Remote | 8/30
 | [Mastercard - Associate Managing Consultant – UX & Digital, Advisors (2-5 YoE)](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/login?redirect=%2FCorporateCareers%2Fjob%2FPurchase-New-York%2FAssociate-Managing-Consultant--Advisors_R-146006%2Fapply%3Fsource%3DLINKEDIN) | Purchase, NY | 8/27
 | [Accenture - Federal - User Experience Designer Analyst (1 YoE)](https://www.accenture.com/us-en/careers/jobdetails?id=R00013778_en&src=LINKEDINJP) | Arlington, VA | 8/27
-| [WillowTree - Product Designer (2 YoE)](https://www.willowtreeapps.com/careers/jobs?gh_jid=5479479002) | Multiple Locations | 8/25
+| [WillowTree - Product Designer (2 YoE)](https://www.willowtreeapps.com/careers/jobs?gh_jid=5479479002) | Charlottesville, VA/Columbus, OH/Durham, NC | 8/25
 | [Nordstrom - UX Content Designer I (1 YoE)](https://nordstrom.wd5.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/UX-Content-Designer-1_R-483642-1/apply) | Denver, CO | 8/22
 | [Mathworks - Associate UX Designer - Engineering Development Group](https://www.mathworks.com/company/jobs/opportunities/26314-associate-ux-designer-engineering-development-group.html?source=14343&s_eid=rcj_14343) | Natick, MA | 8/22
 | [Peloton - User Researcher (3 YoE)](https://boards.greenhouse.io/peloton/jobs/4361675?gh_src=839cb4b41us&s=LinkedIn&source=LinkedIn) | New York, NY | 8/21
@@ -183,6 +183,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [WillowTree - Product Research](https://boards.greenhouse.io/willowtree/jobs/6525066002?source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | Summer 2023 | 9/15
 | [Universal Music Group - Global Technology (Opportunities in User Enablement, Change Management & User Experience-UXR)](https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Remote-California/Universal-Music-Group-2023-Summer-Internship--Global-Technology---Opportunities-in-User-Enablement--Change-Management---User-Experience-UXR----Remote_UMG-8260)| Remote | Summer 2023 | 12/14
 | [Rocket Companies - UX Research](https://www.myrocketcareer.com/job-detail-page/17296575/ux-research-intern-summer-2023-detroit-mi/)| Detroit, MI | Summer 2023 | 12/14
 | [Walmart - UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME--USA--2023-Summer-Intern--Sam-s-Club-UX-Designer_R-1223988?source=Job_Board_LinkedIn&_ccid=1629576742896a0ebhn4is)| San Bruno, CA | Summer 2023 | 12/13
@@ -308,7 +309,7 @@ Intern
 | [The Home Depot - User Experience](https://careers.homedepot.com/job/16574204/user-experience-intern-atlanta-ga/?utm_source=linkedin.com&utm_campaign=corporate&utm_medium=social_media&utm_content=job_posting&utm_term=ta_-jobwrap%2Fslots&ss=paid) | Atlanta, GA | Summer 2023 | 9/10
 | [Crowdstrike - User Interface](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/User-Interface--UI--Intern--Remote-_R10309?source=LinkedIn_jobs) | Remote | Summer 2023 | 9/9
 | [Symbotic - User Experience Designer (BS)](https://symbotic.wd1.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op---User-Experience-Designer_R1588?source=Linkedin) | Wilmington, MA | Summer 2023 (?) | 9/7
-| [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/6368246002?s=LinkedIn&source=LinkedIn) | Multiple locations | Summer 2023 | 9/7
+| [WillowTree - Product Design](https://boards.greenhouse.io/willowtree/jobs/6368246002?s=LinkedIn&source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | Summer 2023 | 9/7
 | [Garmin - Product Design](https://careers.garmin.com/careers-home/auth/1/login?jobId=9002) | Olathe, KS | Summer 2023 | 9/7
 | [Verde Finance - Product Design](https://careers.verde.finance/jobs/8Mkhn90k07Pj/product-designer-intern) | Remote | Summer 2023 | 9/7
 | [Signify - Product Design Engineering](https://www.careers.signify.com/global/en/job/330018/?utm_source=linkedin&utm_medium=jobposting&utm_campaign=linkedin_jobwrng) | Boston, MA | Fall 2022 | 9/7
