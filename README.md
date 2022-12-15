@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479479002?s=LinkedIn&source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | 12/15
 | [Blink UX - UX/CX Designer (3 YoE)](https://www.linkedin.com/jobs/view/3379195643) | Rochester, NY | 12/14
 | [Atlassian - Product Designer, New Graduate](https://www.atlassian.com/company/careers/detail/0b7b496b-c4e3-4880-ab89-75aa789cf12c?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Remote | 12/14
 | [Accenture - Service Designer](https://www.accenture.com/us-en/careers/jobdetails?id=10912374_en&src=LINKEDINJP) | Multiple locations | 12/13
