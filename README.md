@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Esri - User Interface Engineer (3 YoE)](https://www.esri.com/careers/user-interface-ui-engineer-16747?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 12/16
 | [Esri - UX Designer (1 YoE)](https://www.esri.com/careers/ux-designer-17885) | Remote | 12/15
 | [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479479002?s=LinkedIn&source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | 12/15
 | [Blink UX - UX/CX Designer (3 YoE)](https://www.linkedin.com/jobs/view/3379195643) | Rochester, NY | 12/14
