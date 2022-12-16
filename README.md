@@ -184,6 +184,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Uline - User Experience Researcher (BS)](https://www.uline.jobs/JobDetails?culture=en&jobid=R224620&jobtitle=User-Experience-Researcher-Internship---Summer-2023&codes=1-LI)| Pleasant Prairie, WI | Summer 2023 | 12/16
 | [Adobe - User Researcher (BS)](https://careers.adobe.com/us/en/job/ADOBUSR131751EXTERNALENUS/2023-Intern-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Jose, CA | Summer 2023 | 12/15
 | [WillowTree - Product Research](https://boards.greenhouse.io/willowtree/jobs/6525066002?source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | Summer 2023 | 12/15
 | [Universal Music Group - Global Technology (Opportunities in User Enablement, Change Management & User Experience-UXR)](https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Remote-California/Universal-Music-Group-2023-Summer-Internship--Global-Technology---Opportunities-in-User-Enablement--Change-Management---User-Experience-UXR----Remote_UMG-8260)| Remote | Summer 2023 | 12/14
