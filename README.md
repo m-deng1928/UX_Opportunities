@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [University of Michigan - UX Engineer](https://careers.umich.edu/job_detail/228021/ux-engineer-web-hybridremote) | Ann Arbor, MI/Remote | 12/17
 | [WillowTree - Product Researcher](https://boards.greenhouse.io/willowtree/jobs/6009701002) | Charlottesville, VA/Columbus, OH/Durham, NC | 12/17
 | [Eze - Associate UI Engineer (1 YoE)](https://wd1.myworkdaysite.com/en-US/recruiting/ssctech/SSCTechnologies/job/Boston-MA/Associate-UI-Engineer---Eclipse_R14226) | Boston, MA/Waltham, MA/Burlington, MA/Quincy, MA | 12/17
 | [NYU Langone Health - UX User Designer (3-5 YoE)](https://jobs.nyulangone.org/job/17478099/ux-user-designer-new-york-ny/) | New York, NY | 12/17
