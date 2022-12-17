@@ -32,6 +32,11 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [WillowTree - Product Researcher](https://boards.greenhouse.io/willowtree/jobs/6009701002) | Charlottesville, VA/Columbus, OH/Durham, NC | 12/17
+| [Eze - Associate UI Engineer (1 YoE)](https://wd1.myworkdaysite.com/en-US/recruiting/ssctech/SSCTechnologies/job/Boston-MA/Associate-UI-Engineer---Eclipse_R14226) | Boston, MA/Waltham, MA/Burlington, MA/Quincy, MA | 12/17
+| [NYU Langone Health - UX User Designer (3-5 YoE)](https://jobs.nyulangone.org/job/17478099/ux-user-designer-new-york-ny/) | New York, NY | 12/17
+| [NYU Langone Health - UX User Designer (3-5 YoE)](https://jobs.nyulangone.org/job/17478099/ux-user-designer-new-york-ny/) | New York, NY | 12/17
+| [Lowe's - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2492124BR/Product-Designer?utm_source=617LinkedInPaidSlots) | Remote | 12/17
 | [Esri - User Interface Engineer (3 YoE)](https://www.esri.com/careers/user-interface-ui-engineer-16747?mode=job&iis=Job%2BBoard&iisn=LinkedIn) | Remote | 12/16
 | [Esri - UX Designer (1 YoE)](https://www.esri.com/careers/ux-designer-17885) | Remote | 12/15
 | [WillowTree - Product Designer (2 YoE)](https://boards.greenhouse.io/willowtree/jobs/5479479002?s=LinkedIn&source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | 12/15
@@ -185,6 +190,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Adobe - Experience Research Analyst (BS)](https://careers.adobe.com/us/en/job/ADOBUSR131806EXTERNALENUS/2023-Intern-Experience-Research-Analyst?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Francisco, CA/San Jose, CA | Summer 2023 | 12/17
 | [Uline - User Experience Researcher (BS)](https://www.uline.jobs/JobDetails?culture=en&jobid=R224620&jobtitle=User-Experience-Researcher-Internship---Summer-2023&codes=1-LI)| Pleasant Prairie, WI | Summer 2023 | 12/16
 | [Adobe - User Researcher (BS)](https://careers.adobe.com/us/en/job/ADOBUSR131751EXTERNALENUS/2023-Intern-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Jose, CA | Summer 2023 | 12/15
 | [WillowTree - Product Research](https://boards.greenhouse.io/willowtree/jobs/6525066002?source=LinkedIn) | Charlottesville, VA/Columbus, OH/Durham, NC | Summer 2023 | 12/15
