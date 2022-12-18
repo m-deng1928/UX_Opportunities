@@ -125,6 +125,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [HP - User Interface Designer, Design System](https://jobs.hp.com/jobdetails/17487691/user-interface-designer-design-system-intern-albany-ny/)| New York, NY | Summer 2023 | 12/18
 | [Adobe - Experience Research Analyst (BS)](https://careers.adobe.com/us/en/job/ADOBUSR131806EXTERNALENUS/2023-Intern-Experience-Research-Analyst?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Francisco, CA/San Jose, CA | Summer 2023 | 12/17
 | [Uline - User Experience Researcher (BS)](https://www.uline.jobs/JobDetails?culture=en&jobid=R224620&jobtitle=User-Experience-Researcher-Internship---Summer-2023&codes=1-LI)| Pleasant Prairie, WI | Summer 2023 | 12/16
 | [Adobe - User Researcher (BS)](https://careers.adobe.com/us/en/job/ADOBUSR131751EXTERNALENUS/2023-Intern-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Jose, CA | Summer 2023 | 12/15
