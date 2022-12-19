@@ -125,6 +125,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [SAP - Design Technology](https://jobs.sap.com/job/New-York-SAP-iXp-Intern-Design-Technologist-NY-10001/883461801/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed)| Palo Alto, CA | Summer 2023 | 12/19
+| [The New York Times - Interactive News](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Summer-2023-Interactive-News-Intern_REQ-013838-1)| New York, NY | Summer 2023 | 12/19
 | [PwC - Experience Center Consulting, Women's Consulting Experience](https://jobs.us.pwc.com/job/-/-/932/41579699728)| Multiple Locations | Summer 2024 | 12/19
 | [HP - User Interface Designer, Design System](https://jobs.hp.com/jobdetails/17487691/user-interface-designer-design-system-intern-albany-ny/)| New York, NY | Summer 2023 | 12/18
 | [Adobe - Experience Research Analyst (BS)](https://careers.adobe.com/us/en/job/ADOBUSR131806EXTERNALENUS/2023-Intern-Experience-Research-Analyst?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| San Francisco, CA/San Jose, CA | Summer 2023 | 12/17
