@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Ubisoft - Associate User Researcher (2-4 YoE)](https://jobs.smartrecruiters.com/Ubisoft2/743999872680459-associate-user-researcher) | Cary, NC | 12/19
 | [Kohler - Global Digital Product Designer (UX/UI) (3-5 YoE)](https://kohler.csod.com/ux/ats/careersite/16/home/requisition/45593?c=kohler) | Remote | 12/17
 | [Rockstar Games - Product Designer](https://boards.greenhouse.io/rockstargames/jobs/5272715003?s=LinkedIn&source=LinkedIn) | New York, NY | 12/17
 | [University of Michigan - UX Engineer](https://careers.umich.edu/job_detail/228021/ux-engineer-web-hybridremote) | Ann Arbor, MI/Remote | 12/17
