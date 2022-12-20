@@ -126,6 +126,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Razorfish - User Experience Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999872948210-intern-user-experience-design?source=Linkedin)| Los Angeles, CA | Summer 2023 | 12/20
 | [Addepar - Product Design Systems - Internal](https://boards.greenhouse.io/addepar1/jobs/6484092002?gh_src=31a4a9852)| Remote | Summer 2023 | 12/20
 | [Addepar - Product Design](https://boards.greenhouse.io/addepar1/jobs/6483873002?gh_src=31a4a9852)| Remote | Summer 2023 | 12/20
 | [SAP - Design Technology](https://jobs.sap.com/job/New-York-SAP-iXp-Intern-Design-Technologist-NY-10001/883461801/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed)| Palo Alto, CA | Summer 2023 | 12/19
