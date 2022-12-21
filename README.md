@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Niantic -Trust and Safety Mixed Methods User Experience Researcher [Contract] (2 YoE)](https://boards.greenhouse.io/niantic/jobs/6543650002) | San Francisco, CA | 12/21
 | [Eli Lilly - User Experience Design](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/login?redirect=%2Fen-US%2FLLY%2Fjob%2FUS-Indianapolis-IN%2FUser-Experience-Design_R-42733-1%2Fapply%3Fsource%3Dlinkedin) | Indianapolis, IN | 12/21
 | [Affirm - Content Designer (2 YoE)](https://boards.greenhouse.io/affirm/jobs/5219915003?gh_src=689c81d53us&source=LinkedIn) | Remote | 12/20
 | [Ubisoft - Associate User Researcher (2-4 YoE)](https://jobs.smartrecruiters.com/Ubisoft2/743999872680459-associate-user-researcher) | Cary, NC | 12/19
