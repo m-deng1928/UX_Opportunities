@@ -129,6 +129,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [EA - UI Artist (Apex Legends)](https://ea.gr8people.com/jobs/177097/ui-artist-intern-apex-legends?sid=4)| Los Angeles, CA | Summer 2023 | 12/21
 | [GigSmart - Product Design](https://gigsmart.breezy.hr/p/0ce1a221b7d7-product-design-intern)| Denver, CO | Summer 2023 | 12/21
 | [Razorfish - User Experience Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999872948210-intern-user-experience-design?source=Linkedin)| Los Angeles, CA | Summer 2023 | 12/20
 | [Addepar - Product Design Systems - Internal](https://boards.greenhouse.io/addepar1/jobs/6484092002?gh_src=31a4a9852)| Remote | Summer 2023 | 12/20
