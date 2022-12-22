@@ -131,6 +131,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Red Hat - UX Research (BS)](https://us-redhat.icims.com/jobs/97961/ux-research-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting)| Boston, MA | Summer 2023 | 12/22
 | [EA - UI Artist (Apex Legends)](https://ea.gr8people.com/jobs/177097/ui-artist-intern-apex-legends?sid=4)| Los Angeles, CA | Summer 2023 | 12/21
 | [GigSmart - Product Design](https://gigsmart.breezy.hr/p/0ce1a221b7d7-product-design-intern)| Denver, CO | Summer 2023 | 12/21
 | [Razorfish - User Experience Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999872948210-intern-user-experience-design?source=Linkedin)| Los Angeles, CA | Summer 2023 | 12/20
