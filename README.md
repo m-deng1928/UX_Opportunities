@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Bungie - Unannounced Project Associate Technical UI Designer (New Grad / Early-in-Career)](https://careers.bungie.com/jobs/4714218/unannounced-project-associate-technical-ui-designer-new-grad-early-in-career)| Remote | 12/22
 | [Powerschool - UX Researcher - International - (1-3 YoE)(BS)](https://careers-powerschool.icims.com/jobs/6191/ux-researcher/job?mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Remote | 12/22
 | [NBCUniversal - Visual Designer Retail Merchandising - (3 YoE)](https://www.linkedin.com/jobs/view/3408139519)| Universal City, CA | 12/21
 | [Niantic - Trust and Safety Mixed Methods User Experience Researcher [Contract] (2 YoE)](https://boards.greenhouse.io/niantic/jobs/6543650002) | San Francisco, CA | 12/21
