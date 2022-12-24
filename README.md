@@ -134,6 +134,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [The Philadelphia Inquirer - UX Design](https://www.glassdoor.com/job-listing/ux-design-intern-summer-2023-the-philadelphia-inquirer-JV_KO0,28_KE29,54.htm?jl=1008302075750)| Remote | Summer 2023 | 12/24
 | [Razorfish - Visual Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999872772342-intern-visual-design?source=Linkedin)| New York, NY | Summer 2023 | 12/23
 | [UFCU - UX Designer](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=2d81a953-dcc2-4282-b2ca-ec139ed72401&utm_source=LINKEDIN)| Austin, TX | Summer 2023 | 12/22
 | [Esri - UX Designer - Marketing](https://www.esri.com/careers/ux-designer-internships-marketing-17703?mode=job&iis=Job%2BBoard&iisn=LinkedIn)| Redlands, CA | Summer 2023 | 12/22
