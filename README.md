@@ -134,6 +134,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Q2 - UX](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/UX-Intern_REQ-8551)| Austin, TX | Summer 2023 | 12/25
 | [Red Hat - UXD Content Design](https://us-redhat.icims.com/jobs/97967/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=708&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Remote | Summer 2023 | 12/24
 | [The Philadelphia Inquirer - UX Design](https://www.glassdoor.com/job-listing/ux-design-intern-summer-2023-the-philadelphia-inquirer-JV_KO0,28_KE29,54.htm?jl=1008302075750)| Remote | Summer 2023 | 12/24
 | [Razorfish - Visual Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999872772342-intern-visual-design?source=Linkedin)| New York, NY | Summer 2023 | 12/23
