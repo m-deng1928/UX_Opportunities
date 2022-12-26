@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Kaseya - Product Designer I (2 YoE)](https://www.kaseya.com/careers/jobs/id/4749164004/?gh_jid=4749164004)| Miami, FL | 12/26
 | [Preciate - Product Designer (3 YoE)](https://preciate.com/careers/?gh_jid=4012186006&gh_src=ff883e306us)| Remote | 12/26
 | [Docusign - Product Designer, Partner Apps (2 YoE)](https://careers.docusign.com/jobs/21019?lang=en-us&iis=Job+board&iisn=LinkedIn)| San Francisco, CA/Remote | 12/26
 | [Northrup Grumman - Associate UX Researcher (BS)](https://www.northropgrumman.com/jobs/associate-ux-researcher-t1/?jClickId=EfDC6BBt9pFpTfXhXvrLFSSqVVuSVub7iJrxiULm3Y7y&source=JB-18202&utm_audience=null&utm_campaign=engineering2&utm_code=JB-18202&utm_content=null&utm_format=null&utm_medium=jobboard&utm_source=linkedin-organic)| Multiple locations | 12/23
