@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Docusign - Product Designer, Partner Apps - (2 YoE)](https://careers.docusign.com/jobs/21019?lang=en-us&iis=Job+board&iisn=LinkedIn)| San Francisco, CA/Remote | 12/26
 | [Northrup Grumman - Associate UX Researcher (BS)](https://www.northropgrumman.com/jobs/associate-ux-researcher-t1/?jClickId=EfDC6BBt9pFpTfXhXvrLFSSqVVuSVub7iJrxiULm3Y7y&source=JB-18202&utm_audience=null&utm_campaign=engineering2&utm_code=JB-18202&utm_content=null&utm_format=null&utm_medium=jobboard&utm_source=linkedin-organic)| Multiple locations | 12/23
 | [Rocket Central - Conversational Experience Designer (3 YoE)](https://www.myrocketcareer.com/job-detail-page/16898396/conversational-experience-designer-remote/)| Remote | 12/22
 | [Bungie - Unannounced Project Associate Technical UI Designer (New Grad / Early-in-Career)](https://careers.bungie.com/jobs/4714218/unannounced-project-associate-technical-ui-designer-new-grad-early-in-career)| Remote | 12/22
