@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Quora - Product Designer - Design Systems](https://boards.greenhouse.io/quora/jobs/6541616002?gh_src=fa1aa7222&source=LinkedIn)| Remote | 12/26
 | [Kaseya - Product Designer I (2 YoE)](https://www.kaseya.com/careers/jobs/id/4749164004/?gh_jid=4749164004)| Miami, FL | 12/26
 | [Preciate - Product Designer (3 YoE)](https://preciate.com/careers/?gh_jid=4012186006&gh_src=ff883e306us)| Remote | 12/26
 | [Docusign - Product Designer, Partner Apps (2 YoE)](https://careers.docusign.com/jobs/21019?lang=en-us&iis=Job+board&iisn=LinkedIn)| San Francisco, CA/Remote | 12/26
