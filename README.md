@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [WillowTree - Product Designer - New Grad](https://boards.greenhouse.io/willowtree/jobs/6368016002?s=LinkedIn&source=LinkedIn)| Charlottesville, VA/Columbus, OH/Durham, NC | 12/26
 | [Quora - Product Designer - Design Systems](https://boards.greenhouse.io/quora/jobs/6541616002?gh_src=fa1aa7222&source=LinkedIn)| Remote | 12/26
 | [Kaseya - Product Designer I (2 YoE)](https://www.kaseya.com/careers/jobs/id/4749164004/?gh_jid=4749164004)| Miami, FL | 12/26
 | [Preciate - Product Designer (3 YoE)](https://preciate.com/careers/?gh_jid=4012186006&gh_src=ff883e306us)| Remote | 12/26
