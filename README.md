@@ -1,4 +1,4 @@
-# UX_Opportunities_2021-2022
+# UX_Opportunities
 
 Here's a UX Job Board I curate, started in August 2021. Opportunities are meant for more early in career whether co-ops/internships in addition to new grad opportunities. 
 
