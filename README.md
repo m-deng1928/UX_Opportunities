@@ -140,6 +140,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Google - User Experience Research (PhD)](https://www.google.com/about/careers/applications/apply?jobId=CiUAL2FckQJ_bJvhjz38JtLtnpHKemELFDvmqiEMVftmBdkXwmpxEjoA85OaoMPgNf0ET6kwTyCoOMFj6R-TvbWqZj2PNkYNU9lo-oauKietkYAXlGB61zuWsikHVua1gtCU_V2&jobTitle=User+Experience+Research+Intern&loc=US&_ga=2.19023420.560972652.1672287240-590975223.1672287240)| Multiple locations | Summer 2023 | 12/28
 | [CNH Industrial - UI/UX Design](https://careers-cnhind.icims.com/jobs/21417/ui-ux-design-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=true&width=375&height=550&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Burr Ridge, IL | Summer 2023 | 12/27
 | [Q2 - UX](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/UX-Intern_REQ-8551)| Austin, TX | Summer 2023 | 12/25
 | [Red Hat - UXD Content Design](https://us-redhat.icims.com/jobs/97967/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=708&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Remote | Summer 2023 | 12/24
