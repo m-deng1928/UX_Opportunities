@@ -140,6 +140,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Viget - UX Researcher (BS)](https://www.viget.com/internships/ux-researcher-intern/)| Falls Church, VA/Durham, NC/Chattanooga, TN/Boulder, CO | Summer 2023 | 12/22
 | [Google - User Experience Research (PhD)](https://www.google.com/about/careers/applications/apply?jobId=CiUAL2FckQJ_bJvhjz38JtLtnpHKemELFDvmqiEMVftmBdkXwmpxEjoA85OaoMPgNf0ET6kwTyCoOMFj6R-TvbWqZj2PNkYNU9lo-oauKietkYAXlGB61zuWsikHVua1gtCU_V2&jobTitle=User+Experience+Research+Intern&loc=US&_ga=2.19023420.560972652.1672287240-590975223.1672287240)| Multiple locations | Summer 2023 | 12/28
 | [CNH Industrial - UI/UX Design](https://careers-cnhind.icims.com/jobs/21417/ui-ux-design-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=true&width=375&height=550&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Burr Ridge, IL | Summer 2023 | 12/27
 | [Q2 - UX](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/UX-Intern_REQ-8551)| Austin, TX | Summer 2023 | 12/25
