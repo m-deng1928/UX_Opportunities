@@ -32,6 +32,10 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Datadog - Product Designer - APM Core (2 YoE)](https://careers.datadoghq.com/detail/4735262/?gh_jid=4735262&gh_src=8363eca61) | New York, NY | 12/29
+| [Datadog - Product Designer - Cloud Cost Management (2 YoE)](https://careers.datadoghq.com/detail/4735081/?gh_jid=4735081&gh_src=8363eca61) | New York, NY | 12/29
+| [Gartner - UX Researcher (3 YoE)](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/UX-Researcher_74264?source=JB-10120&source=JB-10120)| Irving, TX/Stamford, CT | 12/29
+| [Cisco - UX Researcher (3 YoE)](https://jobs.lenovo.com/en_US/careers/JobDetail/UX-Researcher/47441)| San JOse, CA | 12/29
 | [Paradox - Associate Product Designer](https://careers.paradox.ai/associate-product-designer/job/22369068?utm_source=LinkedIn&utm_medium=Paid&utm_campaign=Jobs)| Scottsdale. AZ | 12/27
 | [WillowTree - Product Designer - New Grad](https://boards.greenhouse.io/willowtree/jobs/6368016002?s=LinkedIn&source=LinkedIn)| Charlottesville, VA/Columbus, OH/Durham, NC | 12/26
 | [Quora - Product Designer - Design Systems](https://boards.greenhouse.io/quora/jobs/6541616002?gh_src=fa1aa7222&source=LinkedIn)| Remote | 12/26
