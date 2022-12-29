@@ -32,6 +32,9 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Nike - Digital Product Designer, Nike Virtual Studios (3 YoE)](https://jobs.nike.com/job/00576967?utm_source=LinkedIn) | Los Angeles, CA | 12/29
+| [Schoox - Product Designer (3 YoE)](https://schoox.careerplug.com/jobs/1541550/apps/new) | Remote | 12/29
+| [Hearst - Product Designer, Interaction Design (3 YoE)](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_11/requisitions/preview/2017531) | Remote | 12/29
 | [Datadog - Product Designer - APM Core (2 YoE)](https://careers.datadoghq.com/detail/4735262/?gh_jid=4735262&gh_src=8363eca61) | New York, NY | 12/29
 | [Datadog - Product Designer - Cloud Cost Management (2 YoE)](https://careers.datadoghq.com/detail/4735081/?gh_jid=4735081&gh_src=8363eca61) | New York, NY | 12/29
 | [Gartner - UX Researcher (3 YoE)](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/UX-Researcher_74264?source=JB-10120&source=JB-10120)| Irving, TX/Stamford, CT | 12/29
