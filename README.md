@@ -32,7 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Scholastic- UX/Ui Designer](https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/UX-UI-Designer_R11663) | New York, NY | 12/29
+| [Scholastic- UX/UI Designer](https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/UX-UI-Designer_R11663) | New York, NY | 12/29
 | [Shake Shack - Digital Designer (1-3 YoE)](https://shakeshack.wd5.myworkdayjobs.com/External/job/Home-Office-225-Varick-Street-Suite-301-New-York-NY-10014/Designer_JR1804) | New York, NY | 12/29
 | [Nike - Digital Product Designer, Nike Virtual Studios (3 YoE)](https://jobs.nike.com/job/00576967?utm_source=LinkedIn) | Los Angeles, CA | 12/29
 | [Schoox - Product Designer (3 YoE)](https://schoox.careerplug.com/jobs/1541550/apps/new) | Remote | 12/29
