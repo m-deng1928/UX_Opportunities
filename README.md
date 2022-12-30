@@ -149,6 +149,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Trimble - UX/UI](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UX-UI-Intern_R40096)| Remote | Summer 2023 | 12/30
 | [Autodesk - UX Design, Data Exprience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Michigan-USA---Remote/Intern--UX-Design---Data-Experience_22WD65342-1?src=JB-10065)| Remote | Summer 2023 | 12/30
 | [Viget - UX Researcher (BS)](https://www.viget.com/internships/ux-researcher-intern/)| Falls Church, VA/Durham, NC/Chattanooga, TN/Boulder, CO | Summer 2023 | 12/29
 | [Google - User Experience Research (PhD)](https://www.google.com/about/careers/applications/apply?jobId=CiUAL2FckQJ_bJvhjz38JtLtnpHKemELFDvmqiEMVftmBdkXwmpxEjoA85OaoMPgNf0ET6kwTyCoOMFj6R-TvbWqZj2PNkYNU9lo-oauKietkYAXlGB61zuWsikHVua1gtCU_V2&jobTitle=User+Experience+Research+Intern&loc=US&_ga=2.19023420.560972652.1672287240-590975223.1672287240)| Multiple locations | Summer 2023 | 12/28
