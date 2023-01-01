@@ -32,7 +32,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [UEGroup - UX Design](https://www.linkedin.com/jobs/view/3381334077) | San Jose, CA | 12/31
+| [Lowe's - Product Designer - UX](https://talent.lowes.com/us/en/job/2324152BR/Product-Designer-UX?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/1
+| [UEGroup - UX Design](https://www.linkedin.com/jobs/view/3381334077) | Charlotte, NC | 1/1
 | [Morningside - Product Designer, Quantitative Research (3-5 YoE)](https://careers.morningstar.com/us/en/job/MORMORUSREQ032896EXTERNALENUS/Product-Designer-Quantitative-Research?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Chicago, IL | 12/31
 | [Epic Games - Technical UI Designer (2 YoE)](https://boards.greenhouse.io/embed/job_app?token=4585854004&gh_src=32b5d0474us&s=LinkedIn&source=LinkedIn) | Cary, NC | 12/30
 | [Scholastic- UX/UI Designer](https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/UX-UI-Designer_R11663) | New York, NY | 12/29
