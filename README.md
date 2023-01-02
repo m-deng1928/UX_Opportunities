@@ -155,7 +155,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [ADobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR134093EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Multiple locations | Summer 2023 | 1/1
+| [Bungie - Research (BS)](https://careers.bungie.com/jobs/4675370/research-intern-multiple-openings)| Seattle, WA/Bellevue, WA | Summer 2023 | 1/2
+| [Adobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR134093EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Multiple locations | Summer 2023 | 1/1
 | [Trimble - UX/UI](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UX-UI-Intern_R40096)| Remote | Summer 2023 | 12/30
 | [Autodesk - UX Design, Data Exprience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Michigan-USA---Remote/Intern--UX-Design---Data-Experience_22WD65342-1?src=JB-10065)| Remote | Summer 2023 | 12/30
 | [Viget - UX Researcher (BS)](https://www.viget.com/internships/ux-researcher-intern/)| Falls Church, VA/Durham, NC/Chattanooga, TN/Boulder, CO | Summer 2023 | 12/29
