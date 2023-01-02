@@ -32,7 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Lowe's - Product Designer - Conversation UX/Voice User Interface (3 YoE)](https://talent.lowes.com/us/en/job/2451954BR/Product-Designer-Conversational-UX-Voice-User-Interface-VUI?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/1
+| [Lowe's - Product Designer - Conversation UX/Voice User Interface (3 YoE)](https://talent.lowes.com/us/en/job/2451954BR/Product-Designer-Conversational-UX-Voice-User-Interface-VUI?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/2
 | [Lowe's - Product Designer - UX](https://talent.lowes.com/us/en/job/2324152BR/Product-Designer-UX?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/1
 | [UEGroup - UX Design](https://www.linkedin.com/jobs/view/3381334077) | Charlotte, NC | 1/1
 | [Morningside - Product Designer, Quantitative Research (3-5 YoE)](https://careers.morningstar.com/us/en/job/MORMORUSREQ032896EXTERNALENUS/Product-Designer-Quantitative-Research?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Chicago, IL | 12/31
