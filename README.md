@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Cardinal Health - User Experience Designer - (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/user-experience-designer/c5d554ea-d60c-4b7b-bf65-e16c02cb838a?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin) | Remote | 1/2
 | [Lowe's - Product Designer - Conversation UX/Voice User Interface (3 YoE)](https://talent.lowes.com/us/en/job/2451954BR/Product-Designer-Conversational-UX-Voice-User-Interface-VUI?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/2
 | [Lowe's - Product Designer - UX](https://talent.lowes.com/us/en/job/2324152BR/Product-Designer-UX?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/1
 | [UEGroup - UX Design](https://www.linkedin.com/jobs/view/3381334077) | Charlotte, NC | 1/1
