@@ -156,6 +156,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Datadog - Product Design](https://app.ripplematch.com/job/datadog/63a3c329/?tl=3e0470a9&from_page=tracking_link)| New York, NY | Summer 2023 | 1/3
 | [Bungie - Research (BS)](https://careers.bungie.com/jobs/4675370/research-intern-multiple-openings)| Seattle, WA/Bellevue, WA | Summer 2023 | 1/2
 | [Adobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR134093EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Multiple locations | Summer 2023 | 1/1
 | [Trimble - UX/UI](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UX-UI-Intern_R40096)| Remote | Summer 2023 | 12/30
