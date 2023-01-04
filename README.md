@@ -157,6 +157,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Blue Shield - UX Research (BS)](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20220691?fbclid=IwAR1yW4mGGBTxgJNObpUjWo-I1GxefwVrTJiMsANXAznCdu5MGtuR__1iQ9Q)| Multiple locations | Summer 2023 | 1/3
 | [Datadog - Product Design](https://app.ripplematch.com/job/datadog/63a3c329/?tl=3e0470a9&from_page=tracking_link)| New York, NY | Summer 2023 | 1/3
 | [Bungie - Research (BS)](https://careers.bungie.com/jobs/4675370/research-intern-multiple-openings)| Seattle, WA/Bellevue, WA | Summer 2023 | 1/2
 | [Adobe - Experience Design](https://careers.adobe.com/us/en/job/ADOBUSR134093EXTERNALENUS/2023-Intern-Experience-Design?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Multiple locations | Summer 2023 | 1/1
