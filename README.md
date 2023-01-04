@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [OpenAI - Product Designer, Human Data](https://boards.greenhouse.io/openai/jobs/4758047004) | San Francisco, CA | 1/4
 | [Nintendo - UX Design Specialist (3-5 YoE)](https://careers.nintendo.com/job-openings/listing/22000000FU.html?src=JB-10460) | Redmond, WA | 1/3
 | [Bungie - UX Designer](https://careers.bungie.com/jobs/4678530/destiny-ux-designer) | Hybrid | 1/3
 | [Cardinal Health - User Experience Designer - (3-5 YoE)](https://jobs.cardinalhealth.com/search/jobdetails/user-experience-designer/c5d554ea-d60c-4b7b-bf65-e16c02cb838a?utm_campaign=linkedin_paid&utm_medium=paid_job_board&utm_source=linkedin) | Remote | 1/2
