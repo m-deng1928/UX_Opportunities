@@ -32,6 +32,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Streamland Media - UX Designer (2 YoE)](
+https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32e918ef-0f50-4621-9139-ca3cf61c36b5&jobId=449767&lang=en_US) | Seattle, WA | 1/5
 | [OpenAI - Product Designer, Human Data](https://boards.greenhouse.io/openai/jobs/4758047004) | San Francisco, CA | 1/4
 | [Nintendo - UX Design Specialist (3-5 YoE)](https://careers.nintendo.com/job-openings/listing/22000000FU.html?src=JB-10460) | Redmond, WA | 1/3
 | [Bungie - UX Designer](https://careers.bungie.com/jobs/4678530/destiny-ux-designer) | Hybrid | 1/3
