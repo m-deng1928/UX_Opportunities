@@ -32,6 +32,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Nasdaq - Product Designer, IR Intelligence (UX/UI) (3-5 YoE)](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/USA---Boston---Massachusetts/Product-Designer---IR-Intelligence_R0010829?source=11663) | Boston, MA | 1/9
 | [National Grid - Product Designer, User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119270800?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CPD43NaWuPwCFXUHaAgdGgAI-A) | Waltham, MA | 1/8
 | [Pattern - Product Designer (2 YoE)](https://pattern.breezy.hr/p/d3492851d8de-product-designer) | Lehi, UT | 1/7
 | [Boris FX - User Interface Designer (3-5 YoE)](https://www.linkedin.com/jobs/view/3428240863) | Remote | 1/6
