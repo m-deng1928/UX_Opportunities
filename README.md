@@ -34,7 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Etsy - UX Researcher](https://jobs.smartrecruiters.com/Etsy2/743999876932141-ux-researcher) | Remote | 1/11
+| [Etsy - UX Researcher (3 YoE)](https://jobs.smartrecruiters.com/Etsy2/743999876932141-ux-researcher) | Remote | 1/11
 | [Ogilvy - Associate](https://www.ogilvy.com/careers/4144990005?gh_jid=4144990005) | Multiple cities | 1/10
 | [Nasdaq - Product Designer, IR Intelligence (UX/UI) (3-5 YoE)](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/USA---Boston---Massachusetts/Product-Designer---IR-Intelligence_R0010829?source=11663) | Boston, MA | 1/9
 | [National Grid - Product Designer, User Centered Design (2 YoE)](https://careers.nationalgridus.com/job/-/-/793/39119270800?utm_source=LinkedInJobPostings&utm_campaign=TMP_LinkedInJobPostings&dclid=CPD43NaWuPwCFXUHaAgdGgAI-A) | Waltham, MA | 1/8
