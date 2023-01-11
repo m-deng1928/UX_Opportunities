@@ -166,7 +166,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [CLEAR - Product Design)](https://boards.greenhouse.io/clear/jobs/4782009)| New York, NY | Summer 2023 | 1/4
+| [ByteDance - Product Design, Lark](https://jobs.bytedance.com/en/position/7155658450538039589/detail?spread=BSPP2KS)| Mountain View, CA | Summer 2023 | 1/11
+| [CLEAR - Product Design](https://boards.greenhouse.io/clear/jobs/4782009)| New York, NY | Summer 2023 | 1/4
 | [Blue Shield - UX Research (BS)](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20220691?fbclid=IwAR1yW4mGGBTxgJNObpUjWo-I1GxefwVrTJiMsANXAznCdu5MGtuR__1iQ9Q)| Multiple locations | Summer 2023 | 1/3
 | [Datadog - Product Design](https://app.ripplematch.com/job/datadog/63a3c329/?tl=3e0470a9&from_page=tracking_link)| New York, NY | Summer 2023 | 1/3
 | [Bungie - Research (BS)](https://careers.bungie.com/jobs/4675370/research-intern-multiple-openings)| Seattle, WA/Bellevue, WA | Summer 2023 | 1/2
