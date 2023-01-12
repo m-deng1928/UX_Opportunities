@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [City of Boston - UX/UI Designer (3-4 YoE)](https://city-boston.icims.com/jobs/23876/ui--ux-designer/job) | Boston, MA | 1/12
 | [Etsy - UX Researcher (3 YoE)](https://jobs.smartrecruiters.com/Etsy2/743999876932141-ux-researcher) | Remote | 1/11
 | [Ogilvy - Associate](https://www.ogilvy.com/careers/4144990005?gh_jid=4144990005) | Multiple cities | 1/10
 | [Nasdaq - Product Designer, IR Intelligence (UX/UI) (3-5 YoE)](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/USA---Boston---Massachusetts/Product-Designer---IR-Intelligence_R0010829?source=11663) | Boston, MA | 1/9
