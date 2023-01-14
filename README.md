@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Peloton - User Researcher (3 YoE)](https://careers.onepeloton.com/en/all-jobs/?gh_jid=4801073&gh_src=839cb4b41us) | New York, NY | 1/14
 | [Intersection - Junior UI Designer](https://boards.greenhouse.io/intersection/jobs/4789847?gh_src=kye4sr&source=LinkedIn) | New York, NY | 1/13
 | [Pfizer - Design Systems Designer (1-3 YoE)](https://www.3ds.com/careers/jobs/user-experience-researcher-531364?src=SNS-102) | Remote | 1/13
 | [Dassault Systems - UX Rsearcher (2-5 YoE)](https://www.3ds.com/careers/jobs/user-experience-researcher-531364?src=SNS-102) | Waltham, MA | 1/12
