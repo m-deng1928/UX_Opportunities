@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Red Hat - Learning Experience Designer](https://us-redhat.icims.com/jobs/97916/learning-experience-designer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | 1/14
 | [Peloton - User Researcher (3 YoE)](https://careers.onepeloton.com/en/all-jobs/?gh_jid=4801073&gh_src=839cb4b41us) | New York, NY | 1/14
 | [Intersection - Junior UI Designer](https://boards.greenhouse.io/intersection/jobs/4789847?gh_src=kye4sr&source=LinkedIn) | New York, NY | 1/13
 | [Pfizer - Design Systems Designer (1-3 YoE)](https://www.3ds.com/careers/jobs/user-experience-researcher-531364?src=SNS-102) | Remote | 1/13
@@ -120,6 +121,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Sleeper - User Research](https://jobs.ashbyhq.com/sleeper/310d3940-d4c4-4747-a3b6-3a094b0744e5/application?utm_source=wMAA2KEr92)| Remote | Summer 2023 | 1/14
 | [Reddit - Product Design](https://app.ripplematch.com/v2/public/apply?publicId=f30810f7&fromPage=tracking_link)| Remote | Summer 2023 | 1/14
 | [Pattern - UX Researcher (BS)](https://pattern.breezy.hr/p/76595e4d7b3b-internship-ux-researcher)| Lehi, UT | Summer 2023 | 1/12
 | [Pattern - UX Design](https://pattern.breezy.hr/p/4fb62c873b5a-internship-ux-designer)| Lehi, UT | Summer 2023 | 1/12
