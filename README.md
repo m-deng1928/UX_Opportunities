@@ -120,6 +120,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Reddit - Product Design](https://app.ripplematch.com/v2/public/apply?publicId=f30810f7&fromPage=tracking_link)| Remote | Summer 2023 | 1/14
 | [Pattern - UX Researcher (BS)](https://pattern.breezy.hr/p/76595e4d7b3b-internship-ux-researcher)| Lehi, UT | Summer 2023 | 1/12
 | [Pattern - UX Design](https://pattern.breezy.hr/p/4fb62c873b5a-internship-ux-designer)| Lehi, UT | Summer 2023 | 1/12
 | [ByteDance - Product Design, Lark](https://jobs.bytedance.com/en/position/7155658450538039589/detail?spread=BSPP2KS)| Mountain View, CA | Summer 2023 | 1/11
