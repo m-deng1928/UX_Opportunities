@@ -121,6 +121,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Slalom - Experience Design](https://jobs.slalom.com//#/post/a0h1R00000DE1BZQA1)| Boston, MA | Summer 2023 | 1/15
+| [Zillow - UX Design](https://zillowgroup.eightfold.ai/careers/job/240533184630?domain=zillowgroup.com&rx_campaign=indeed0&rx_ch=jobp4p&rx_group=140202&rx_job=P741578&rx_r=none&rx_source=Indeed&rx_ts=20230115T080036Z&rx_vp=cpc&rx_p=YKRQCKXISH&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7)| Remote | Summer 2023 | 1/15
 | [Sleeper - User Research](https://jobs.ashbyhq.com/sleeper/310d3940-d4c4-4747-a3b6-3a094b0744e5/application?utm_source=wMAA2KEr92)| Remote | Summer 2023 | 1/14
 | [Reddit - Product Design](https://app.ripplematch.com/v2/public/apply?publicId=f30810f7&fromPage=tracking_link)| Remote | Summer 2023 | 1/14
 | [Pattern - UX Researcher (BS)](https://pattern.breezy.hr/p/76595e4d7b3b-internship-ux-researcher)| Lehi, UT | Summer 2023 | 1/12
