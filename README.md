@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Astrazeneca - Creative Technologist - R&DIT](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Creative-Technologist---R-DIT_R-139728/apply?source=Linkedin) | Gaithersburg, MD | 1/17
 | [Red Hat - Learning Experience Designer](https://us-redhat.icims.com/jobs/97916/learning-experience-designer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | 1/14
 | [Peloton - User Researcher (3 YoE)](https://careers.onepeloton.com/en/all-jobs/?gh_jid=4801073&gh_src=839cb4b41us) | New York, NY | 1/14
 | [Intersection - Junior UI Designer](https://boards.greenhouse.io/intersection/jobs/4789847?gh_src=kye4sr&source=LinkedIn) | New York, NY | 1/13
