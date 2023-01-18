@@ -122,6 +122,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Blink UX - Visual Design](https://jobs.lever.co/blinkux/08cb2e9a-c2c9-4ce8-bcc5-45092753c657)| Multiple locations | Summer 2023 | 1/17
+| [Blink UX - UX Research](https://jobs.lever.co/blinkux/0e36a0cf-92dd-4910-b6fc-439841b75cf9)| Multiple locations | Summer 2023 | 1/17
+| [Blink UX - Product Design](https://jobs.lever.co/blinkux/2dea1fdc-84df-48ac-92c7-fb597b6f776e)| Multiple locations | Summer 2023 | 1/17
 | [Cvent - Product Design](https://careers.cvent.com/jobs/3442/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Tysons Corner, VA | Summer 2023 | 1/16
 | [Slalom - Experience Design](https://jobs.slalom.com//#/post/a0h1R00000DE1BZQA1)| Boston, MA | Summer 2023 | 1/15
 | [Zillow - UX Design](https://zillowgroup.eightfold.ai/careers/job/240533184630?domain=zillowgroup.com&rx_campaign=indeed0&rx_ch=jobp4p&rx_group=140202&rx_job=P741578&rx_r=none&rx_source=Indeed&rx_ts=20230115T080036Z&rx_vp=cpc&rx_p=YKRQCKXISH&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7)| Remote | Summer 2023 | 1/15
