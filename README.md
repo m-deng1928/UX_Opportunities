@@ -122,6 +122,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Genentech - User Experience & Interface](https://careers.gene.com/us/en/job/GENEUS202211139684EXTERNALENUS/Summer-Intern-User-Experience-and-Interface?utm_source=linkedin&utm_medium=phenom-feeds)| Santa Clara, CA | Summer 2023 | 1/18
 | [Blink UX - Visual Design](https://jobs.lever.co/blinkux/08cb2e9a-c2c9-4ce8-bcc5-45092753c657)| Multiple locations | Summer 2023 | 1/17
 | [Blink UX - UX Research](https://jobs.lever.co/blinkux/0e36a0cf-92dd-4910-b6fc-439841b75cf9)| Multiple locations | Summer 2023 | 1/17
 | [Blink UX - Product Design](https://jobs.lever.co/blinkux/2dea1fdc-84df-48ac-92c7-fb597b6f776e)| Multiple locations | Summer 2023 | 1/17
