@@ -123,6 +123,8 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [ASCO - UX Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
+| [ASCO - Usability Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
 | [Intouch - UX](https://jobs.lever.co/intouchgroup/f8df9daf-5be2-4929-b13c-2173989c39f2)| Remote | Summer 2023 | 1/19
 | [Genentech - User Experience & Interface](https://careers.gene.com/us/en/job/GENEUS202211139684EXTERNALENUS/Summer-Intern-User-Experience-and-Interface?utm_source=linkedin&utm_medium=phenom-feeds)| Santa Clara, CA | Summer 2023 | 1/18
 | [Blink UX - Visual Design](https://jobs.lever.co/blinkux/08cb2e9a-c2c9-4ce8-bcc5-45092753c657)| Multiple locations | Summer 2023 | 1/17
