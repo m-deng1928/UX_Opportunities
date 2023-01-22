@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Booz Allen Hamilton - User Experience Designer](https://careers.boozallen.com/careers/JobDetail?jobId=71801&source=JB-16500) | Washington D.C. | 1/22
 | [Podium - Product Designer, Phones](https://boards.greenhouse.io/embed/job_app?token=4771784&gh_src=8b0de3d81&source=LinkedIn) | Remote | 1/20
 | [Astrazeneca - Creative Technologist - R&DIT](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Creative-Technologist---R-DIT_R-139728/apply?source=Linkedin) | Gaithersburg, MD | 1/17
 | [Red Hat - Learning Experience Designer](https://us-redhat.icims.com/jobs/97916/learning-experience-designer/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | 1/14
