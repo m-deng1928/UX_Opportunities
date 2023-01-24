@@ -90,7 +90,6 @@ New Grad
 | [Tory Burch - Digital Designer, International](https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers/job/New-York-NY/Digital-Designer--International_R0015294) | New York, NY | 11/19
 | [Media.Monks - Designer](https://media.monks.com/careers/los-angeles/design/design?gh_src=a9b949034us) | Los Angeles, CA | 11/18
 | [NEMERA - Human Factors Engineer](https://fa-emia-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1758?utm_medium=jobboard&utm_source=LinkedIn_Slots) | Chicago, IL | 11/18
-
 | [Gearbox Software - UX/UI Designer (2 YoE)](https://gearboxsoftware.bamboohr.com/jobs/view.php?id=507) | Frisco, TX | 11/10
 | [Apple - Junior AR/VR UI Frameworks Engineer](https://jobs.apple.com/en-us/details/200442637/junior-ar-vr-ui-frameworks-engineer) | Cupertino, CA | 11/10
 | [National Grid - Product Designer - User Centered Design (2 YoE)](https://jobs.nationalgrid.com/USA/job/Waltham-Product-Designer%2C-User-Centered-Design-MA-02451/954945000/?from=email&refid=17051797300&utm_source=J2WEmail&source=2&eid=143600-202208090908-24729212800&locale=en_US) | Remote | 11/9
