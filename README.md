@@ -124,6 +124,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Warner Bros Discovery - UX/UI Design](https://careers.wbd.com/global/en/job/WAMEGLOBALR000063121EXTERNALENGLOBAL/UX-UI-Design-Internships-Summer-2023-Hybrid?utm_source=linkedin&utm_medium=phenom-feeds)| New York, NY | Summer 2023 | 1/24
 | [ASCO - UX Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
 | [ASCO - Usability Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
 | [Intouch - UX](https://jobs.lever.co/intouchgroup/f8df9daf-5be2-4929-b13c-2173989c39f2)| Remote | Summer 2023 | 1/19
