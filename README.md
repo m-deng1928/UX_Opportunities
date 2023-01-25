@@ -124,6 +124,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Intuit - Product Design](https://jobs.intuit.com/job/-/-/27595/43560850368?utm_source=linkedin%20slots%20(intuit)&utm_campaign=&utm_medium=jobad&utm_content=pj_board&ss=paid&p_uid=NArixUB8PZ&p_sid=r4HvJHb&cid=pjob_li_click_us_other-fy23_cn_text_job_intuit-talent&iis=pjob&iisn=li)| Multiple locations | Summer 2023 | 1/25
 | [Warner Bros Discovery - UX/UI Design](https://careers.wbd.com/global/en/job/WAMEGLOBALR000063121EXTERNALENGLOBAL/UX-UI-Design-Internships-Summer-2023-Hybrid?utm_source=linkedin&utm_medium=phenom-feeds)| New York, NY | Summer 2023 | 1/24
 | [ASCO - UX Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
 | [ASCO - Usability Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
