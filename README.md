@@ -124,6 +124,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [NASA JPL - Research & Design Operations](https://www.jpl.jobs/job/JJPLUSR3812EXTERNALENUS/Research-and-Design-Operations-Academic-Part-Time-Intern?utm_source=indeed&utm_medium=phenom-feeds)| Pasadena, CA | Spring 2023 | 1/27
 | [Volkswagen - PI&P UX Design Intern](https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=ECC000203&lang=en&source=LinkedIn)| Belmont, CA | Spring 2023 | 1/27
 | [Teradata - Product Design](https://careers.teradata.com/jobs/215561/ux-design-intern?sid=773&utm_source=linkedin&utm_medium=jobslots&utm_campaign=linkedin_jobslots&source=773)| California | Summer 2023 | 1/26
 | [Intuit - Product Design](https://jobs.intuit.com/job/-/-/27595/43560850368?utm_source=linkedin%20slots%20(intuit)&utm_campaign=&utm_medium=jobad&utm_content=pj_board&ss=paid&p_uid=NArixUB8PZ&p_sid=r4HvJHb&cid=pjob_li_click_us_other-fy23_cn_text_job_intuit-talent&iis=pjob&iisn=li)| Multiple locations | Summer 2023 | 1/25
