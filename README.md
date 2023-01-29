@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [ONE - Experience Designer (3 YoE)](https://jobs.ashbyhq.com/oneapp/b448502f-fffa-48f7-9f78-119737f84b09) | Remote | 1/29
 | [Digital Room - Jr UX Designer, Experience (0-2 YoE)](https://www.linkedin.com/jobs/view/3447531131) | Multiple locations | 1/23
 | [Booz Allen Hamilton - User Experience Designer](https://careers.boozallen.com/careers/JobDetail?jobId=71801&source=JB-16500) | Washington D.C. | 1/22
 | [Podium - Product Designer, Phones](https://boards.greenhouse.io/embed/job_app?token=4771784&gh_src=8b0de3d81&source=LinkedIn) | Remote | 1/20
