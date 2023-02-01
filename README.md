@@ -126,6 +126,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [E.L.F. Beauty - Digital Design, Well People + e.l.f. SKIN](https://www.linkedin.com/jobs/view/3447511746)| Remote | Summer 2023 | 2/1
 | [Guidewire Software - User Experience Design](https://jobs.lever.co/guidewire/3f3f97f6-674f-44ca-b4cc-b5f8d0c60499?lever-source=LinkedInJobs)| Remote | Summer 2023 | 1/30
 | [Splunk - User Research](https://www.splunk.com/en_us/careers/jobs/user-research-intern-summer-26455.html)| Remote | Summer 2023 | 1/28
 | [NASA JPL - Research & Design Operations](https://www.jpl.jobs/job/JJPLUSR3812EXTERNALENUS/Research-and-Design-Operations-Academic-Part-Time-Intern?utm_source=indeed&utm_medium=phenom-feeds)| Pasadena, CA | Spring 2023 | 1/27
