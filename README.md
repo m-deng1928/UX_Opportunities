@@ -126,6 +126,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Suzy - Product Design](https://careers-suzy.icims.com/jobs/1550/product-design-intern/job)| New York, NY | Summer 2023 | 2/2
 | [E.L.F. Beauty - Digital Design, Well People + e.l.f. SKIN](https://www.linkedin.com/jobs/view/3447511746)| Remote | Summer 2023 | 2/1
 | [Guidewire Software - User Experience Design](https://jobs.lever.co/guidewire/3f3f97f6-674f-44ca-b4cc-b5f8d0c60499?lever-source=LinkedInJobs)| Remote | Summer 2023 | 1/30
 | [Splunk - User Research](https://www.splunk.com/en_us/careers/jobs/user-research-intern-summer-26455.html)| Remote | Summer 2023 | 1/28
