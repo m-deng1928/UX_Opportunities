@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Jerry - Jr Product Designer (Mobile)](https://jobs.ashbyhq.com/Jerry/2cbcfd32-34f1-490b-9213-1fe9584f9a19/application?utm_source=nrdvbko4PA) | Multiple cities | 2/3
 | [Lowe's - Product Designer (3 YoE)](https://talent.lowes.com/us/en/job/2508979BR/Product-Designer?utm_source=617LinkedInPaidSlots) | Charlotte, NC | 1/31
 | [ONE - Experience Designer (3 YoE)](https://jobs.ashbyhq.com/oneapp/b448502f-fffa-48f7-9f78-119737f84b09) | Remote | 1/29
 | [Digital Room - Jr UX Designer, Experience (0-2 YoE)](https://www.linkedin.com/jobs/view/3447531131) | Multiple locations | 1/23
