@@ -129,6 +129,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [LegalZoom - Product Design](https://jobs.jobvite.com/legalzoom/job/ozX6lfwH)| Multiple locations | Summer 2023 | 2/9
 | [Dropbox - Content Design](https://jobs.dropbox.com/listing/4642262?gh_src=aonhf1)| Remote | Summer 2023 | 2/5
 | [Teladoc Health - Product Design](https://teladochealth.eightfold.ai/careers?pid=14861890)| Remote | Summer 2023 | 2/4
 | [Suzy - Product Design](https://careers-suzy.icims.com/jobs/1550/product-design-intern/job)| New York, NY | Summer 2023 | 2/2
