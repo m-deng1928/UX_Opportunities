@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Tesla - UX Designer, Material Flow](https://www.tesla.com/careers/search/job/ux-designer-material-flow-155920?source=LinkedIn) | Palo Alto, CA | 2/12
 | [Epic - Visual Designer](https://epic.avature.net/Careers/RegisterMethod?folderId=15352) | Pittsburgh, PA | 2/12
 | [VMLY&R - Associate Experience Strategist (1-3 YoE)](https://jobs.jobvite.com/vmlyr/job/o0igmfwE?__jvst=Job%20Board&__jvsd=LinkedIn) | Multiple locations | 2/11
 | [Fifth Third Bank - UX Researcher (1-3 YoE)](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/UX-Researcher_R37765?source=LinkedIn) | Multiple locations | 2/8
