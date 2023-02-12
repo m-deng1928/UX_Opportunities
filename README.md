@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Epic - Visual Designer](https://epic.avature.net/Careers/RegisterMethod?folderId=15352) | Pittsburgh, PA | 2/12
 | [VMLY&R - Associate Experience Strategist (1-3 YoE)](https://jobs.jobvite.com/vmlyr/job/o0igmfwE?__jvst=Job%20Board&__jvsd=LinkedIn) | Multiple locations | 2/11
 | [Fifth Third Bank - UX Researcher (1-3 YoE)](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/UX-Researcher_R37765?source=LinkedIn) | Multiple locations | 2/8
 | [Touro University - Jr UX/UI Designer](https://tcnycareers-touro.icims.com/jobs/9343/jr.-ux-ui-designer/job?mobile=false&width=1072&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | New York, NY | 2/6
