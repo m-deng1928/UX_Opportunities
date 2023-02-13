@@ -133,6 +133,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Conde Nast - UX Content Design - Vogue](https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/UX-Content-Design-Intern--Vogue_R-12333-1?source=LinkedIn)| New York, NY | Summer 2023 | 2/13
 | [Biogen - UI-UX Designer](https://www.linkedin.com/jobs/view/3477405406)| Cambridge, MA | Summer 2023 | 2/11
 | [LegalZoom - Product Design](https://jobs.jobvite.com/legalzoom/job/ozX6lfwH)| Multiple locations | Summer 2023 | 2/9
 | [Dropbox - Content Design](https://jobs.dropbox.com/listing/4642262?gh_src=aonhf1)| Remote | Summer 2023 | 2/5
