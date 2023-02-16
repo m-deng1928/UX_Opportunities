@@ -133,6 +133,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Chime - Product Design, Core](https://careers.chime.com/job/6459261002?gh_jid=6459261002&gh_src=35f490fd2)| San Francisco, CA | Summer 2023 | 2/16
+| [Chime - Product Design, Expansion](https://careers.chime.com/job/6453051002?gh_jid=6453051002&gh_src=35f490fd2)| San Francisco, CA | Summer 2023 | 2/16
+| [Strava - Product Design](https://boards.greenhouse.io/strava/jobs/4873234)| Remote | Summer 2023 | 2/16
+| [Disney - Product Design](https://jobs.disneycareers.com/job/-/-/391/44632307872)| Lake Buena Vista, FL | Summer 2023 | 2/16
 | [Trimble - UX/UI](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UX-UI-Intern_R40096)| Multiple locations | Summer 2023 | 2/15
 | [Amtrak - UX Research (BS)](https://careers.amtrak.com/job/Summer-2023-UX-Research-Intern-90353315-NA/992512000/?utm_source=linkedin)| Remote | Summer 2023 | 2/14
 | [Conde Nast - UX Content Design - Vogue](https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/UX-Content-Design-Intern--Vogue_R-12333-1?source=LinkedIn)| New York, NY | Summer 2023 | 2/13
