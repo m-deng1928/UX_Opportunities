@@ -144,7 +144,6 @@ Intern
 | [Amtrak - UX Research (BS)](https://careers.amtrak.com/job/Summer-2023-UX-Research-Intern-90353315-NA/992512000/?utm_source=linkedin)| Remote | Summer 2023 | 2/14
 | [Conde Nast - UX Content Design - Vogue](https://condenast.wd5.myworkdayjobs.com/CondeCareers/job/1-World-Trade-Center-New-York-NY/UX-Content-Design-Intern--Vogue_R-12333-1?source=LinkedIn)| New York, NY | Summer 2023 | 2/13
 | [Biogen - UI-UX Designer](https://www.linkedin.com/jobs/view/3477405406)| Cambridge, MA | Summer 2023 | 2/11
-| [LegalZoom - Product Design](https://jobs.jobvite.com/legalzoom/job/ozX6lfwH)| Multiple locations | Summer 2023 | 2/9
 | [Dropbox - Content Design](https://jobs.dropbox.com/listing/4642262?gh_src=aonhf1)| Remote | Summer 2023 | 2/5
 | [Teladoc Health - Product Design](https://teladochealth.eightfold.ai/careers?pid=14861890)| Remote | Summer 2023 | 2/4
 | [Suzy - Product Design](https://careers-suzy.icims.com/jobs/1550/product-design-intern/job)| New York, NY | Summer 2023 | 2/2
@@ -153,16 +152,12 @@ Intern
 | [Splunk - User Research](https://www.splunk.com/en_us/careers/jobs/user-research-intern-summer-26455.html)| Remote | Summer 2023 | 1/28
 | [NASA JPL - Research & Design Operations](https://www.jpl.jobs/job/JJPLUSR3812EXTERNALENUS/Research-and-Design-Operations-Academic-Part-Time-Intern?utm_source=indeed&utm_medium=phenom-feeds)| Pasadena, CA | Spring 2023 | 1/27
 | [Volkswagen - PI&P UX Design Intern](https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=ECC000203&lang=en&source=LinkedIn)| Belmont, CA | Spring 2023 | 1/27
-| [Teradata - Product Design](https://careers.teradata.com/jobs/215561/ux-design-intern?sid=773&utm_source=linkedin&utm_medium=jobslots&utm_campaign=linkedin_jobslots&source=773)| California | Summer 2023 | 1/26
 | [Intuit - Product Design](https://jobs.intuit.com/job/-/-/27595/43560850368?utm_source=linkedin%20slots%20(intuit)&utm_campaign=&utm_medium=jobad&utm_content=pj_board&ss=paid&p_uid=NArixUB8PZ&p_sid=r4HvJHb&cid=pjob_li_click_us_other-fy23_cn_text_job_intuit-talent&iis=pjob&iisn=li)| Multiple locations | Summer 2023 | 1/25
 | [Warner Bros Discovery - UX/UI Design](https://careers.wbd.com/global/en/job/WAMEGLOBALR000063121EXTERNALENGLOBAL/UX-UI-Design-Internships-Summer-2023-Hybrid?utm_source=linkedin&utm_medium=phenom-feeds)| New York, NY | Summer 2023 | 1/24
 | [ASCO - UX Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
 | [ASCO - Usability Reseaarch (BS)](https://asco.wd5.myworkdayjobs.com/en-US/ASCO/job/Alexandria-VA/UX-Research-Intern_R687?source=Linkedin&fbclid=IwAR3ZdQta1PkruAMin28MT88qmdbe7not-hLO969tRmOVKWTnTcNHrkDxpVU)| Alexandria, VA | Summer 2023 | 1/21
 | [Intouch - UX](https://jobs.lever.co/intouchgroup/f8df9daf-5be2-4929-b13c-2173989c39f2)| Remote | Summer 2023 | 1/19
 | [Genentech - User Experience & Interface](https://careers.gene.com/us/en/job/GENEUS202211139684EXTERNALENUS/Summer-Intern-User-Experience-and-Interface?utm_source=linkedin&utm_medium=phenom-feeds)| Santa Clara, CA | Summer 2023 | 1/18
-| [Blink UX - Visual Design](https://jobs.lever.co/blinkux/08cb2e9a-c2c9-4ce8-bcc5-45092753c657)| Multiple locations | Summer 2023 | 1/17
-| [Blink UX - UX Research](https://jobs.lever.co/blinkux/0e36a0cf-92dd-4910-b6fc-439841b75cf9)| Multiple locations | Summer 2023 | 1/17
-| [Blink UX - Product Design](https://jobs.lever.co/blinkux/2dea1fdc-84df-48ac-92c7-fb597b6f776e)| Multiple locations | Summer 2023 | 1/17
 | [Cvent - Product Design](https://careers.cvent.com/jobs/3442/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Tysons Corner, VA | Summer 2023 | 1/16
 | [Slalom - Experience Design](https://jobs.slalom.com//#/post/a0h1R00000DE1BZQA1)| Boston, MA | Summer 2023 | 1/15
 | [Zillow - UX Design](https://zillowgroup.eightfold.ai/careers/job/240533184630?domain=zillowgroup.com&rx_campaign=indeed0&rx_ch=jobp4p&rx_group=140202&rx_job=P741578&rx_r=none&rx_source=Indeed&rx_ts=20230115T080036Z&rx_vp=cpc&rx_p=YKRQCKXISH&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7)| Remote | Summer 2023 | 1/15
