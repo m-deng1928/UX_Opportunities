@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Northwestern Mutual - User Experience Researcher (MS)(1-3 YoE) ](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-37522/) | Multiple locations | 2/19
 | [Northwestern Mutual - User Experience Researcher (MS)(1-3 YoE) ](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-37522/) | Multiple locations | 2/13
 | [Tesla - UX Designer, Material Flow](https://www.tesla.com/careers/search/job/ux-designer-material-flow-155920?source=LinkedIn) | Palo Alto, CA | 2/12
 | [Epic - Visual Designer](https://epic.avature.net/Careers/RegisterMethod?folderId=15352) | Pittsburgh, PA | 2/12
@@ -133,6 +134,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Nokia - UX Design Co-Op](https://nokia.taleo.net/careersection/10000/jobdetail.ftl?job=2200000LSJ&lang=en&src=SNS-102)| Austin, TX | Summer 2023 | 2/19
 | [Intuit - Instructional Designer](https://jobs.intuit.com/job/-/-/27595/44322419824?utm_source=indeed%20organic&utm_campaign=&utm_medium=jobad&utm_content=pj_board&ss=paid&p_uid=8gBORxGdZK&p_sid=BGr05Nb&cid=job_id_click_us_other-fy23_cn_text_job_intuit-talent&iis=job&iisn=idv)| Multiple locations | Summer 2023 | 2/19
 | [Uber - UberSTAR, UX Research Design](https://university-uber.icims.com/jobs/120532/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| San Francisco, CA | Summer 2023 | 2/18
 | [Uber - UberSTAR, Product Design](https://university-uber.icims.com/jobs/120533/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=120533&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20230217T004826Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| San Francisco, CA | Summer 2023 | 2/17
