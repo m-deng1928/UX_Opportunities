@@ -133,6 +133,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Intuit - Instructional Designer](https://jobs.intuit.com/job/-/-/27595/44322419824?utm_source=indeed%20organic&utm_campaign=&utm_medium=jobad&utm_content=pj_board&ss=paid&p_uid=8gBORxGdZK&p_sid=BGr05Nb&cid=job_id_click_us_other-fy23_cn_text_job_intuit-talent&iis=job&iisn=idv)| Multiple locations | Summer 2023 | 2/19
 | [Uber - UberSTAR, UX Research Design](https://university-uber.icims.com/jobs/120532/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| San Francisco, CA | Summer 2023 | 2/18
 | [Uber - UberSTAR, Product Design](https://university-uber.icims.com/jobs/120533/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=120533&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20230217T004826Z&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| San Francisco, CA | Summer 2023 | 2/17
 | [Chime - Product Design, Core](https://careers.chime.com/job/6459261002?gh_jid=6459261002&gh_src=35f490fd2)| San Francisco, CA | Summer 2023 | 2/16
