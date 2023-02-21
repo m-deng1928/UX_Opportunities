@@ -134,6 +134,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Netflix - Consumer Insights (CI) / User Experience (UX) Research](https://jobs.netflix.com/jobs/260321398)| Los Gatos, CA | Summer 2023 | 2/21
 | [Yahoo - Product Design](https://nokia.taleo.net/careersection/10000/jobdetail.ftl?job=2200000LSJ&lang=en&src=SNS-102)| Remote | Summer 2023 | 2/20
 | [Nokia - UX Design Co-Op](https://nokia.taleo.net/careersection/10000/jobdetail.ftl?job=2200000LSJ&lang=en&src=SNS-102)| Austin, TX | Summer 2023 | 2/19
 | [Intuit - Instructional Designer](https://jobs.intuit.com/job/-/-/27595/44322419824?utm_source=indeed%20organic&utm_campaign=&utm_medium=jobad&utm_content=pj_board&ss=paid&p_uid=8gBORxGdZK&p_sid=BGr05Nb&cid=job_id_click_us_other-fy23_cn_text_job_intuit-talent&iis=job&iisn=idv)| Multiple locations | Summer 2023 | 2/19
