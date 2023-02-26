@@ -135,6 +135,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Autodesk - Experience Designer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Intern--Experience-Designer_22WD64523-1?src=JB-10065)| Multiple locations | Summer 2023 | 2/26
 | [Oliver Wyman - Experience Strategy](https://careers.marshmclennan.com/global/en/job/R_224126/Summer-Intern-Experience-Strategy?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots)| New York, NY | Summer 2023 | 2/24
 | [Netflix - Consumer Insights (CI) / User Experience (UX) Research](https://jobs.netflix.com/jobs/260321398)| Los Gatos, CA | Summer 2023 | 2/21
 | [Yahoo - Product Design](https://nokia.taleo.net/careersection/10000/jobdetail.ftl?job=2200000LSJ&lang=en&src=SNS-102)| Remote | Summer 2023 | 2/20
