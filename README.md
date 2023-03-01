@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Tiktok - UX Researcher (3 YoE)](https://careers.tiktok.com/position/7106270242859043102/detail?spread=5MWH5CQ) | Los Angeles, CA | 3/1
 | [Fifth Third Bank - Associate Designer](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Associate-Designer_R34652?source=LinkedIn) | Cincinnati, OH | 2/22
 | [Northwestern Mutual - User Experience Researcher (MS)(1-3 YoE) ](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-37522/) | Multiple locations | 2/19
 | [Northwestern Mutual - User Experience Researcher (MS)(1-3 YoE) ](https://careers.northwesternmutual.com/corporate-careers/job/user-experience-researcher-new-york-ny-corporate-jr-37522/) | Multiple locations | 2/13
