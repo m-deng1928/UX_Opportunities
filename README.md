@@ -137,6 +137,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Bleacher Report - Product Design](https://careers.wbd.com/global/en/job/WAMEGLOBALR000062906EXTERNALENGLOBAL/Bleacher-Report-Product-Design-Internships-Atlanta-LA-Summer-2023?utm_source=linkedin&utm_medium=phenom-feeds)| Multiple locations | Summer 2023 | 3/3
 | [Ripple - Product Design, Design Systems](https://ripple.com/careers/all-jobs/job/4888240)| San Francisco, CA | Summer 2023 | 2/26
 | [CNN - Product Design, Storytelling](https://careers.wbd.com/global/en/job/R000065796/CNN-Storytelling-Product-Design-Internship-LA-Summer-2023)| Multiple locations | Summer 2023 | 2/26
 | [Wayfair - Product Design](https://www.wayfair.com/careers/job/product-design-intern---summer-----/6622476002?rx_campaign=indeed0&rx_ch=jobp4p&rx_group=115239&rx_job=6622476002&rx_r=none&rx_source=Indeed&rx_ts=20230226T080113Z&rx_vp=cpc&rx_p=QGF3Y3I2XQ&rx_viewer=2108a4be0dbc11eca5c6990e603b9393ebce9034ba224bfc9599373f60f957b7)| Boston, MA | Summer 2023 | 2/26
