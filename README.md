@@ -137,6 +137,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [The Trevor Project - UX (User Experience) Research](https://jobs.lever.co/thetrevorproject/27dd1502-7a78-4945-ae9b-3c1b9f18468c)| Remote | Summer 2023 | 3/4
 | [Bleacher Report - Product Design](https://careers.wbd.com/global/en/job/WAMEGLOBALR000062906EXTERNALENGLOBAL/Bleacher-Report-Product-Design-Internships-Atlanta-LA-Summer-2023?utm_source=linkedin&utm_medium=phenom-feeds)| Multiple locations | Summer 2023 | 3/3
 | [Ripple - Product Design, Design Systems](https://ripple.com/careers/all-jobs/job/4888240)| San Francisco, CA | Summer 2023 | 2/26
 | [CNN - Product Design, Storytelling](https://careers.wbd.com/global/en/job/R000065796/CNN-Storytelling-Product-Design-Internship-LA-Summer-2023)| Multiple locations | Summer 2023 | 2/26
