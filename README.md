@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [lululemon - UX Designer (iOS)](https://careers.lululemon.com/en_US/careers/JobDetail/Seattle-Washington-United-States-UX-Designer-iOS/25429?source=LinkedIn) | Seattle, WA | 3/7
 | [Workday - UX Researcher (MS)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/UX-Researcher_JR-76334?source=website_linkedin) | Seattle, WA | 3/2
 | [Tiktok - UX Researcher (3 YoE)](https://careers.tiktok.com/position/7106270242859043102/detail?spread=5MWH5CQ) | Los Angeles, CA | 3/1
 | [Fifth Third Bank - Associate Designer](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Associate-Designer_R34652?source=LinkedIn) | Cincinnati, OH | 2/22
