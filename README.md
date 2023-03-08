@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [ADP - User Experience REsearcher](https://click.appcast.io/track/g85hh3w-org?cs=4c&jg=5lkx&bid=lUf2CslKyPxm6i440ZgUYA==) | New York, NY | 3/8
 | [lululemon - UX Designer (iOS)](https://careers.lululemon.com/en_US/careers/JobDetail/Seattle-Washington-United-States-UX-Designer-iOS/25429?source=LinkedIn) | Seattle, WA | 3/7
 | [Workday - UX Researcher (MS)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/UX-Researcher_JR-76334?source=website_linkedin) | Seattle, WA | 3/2
 | [Tiktok - UX Researcher (3 YoE)](https://careers.tiktok.com/position/7106270242859043102/detail?spread=5MWH5CQ) | Los Angeles, CA | 3/1
