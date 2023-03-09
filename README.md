@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [IXL Learning - Associate Digital Designer)](https://www.ixl.com/company/careers?gh_jid=6654693002&gh_src=e358d0722&gh_src=9ab9c2a12) | San Mateo, CA | 3/8
 | [NBCUniversal - UX Researcher (MS(3-4 YoE))](https://jobs.smartrecruiters.com/NBCUniversal3/743999891605135-ux-researcher) | New York, NY | 3/8
 | [Snap - Product Designer (3 YoE)](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/Product-Designer_R0029655-1) | Los Angeles, CA | 3/8
 | [ADP - User Experience REsearcher](https://click.appcast.io/track/g85hh3w-org?cs=4c&jg=5lkx&bid=lUf2CslKyPxm6i440ZgUYA==) | New York, NY | 3/8
