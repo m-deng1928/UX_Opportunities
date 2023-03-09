@@ -143,6 +143,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Razorfish - User Experience Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999891648702-intern-user-experience-design)| Miami, FL | Summer 2023 | 3/9
 | [Avant - Product Designer (UX)](https://avant.wd1.myworkdayjobs.com/External_Careers/job/Chicago-HQ/Product-Designer-Intern--UX-_JR100272?source=Linkedin)| Chicago, IL | Summer 2023 | 3/5
 | [The Trevor Project - UX (User Experience) Research](https://jobs.lever.co/thetrevorproject/27dd1502-7a78-4945-ae9b-3c1b9f18468c)| Remote | Summer 2023 | 3/4
 | [Bleacher Report - Product Design](https://careers.wbd.com/global/en/job/WAMEGLOBALR000062906EXTERNALENGLOBAL/Bleacher-Report-Product-Design-Internships-Atlanta-LA-Summer-2023?utm_source=linkedin&utm_medium=phenom-feeds)| Multiple locations | Summer 2023 | 3/3
