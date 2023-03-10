@@ -143,6 +143,9 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Reddit - Product Design](https://app.ripplematch.com/v2/public/apply?publicId=f30810f7)| San Francisco, CA | Summer 2023 | 3/9
+| [Lyft - Product Design](https://app.careerpuck.com/job-board/lyft/job/6584563002)| Remote| Summer 2023 | 3/9
+| [Lyft - UX Researcher](https://app.careerpuck.com/job-board/lyft/job/6651488002?gh_jid=6651488002&gh_src=acb90c942us)| Remote | Summer 2023 | 3/9
 | [IBM - User Experience (UX) Researcher](https://careers.ibm.com/job/17940588/2023-internship-user-experience-ux-researcher-san-jose-ca/?codes=SN_LinkedIn)| San Jose, CA | Summer 2023 | 3/9
 | [Razorfish - User Experience Design](https://jobs.smartrecruiters.com/PublicisGroupe/743999891648702-intern-user-experience-design)| Miami, FL | Summer 2023 | 3/9
 | [Avant - Product Designer (UX)](https://avant.wd1.myworkdayjobs.com/External_Careers/job/Chicago-HQ/Product-Designer-Intern--UX-_JR100272?source=Linkedin)| Chicago, IL | Summer 2023 | 3/5
