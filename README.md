@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Slalom - Experience Design Associate Consultant)](https://jobs.slalom.com/?nostate=1&tSource=a121R00000NSLLRQA5#/post/a0h1R00000DDuAW) | Chicago, IL | 3/11
 | [Millenium Trust Company - Product Designer)](https://mtrustcompany.hrmdirect.com/employment/job-opening.php?req=2373992&) | Oakbrook, IL | 3/10
 | [Touro University - Jr UX/UI Designer)](https://tcnycareers-touro.icims.com/jobs/9343/jr.-ux-ui-designer/job?mobile=false&width=773&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | New York, NY | 3/9
 | [IXL Learning - Associate Digital Designer)](https://www.ixl.com/company/careers?gh_jid=6654693002&gh_src=e358d0722&gh_src=9ab9c2a12) | San Mateo, CA | 3/8
