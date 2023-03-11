@@ -144,6 +144,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Verily - User Experience Accessibility](https://verily.com/careers/job/?job_id=4914233&gh_jid=4914233&gh_src=44d0c4ce1us)| San Francisco, CA | Summer 2023 | 3/11
 | [Reddit - Product Design](https://app.ripplematch.com/v2/public/apply?publicId=f30810f7)| San Francisco, CA | Summer 2023 | 3/9
 | [Lyft - Product Design](https://app.careerpuck.com/job-board/lyft/job/6584563002)| Remote| Summer 2023 | 3/9
 | [Lyft - UX Researcher](https://app.careerpuck.com/job-board/lyft/job/6651488002?gh_jid=6651488002&gh_src=acb90c942us)| Remote | Summer 2023 | 3/9
