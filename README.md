@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Verily - UX Designer (3 YoE)](https://verily.com/careers/job/?job_id=4935559)| San Francisco, CA | 3/18
 | [Augmedix - Junior UX Designer (2 YoE)](https://jobs.lever.co/augmedix/8f42605a-b7b0-4635-8eeb-ac06841308a5) | San Francisco, CA | 3/16
 | [Kaiser Permanante - UX Research Designer (2 YoE)](https://www.kaiserpermanentejobs.org/job/burbank/ux-researcher-designer/641/45959128336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Burbank, CA | 3/15
 | [New York Times - UX/UI Designer, New Games (3 YoE)](https://boards.greenhouse.io/thenewyorktimes/jobs/4223259005) | Remote | 3/14
