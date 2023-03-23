@@ -150,6 +150,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Equiliem - UX Design](https://portal.equiliem.com/portal/?a=vejdnwjr36p6v7ne68sh98ue6ff9cr01dc8938pt87zmt8ftk7eqskzxqd17tk9y&jobid=19290349#/jobs/19290349?compid=0&SearchString=&StatesString=&id=19290349&source=linkedin.com)| Skaneateles, NY | Summer 2023 | 3/23
 | [Lippincott - Experience Strategy](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---499-Park/Summer-Intern--Experience-Strategy_R_224126-1?source=Linkedin)| New York, NY | Summer 2023 | 3/21
 | [CCC Intelligent Solutions - UI](https://cccis.recsolu.com/jobs/rt-ppoOETZwO0jESqFUOdA?job_board_id=tzRKUbgELPz4f2M3En3c1w)| Chicago, IL | Summer 2023 | 3/21
 | [Hearst - User Research](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_11/requisitions/preview/2019157)| New York, NY | Summer 2023 | 3/11
