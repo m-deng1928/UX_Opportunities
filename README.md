@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [McCann Worldgroup - UX Research Librarian](https://careers.mccannworldgroup.com/careersmw/JobDetail/UX-Research-Librarian/2249)| Salt Lake City, UT | 3/25
 | [Sullivan - Associate UI Designer](https://www.linkedin.com/jobs/view/3511238084)| New York, NY | 3/24
 | [Verily - UX Designer (3 YoE)](https://verily.com/careers/job/?job_id=4935559)| San Francisco, CA | 3/18
 | [Augmedix - Junior UX Designer (2 YoE)](https://jobs.lever.co/augmedix/8f42605a-b7b0-4635-8eeb-ac06841308a5) | San Francisco, CA | 3/16
