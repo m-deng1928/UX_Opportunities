@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [GovCIO - UX/UI Designer](https://recruiting.adp.com/srccar/public/RTI.home?r=5000941801106&c=1177615&d=GCIOExternalCareerSite&rb=LINKEDIN#/)| Fairfax, VA | 3/27
 | [Toast - Product Designer](https://boards.greenhouse.io/embed/job_app?token=4903220&gh_src=dbd19ebc1)| Remote | 3/26
 | [McCann Worldgroup - UX Research Librarian](https://careers.mccannworldgroup.com/careersmw/JobDetail/UX-Research-Librarian/2249)| Salt Lake City, UT | 3/25
 | [Sullivan - Associate UI Designer](https://www.linkedin.com/jobs/view/3511238084)| New York, NY | 3/24
