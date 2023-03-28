@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [LinkedIn - Associate User Researcher](https://jobs.smartrecruiters.com/LinkedIn3/743999895742754-associate-user-experience-researcher-july-2023?trid=463ac537-35c8-4256-8fe4-47ea285de0a6)| San Francisco, CA | 3/28
 | [LinkedIn - Associate Product Designer](https://jobs.smartrecruiters.com/LinkedIn3/743999895589323-associate-product-designer-linkedin-business-platform)| New York, NY | 3/28
 | [GovCIO - UX/UI Designer](https://recruiting.adp.com/srccar/public/RTI.home?r=5000941801106&c=1177615&d=GCIOExternalCareerSite&rb=LINKEDIN#/)| Fairfax, VA | 3/27
 | [Toast - Product Designer](https://boards.greenhouse.io/embed/job_app?token=4903220&gh_src=dbd19ebc1)| Remote | 3/26
