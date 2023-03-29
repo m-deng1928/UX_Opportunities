@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Carnegie Mellon University - Product Designer](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Product-Designer---School-of-Computer-Science---HCII_2019478-1)| Pittsburgh, PA | 3/29
 | [LinkedIn - Associate User Researcher](https://jobs.smartrecruiters.com/LinkedIn3/743999895742754-associate-user-experience-researcher-july-2023?trid=463ac537-35c8-4256-8fe4-47ea285de0a6)| San Francisco, CA | 3/28
 | [LinkedIn - Associate Product Designer](https://jobs.smartrecruiters.com/LinkedIn3/743999895589323-associate-product-designer-linkedin-business-platform)| New York, NY | 3/28
 | [GovCIO - UX/UI Designer](https://recruiting.adp.com/srccar/public/RTI.home?r=5000941801106&c=1177615&d=GCIOExternalCareerSite&rb=LINKEDIN#/)| Fairfax, VA | 3/27
