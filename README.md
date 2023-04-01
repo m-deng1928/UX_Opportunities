@@ -159,7 +159,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [WebMD - UX/UI Design](https://jobs.jobvite.com/webmd/job/oTQNmfwC)| Potland, OR | Summer 2023 | 3/31
+| [Portland Trail Blazers - Digital Design](https://careers-ripcity.icims.com/jobs/1488/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Potland, OR | Summer 2023 | 3/31
 | [Equiliem - UX Design](https://portal.equiliem.com/portal/?a=vejdnwjr36p6v7ne68sh98ue6ff9cr01dc8938pt87zmt8ftk7eqskzxqd17tk9y&jobid=19290349#/jobs/19290349?compid=0&SearchString=&StatesString=&id=19290349&source=linkedin.com)| Skaneateles, NY | Summer 2023 | 3/23
 | [Lippincott - Experience Strategy](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---499-Park/Summer-Intern--Experience-Strategy_R_224126-1?source=Linkedin)| New York, NY | Summer 2023 | 3/21
 | [CCC Intelligent Solutions - UI](https://cccis.recsolu.com/jobs/rt-ppoOETZwO0jESqFUOdA?job_board_id=tzRKUbgELPz4f2M3En3c1w)| Chicago, IL | Summer 2023 | 3/21
