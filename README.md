@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Northwestern Mutual - Product Designer](https://careers.northwesternmutual.com/corporate-careers/job/product-designer-new-york-ny-corporate-jr-37520/)| New York, NY | 4/2
 | [Pandora - Product Designer](https://careers.siriusxm.com/careers/jobs/1077?lang=en-us)| Multiple cities | 3/30
 | [UC Santa Cruz - User Experience Designer](https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=11&JobOpeningId=49788&PostingSeq=1&)| Remote | 3/30
 | [Carnegie Mellon University - Product Designer](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Product-Designer---School-of-Computer-Science---HCII_2019478-1)| Pittsburgh, PA | 3/29
