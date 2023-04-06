@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Art Institute of Chicago - Associate Designer](https://www.linkedin.com/jobs/view/3526088798)| Chicago, IL | 4/6
 | [Clerkie - Associate Product Designer](https://boards.greenhouse.io/clerkie/jobs/4013063007?gh_src=5427a5737us)| Remote | 4/3
 | [Garmin - Product Designer](https://careers.garmin.com/careers-home/jobs/9958?lang=en-us&iss=linkedin)| Olathe, KS | 4/2
 | [Northwestern Mutual - Product Designer](https://careers.northwesternmutual.com/corporate-careers/job/product-designer-new-york-ny-corporate-jr-37520/)| New York, NY | 4/2
