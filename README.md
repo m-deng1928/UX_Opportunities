@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| BBDO LA - Junior Designer](https://www.linkedin.com/jobs/view/3538018133)| Los Angeles, CA | 4/10
 | NBCUniversal - UX Researcher](https://jobs.smartrecruiters.com/NBCUniversal3/743999891605135-ux-researcher)| New York, NY | 4/8
 | [Art Institute of Chicago - Associate Designer](https://www.linkedin.com/jobs/view/3526088798)| Chicago, IL | 4/6
 | [Clerkie - Associate Product Designer](https://boards.greenhouse.io/clerkie/jobs/4013063007?gh_src=5427a5737us)| Remote | 4/3
