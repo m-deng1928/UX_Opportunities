@@ -165,6 +165,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Hinge - UX Research](https://jobs.lever.co/matchgroup/01af8318-b718-4892-a134-7014dac92287/apply)| Remote | Summer 2023 | 4/11
 | [UL Solutions - User Experience Design](https://usenglish-ul.icims.com/jobs/32129/intern---user-experience-designer--remote/job?hub=9)| Remote | Summer 2023 | 4/6
 | [Portland Trail Blazers - Digital Design](https://careers-ripcity.icims.com/jobs/1488/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)| Portland, OR | Summer 2023 | 3/31
 | [Equiliem - UX Design](https://portal.equiliem.com/portal/?a=vejdnwjr36p6v7ne68sh98ue6ff9cr01dc8938pt87zmt8ftk7eqskzxqd17tk9y&jobid=19290349#/jobs/19290349?compid=0&SearchString=&StatesString=&id=19290349&source=linkedin.com)| Skaneateles, NY | Summer 2023 | 3/23
