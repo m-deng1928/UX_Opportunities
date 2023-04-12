@@ -34,7 +34,8 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Zoom - Associate Product Designer](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/login?redirect=%2Fen-US%2FZoom%2Fjob%2FRemote--%28CA%29---Bay-Area%2FAssociate-Product-Designer_R11447-1%2Fapply%2FautofillWithResume%3Fsource%3Dlinkedin)| Remote | 4/10
+| [Figma -  Product Designer](https://boards.greenhouse.io/figma/jobs/4602963004?gh_src=28109e334us)| Multiple cities | 4/12
+| [Zoom - Associate Product Designer](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/login?redirect=%2Fen-US%2FZoom%2Fjob%2FRemote--%28CA%29---Bay-Area%2FAssociate-Product-Designer_R11447-1%2Fapply%2FautofillWithResume%3Fsource%3Dlinkedin)| Remote | 4/12
 | [BBDO LA - Junior Designer](https://www.linkedin.com/jobs/view/3538018133)| Los Angeles, CA | 4/10
 | [NBCUniversal - UX Researcher](https://jobs.smartrecruiters.com/NBCUniversal3/743999891605135-ux-researcher)| New York, NY | 4/8
 | [Art Institute of Chicago - Associate Designer](https://www.linkedin.com/jobs/view/3526088798)| Chicago, IL | 4/6
