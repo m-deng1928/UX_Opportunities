@@ -168,6 +168,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [VMLY&R - Design](https://jobs.jobvite.com/careers/vmlyrcommerce/job/oYNYmfwP?__jvst=Job%20Board&__jvsd=Indeed)| Chicago, IL | Summer 2023 | 4/19
 | [Jane - Product Design](https://jobs.lever.co/jane/1218c92f-9329-4b80-9fe8-8b1f08e15e0d)| Remote | Summer 2023 | 4/13
 | [Hinge - UX Research](https://jobs.lever.co/matchgroup/01af8318-b718-4892-a134-7014dac92287/apply)| Remote | Summer 2023 | 4/11
 | [UL Solutions - User Experience Design](https://usenglish-ul.icims.com/jobs/32129/intern---user-experience-designer--remote/job?hub=9)| Remote | Summer 2023 | 4/6
