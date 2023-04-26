@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [New York Presbyterian - Experience Design Associate (2-3 YoE)](https://careers.nyp.org/job/-/-/19715/47700266896?utm_source=linkedin.com&utm_campaign=nyp&utm_medium=social_media&utm_content=job_posting&ss=paid&source=TMP_linkedin_job_posting&dclid=CITzgb66yP4CFUOhnwod7q0JfQ)| New York, NY | 4/26
 | [Blizzard - User Research Moderator (BS)](https://careers.activisionblizzard.com/job/ACCOUSR020396EXTERNAL/User-Research-Moderator?utm_source=linkedin&utm_medium=phenom-feeds)| Santa Monica, CA | 4/26
 | [MURAL - UX Participant Recruiter (2 YoE)](https://www.indeed.com/job/ux-participant-recruiter-78ff4a8599806dc0)| Remote | 4/25
 | [Google -  Quantitative User Experience Researcher, Early in Career](https://careers.google.com/jobs/results/89661727521546950-quantitative-user-experience-researcher/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin)| Mountain View, CA | 4/18
