@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Blizzard - User Research Moderator (BS)](https://careers.activisionblizzard.com/job/ACCOUSR020396EXTERNAL/User-Research-Moderator?utm_source=linkedin&utm_medium=phenom-feeds)| Santa Monica, CA | 4/26
 | [MURAL - UX Participant Recruiter (2 YoE)](https://www.indeed.com/job/ux-participant-recruiter-78ff4a8599806dc0)| Remote | 4/25
 | [Google -  Quantitative User Experience Researcher, Early in Career](https://careers.google.com/jobs/results/89661727521546950-quantitative-user-experience-researcher/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin)| Mountain View, CA | 4/18
 | [Figma -  Product Designer](https://boards.greenhouse.io/figma/jobs/4602963004?gh_src=28109e334us)| Multiple cities | 4/12
