@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Paylocity - UX Researcher (2-3 YoE)](https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/18363)| Remote | 5/2
 | [AECOM - Graduate Product Designer](https://aecom.jobs/new-york-ny/graduate-product-designer/4C253E4346774C6D813F36281F11337A/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com)| Remote | 5/2
 | [New York Presbyterian - Experience Design Associate (2-3 YoE)](https://careers.nyp.org/job/-/-/19715/47700266896?utm_source=linkedin.com&utm_campaign=nyp&utm_medium=social_media&utm_content=job_posting&ss=paid&source=TMP_linkedin_job_posting&dclid=CITzgb66yP4CFUOhnwod7q0JfQ)| New York, NY | 4/26
 | [Blizzard - User Research Moderator (BS)](https://careers.activisionblizzard.com/job/ACCOUSR020396EXTERNAL/User-Research-Moderator?utm_source=linkedin&utm_medium=phenom-feeds)| Santa Monica, CA | 4/26
