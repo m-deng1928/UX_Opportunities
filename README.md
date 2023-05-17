@@ -91,6 +91,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Cushman Wakefield - Jr UI/UX Specialist](https://careers.cushmanwakefield.com/global/en/job/CUWAGLOBALR191141ENGLOBALEXTERNAL/Jr-UI%7CUX-Specialist-Intern?utm_source=linkedin&utm_medium=phenom-feeds)| New York, NY | Summer 2023 | 5/17
 | [VMLY&R - Design](https://jobs.jobvite.com/careers/vmlyrcommerce/job/oYNYmfwP?__jvst=Job%20Board&__jvsd=Indeed)| Chicago, IL | Summer 2023 | 4/19
 | [Jane - Product Design](https://jobs.lever.co/jane/1218c92f-9329-4b80-9fe8-8b1f08e15e0d)| Remote | Summer 2023 | 4/13
 | [Hinge - UX Research](https://jobs.lever.co/matchgroup/01af8318-b718-4892-a134-7014dac92287/apply)| Remote | Summer 2023 | 4/11
