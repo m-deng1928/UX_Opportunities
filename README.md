@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Whoop - UX Designer](https://jobs.lever.co/whoop/1bfd04c8-1275-4684-8743-4b6df6163291)| Boston, MA | 6/6
 | [Applause - UX Research Program Coordinator (1 YOE)](https://recruit.hirebridge.com/v3/CareerCenter/v2/details.aspx?cid=7866&jid=590619)| Remote | 5/24
 | [US Bank - UX Researcher (3-5 YOE)](https://careers.usbank.com/global/en/job/UBNAGLOBAL20230013679EXTERNALENGLOBAL/UX-Researcher?utm_source=linkedin&utm_medium=phenom-feeds)| Multiple cities | 5/21
 | [Clarivate - User Experience Researcher (2 YOE)](https://careers.clarivate.com/search/jobdetails/user-experience-researcher/a9ebca9d-8d1c-4bc8-b33d-0c7072ab2d77?utm_campaign)| Ann Arbor, MI | 5/18
