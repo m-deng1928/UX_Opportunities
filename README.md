@@ -123,6 +123,7 @@ UIUX_REQ-3033?source=Linkedin)| Chicago, IL | Summer 2023 | 11/21
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
+| [Viget - Apprenticeships](https://www.linkedin.com/jobs/view/3298970475) | Summer 2023 | 6/5
 | [LinkedIn - Engineer - User Interface](https://www.linkedin.com/jobs/view/3298970475) | Summer 2023 | 10/11
 | [RingCentral - Product Design Fellowship](https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/details/Product-Designer-Fellow_R065782) | Summer 2022 | 9/7
 | [Upperstudy - Product Design Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSd3U6nZu0ru_juQ6XySoavn3d5qVgO5WkwSMGuYsBKxwevt0A/viewform) | Summer 2022 | 1/24
