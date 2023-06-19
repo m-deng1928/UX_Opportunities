@@ -100,6 +100,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Volkswagen - UX Design](https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=ICC000179&lang=en&source=LinkedIn)| Belmont, CA | Summer 2023 | 6/19
 | [Bubble - User Research (2 YoE)](https://boards.greenhouse.io/bubble/jobs/6781925002)| Remote | Summer 2023 | 5/27
 | [Cushman Wakefield - Jr UI/UX Specialist](https://careers.cushmanwakefield.com/global/en/job/CUWAGLOBALR191141ENGLOBALEXTERNAL/Jr-UI%7CUX-Specialist-Intern?utm_source=linkedin&utm_medium=phenom-feeds)| New York, NY | Summer 2023 | 5/17
 | [VMLY&R - Design](https://jobs.jobvite.com/careers/vmlyrcommerce/job/oYNYmfwP?__jvst=Job%20Board&__jvsd=Indeed)| Chicago, IL | Summer 2023 | 4/19
