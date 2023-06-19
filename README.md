@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Blizzard - Associate User Researcher](https://careers.blizzard.com/global/en/job/BLENGLOBALR020862EXTERNALENGLOBAL/Associate-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds)| Irvine, CA | 6/19
 | [Ford - IT Product Designer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13245/?utm_medium=career+site&utm_source=job+alert)| Dearborn, MI | 6/11
 | [Oscar Health - Design Researcher (2 YoE)](https://www.linkedin.com/jobs/view/3630776832)| New York, NY | 6/11
 | [Paypal - UX Researcher](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Austin-Texas-United-States-of-America/UX-Researcher_R0103376-1?Codes=W-LINKEDIN)| Multiple locations | 6/11
