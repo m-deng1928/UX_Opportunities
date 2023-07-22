@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Cengage - Associate User Experience Researcher](https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/Associate-User-Experience-Researcher_R2023-468)| Remote | 7/22
 | [Hertz - User Experience Researcher (4 YoE)](https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13449/?utm_medium=jobshare)| Remote | 7/4
 | [Garmin - Product Designer - Aviation](https://careers.garmin.com/jobs/10477?lang=en-us&iss=linkedin)| Olathe, KS | 6/25
 | [Blizzard - Associate User Researcher](https://careers.blizzard.com/global/en/job/BLENGLOBALR020862EXTERNALENGLOBAL/Associate-User-Researcher?utm_source=linkedin&utm_medium=phenom-feeds)| Irvine, CA | 6/19
