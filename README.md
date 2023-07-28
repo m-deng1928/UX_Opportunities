@@ -34,7 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [ConsumerAffairs - Experience Designer](https://www.linkedin.com/jobs/view/3632334322)| Austin, TX | 7/28
+| [ConsumerAffairs - Experience Designer](https://www.linkedin.com/jobs/view/3632334322)| Austin, TX (Remote) | 7/28
 | [New Relic - Product Designer](https://newrelic.careers/en_US/careers/JobDetail/Product-Designer-Contract-Part-Time/3736?s=LinkedIn&nl=0)| Remote | 7/28
 | [Forbes - Product Designer](https://boards.greenhouse.io/forbes/jobs/4883224004?source=LinkedIn)| Remote | 7/28
 | [Cengage - Associate User Experience Researcher](https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/Associate-User-Experience-Researcher_R2023-468)| Remote | 7/22
