@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [New Relic - Product Designer](https://newrelic.careers/en_US/careers/JobDetail/Product-Designer-Contract-Part-Time/3736?s=LinkedIn&nl=0)| Remote | 7/28
 | [Forbes - Product Designer](https://boards.greenhouse.io/forbes/jobs/4883224004?source=LinkedIn)| Remote | 7/28
 | [Cengage - Associate User Experience Researcher](https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/Associate-User-Experience-Researcher_R2023-468)| Remote | 7/22
 | [Hertz - User Experience Researcher (4 YoE)](https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13449/?utm_medium=jobshare)| Remote | 7/4
