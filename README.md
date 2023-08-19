@@ -1,6 +1,6 @@
 # UX_Opportunities
 
-Here's a UX Job Board I curate, started in August 2021. Opportunities are meant for more early in career whether co-ops/internships in addition to new grad opportunities. 
+Here's a UX Job Board I curate, started in August 2021. Opportunities are meant for more early in career whether co-ops/internships in addition to new grad opportunities. (I will update based on my bandwidth, unfortunately. Sorry about that.)
 
 All the best in your search :D / Don't Forget To Be Awesome 
 
@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [RBI - Associate Product Designer](https://careers.rbi.com/global/en/job/6896306002?gh_jid=6896306002)| Miami, FL | 8/19
 | [ConsumerAffairs - Experience Designer](https://www.linkedin.com/jobs/view/3632334322)| Austin, TX (Remote) | 7/28
 | [New Relic - Product Designer](https://newrelic.careers/en_US/careers/JobDetail/Product-Designer-Contract-Part-Time/3736?s=LinkedIn&nl=0)| Remote | 7/28
 | [Forbes - Product Designer](https://boards.greenhouse.io/forbes/jobs/4883224004?source=LinkedIn)| Remote | 7/28
