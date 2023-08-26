@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Mastercard - Associate Specialist, Product Expeience Design](https://careers.mastercard.com/us/en/job/MASRUSR198448EXTERNALENUS/Associate-Specialist-Product-Experience-Design?utm_medium=phenom-feeds&source=LINKEDIN&utm_source=linkedin)| Salt Lake City, UT | 8/25
 | [Bayer - Human Factors Engineer](https://jobs.bayer.com/job/Indianola-Human-Factors-Engineer-Penn/966638401/?utm_source=LINKEDIN&utm_medium=referrer)| Indianola, PA | 8/19
 | [RBI - Associate Product Designer](https://careers.rbi.com/global/en/job/6896306002?gh_jid=6896306002)| Miami, FL | 8/19
 | [ConsumerAffairs - Experience Designer](https://www.linkedin.com/jobs/view/3632334322)| Austin, TX (Remote) | 7/28
