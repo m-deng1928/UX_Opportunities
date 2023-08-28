@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Gensler - Experience Designer](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Experience-Designer_R-11612?source=Social+Media+%E2%80%93+LinkedIn)| New York, NY| 8/28
 | [Acryl Data - Product Designer](https://boards.greenhouse.io/acryldata/jobs/4018902007?source=LinkedIn)| Remote| 8/27
 | [Mastercard - Associate Specialist, Product Expeience Design](https://careers.mastercard.com/us/en/job/MASRUSR198448EXTERNALENUS/Associate-Specialist-Product-Experience-Design?utm_medium=phenom-feeds&source=LINKEDIN&utm_source=linkedin)| Salt Lake City, UT | 8/25
 | [Bayer - Human Factors Engineer](https://jobs.bayer.com/job/Indianola-Human-Factors-Engineer-Penn/966638401/?utm_source=LINKEDIN&utm_medium=referrer)| Indianola, PA | 8/19
