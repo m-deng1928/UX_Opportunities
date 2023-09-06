@@ -113,30 +113,10 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [DSG - Product Design](https://dsg.contacthr.com/128017665)| Coraopolis,PA | Summer 2023 | 9/6
-| [WTW - UX Design](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202306319?utm_medium=jobshare)| Multiple cities | Summer 2023 | 9/6
-| [Volkswagen - UX Design](https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=ICC000179&lang=en&source=LinkedIn)| Belmont, CA | Summer 2023 | 6/19
-| [Bubble - User Research (2 YoE)](https://boards.greenhouse.io/bubble/jobs/6781925002)| Remote | Summer 2023 | 5/27
-| [Cushman Wakefield - Jr UI/UX Specialist](https://careers.cushmanwakefield.com/global/en/job/CUWAGLOBALR191141ENGLOBALEXTERNAL/Jr-UI%7CUX-Specialist-Intern?utm_source=linkedin&utm_medium=phenom-feeds)| New York, NY | Summer 2023 | 5/17
-| [VMLY&R - Design](https://jobs.jobvite.com/careers/vmlyrcommerce/job/oYNYmfwP?__jvst=Job%20Board&__jvsd=Indeed)| Chicago, IL | Summer 2023 | 4/19
-| [Jane - Product Design](https://jobs.lever.co/jane/1218c92f-9329-4b80-9fe8-8b1f08e15e0d)| Remote | Summer 2023 | 4/13
-| [Hinge - UX Research](https://jobs.lever.co/matchgroup/01af8318-b718-4892-a134-7014dac92287/apply)| Remote | Summer 2023 | 4/11
-| [Equiliem - UX Design](https://portal.equiliem.com/portal/?a=vejdnwjr36p6v7ne68sh98ue6ff9cr01dc8938pt87zmt8ftk7eqskzxqd17tk9y&jobid=19290349#/jobs/19290349?compid=0&SearchString=&StatesString=&id=19290349&source=linkedin.com)| Skaneateles, NY | Summer 2023 | 3/23
-| [Lippincott - Experience Strategy](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---499-Park/Summer-Intern--Experience-Strategy_R_224126-1?source=Linkedin)| New York, NY | Summer 2023 | 3/21
-| [Oliver Wyman - Experience Strategy](https://careers.marshmclennan.com/global/en/job/R_224126/Summer-Intern-Experience-Strategy?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots)| New York, NY | Summer 2023 | 2/24
-| [Strava - Product Design](https://boards.greenhouse.io/strava/jobs/4873234)| Remote | Summer 2023 | 2/16
-| [Amtrak - UX Research (BS)](https://careers.amtrak.com/job/Summer-2023-UX-Research-Intern-90353315-NA/992512000/?utm_source=linkedin)| Remote | Summer 2023 | 2/14
-| [Slalom - Experience Design](https://jobs.slalom.com//#/post/a0h1R00000DE1BZQA1)| Boston, MA | Summer 2023 | 1/15
-| [Sleeper - User Research](https://jobs.ashbyhq.com/sleeper/310d3940-d4c4-4747-a3b6-3a094b0744e5/application?utm_source=wMAA2KEr92)| Remote | Summer 2023 | 1/14
-| [Viget - UX Researcher (BS)](https://www.viget.com/internships/ux-researcher-intern/)| Falls Church, VA/Durham, NC/Chattanooga, TN/Boulder, CO | Summer 2023 | 12/29
-| [Google - User Experience Research (PhD)](https://www.google.com/about/careers/applications/apply?jobId=CiUAL2FckQJ_bJvhjz38JtLtnpHKemELFDvmqiEMVftmBdkXwmpxEjoA85OaoMPgNf0ET6kwTyCoOMFj6R-TvbWqZj2PNkYNU9lo-oauKietkYAXlGB61zuWsikHVua1gtCU_V2&jobTitle=User+Experience+Research+Intern&loc=US&_ga=2.19023420.560972652.1672287240-590975223.1672287240)| Multiple locations | Summer 2023 | 12/28
-| [UFCU - UX Designer](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=2d81a953-dcc2-4282-b2ca-ec139ed72401&utm_source=LINKEDIN)| Austin, TX | Summer 2023 | 12/22
-| [Amplitude - Product Design](https://app.ripplematch.com/job/amplitude/260fe959/?tl=9dc9e25c&from_page=tracking_link)| San Francisco, CA | Summer 2023 | 11/29
-UIUX_REQ-3033?source=Linkedin)| Chicago, IL | Summer 2023 | 11/21
-| [iHeartMedia - UX/UI Design](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/login?redirect=%2FExternal_iHM%2Fjob%2FVirtual-TX%2FUX-UI-Intern_Req30204%2Fapply)| New York, NY | Summer 2023 | 11/20
-| [Stellantis - Product Design](https://recruiting.adp.com/srccar/public/RTI.home?r=10000773585000&c=2183219&d=ExternalCareerSite&rb=???#/)| Auburn Hills, MI | Summer 2023 | 11/19
-| [Atmosfy - Product Design](https://forms.monday.com/forms/33ffaabe0b02128d671ad3b870bbe328?r=use1)| Remote | Summer 2023 | 11/17
-| [CNH Industrial - Human Factors & Ergonomics](https://careers-cnhind.icims.com/jobs/22352/human-factors-%26-ergonomics-co-op/job?mobile=false&width=1355&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Burr Ridge, IL | Summer 2023 | 10/10
+| [ServiceNow - Product Design](https://careers.servicenow.com/early-career/jobs/743999927689563EXT?lang=en-us)| San Diego, CA | Summer 2024 | 9/6
+| [ServiceNow - UX Research](https://careers.servicenow.com/careers/jobs/743999927689893EXT?lang=en-us)| San Diego, CA | Summer 2024 | 9/6
+| [DSG - Product Design](https://dsg.contacthr.com/128017665)| Coraopolis,PA | Summer 2024 | 9/6
+| [WTW - UX Design](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202306319?utm_medium=jobshare)| Multiple cities | Summer 2024 | 9/6
 
 ---
 
