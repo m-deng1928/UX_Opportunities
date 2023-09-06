@@ -113,6 +113,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [DSG - Product Design](https://dsg.contacthr.com/128017665)| Coraopolis,PA | Summer 2023 | 9/6
 | [WTW - UX Design](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202306319?utm_medium=jobshare)| Multiple cities | Summer 2023 | 9/6
 | [Volkswagen - UX Design](https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=ICC000179&lang=en&source=LinkedIn)| Belmont, CA | Summer 2023 | 6/19
 | [Bubble - User Research (2 YoE)](https://boards.greenhouse.io/bubble/jobs/6781925002)| Remote | Summer 2023 | 5/27
