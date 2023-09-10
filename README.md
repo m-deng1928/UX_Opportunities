@@ -113,6 +113,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Kaiser Permanente - UX Designer/Research](https://www.kaiserpermanentejobs.org/job/seattle/ux-designer-researcher-student-intern/641/54033263152?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=national&utm_content=social_media&utm_term=323590635&ss=paid)| Remote | Winter 2024 | 9/10
 | [ServiceNow - Product Design](https://careers.servicenow.com/early-career/jobs/743999927689563EXT?lang=en-us)| San Diego, CA | Summer 2024 | 9/6
 | [ServiceNow - UX Research](https://careers.servicenow.com/careers/jobs/743999927689893EXT?lang=en-us)| San Diego, CA | Summer 2024 | 9/6
 | [DSG - Product Design](https://dsg.contacthr.com/128017665)| Coraopolis,PA | Summer 2024 | 9/6
