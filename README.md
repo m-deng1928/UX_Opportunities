@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [EA - Associate Experience Designer (2 YoE)](https://ea.gr8people.com/jobs/180406/associate-experience-designer-college?sid=4)| Austin, TX | 9/21
 | [Adobe - Experience Research Analyst](https://careers.adobe.com/us/en/job/ADOBUSR139470EXTERNALENUS/2024-University-Graduate-Experience-Research-Analyst?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin)| Multiple locations | 9/21
 | [CapTech - Associate UX Consultant](https://jobs.smartrecruiters.com/CapTechConsulting/743999929139598-associate-ux-consultant-graduating-dec-2023-may-2024-)| Richmond, VA | 9/15
 | [Tank Design - Junior UI Product Designer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5fa5b35c-9d8e-4dfa-85ec-9d9f33daef63&ccId=19000101_000001&lang=en_US&jobId=474651)| Somerville, MA | 9/15
