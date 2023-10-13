@@ -48,6 +48,7 @@ New Grad
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
+| [Kroger - Technology & Digital](https://kroger.eightfold.ai/careers/job/17703235)| Blue Ash, OH | Summer 2024 | 10/13
 | [Nike - Digital Product Design](https://jobs.nike.com/job/R-10913)| Beaverton, OR | Summer 2024 | 9/15
 | [Figma - Product Design](https://boards.greenhouse.io/figma/jobs/4945802004)| New York, NY/San Francisco, CA | Summer 2024 | 9/15
 | [Kaiser Permanente - UX Designer/Research](https://www.kaiserpermanentejobs.org/job/seattle/ux-designer-researcher-student-intern/641/54033263152)| Remote | Winter 2024 | 9/10
