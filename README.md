@@ -34,6 +34,7 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
+| [Scale AI - Product Designer, New Grad](https://boards.greenhouse.io/scaleai/jobs/4328097005?gh_src=acad35425us)| San Francisco, CA | 10/12
 | [Realtor.com - Product Designer (3 YoE)](https://www.glassdoor.com/job-listing/product-designer-realtor-com-careers-JV_IC1139761_KO0,16_KE17,36.htm?jl=1008887777862&utm_source=jobalert&utm_medium=email&utm_content=ja-jobpos14-1008887777862&utm_campaign=jobAlertAlert&pos=114&ao=1136043&s=224&guid=0000018ad63eeba689dd1b9b4ec0b939&src=GD_JOB_AD&t=JA&vt=e&uido=E6CBBCD055BBECB20646112D7E520A33&ea=1&cs=1_7d296f05&cb=1695812015794&jobListingId=1008887777862&jrtk=5-yul1-0-1hbb4blg8je2g800-741620f4ad2d31e9&tgt=GD_JOB_VIEW&ja=235985212&ctt=1695814478928&srs=EMAIL_JOB_ALERT&gdir=1)| Austin, TX | 9/27
 | [EA - Associate Experience Designer (2 YoE)](https://ea.gr8people.com/jobs/180406/associate-experience-designer-college?sid=4)| Austin, TX | 9/21
 | [Adobe - Experience Research Analyst](https://careers.adobe.com/us/en/job/ADOBUSR139470EXTERNALENUS/2024-University-Graduate-Experience-Research-Analyst?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin)| Multiple locations | 9/21
