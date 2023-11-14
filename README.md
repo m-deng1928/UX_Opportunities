@@ -1,10 +1,11 @@
 # UX_Opportunities
 
-Here's a UX Job Board I curate, started in August 2021. Opportunities are meant for more early in career whether co-ops/internships in addition to new grad opportunities. (I will update based on my bandwidth, unfortunately. Sorry about that.)
+Here's a UX Job Board I curate, started in August 2021. I'm no longer in UX but I hope the resources below are able to help you.
 
 All the best in your search :D / Don't Forget To Be Awesome 
 
 ---
+✨ Here are companies that hire [Junior Talent](https://docs.google.com/spreadsheets/d/1MTml8uJhbcLNoAu5GDeoG1S2iADOzKb699KIG6TuC6I/edit#gid=1489153115✨
 
 🔥 Here are resources for [User Experience & General Recruiting](https://www.notion.so/mikedeng/UX-Resources-5f374d563e6a41e98559974486065122).🔥
 
@@ -34,40 +35,15 @@ If you want equivalent ones for Product and CS (SWE/etc...), here are some repos
 New Grad
 | Company  | Location | Date Added 
 | ------------- | ------------- | -------------
-| [Scale AI - Product Designer, New Grad](https://boards.greenhouse.io/scaleai/jobs/4328097005?gh_src=acad35425us)| San Francisco, CA | 10/12
-| [Realtor.com - Product Designer (3 YoE)](https://www.glassdoor.com/job-listing/product-designer-realtor-com-careers-JV_IC1139761_KO0,16_KE17,36.htm?jl=1008887777862&utm_source=jobalert&utm_medium=email&utm_content=ja-jobpos14-1008887777862&utm_campaign=jobAlertAlert&pos=114&ao=1136043&s=224&guid=0000018ad63eeba689dd1b9b4ec0b939&src=GD_JOB_AD&t=JA&vt=e&uido=E6CBBCD055BBECB20646112D7E520A33&ea=1&cs=1_7d296f05&cb=1695812015794&jobListingId=1008887777862&jrtk=5-yul1-0-1hbb4blg8je2g800-741620f4ad2d31e9&tgt=GD_JOB_VIEW&ja=235985212&ctt=1695814478928&srs=EMAIL_JOB_ALERT&gdir=1)| Austin, TX | 9/27
-| [EA - Associate Experience Designer (2 YoE)](https://ea.gr8people.com/jobs/180406/associate-experience-designer-college?sid=4)| Austin, TX | 9/21
-| [Adobe - Experience Research Analyst](https://careers.adobe.com/us/en/job/ADOBUSR139470EXTERNALENUS/2024-University-Graduate-Experience-Research-Analyst?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin)| Multiple locations | 9/21
-| [CapTech - Associate UX Consultant](https://jobs.smartrecruiters.com/CapTechConsulting/743999929139598-associate-ux-consultant-graduating-dec-2023-may-2024-)| Richmond, VA | 9/15
-| [Tank Design - Junior UI Product Designer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5fa5b35c-9d8e-4dfa-85ec-9d9f33daef63&ccId=19000101_000001&lang=en_US&jobId=474651)| Somerville, MA | 9/15
-| [Arup - Graduate Experience Designer](https://jobs.arup.com/jobs/graduate-experience-designer-available-2024-19244)| New York, NY| 9/6
-| [Gensler - Experience Designer](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Experience-Designer_R-11612?source=Social+Media+%E2%80%93+LinkedIn)| New York, NY| 8/28
 
 ---
 
 Intern
 | Company  | Location | Details | Date Added
 | ------------- | ------------- | ------------- | -------------
-| [Kroger - Technology & Digital](https://kroger.eightfold.ai/careers/job/17703235)| Blue Ash, OH | Summer 2024 | 10/13
-| [Nike - Digital Product Design](https://jobs.nike.com/job/R-10913)| Beaverton, OR | Summer 2024 | 9/15
-| [Figma - Product Design](https://boards.greenhouse.io/figma/jobs/4945802004)| New York, NY/San Francisco, CA | Summer 2024 | 9/15
-| [Kaiser Permanente - UX Designer/Research](https://www.kaiserpermanentejobs.org/job/seattle/ux-designer-researcher-student-intern/641/54033263152)| Remote | Winter 2024 | 9/10
-| [ServiceNow - Product Design](https://careers.servicenow.com/early-career/jobs/743999927689563EXT?lang=en-us)| San Diego, CA | Summer 2024 | 9/6
-| [ServiceNow - UX Research](https://careers.servicenow.com/careers/jobs/743999927689893EXT?lang=en-us)| San Diego, CA | Summer 2024 | 9/6
-| [DSG - Product Design](https://dsg.contacthr.com/128017665)| Coraopolis,PA | Summer 2024 | 9/6
-| [WTW - UX Design](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202306319?utm_medium=jobshare)| Multiple cities | Summer 2024 | 9/6
 
 ---
 
 Misc (Fellowships/Apprenticeships/Etc...)
 | Company  | Location | Date Added
 | ------------- | ------------- | ------------- 
-| [Viget - Apprenticeships](https://www.linkedin.com/jobs/view/3298970475) | Summer 2023 | 6/5
-| [LinkedIn - Engineer - User Interface](https://www.linkedin.com/jobs/view/3298970475) | Summer 2023 | 10/11
-| [RingCentral - Product Design Fellowship](https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/details/Product-Designer-Fellow_R065782) | Summer 2022 | 9/7
-| [Upperstudy - Product Design Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSd3U6nZu0ru_juQ6XySoavn3d5qVgO5WkwSMGuYsBKxwevt0A/viewform) | Summer 2022 | 1/24
-| [Coding it Forward - Product Design/Management Fellowship](https://www.codingitforward.com/summer-fellowships?utm_source=rsvp) | Summer 2022 | 1/5
-| [Wayfair - Global Experience Design Apprenticeship](https://apprenticareers.org/) | Summer 2022 | 10/21
-| [Kleiner Perkins - Design Fellow (Intern)](https://boards.greenhouse.io/2022fellows/jobs/5577846002) | Summer 2022 | 10/18
-| [Kleiner Perkins - Design Fellow (New Grad)](https://boards.greenhouse.io/2022fellows/jobs/5596540002) | Summer 2022 | 10/18
-| [Microsoft - LEAP](https://www.microsoft.com/en-us/leap/application-process/) | Winter 2022 | 9/9
